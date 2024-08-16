@@ -26,7 +26,7 @@ Producto: AgroSupport
 
 |          Integrantes          |      Código      |
 |:-----------------------------:|:-------------------:|
-|   Paredes Puente, Sebastián Roberto  |    U202217239    |
+|   Paredes Puente, Sebastian Roberto  |    U202217239    |
 |   Delgado Corrales, Piero Gonzalo   |    U202210749    |
 |  Matos Fernandez, Christian Andre   |    U202214162    |
 |  Salinas Torres, Salvador Antonio   |    U20221B127    |
@@ -52,7 +52,7 @@ Agosto 2024
       <td>29 de agosto</td>
       <td>
         <ul>
-          <li>Paredes Puente, Sebastián Roberto</li>
+          <li>Paredes Puente, Sebastian Roberto</li>
           <li>Delgado Corrales, Piero Gonzalo</li>
           <li>Matos Fernandez, Christian Andre</li>
           <li>Salinas Torres, Salvador Antonio</li>
@@ -211,7 +211,7 @@ Agosto 2024
 <table>
   <tr>
     <th>
-      <img src="img/sebastian_perfil.png" alt="Foto de perfil de Sebastian" width="800px">
+      <img src="img/perfil_sebastian.png" alt="Foto de perfil de Sebastian" width="800px">
     </th>
     <td valign="top">
       <p><b>Paredes Puente, Sebastian Roberto</b></p>
@@ -222,7 +222,7 @@ Agosto 2024
   </tr>
   <tr>
     <th>
-      <img src="img/piero_perfil.jpg" alt="Foto de perfil de Piero" width="800px">
+      <img src="img/perfil_piero.jpg" alt="Foto de perfil de Piero" width="800px">
     </th>
     <td valign="top">
       <p><b>Delgado Corrales, Piero Gonzalo</b></p>
@@ -233,7 +233,7 @@ Agosto 2024
   </tr>
     <tr>
     <th>
-      <img src="img/christian_perfil.png" alt="Foto de perfil de Christian" width="800px">
+      <img src="img/perfil_christian.png" alt="Foto de perfil de Christian" width="800px">
     </th>
     <td valign="top">
       <p><b>Matos Fernandez, Christian Andre</b></p>
@@ -244,7 +244,7 @@ Agosto 2024
   </tr>
   <tr>
     <th>
-      <img src="img/salvador_perfil.jpg" alt="Foto de perfil de Salvador" width="800px">
+      <img src="img/perfil_salvador.jpg" alt="Foto de perfil de Salvador" width="800px">
     </th>
     <td valign="top">
       <p><b>Salinas Torres, Salvador Antonio</b></p>
