@@ -191,6 +191,14 @@ Agosto 2024
 
 # Objetivos SMART
 
+Los objetivos SMART son una herramienta que permite establecer metas claras y alcanzables. SMART es un acrónimo que significa: Specific (Específico), Measurable (Medible), Achievable (Alcanzable), Relevant (Relevante) y Time-bound (Limitado en el tiempo).
+
+De esta forma, nosotros hemos definido los siguientes objetivos para nuestro producto AgroSupport:
+
+1. Alcanzar un índice de satisfacción del usuario del 85% en el primer año.
+2. Incrementar el número de usuarios activos en un 20% en el primer año.
+3. Reducir el tiempo de respuesta del soporte técnico en un 30% en el primer año.
+4. Aumentar la retención de usuarios en un 25% en el primer año.
 
 # Capítulo 1: Presentación
 
@@ -198,13 +206,13 @@ Agosto 2024
 
 ### 1.1.1. Descripción de la Startup
 
+Nuestra startup se llama AgroTech, y se especializa en abordar los desafíos de la gestión de granjas a través de nuestra aplicación integral AgroSupport. Nuestro enfoque principal es proporcionar asesoramiento especializado y herramientas tecnológicas para mejorar la gestión de granjas de manera inteligente y eficiente.
 
 **Misión:**
-
+Brindar a los granjeros acceso fácil y directo a asesoría especializada, promoviendo prácticas agrícolas sostenibles y modernas para mejorar la productividad, la rentabilidad y el bienestar de las comunidades agropecuarias
 
 **Visión:**
-
-
+Liderar la innovación tecnológica para el sector agropecuario, promoviendo el bienestar animal y la sostenibilidad a través de tecnología accesible.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -261,6 +269,26 @@ Agosto 2024
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
+
+**5 W's**
+
+**What:** Una parte del sector agropecuario suele enfrentar desafíos en la gestión eficiente de las granjas, la falta de acceso a tecnologías adecuadas y la necesidad de mejorar el bienestar animal y la sostenibilidad de las prácticas agrícolas.
+
+**Where:** Se tomará en cuenta todo el Perú, especialmente en las regiones donde se concentra la mayor parte del comercio y la actividad económica del país.
+
+**When:** Actualmente, el sector agropecuario se enfrenta a estos desafíos en la gestión de granjas. Con el crecimiento de la población en el país y la demanda de alimentos en aumento, se requiere una mayor eficiencia en la producción agrícola. Además, las preocupaciones ambientales y de bienestar animal están impulsando la necesidad de adoptar prácticas agrícolas más sostenibles y éticas.
+
+**Who:** Como principales usuarios contamos con los granjeros, quienes son los beneficiarios directos de estas soluciones, asegurando que se adapten a sus necesidades y realidades específicas. Por otro lado, contamos con asesores expertos en la gestión de granja, quienes aportan su conocimiento especializado para desarrollar soluciones tecnológicas específicas y efectivas.
+
+**Why:** Para abordar estos desafíos y mejorar la gestión y productividad en las granjas, es importante garantizar el bienestar animal y promover las prácticas sostenibles en la industria agropecuaria. Igualmente, se busca mejorar la rentabilidad de los agricultores y contribuir a la seguridad alimentaria peruana.
+
+-----
+
+**2 H's**
+
+**How:** A través de la aplicación móvil AgroSupport, que proporcionará asesoramiento especializado y herramientas tecnológicas para ayudar a los granjeros a gestionar de manera inteligente y eficiente las granjas.
+
+**How much:** Se espera que la aplicación tenga un impacto significativo en la mejora de la gestión de las granjas de cuyes, aumentando la productividad, mejorando el bienestar animal y promoviendo prácticas más sostenibles en la industria agropecuaria.
 
 
 ### 1.2.2 Lean UX Process.
@@ -326,3 +354,9 @@ Agosto 2024
 # Glosario
 
 # Bibliografía
+
+Ames, A. (2022) EVIDENCIA para una Nueva Gestión Pública. Escuela de Gestión Pública de la Universidad del Pacífico. https://www.up.edu.pe/egp/programas-especializacion_copy(1)/SiteAssets/Lists/Observatorio/AllItems/Informe%20de%20Evidencia%20sector%20Agropecuario%20-%20EGP.pdf
+
+Carhuavilca, D., Sánchez, A., Montoya, L., Cueto, M. & Baldeón, M. (2021) Informe Técnico - Producción Nacional. INEI. https://www.inei.gob.pe/media/MenuRecursivo/boletines/10-informe-tecnico-produccion-nacional-ago-2021.pdf
+
+Problemas Tipo de la Agricultura Peruana (s.f.) Ministerio de Desarrollo Agrario y Riego. https://www.midagri.gob.pe/portal/22-sector-agrario/vision-general/190-problemas-en-la-agricultura-peruana
