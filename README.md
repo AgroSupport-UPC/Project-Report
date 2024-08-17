@@ -5,7 +5,6 @@
 <div align="center">
 
 # <span>Universidad Peruana de Ciencias Aplicadas</span>
-## Carrera de Ingeniería de Software
 
 Carrera: Ingeniería de Software
 
@@ -282,20 +281,57 @@ Liderar la innovación tecnológica para el sector agropecuario, promoviendo el 
 
 **Why:** Para abordar estos desafíos y mejorar la gestión y productividad en las granjas, es importante garantizar el bienestar animal y promover las prácticas sostenibles en la industria agropecuaria. Igualmente, se busca mejorar la rentabilidad de los agricultores y contribuir a la seguridad alimentaria peruana.
 
------
-
 **2 H's**
 
 **How:** A través de la aplicación móvil AgroSupport, que proporcionará asesoramiento especializado y herramientas tecnológicas para ayudar a los granjeros a gestionar de manera inteligente y eficiente las granjas.
 
 **How much:** Se espera que la aplicación tenga un impacto significativo en la mejora de la gestión de las granjas de cuyes, aumentando la productividad, mejorando el bienestar animal y promoviendo prácticas más sostenibles en la industria agropecuaria.
 
+Según un informe realizado (Ames, 2022), se ha identificado que el sector agropecuario agrupa alrededor de un cuarto de los empleos del país, aproximadamente un 27.5% de la población. No obstante, se identificó que solo aporta un 5.2% al PBI. Esto indica que la productividad de la agricultura peruana es baja en comparación con otros países de la región, lo que se traduce en una menor rentabilidad para los agricultores y una mayor vulnerabilidad frente a los cambios climáticos y los mercados internacionales.
 
 ### 1.2.2 Lean UX Process.
 
 #### 1.2.2.1. Lean UX Problem Statements.
 
+**Problem Statement 1**
+|Nuestro producto tiene como objetivo mejorar la gestión de granjas en el Perú.|
+|:--|
+|Hemos observado que los granjeros en Perú enfrentan dificultades para gestionar eficientemente sus granjas, lo que afecta su productividad y rentabilidad.|
+|¿Podría nuestra aplicación AgroSupport ayudar a los granjeros a mejorar la gestión de sus granjas y aumentar su productividad?|
+
+**Problem Statement 2**
+|Nuestro producto tiene como objetivo aumentar la rentabilidad de los granjeros en Perú.|
+|:--|
+|Hemos observado que muchos granjeros en Perú enfrentan desafíos para lograr una rentabilidad adecuada debido a la falta de eficiencia en la gestión de sus granjas.|
+|¿Podría AgroSupport ayudar a los granjeros en Perú a mejorar su rentabilidad mediante una gestión más eficiente de sus granjas?|
+
+**Problem Statement 3**
+|Nuestro producto tiene como objetivo facilitar el acceso a mercados y mejorar la comercialización de los productos de cuy en Perú.|
+|:--|
+|Hemos observado que muchos granjeros en Perú enfrentan dificultades para acceder a mercados y comercializar sus productos de manera efectiva.|
+|¿Podría AgroSupport ayudar a los granjeros en Perú a acceder a mercados y mejorar la comercialización de sus productos?|
+
 #### 1.2.2.2. Lean UX Assumptions.
+
+**1. ¿Quién es el usuario?**
+
+El usuario principal de nuestro producto es el granjero. También pueden incluirse otros actores involucrados en la cadena de producción y comercialización de productos, como los trabajadores de las granjas, los compradores de cuyes y los consumidores finales.
+
+**2. ¿Dónde encaja nuestro producto en su trabajo o vida?**
+
+Nuestro producto encaja en la vida del granjero al proporcionarle herramientas tecnológicas y asesoramiento especializado para mejorar la gestión de sus granjas. AgroSupport se integra en su trabajo diario al ofrecer soluciones para la gestión eficiente del granjero, la mejora del bienestar animal, la adopción de prácticas sostenibles y la comercialización de sus productos.
+
+**3. ¿Qué problemas tiene nuestro producto? ¿Resolver?**
+
+
+**4. ¿Cuándo y cómo es nuestro producto? ¿Usado?**
+
+
+**5. ¿Qué características son importantes?**
+
+
+**6. ¿Cómo debe verse nuestro producto y cómo comportarse?**
+
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
