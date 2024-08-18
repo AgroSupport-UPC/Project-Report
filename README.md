@@ -306,7 +306,7 @@ Según un informe realizado (Ames, 2022), se ha identificado que el sector agrop
 |¿Podría AgroSupport ayudar a los granjeros en Perú a mejorar su rentabilidad mediante una gestión más eficiente de sus granjas?|
 
 **Problem Statement 3**
-|Nuestro producto tiene como objetivo facilitar el acceso a mercados y mejorar la comercialización de los productos de cuy en Perú.|
+|Nuestro producto tiene como objetivo facilitar el acceso a mercados y mejorar la comercialización de los productos en Perú.|
 |:--|
 |Hemos observado que muchos granjeros en Perú enfrentan dificultades para acceder a mercados y comercializar sus productos de manera efectiva.|
 |¿Podría AgroSupport ayudar a los granjeros en Perú a acceder a mercados y mejorar la comercialización de sus productos?|
@@ -315,7 +315,7 @@ Según un informe realizado (Ames, 2022), se ha identificado que el sector agrop
 
 **1. ¿Quién es el usuario?**
 
-El usuario principal de nuestro producto es el granjero. También pueden incluirse otros actores involucrados en la cadena de producción y comercialización de productos, como los trabajadores de las granjas, los compradores de cuyes y los consumidores finales.
+El usuario principal es el granjero con poca experiencia, quien se beneficiará directamente de los asesores experimentados que utilizan la plataforma para guiar y apoyar a los granjeros en la gestión eficiente de sus granjas, promoviendo prácticas sostenibles y mejorando la productividad en el sector agropecuario
 
 **2. ¿Dónde encaja nuestro producto en su trabajo o vida?**
 
@@ -323,21 +323,69 @@ Nuestro producto encaja en la vida del granjero al proporcionarle herramientas t
 
 **3. ¿Qué problemas tiene nuestro producto? ¿Resolver?**
 
+El sector agropecuario enfrenta numerosos desafíos, como la falta de conocimientos técnicos y el acceso insuficiente a asesoramiento especializado. Estos obstáculos impactan negativamente a los granjeros, dificultando la implementación de prácticas esenciales como el manejo adecuado de suelos, la optimización del uso de agua y fertilizantes, y el control eficiente de plagas y enfermedades. La consecuencia es una menor productividad, mayores costos operativos, y un riesgo elevado para la sostenibilidad de las granjas. Esto no solo afecta la rentabilidad de los granjeros, sino que también contribuye a una baja en la productividad agrícola a nivel nacional, impactando negativamente el Producto Bruto Interno (PBI) del país y limitando su capacidad para competir en mercados internacionales.
 
 **4. ¿Cuándo y cómo es nuestro producto? ¿Usado?**
 
+La plataforma es una herramienta esencial para mejorar la eficiencia operativa, obtener asesoramiento especializado en tiempo real, y aplicar prácticas sostenibles que optimicen la productividad y rentabilidad de las granjas. AgroSupport se utilizaría por granjeros con poca experiencia en la gestión diaria de sus granjas. El producto estaría diseñado para ser accesible en dispositivos móviles y computadoras, permitiendo a los granjeros y asesores experimentados usarlo a cualquier hora. 
 
 **5. ¿Qué características son importantes?**
 
+Asesoramiento especializado: Ofrecer información y recomendaciones específicas para la gestión de granjas. 
+
+Herramientas de gestión: Facilitar la administración de inventarios, registros de salud y reproducción, y planificación de actividades.
+
+Conexión con mercados: Ayudar a los granjeros con poca experiencia a acceder a mercados y promocionar sus productos nutricionales de manera efectiva. 
 
 **6. ¿Cómo debe verse nuestro producto y cómo comportarse?**
 
+Nuestro producto debe tener una interfaz fácil de usar, con un diseño llamativo. Debe comportarse de manera rápida, brindando información y recomendaciones de manera clara y precisa. Debe ser seguro, garantizando la protección de los datos de los usuarios.
 
-#### 1.2.2.3. Lean UX Hypothesis Statements.
+Presentación de otros supuestos:
+
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+**Hypothesis Statement 1**
+
+| Creemos que al proporcionar a los granjeros con poca experiencia en Perú acceso a tecnologías avanzadas y asesoramiento especializado a través de AgroSupport, se mejorará la eficiencia y la rentabilidad de sus granjas. |
+| - |
+| Sabremos que esto es cierto… |
+| Cuando se observe un incremento del 20% en la cantidad de solicitudes de asesoría durante los primeros 6 meses tras el lanzamiento. |
+
+**Hypothesis Statement 2**
+
+| Creemos que al promover prácticas agrícolas sostenibles y éticas en la crianza de animales en Perú a través de AgroSupport, los granjeros adoptarán un enfoque más responsable con el medio ambiente. |
+| - |
+| Sabremos que esto es cierto… |
+| Cuando proporcionemos orientación y recursos específicos sobre prácticas sostenibles a través de AgroSupport y evaluemos la adopción de estas prácticas, viendo un aumento del 15% en el uso de prácticas sostenibles dentro de los primeros 6 meses de lanzamiento. |
+
+**Hypothesis Statement 3**
+
+| Creemos que al facilitar el acceso a mercados y mejorar la comercialización de los productos agricolas en Perú a través de AgroSupport, los granjeros aumentarán sus ventas y expandirán sus negocios. |
+| - |
+| Sabremos que esto es cierto… |
+| Cuando se establezcan conexiones efectivas con compradores y mercados a través de la plataforma, y se observe un aumento del 25% en las ventas de los granjeros en los primeros 6 meses de uso de la aplicación. |
+
+**Hypothesis Statement 4**
+
+| Creemos que al incentivar a los asesores con una nueva estructura de comisiones en AgroSupport, se incrementará el número de asesores activos y su satisfacción. |
+| - |
+| Sabremos que esto es cierto… |
+| Cuando se observe un aumento del 20% en el número de asesores activos en los primeros tres meses posteriores a la implementación de la nueva estructura de comisiones. Además, mediremos la retroalimentación de los asesores mediante encuestas regulares, y consideraremos que hemos tenido éxito si al menos el 70% de las respuestas son positivas en relación con la nueva estructura de comisiones. |
 
 #### 1.2.2.4. Lean UX Canvas.
 
+
 ## 1.3. Segmentos objetivo
+
+1.Granjeros con poca experiencia
+
+Los granjeros con poca experiencia en Perú enfrentan dificultades significativas para gestionar sus granjas de manera eficiente debido a la falta de conocimientos técnicos y recursos adecuados. Estos desafíos se traducen en una menor productividad y mayores costos operativos, afectando negativamente su rentabilidad y la sostenibilidad de sus prácticas agrícolas. AgroSupport está diseñado específicamente para abordar estas necesidades al proporcionarles herramientas tecnológicas avanzadas y asesoramiento especializado, facilitando la implementación de prácticas eficientes y sostenibles. Con el apoyo de la plataforma, estos granjeros pueden mejorar la gestión de sus granjas, optimizar el uso de recursos, y aumentar su rentabilidad, contribuyendo a una agricultura más productiva y sostenible en el país.
+
+2.Asesores experimentados
+
+Los asesores experimentados juegan un papel crucial en el sector agropecuario, ya que su conocimiento y experiencia ayudan a los granjeros a superar obstáculos técnicos y operativos. Estos profesionales proporcionan orientación valiosa sobre la gestión de granjas, la implementación de prácticas sostenibles y la optimización de procesos. AgroSupport les ofrece una plataforma para expandir su alcance y eficacia al conectar con granjeros que necesitan su expertise. Al proporcionarles herramientas para gestionar y coordinar sus asesorías, la aplicación permite a los asesores ofrecer un soporte más efectivo y adaptado a las necesidades de cada granjero. Esta colaboración no solo mejora la productividad y sostenibilidad de las granjas, sino que también fortalece el papel de los asesores como facilitadores clave en la evolución del sector agropecuario.
 
 
 # Capítulo 2: Needfinding
