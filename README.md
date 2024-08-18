@@ -6,21 +6,21 @@
 
 # <span>Universidad Peruana de Ciencias Aplicadas</span>
 
-Carrera: Ingeniería de Software
+**Carrera:** Ingeniería de Software
 
-Ciclo: 2024 - 2
+**Ciclo:** 2024 - 2
 
-Curso: Aplicaciones para Dispositivos Móviles
+**Curso:** Aplicaciones para Dispositivos Móviles
 
-Sección: SW63
+**Sección:** SW63
 
-Profesor: Jorge Luis Mayta Guillermo
+**Profesor:** Jorge Luis Mayta Guillermo
 
-“Informe de Trabajo Final"
+**“Informe de Trabajo Final"**
 
-Startup: AgroTech
+**Startup:** AgroTech
 
-Producto: AgroSupport
+**Producto:** AgroSupport
 
 
 |          Integrantes          |      Código      |
@@ -30,7 +30,7 @@ Producto: AgroSupport
 |  Matos Fernandez, Christian Andre   |    U202214162    |
 |  Salinas Torres, Salvador Antonio   |    U20221B127    |
 
-Agosto 2024
+**Agosto 2024**
 
 </div>
 
@@ -58,7 +58,7 @@ Agosto 2024
         </ul>
       </td>
       <td>
-        Se han incluído los siguientes capítulos:
+        Se ha incluido el avance de los siguientes capítulos:
         <ul>
           <li>Objetivos SMART</li>
           <li>Capítulo 1: Presentación</li>
@@ -105,9 +105,12 @@ Agosto 2024
     - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
+    - [2.3.6. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
 
 [Capítulo 3: Arquitectura](#Capítulo-3-Arquitectura)
+  - [3.1. User Stories](#31-user-stories)
+  - [3.2. Impact Mapping](#32-impact-mapping)
+  - [3.3. Product Backlog](#33-product-backlog)
 
 [Capítulo 4: Backend Product Implementation & Validation](#Capítulo-4-Backend-Product-Implementation--Validation)
 
@@ -194,10 +197,11 @@ Los objetivos SMART son una herramienta que permite establecer metas claras y al
 
 De esta forma, nosotros hemos definido los siguientes objetivos para nuestro producto AgroSupport:
 
-1. Alcanzar un índice de satisfacción del usuario del 85% en el primer año.
-2. Incrementar el número de usuarios activos en un 20% en el primer año.
-3. Reducir el tiempo de respuesta del soporte técnico en un 30% en el primer año.
-4. Aumentar la retención de usuarios en un 25% en el primer año.
+1. Lanzar la primera versión de AgroSupport, brindando el máximo valor a los usuarios, en un plazo de 4 meses.
+2. Integrar 100 asesores expertos en asesoría agrícola en la plataforma en 6 meses.
+3. Alcanzar un índice de satisfacción del usuario del 85% en el primer año.
+4. Incrementar el número de usuarios activos en un 20% en el primer año.
+5. Reducir el tiempo de respuesta del soporte técnico en un 30% en el primer año.
 
 # Capítulo 1: Presentación
 
@@ -262,8 +266,6 @@ Liderar la innovación tecnológica para el sector agropecuario, promoviendo el 
   </tr>
 </table>
 
-
-<br>
 
 ## 1.2. Solution Profile
 
@@ -379,14 +381,13 @@ Presentación de otros supuestos:
 
 ## 1.3. Segmentos objetivo
 
-1.Granjeros con poca experiencia
+**1. Granjeros con poca experiencia**
 
 Los granjeros con poca experiencia en Perú enfrentan dificultades significativas para gestionar sus granjas de manera eficiente debido a la falta de conocimientos técnicos y recursos adecuados. Estos desafíos se traducen en una menor productividad y mayores costos operativos, afectando negativamente su rentabilidad y la sostenibilidad de sus prácticas agrícolas. AgroSupport está diseñado específicamente para abordar estas necesidades al proporcionarles herramientas tecnológicas avanzadas y asesoramiento especializado, facilitando la implementación de prácticas eficientes y sostenibles. Con el apoyo de la plataforma, estos granjeros pueden mejorar la gestión de sus granjas, optimizar el uso de recursos, y aumentar su rentabilidad, contribuyendo a una agricultura más productiva y sostenible en el país.
 
-2.Asesores experimentados
+**2. Asesores experimentados**
 
 Los asesores experimentados juegan un papel crucial en el sector agropecuario, ya que su conocimiento y experiencia ayudan a los granjeros a superar obstáculos técnicos y operativos. Estos profesionales proporcionan orientación valiosa sobre la gestión de granjas, la implementación de prácticas sostenibles y la optimización de procesos. AgroSupport les ofrece una plataforma para expandir su alcance y eficacia al conectar con granjeros que necesitan su expertise. Al proporcionarles herramientas para gestionar y coordinar sus asesorías, la aplicación permite a los asesores ofrecer un soporte más efectivo y adaptado a las necesidades de cada granjero. Esta colaboración no solo mejora la productividad y sostenibilidad de las granjas, sino que también fortalece el papel de los asesores como facilitadores clave en la evolución del sector agropecuario.
-
 
 # Capítulo 2: Needfinding
 
@@ -418,8 +419,17 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
 
 ### 2.3.5. As-is Scenario Mapping
 
+### 2.3.6. To-Be Scenario Mapping
+
 
 # Capítulo 3: Arquitectura
+
+## 3.1. User Stories
+
+## 3.2. Impact Mapping
+
+## 3.3. Product Backlog
+
 
 # Capítulo 4: Backend Product Implementation & Validation
 
