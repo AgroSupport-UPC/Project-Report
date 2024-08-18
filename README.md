@@ -105,12 +105,13 @@
     - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-    - [2.3.6. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+  - [2.4 Requirements Specification](#24-requirements-specification)
+    - [2.4.1. To-Be Scenario Mapping](#241-to-be-scenario-mapping)
+    - [2.4.2. User Stories](#242-user-stories)
+    - [2.4.3. Impact Mapping](#243-impact-mapping)
+    - [2.4.4. Product Backlog](#244-product-backlog)
 
 [Capítulo 3: Arquitectura](#Capítulo-3-Arquitectura)
-  - [3.1. User Stories](#31-user-stories)
-  - [3.2. Impact Mapping](#32-impact-mapping)
-  - [3.3. Product Backlog](#33-product-backlog)
 
 [Capítulo 4: Backend Product Implementation & Validation](#Capítulo-4-Backend-Product-Implementation--Validation)
 
@@ -429,17 +430,18 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
 
 ### 2.3.5. As-is Scenario Mapping
 
-### 2.3.6. To-Be Scenario Mapping
+## 2.4. Requirements Specification
+
+### 2.4.1. To-Be Scenario Mapping
+
+### 2.4.2. User Stories
+
+### 2.4.3. Impact Mapping
+
+### 2.4.4. Product Backlog
 
 
 # Capítulo 3: Arquitectura
-
-## 3.1. User Stories
-
-## 3.2. Impact Mapping
-
-## 3.3. Product Backlog
-
 
 # Capítulo 4: Backend Product Implementation & Validation
 
