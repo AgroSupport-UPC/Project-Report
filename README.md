@@ -345,6 +345,14 @@ Nuestro producto debe tener una interfaz fácil de usar, con un diseño llamativ
 
 Presentación de otros supuestos:
 
+|Creo que mis clientes necesitan un servicio que les brinde soluciones integrales para la gestión eficiente de la crianza de animales, abordando aspectos como la salud animal, la nutrición, la reproducción y la comercialización.|Haré dinero a través de la venta de suscripciones a nuestra plataforma AgroConnect, así como mediante la prestación de servicios de consultoría especializada y la venta de productos complementarios.|
+| - | - |
+|Estas necesidades se pueden resolver con tecnologías avanzadas de monitoreo y análisis de datos, junto con el acceso a un equipo de expertos en crianza de animales que proporcionen orientación y recomendaciones personalizadas.|Mi competencia principal en el mercado será BestFarm.|
+|Mis clientes iniciales son los criadores de animales en Perú que buscan mejorar la eficiencia y la rentabilidad de sus operaciones.|Los venceremos gracias a nuestra combinación única de tecnología avanzada, conocimientos especializados y enfoque centrado en las necesidades específicas de la crianza de animales.|
+|El valor número uno que un cliente quiere de mi servicio es mejorar la rentabilidad de su granja mientras garantiza el bienestar de los animales y adoptar prácticas sostenibles.|Mi mayor riesgo con respecto al producto es la resistencia al cambio por parte de algunos criadores, que pueden ser reacios a adoptar nuevas tecnologías o modificar sus métodos de crianza.|
+|El cliente también puede optar por no renovar su suscripción a nuestra plataforma si no percibe mejoras significativas en la gestión y rentabilidad de su granja.|Resolveremos esto a través de una estrategia integral de educación y soporte continuo para nuestros clientes, demostrando el valor tangible de nuestra plataforma a través de casos de éxito y resultados demostrables.|
+|Voy a adquirir a la mayoría de mis clientes a través de campañas de marketing dirigidas en línea, participación en eventos agrícolas locales y asociaciones con organizaciones de productores de animales.|Nuestro enfoque principal es proporcionar asesoramiento especializado y herramientas tecnológicas para mejorar la gestión de la crianza de animales de forma inteligente y eficiente.|
+
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
@@ -377,6 +385,8 @@ Presentación de otros supuestos:
 | Cuando se observe un aumento del 20% en el número de asesores activos en los primeros tres meses posteriores a la implementación de la nueva estructura de comisiones. Además, mediremos la retroalimentación de los asesores mediante encuestas regulares, y consideraremos que hemos tenido éxito si al menos el 70% de las respuestas son positivas en relación con la nueva estructura de comisiones. |
 
 #### 1.2.2.4. Lean UX Canvas.
+
+<img src="/img/lean_ux_canva.png" alt="Lean UX Canvas" width="100%" />
 
 
 ## 1.3. Segmentos objetivo
