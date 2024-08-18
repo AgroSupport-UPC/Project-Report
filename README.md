@@ -285,7 +285,7 @@ Liderar la innovación tecnológica para el sector agropecuario, promoviendo el 
 
 **How:** A través de la aplicación móvil AgroSupport, que proporcionará asesoramiento especializado y herramientas tecnológicas para ayudar a los granjeros a gestionar de manera inteligente y eficiente las granjas.
 
-**How much:** Se espera que la aplicación tenga un impacto significativo en la mejora de la gestión de las granjas de cuyes, aumentando la productividad, mejorando el bienestar animal y promoviendo prácticas más sostenibles en la industria agropecuaria.
+**How much:** Se espera que la aplicación tenga un impacto significativo en la mejora de la gestión de las granjas, aumentando la productividad, mejorando el bienestar animal y promoviendo prácticas más sostenibles en la industria agropecuaria.
 
 Según un informe realizado (Ames, 2022), se ha identificado que el sector agropecuario agrupa alrededor de un cuarto de los empleos del país, aproximadamente un 27.5% de la población. No obstante, se identificó que solo aporta un 5.2% al PBI. Esto indica que la productividad de la agricultura peruana es baja en comparación con otros países de la región, lo que se traduce en una menor rentabilidad para los agricultores y una mayor vulnerabilidad frente a los cambios climáticos y los mercados internacionales.
 
