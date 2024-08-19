@@ -429,19 +429,19 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
       <td colspan="2" valign="top">(En la cabecera colocar por cada competidor nombre y logo)</td>
       <td valign="top">
          <p>AgroSupport</p>
-         <p><img src="img/agrosupport-logo.png" alt="Logo de AgroSupport" width="150" height="100" /></p>
+         <p><img src="img/agrosupport-logo.png" alt="Logo de AgroSupport" width="150" height="150" /></p>
       </td>
       <td valign="top">
          <p>BestFarm</p>
-         <p><img src="img/logo_bestFarm.jpg" alt="Logo de BestFarm" width="150" height="100" /></p>
+         <p><img src="img/logo_bestFarm.jpg" alt="Logo de BestFarm" width="150" height="150" /></p>
       </td>
       <td valign="top">
          <p>AgriWebb</p>
-         <p><img src="img/logo_agriWebb.jpg" alt="Logo de AgriWebb" width="150" height="100" /></p>
+         <p><img src="img/logo_agriWebb.jpg" alt="Logo de AgriWebb" width="150" height="150" /></p>
       </td>
       <td valign="top">
          <p>Trimble Ag </p>
-         <p><img src="img/logo_trimbleAg.png" alt="Logo de Trimble Ag" width="150" height="100" /></p>
+         <p><img src="img/logo_trimbleAg.png" alt="Logo de Trimble Ag" width="150" height="150" /></p>
       </td>
    </tr>
    <tr>
