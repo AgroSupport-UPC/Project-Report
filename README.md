@@ -584,9 +584,72 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+
+**1. Estrategia: Fortalecimiento del Soporte al Cliente**
+
+   - **Táctica:** Implementaremos programas de capacitación integral para granjeros que cubran todos los aspectos de AgroSupport.
+   - **Explicación:** Esto asegurará que los usuarios comprendan completamente todas las características de la plataforma, mejorando la adopción y el uso efectivo de la tecnología.
+
+**2. Estrategia: Mejora Continua de la Plataforma**
+
+   - **Táctica:** Estableceremos un sistema de retroalimentación continua con los usuarios para identificar áreas de mejora y lanzaremos actualizaciones regulares basadas en esta retroalimentación.
+   - **Explicación:** Mantendremos la plataforma actualizada y alineada con las necesidades cambiantes de los usuarios, asegurando que AgroSupport siga siendo una herramienta útil y relevante.
+
+**3. Estrategia: Expansión de la Red de Colaboradores**
+
+   - **Táctica:** Formaremos alianzas con universidades y centros de investigación agrícola para desarrollar nuevos conocimientos y tecnologías.
+   - **Explicación:** Estas colaboraciones permitirán el acceso a investigaciones avanzadas y tecnologías emergentes, lo que puede enriquecer la oferta de AgroSupport y fomentar la innovación.
+
+**4. Estrategia: Promoción de la Sostenibilidad**
+
+   - **Táctica:** Incorporaremos herramientas y recursos que ayuden a los granjeros a adoptar prácticas agrícolas más sostenibles.
+   - **Explicación:** Fomentar prácticas sostenibles no solo beneficiará al medio ambiente, sino que también responderá a la creciente demanda de prácticas agrícolas responsables entre los consumidores y reguladores.
+
+**5. Estrategia: Optimización de la Experiencia del Usuario**
+
+   - **Táctica:** Rediseñaremos la interfaz de AgroSupport para que sea más intuitiva y accesible para usuarios con diversos niveles de experiencia.
+   - **Explicación:** Esto facilitará la adopción de la plataforma por granjeros que pueden no estar familiarizados con tecnologías avanzadas, mejorando la eficiencia y satisfacción del usuario.
+
+
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
+
+**Segmemto Objetivo: Granjeros con poca experiencia**
+
+**Objetivo:** Entender las necesidades, desafíos y expectativas de granjeros con poca experiencia para adaptar AgroSupport a sus requerimientos específicos.
+
+1. ¿Cuánto tiempo lleva gestionando su granja y qué tipo de formación ha recibido en manejo agrícola?
+2. ¿Qué habilidades y conocimientos considera que le faltan para gestionar su granja de manera más eficiente?
+3. ¿Qué herramientas y recursos considera esenciales para mejorar la gestión de su granja?
+4. ¿Cuáles son sus principales objetivos en términos de productividad y sostenibilidad para su granja?
+5. ¿Cuáles son los principales problemas que enfrenta actualmente en la gestión de su granja?
+6. ¿Qué obstáculos ha encontrado al intentar implementar prácticas agrícolas más sostenibles y modernas?
+7. ¿A través de qué canales digitales suele buscar información o interactuar con expertos agrícolas?
+8. ¿Qué herramientas tecnológicas cree que facilitarían el acceso y la implementación del asesoramiento en su granja?
+9. ¿Qué tipo de asesoramiento considera más valioso para su granja: técnico, financiero, de gestión, u otro?
+10. ¿Con qué frecuencia cree que necesitaría asesoramiento especializado para resolver problemas específicos en su granja?
+11. ¿Qué formato de asesoramiento prefiere (por ejemplo, consultas en línea, reuniones presenciales, guías escritas)?
+12. ¿Ha tenido experiencias previas con asesores agrícolas? Si es así, ¿cómo fueron y qué aspectos mejoraría en esas experiencias?
+13. ¿Qué aspectos del asesoramiento cree que son más difíciles de obtener actualmente?
+14. ¿Qué características le gustaría que tuviera un asesor para que el proceso de asesoramiento sea más efectivo y útil para usted?
+15. ¿Cómo prefiere recibir seguimiento después de una sesión de asesoramiento para asegurar que las recomendaciones se implementen eficazmente?
+
+**Segmemto Objetivo: Asesores experimentados**
+
+**Objetivo:** Comprender las necesidades y expectativas de los asesores para optimizar su uso de AgroSupport y mejorar su eficacia en la asesoría.
+
+1. ¿Cuánto tiempo lleva trabajando como asesor y en qué áreas específicas del manejo de granjas se especializa?
+2. ¿Cuál es su enfoque principal al ofrecer asesoría a los granjeros?
+3. ¿Qué herramientas o plataformas considera que le ayudarían a mejorar la eficacia de sus asesorías?
+4. ¿Cuáles son los mayores desafíos que enfrenta en la prestación de asesoría a los granjeros?
+5. ¿Qué dificultades ha encontrado al utilizar herramientas tecnológicas para su trabajo?
+6. ¿Qué dispositivos tecnológicos utiliza en su trabajo diario y qué aplicaciones o plataformas utiliza para la asesoría?
+7. ¿Cómo evalúa la efectividad de las herramientas tecnológicas actuales en su trabajo?
+8. ¿A través de qué canales digitales prefiere interactuar con granjeros y otros expertos?
+9. ¿Qué medios considera más efectivos para compartir información y recibir retroalimentación?
+10. ¿Qué funcionalidades le gustaría ver en una plataforma de asesoramiento para mejorar su capacidad de asesorar a los granjeros?
+
 
 ### 2.2.2. Registro de entrevistas
 
