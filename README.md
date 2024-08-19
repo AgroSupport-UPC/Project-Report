@@ -22,17 +22,32 @@
 
 **Producto:** AgroSupport
 
-
-|          Integrantes          |      Código      |
-|:-----------------------------:|:-------------------:|
-|   Paredes Puente, Sebastian Roberto  |    U202217239    |
-|   Delgado Corrales, Piero Gonzalo   |    U202210749    |
-|  Matos Fernandez, Christian Andre   |    U202214162    |
-|  Salinas Torres, Salvador Antonio   |    U20221B127    |
-
-**Agosto 2024**
-
 </div>
+
+<table align="center">
+  <tr>
+    <th>Integrantes</th>
+    <th>Código</th>
+  </tr>
+  <tr>
+    <td>Paredes Puente, Sebastián Roberto</td>
+    <td>U202217239</td>
+  </tr>
+  <tr>
+    <td>Delgado Corrales, Piero Gonzalo</td>
+    <td>U202210749</td>
+  </tr>
+  <tr>
+    <td>Matos Fernandez, Christian Andre</td>
+    <td>U202214162</td>
+  </tr>
+  <tr>
+    <td>Salinas Torres, Salvador Antonio</td>
+    <td>U20221B127</td>
+  </tr>
+</table>
+
+<p align="center"><b>Agosto 2024</b></p>
 
 # Registro de versiones
 
@@ -243,7 +258,8 @@ Liderar la innovación tecnológica para el sector agropecuario, promoviendo el 
     <td valign="top">
       <p><b>Delgado Corrales, Piero Gonzalo</b></p>
       <p>
-        Actualmente estoy en el sexto ciclo de Ingeniería de Software. Poseo destrezas en programación en C++, así como conocimientos en estructuras de datos y sus aplicaciones. Recientemente, he adquirido habilidades en diseño web utilizando HTML, CSS y herramientas como Figma. Soy una persona responsable y me esfuerzo por mantener una organización óptima para gestionar eficazmente las entregas de trabajos.
+        Actualmente estoy en el sexto ciclo de Ingeniería de Software. Tengo conocimientos en diseño web utilizando HTML, CSS. Además, de utilizar herramientas como Figma para la creación de prototipos. Asimismo, recientemente he aprendido a trabajar con frameworks para frontend (Vue y Angular) y backend (Spring Boot con Java y .NET con C#).  
+        Soy una persona responsable y me esfuerzo por mantener una organización óptima para gestionar eficazmente las entregas de trabajos.
       </p>
     </td>
   </tr>
