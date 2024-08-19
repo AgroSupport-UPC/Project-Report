@@ -63,7 +63,6 @@
           <li>Objetivos SMART</li>
           <li>Capítulo 1: Presentación</li>
           <li>Capítulo 2: Needfinding</li>
-          <li>Capítulo 3: Arquitectura</li>
         </ul>
       </td>
   </tr>
@@ -217,6 +216,11 @@ Brindar a los granjeros acceso fácil y directo a asesoría especializada, promo
 
 **Visión:**
 Liderar la innovación tecnológica para el sector agropecuario, promoviendo el bienestar animal y la sostenibilidad a través de tecnología accesible.
+
+**Logo de AgroSupport**
+
+<img src="img/agrosupport-logo.png" width="200">
+
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -387,7 +391,7 @@ Presentación de otros supuestos:
 
 #### 1.2.2.4. Lean UX Canvas.
 
-<img src="/img/lean_ux_canva.png" alt="Lean UX Canvas" width="100%" />
+<img src="img/lean_ux_canva.png" alt="Lean UX Canvas" width="100%" />
 
 
 ## 1.3. Segmentos objetivo
@@ -425,7 +429,7 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
       <td colspan="2" valign="top">(En la cabecera colocar por cada competidor nombre y logo)</td>
       <td valign="top">
          <p>AgroSupport</p>
-         <p><img src="Falta[]" alt="Logo de AgroSupport" width="150" height="100" /></p>
+         <p><img src="img/agrosupport-logo.png" alt="Logo de AgroSupport" width="150" height="100" /></p>
       </td>
       <td valign="top">
          <p>BestFarm</p>
@@ -615,6 +619,17 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
 
 ### 2.2.1. Diseño de entrevistas
 
+**Preguntas generales**
+
+**Objetivo:** Obtener información general de todos los entrevistados, los cuales serán muy útiles al momento de crear nuestros User Personas.
+
+1. ¿Cuál es su nombre?
+2. ¿Qué edad tiene?
+3. ¿Dónde reside actualmente?
+4. ¿A qué se dedica?
+5. ¿Qué navegador usa normalmente?
+6. ¿Qué dispositivo móvil tiene?
+
 **Segmemto Objetivo: Granjeros con poca experiencia**
 
 **Objetivo:** Entender las necesidades, desafíos y expectativas de granjeros con poca experiencia para adaptar AgroSupport a sus requerimientos específicos.
@@ -650,9 +665,7 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
 9. ¿Qué medios considera más efectivos para compartir información y recibir retroalimentación?
 10. ¿Qué funcionalidades le gustaría ver en una plataforma de asesoramiento para mejorar su capacidad de asesorar a los granjeros?
 
-
 ### 2.2.2. Registro de entrevistas
-
 
 ### 2.2.3. Análisis de entrevistas
 
