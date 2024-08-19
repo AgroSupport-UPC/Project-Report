@@ -239,15 +239,15 @@ De esta forma, nosotros hemos definido los siguientes objetivos para nuestro pro
       <td>Se cumplirá durante el desarrollo de los prototipos de la aplicación móvil y su primera versión.</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Piero Delgado</td>
+      <td>Desarrollar un sistema de notificaciones en tiempo real en Flutter para alertar a los granjeros sobre proximas asesorías y otros eventos como actualizaciones.</td>
+      <td>19/10/2024</td>
+      <td>19/11/2024</td>
+      <td>Se logrará la implementación de un sistema de notificaciones en tiempo real que informe a los granjeros sobre eventos importantes, mejorando la comunicación dentro de la aplicación.</td>
+      <td>La métrica a considerar será la visualización de las notificaciones en los dispositivos de prueba. Se considerará exitoso si al menos un 95% de las notificaciones enviadas durante las pruebas son recibidas correctamente.</td>
+      <td>La integración de este sistema sí implica un desafío ya que se requiere conocimientos en distintas funcionalidades de Flutter como el envío de notificaciones, creación de eventos dentro de la aplicación y conexión con el backend para saber la fecha de las distintas asesorías.</td>
+      <td>Está alineado con el alcance del trabajo ya que esta funcionalidad permite mantener a los granjeros informados sobre el estado de sus asesorías.</td>
+      <td>El objetivo se cumplirá al terminar la implementación de la primera versión de la aplicación con Flutter.</td>
     </tr>
     <tr>
       <td></td>
@@ -723,10 +723,7 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
    </tr>
 </table>
 
-
-
 ### 2.1.2. Estrategias y tácticas frente a competidores
-
 
 **1. Estrategia: Fortalecimiento del Soporte al Cliente**
 
@@ -826,6 +823,8 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
 ### 2.4.1. To-Be Scenario Mapping
 
 ### 2.4.2. User Stories
+
+
 
 ### 2.4.3. Impact Mapping
 
