@@ -212,11 +212,134 @@ Los objetivos SMART son una herramienta que permite establecer metas claras y al
 
 De esta forma, nosotros hemos definido los siguientes objetivos para nuestro producto AgroSupport:
 
-1. Lanzar la primera versión de AgroSupport, brindando el máximo valor a los usuarios, en un plazo de 4 meses.
-2. Integrar 100 asesores expertos en asesoría agrícola en la plataforma en 6 meses.
-3. Alcanzar un índice de satisfacción del usuario del 85% en el primer año.
-4. Incrementar el número de usuarios activos en un 20% en el primer año.
-5. Reducir el tiempo de respuesta del soporte técnico en un 30% en el primer año.
+<table>
+  <thead>
+    <tr>
+      <th>Nombre del estudiante</th>
+      <th>Descripción del objetivo</th>
+      <th>Fecha de inicio</th>
+      <th>Fecha de cumplimiento esperada</th>
+      <th>¿Qué se va a lograr?</th>
+      <th>¿Tiene KPI o métrica clara?</th>
+      <th>¿Es retador y va más allá de sus funciones?</th>
+      <th>¿Está alineado a la estrategia?</th>
+      <th>¿Cuándo se cumplirá?</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Piero Delgado</td>
+      <td>Investigar principios de diseño de interfaces móviles intuitivas para iOS y Android para aplicarlos en la primera versión de nuestra aplicación con el fin de mejorar la usabilidad y experiencia de usuario.</td>
+      <td>19/08/2024</td>
+      <td>19/10/2024</td>
+      <td>Se va a lograr crear un buen diseño de una interfaz móvil intuitiva y fácil de usar para la aplicación, basándose en las mejores prácticas de diseño móvil identificadas a través de la investigación de aplicaciones exitosas en iOS y Android, como también documentación sobre mejores prácticas en videos o libros.</td>
+      <td>La métrica será la valoración positiva de la interfaz por parte de los usuarios durante las entrevistas de validación. Se considerará éxito si al menos el 80% de los entrevistados expresan opiniones favorables.</td>
+      <td>Requiere una comprensión más profunda del diseño de interfaces mópviles, así como la capacidad de aplicar estos conocimientos en la aplicación. Esto supone un reto importante en el desarrollo móvil y va más allá de solo implementación las funcionalidades de la aplicación.</td>
+      <td>Está alineado con la estrategia de desarrollar una aplicación que sea no solo funcional, sino también sencilla para que los granjeros puedan utilizarla de forma recurrente.</td>
+      <td>Se cumplirá durante el desarrollo de los prototipos de la aplicación móvil y su primera versión.</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 
 # Capítulo 1: Presentación
 
