@@ -406,6 +406,182 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
 
 ### 2.1.1. Análisis competitivo
 
+<table>
+   <tr>
+      <th colspan="6" valign="top"><b>Competitive Analysis Landscape</b></th>
+   </tr>
+   <tr>
+      <td rowspan="2" valign="top">¿Por qué llevar a cabo este análisis? </td>
+     <td colspan="5" valign="top">
+      <ul>
+        <li>Objetivo 1: Obtener información sobre las ofertas de nuestros competidores y aprender de las áreas en las que tienen limitaciones.</li>
+        <li>Objetivo 2: Reconocer las fortalezas y debilidades de nuestros competidores para desarrollar una estrategia competitiva robusta y eficaz.</li>
+      </ul>
+     </td>
+
+   </tr>
+   <tr></tr>
+   <tr>
+      <td colspan="2" valign="top">(En la cabecera colocar por cada competidor nombre y logo)</td>
+      <td valign="top">
+         <p>AgroSupport</p>
+         <p><img src="Falta[]" alt="Logo de AgroSupport" width="150" height="100" /></p>
+      </td>
+      <td valign="top">
+         <p>BestFarm</p>
+         <p><img src="img/logo_bestFarm.jpg" alt="Logo de BestFarm" width="150" height="100" /></p>
+      </td>
+      <td valign="top">
+         <p>AgriWebb</p>
+         <p><img src="img/logo_agriWebb.jpg" alt="Logo de AgriWebb" width="150" height="100" /></p>
+      </td>
+      <td valign="top">
+         <p>Trimble Ag </p>
+         <p><img src="img/logo_trimbleAg.png" alt="Logo de Trimble Ag" width="150" height="100" /></p>
+      </td>
+   </tr>
+   <tr>
+      <td rowspan="2">Perfil</td>
+      <td valign="top">Overview</td>
+      <td valign="top"><b>AgroSupport</b> es una aplicación integral que proporciona asesoramiento especializado y herramientas tecnológicas para mejorar la gestión de granjas de manera eficiente y sostenible</td>
+      <td valign="top"><b>BestFarm</b> es una plataforma digital diseñada para la gestión integral de granjas agrícolas y ganaderas. Ofrece herramientas para la planificación de cultivos, gestión de recursos, y monitoreo del ganado, todo accesible desde dispositivos móviles</td>
+      <td valign="top"><b>AgriWebb</b> es una plataforma digital que ofrece una solución integral para la gestión de granjas, con un enfoque especial en la trazabilidad del ganado y la optimización de la productividad agrícola</td>
+      <td valign="top"><b>Trimble Ag</b> ofrece soluciones avanzadas para la gestión de fincas, incluyendo herramientas para la planificación de cultivos, gestión del ganado, y monitoreo de recursos. </td>
+   </tr>
+   <tr>
+      <td valign="top">
+         <p>Ventaja competitiva</p>
+         <p>¿Qué valor ofrece a los clientes?</p>
+      </td>
+      <td valign="top"><b>AgroSupport</b> ofrece una solución completa y accesible que combina asesoramiento especializado con herramientas tecnológicas para optimizar la gestión de granjas, promoviendo prácticas sostenibles y mejorando la productividad</td>
+      <td valign="top"><b>BestFarm</b> se destaca por su enfoque en la simplicidad y accesibilidad, permitiendo a los usuarios gestionar tanto cultivos como ganado en una sola plataforma</td>
+      <td valign="top">La ventaja de <b>AgriWebb</b> Se distingue por su fuerte enfoque en la trazabilidad y la capacidad de capturar datos en tiempo real</td>
+      <td valign="top"><b>Trimble Ag</b> se destaca por su tecnología avanzada y su capacidad para integrar datos de múltiples fuentes, proporcionando una visión completa y precisa de las operaciones de la finca</td>
+   </tr>
+   <tr>
+      <td rowspan="2">Perfil de Marketing</td>
+      <td valign="top">Mercado objetivo</td>
+      <td valign="top">El mercado objetivo de <b>AgroSupport</b> son los granjeros con poca experiencia y aquellos que buscan mejorar la gestión de sus granjas</td>
+      <td valign="top">El mercado objetivo de <b>BestFarm</b> son los agricultores y ganaderos que buscan una solución unificada para la gestión de todas las operaciones de su finca</td>
+      <td valign="top">El mercado objetivo de <b>AgriWebb</b> son ganaderos y agricultores que buscan mejorar la eficiencia y la trazabilidad de sus operaciones</td>
+      <td valign="top">El mercado objetivo de <b>Trimble Ag</b> son agricultores y ganaderos de tamaño medio a grande que buscan soluciones integradas para la gestión de sus operaciones</td>
+   </tr>
+   <tr>
+      <td valign="top">Estrategias de marketing</td>
+      <td valign="top">Las estrategias que utilizan <b>AgroSupport</b> son marketing digital dirigido a granjeros, colaboraciones con asociaciones agrícolas, y demostraciones en eventos agrícolas</td>
+      <td valign="top">Las estrategias que utilizan <b>BestFarm</b> son campañas de marketing digital, demostraciones de producto, y colaboraciones con distribuidores de equipos agrícolas</td>
+      <td valign="top">Las estrategias que manejan <b>AgriWebb</b> son marketing digital, talleres educativos, y colaboración con organizaciones agrícolas</td>
+      <td valign="top"><b>Trimble Ag</b> realizan participaciones en ferias agrícolas, marketing digital, y demostraciones en campo. También se enfoca en asociaciones estratégicas con proveedores de tecnología agrícola</td>
+   </tr>
+   <tr>
+      <td rowspan="3">Perfil de Producto</td>
+      <td valign="top">Productos & Servicios</td>
+      <td valign="top">Aplicación móvil <b>AgroSupport</b> que ofrece asesoramiento especializado, herramientas de gestión de granjas, y funcionalidades para la mejora del bienestar animal y prácticas sostenibles</td>
+      <td valign="top"><b>BestFarm</b> brinda un software de gestión agrícola que incluye planificación de cultivos, gestión de recursos hídricos, y monitoreo de salud animal</td>
+      <td valign="top"><b>AgriWebb</b> proporciona un</b> software de gestión de fincas que incluye módulos para la trazabilidad del ganado, monitoreo de la salud animal, y optimización de cultivos</td>
+      <td valign="top"><b>Trimble Ag</b> da un software de gestión agrícola y ganadera con módulos para planificación, monitoreo de recursos, y análisis de datos</td>
+   </tr>
+   <tr>
+      <td valign="top">Precios & Costos</td>
+      <td valign="top"><b>AgroSupport</b> ofrece un modelo de suscripción que puede ser mensual o anual, con precios que dependen de la magnitud de la operación y las funcionalidades necesarias.</td>
+      <td valign="top"><b>BestFarm</b> ofrece un modelo de suscripción flexible, con precios escalonados según el tamaño y necesidades de la finca</td>
+      <td valign="top"><b>AgriWebb</b> ofrece una estructura de precios basada en suscripciones, con planes que se ajustan según el tamaño y las necesidades de la finca.</td>
+      <td valign="top"><b>Trimble Ag</b> da precios basados en suscripción, con diferentes niveles según las características y el tamaño de la finca</td>
+   </tr>
+   <tr>
+      <td valign="top">Canales de distribución (Web y/o Móvil)</td>
+      <td valign="top"><b>AgroSupport</b> está disponible en plataformas web y móviles</td>
+      <td valign="top"><b>BestFarm</b> se distribuye a través de una plataforma web</td>
+      <td valign="top"><b>AgriWebb</b> se distribuye a través de una plataforma web</td>
+      <td valign="top"><b>Trimble Ag</b> se distribuye a través de una plataforma web</td>
+   </tr>
+   <tr>
+      <td rowspan="5">Análisis SWOT</td>
+      <td colspan="5" valign="top">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva. </td>
+   </tr>
+   <tr>
+      <td valign="top">
+         <p>Fortalezas</p>
+         <p></p>
+      </td>
+      <td valign="top">
+         <p>- Enfoque integral y accesible para la gestión de granjas</p>
+         <p>- Combinación de asesoramiento especializado con herramientas tecnológicas avanzadas</p>
+      </td>
+      <td valign="top">
+         <p>- Plataforma integral que cubre tanto la agricultura como la ganadería</p>
+         <p>- Enfoque en la simplicidad y accesibilidad para los usuarios</p>
+      </td>
+      <td valign="top">
+         <p>- Fuerte enfoque en la trazabilidad y gestión basada en datos</p>
+         <p>- Interfaz intuitiva y fácil de usar</p>
+      </td>
+      <td valign="top">
+         <p>- Tecnología avanzada y capacidad de integración de datos</p>
+         <p>- Amplia gama de funciones para la gestión integral de fincas</p>
+      </td>
+   </tr>
+   <tr>
+      <td valign="top">Debilidades</td>
+      <td valign="top">
+         <p>- Dependencia de la adopción tecnológica en un mercado que puede tener barreras a la digitalización</p>
+         <p>- Necesidad de constante actualización y adaptación para mantenerse competitivo</p>
+      </td>
+      <td valign="top">
+         <p>- Puede carecer de funcionalidades avanzadas específicas para cada sector en comparación con competidores más especializados</p>
+         <p>- Dependencia de un enfoque generalizado, lo que podría limitar la personalización para necesidades específicas</p>
+      </td>
+      <td valign="top">
+         <p>- Puede ser percibido como costoso para pequeñas fincas</p>
+         <p>- La dependencia de la conectividad a internet podría ser un desafío en áreas rurales</p>
+      </td>
+      <td valign="top">
+         <p>- Precio alto, lo que puede ser una barrera para pequeños productores</p>
+         <p>- Complejidad en la implementación y el uso inicial</p>
+      </td>
+   </tr>
+   <tr>
+      <td valign="top">Oportunidades</td>
+      <td valign="top">
+         <p>- Expansión en mercados rurales con creciente necesidad de soluciones tecnológicas integradas</p>
+         <p>- Desarrollo de nuevas funcionalidades basadas en la retroalimentación de los usuarios</p>
+      </td>
+      <td valign="top">
+         <p>- Crecimiento en mercados rurales</p>
+         <p>- Creación de características adicionales adaptadas a cada sector</p>
+      </td>
+      <td valign="top">
+         <p>- Expansión en mercados emergentes que buscan mejorar la trazabilidad y la eficiencia</p>
+         <p>- Integración con tecnologías emergentes como IoT para mejorar el monitoreo en tiempo real</p>
+      </td>
+      <td valign="top">
+         <p>- Creciente demanda de soluciones integradas en mercados agrícolas avanzados</p>
+         <p>- Innovaciones tecnológicas que pueden mejorar la oferta de productos</p>
+      </td>
+   </tr>
+   <tr>
+      <td valign="top">Amenazas</td>
+      <td valign="top">
+         <p>-Competencia de plataformas más establecidas o especializadas en áreas específicas</p>
+         <p>- Resistencia al cambio en el sector agropecuario, que puede afectar la adopción de nuevas tecnologías</p>
+      </td>
+      <td valign="top">
+         <p>- Competencia de plataformas especializadas en agricultura o ganadería que proporcionan funciones más avanzadas.</p>
+         <p>- Alteraciones en las preferencias de los usuarios que buscan soluciones más personalizadas para sus necesidades particulares.</p>
+      </td>
+      <td valign="top">
+         <p>- Rivalidad con plataformas especializadas en agricultura o ganadería que disponen de funciones más sofisticadas.</p>
+         <p>- Evolución en las demandas de los usuarios que prefieren soluciones adaptadas a sus necesidades concretas.</p>
+      </td>
+      <td valign="top">
+         <p>- Competencia de soluciones más accesibles o especializadas</p>
+         <p>- Cambios en la tecnología que pueden requerir actualizaciones frecuentes</p>
+      </td>
+   </tr>
+</table>
+
+
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
 ## 2.2. Entrevistas
