@@ -254,7 +254,7 @@ De esta forma, nosotros hemos definido los siguientes objetivos para nuestro pro
       <td>Implementar una aplicación que sea capaz de utilizar la autenticación de forma segura y adecuada (IAM), de forma que los datos ingresados por los usuarios a través de la aplicación móvil siempre se encuentren protegidos.</td>
       <td>20/08/2024</td>
       <td>26/09/2024</td>
-      <td>Se logrará la implementación segura del backend de la aplicación móvil utilizando la autenticación para los usuarios, ya sea administrador o cliente, a través de un sistema IAM.</td>
+      <td>Se logrará la implementación segura del backend de la aplicación móvil utilizando la autenticación para los usuarios, ya sea administrador o cliente, a través de un sistema IAM el cual sea totalmente compatible con el Frontend de la aplicación móvil.</td>
       <td>La métrica a tomar en cuenta es la cantidad de intentos que toma acceder con un usuario existente a la aplicación móvil, ya que debe comprobar que las credenciales sean las correctas en un 100% de las veces.</td>
       <td>La implementación del sistema de IAM implica retos para realizar buenas prácticas, ya que a pesar de que ya tenemos algo de conocimiento para poder realizarlo, igualmente falta investigación para poder hacerlo de la manera correcta.</td>
       <td>Está alineado con el alcance del trabajo, ya que es esencial entregar una aplicación móvil que funcione de forma segura para los usuarios.</td>
@@ -262,14 +262,14 @@ De esta forma, nosotros hemos definido los siguientes objetivos para nuestro pro
     </tr>
     <tr>
       <td>Salvador Salinas</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Integrar un sistema externo de videoconferencias para los asesoramientos programados para los usuarios.</td>
+      <td>20/10/2024</td>
+      <td>20/11/2024</td>
+      <td>El logro de este objetivo es implementar y configurar un sistema de videoconferencia externo que permita a los usuarios llevar a cabo los asesoramientos a través de la aplicación móvil.</td>
+      <td>Para medir si este objetivo llegó a cumplirse, será haciendo la prueba de creación de videoconferencias dentro de la aplicación. Para ello, se considerará que las videoconferencias se creen y se pueda acceder a ellas un 100% de las pruebas. Es importante que siempre funcione ya que esta funcionalidad es lo que brinda el mayor valor a nuestra aplicación.</td>
+      <td>La integración de un sistema externo para videoconferencias si se considera retador, ya que es importante encontrar una API robusta y con soporte técnico disponible, así como debe tener alta compatibilidad para la implementación de la aplicación y para los dispositivos móviles desde los cuales se podrá acceder.</td>
+      <td>La integración del sistema para videoconferencias es crucial para la aplicación, ya que es la principal funcionalidad que ofrecemos a nuestros segmentos objetivo.</td>
+      <td>Se espera que este objetivo sea cumplido al terminar la implementación de la primera versión de la aplicación móvil. En caso no sea así, se espera que sea hasta antes de finalizar el mes de noviembre.</td>
     </tr>
     <tr>
       <td></td>
