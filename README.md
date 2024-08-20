@@ -250,18 +250,18 @@ De esta forma, nosotros hemos definido los siguientes objetivos para nuestro pro
       <td>El objetivo se cumplirá al terminar la implementación de la primera versión de la aplicación con Flutter.</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Salvador Salinas</td>
+      <td>Implementar una aplicación que sea capaz de utilizar la autenticación de forma segura y adecuada (IAM), de forma que los datos ingresados por los usuarios a través de la aplicación móvil siempre se encuentren protegidos.</td>
+      <td>20/08/2024</td>
+      <td>26/09/2024</td>
+      <td>Se logrará la implementación segura del backend de la aplicación móvil utilizando la autenticación para los usuarios, ya sea administrador o cliente, a través de un sistema IAM.</td>
+      <td>La métrica a tomar en cuenta es la cantidad de intentos que toma acceder con un usuario existente a la aplicación móvil, ya que debe comprobar que las credenciales sean las correctas en un 100% de las veces.</td>
+      <td>La implementación del sistema de IAM implica retos para realizar buenas prácticas, ya que a pesar de que ya tenemos algo de conocimiento para poder realizarlo, igualmente falta investigación para poder hacerlo de la manera correcta.</td>
+      <td>Está alineado con el alcance del trabajo, ya que es esencial entregar una aplicación móvil que funcione de forma segura para los usuarios.</td>
+      <td>El objetivo será cumplido al terminar la implementación del backend y conectarlo con el Frontend de la aplicación móvil.</td>
     </tr>
     <tr>
-      <td></td>
+      <td>Salvador Salinas</td>
       <td></td>
       <td></td>
       <td></td>
