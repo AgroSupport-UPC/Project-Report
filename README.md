@@ -429,7 +429,7 @@ Liderar la innovación tecnológica para el sector agropecuario, promoviendo el 
 
 **2 H's**
 
-**How:** A través de la aplicación móvil AgroSupport, que proporcionará asesoramiento especializado y herramientas tecnológicas para ayudar a los granjeros a gestionar de manera inteligente y eficiente las granjas.
+**How:** A través de la aplicación móvil AgroSupport, se proporcionará asesoramiento especializado para ayudar a los granjeros a gestionar de manera inteligente y eficiente las granjas. De esta forma, apoyaremos a aumentar su producción y por consiguiente su rentabilidad.
 
 **How much:** Se espera que la aplicación tenga un impacto significativo en la mejora de la gestión de las granjas, aumentando la productividad, mejorando el bienestar animal y promoviendo prácticas más sostenibles en la industria agropecuaria.
 
