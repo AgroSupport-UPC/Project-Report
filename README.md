@@ -596,7 +596,7 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
          <p>Ventaja competitiva</p>
          <p>¿Qué valor ofrece a los clientes?</p>
       </td>
-      <td valign="top"><b>AgroSupport</b> ofrece una solución completa y accesible que combina asesoramiento especializado con herramientas tecnológicas para optimizar la gestión de granjas, promoviendo prácticas sostenibles y mejorando la productividad</td>
+      <td valign="top"><b>AgroSupport</b> ofrece una vía accesible que vincula a granjeros con poca experiencia con especialistas, permitiendo un asesoramiento experto que mejora la gestión de granjas, fomenta prácticas sostenibles y aumenta la productividad</td>
       <td valign="top"><b>BestFarm</b> se destaca por su enfoque en la simplicidad y accesibilidad, permitiendo a los usuarios gestionar tanto cultivos como ganado en una sola plataforma</td>
       <td valign="top">La ventaja de <b>AgriWebb</b> Se distingue por su fuerte enfoque en la trazabilidad y la capacidad de capturar datos en tiempo real</td>
       <td valign="top"><b>Trimble Ag</b> se destaca por su tecnología avanzada y su capacidad para integrar datos de múltiples fuentes, proporcionando una visión completa y precisa de las operaciones de la finca</td>
