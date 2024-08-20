@@ -818,6 +818,81 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
 
 ### 2.3.5. As-is Scenario Mapping
 
+**Segmento: Granjeros con poca experiencia**
+
+<table>
+  <thead>
+    <tr>
+      <td>Phases</td>
+      <td>Enfrentamiento de problemas</td>
+      <td>Búsqueda de soluciones</td>
+      <td>Consulta con fuentes locales</td>
+      <td>Toma de decisiones</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Doing</td>
+      <td>Los granjeros se encuentran con problemas en su granja que no saben cómo resolver.</td>
+      <td>Buscan soluciones por su cuenta a través de internet, foros, o consejos de vecinos.</td>
+      <td>Consultan a otros granjeros locales o comerciantes, quienes ofrecen consejos generales basados en su propia experiencia.</td>
+      <td>Toman decisiones basadas en la información que han conseguido.</td>
+    </tr>
+    <tr>
+      <td>Thinking</td>
+      <td>"Este cultivo está plagado de insectos, pero no tengo idea de qué tratamiento usar o si lo que tengo será suficiente."</td>
+      <td>"Leí en internet que podría usar un pesticida, pero otros dicen que dañará las plantas. No sé qué hacer."</td>
+      <td>"El vecino dice que use el mismo tratamiento que él, pero mi situación es diferente, y no estoy seguro de que funcione igual."</td>
+      <td>"Estoy usando este pesticida, pero realmente no sé si es lo mejor. Espero no arruinar toda la cosecha."</td>
+    </tr>
+    <tr>
+      <td>Feeling</td>
+      <td>Desesperación por no tener el conocimiento necesario para solucionar los problemas.</td>
+      <td>Confusión por la gran cantidad de información contradictoria o poco útil.</td>
+      <td>Duda por la falta de asesoramiento específico.</td>
+      <td>Temor por las consecuencias de sus decisiones.</td>
+    </tr>
+  </tbody>
+</table>
+
+**Segmento: Asesores experimentados**
+
+<table>
+  <thead>
+    <tr>
+      <td>Phases</td>
+      <td>Búsqueda de trabajo</td>
+      <td>Promoción de servicios</td>
+      <td>Contacto con granjeros</td>
+      <td>Coordinación de asesorías</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Doing</td>
+      <td>Los asesores buscan oportunidades de trabajo en asesoría agrícola a través de anuncios en línea, redes sociales y recomendaciones.</td>
+      <td>Promocionan de sus servicios a través de redes sociales, sitios web personales, y referencias.</td>
+      <td>Contactan con granjeros a través de correo electrónico, mensajes en redes sociales o llamadas telefónicas.</td>
+      <td>Coordinan las sesiones de asesoría.</td>
+    </tr>
+    <tr>
+      <td>Thinking</td>
+      <td>"Es difícil encontrar oportunidades de asesoría. Los anuncios son escasos y no sé dónde más buscar para ofrecer mis servicios."</td>
+      <td>"He promocionado mis servicios en varias plataformas, pero no estoy viendo un aumento en los clientes potenciales. ¿Qué más puedo hacer para atraerlos?"</td>
+      <td>"He enviado varios mensajes y correos, pero no obtengo respuestas o la comunicación es poco clara. Esto hace que sea difícil conectar con clientes potenciales."</td>
+      <td>"¡Qué difícil tener que coordinar horarios a través de mensajes y llamadas! Muchas veces los granjeros tienen horarios impredecibles, y esto hace que la planificación sea un verdadero desafío."</td>
+    </tr>
+    <tr>
+      <td>Feeling</td>
+      <td>Desánimo debido a la escasez de oportunidades y la falta de claridad sobre dónde encontrar potenciales clientes.</td>
+      <td>Estrés por la baja visibilidad y el esfuerzo que no se traduce en resultados concretos.</td>
+      <td>Desánimo debido a la falta de respuestas y a la dificultad de establecer comunicación efectiva.</td>
+      <td>Frustración por las dificultades de elegir una fecha y medio adecuados.</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## 2.4. Requirements Specification
 
 ### 2.4.1. To-Be Scenario Mapping
