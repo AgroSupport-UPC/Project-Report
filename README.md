@@ -780,7 +780,7 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
 8. ¿Qué formato de asesoramiento prefiere (por ejemplo, consultas en línea, reuniones presenciales, guías escritas)?
 9. ¿Ha tenido experiencias previas con asesores agrícolas? Si no, ¿qué esperaría de una asesoría con un experto?
 10. ¿Qué dificultades tiene para obtener el asesoramiento que necesita para su granja?
-11. ¿Qué cualidades le gustaría que tuviera una applicación para separación de asesorías para que sea útil para usted?
+11. ¿Qué cualidades le gustaría que tuviera una aplicación para separación de asesorías para que sea útil para usted?
 12. ¿Cómo preferiría recibir seguimiento después de una sesión de asesoramiento (revisiones periódicas, informes o consultas adicionales)?
 
 **Segmemto Objetivo: Asesores experimentados**
@@ -791,11 +791,10 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
 2. ¿Cuál es su enfoque principal al ofrecer asesoría a los granjeros?
 3. Según su experiencia, ¿qué tipo de asesoramiento buscan más los granjeros (técnico, financiero, gestión, etc.)?
 4. ¿Cuáles son los mayores desafíos que enfrenta en la prestación de asesoría a los granjeros?
-5. ¿Qué dificultades ha enfrentado al buscar clientes a los cuales realizar asesorías?
-6. ¿Qué problemas ha encontrado al coordinar horarios y medios de comunicación para llevar a cabo las sesiones de asesoría?
-7. ¿Qué tan complejo es mantener a los granjeros como clientes recurrentes? ¿Qué factores considera cruciales para la retención de clientes?
-8. ¿Qué funcionalidades le gustaría ver en una plataforma de asesoramiento para mejorar su capacidad de asesorar a los granjeros?
-9. Después de una sesión de asesoría, ¿cómo suele hacer el seguimiento con el granjero? ¿Qué tan importante es este seguimiento para el éxito de la asesoría?
+5. ¿Qué problemas ha encontrado al coordinar horarios y medios de comunicación para llevar a cabo las sesiones de asesoría?
+6. ¿Qué tan complejo es mantener a los granjeros como clientes recurrentes? ¿Qué factores considera cruciales para la retención de clientes?
+7. ¿Qué funcionalidades le gustaría ver en una plataforma de asesoramiento para mejorar su capacidad de asesorar a los granjeros?
+8. Después de una sesión de asesoría, ¿cómo suele hacer el seguimiento con el granjero? ¿Qué tan importante es este seguimiento para el éxito de la asesoría?
 
 ### 2.2.2. Registro de entrevistas
 
