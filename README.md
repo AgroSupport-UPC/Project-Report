@@ -770,35 +770,33 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
 
 **Objetivo:** Entender las necesidades, desafíos y expectativas de granjeros con poca experiencia para adaptar AgroSupport a sus requerimientos específicos.
 
-1. ¿Cuánto tiempo lleva gestionando su granja y qué tipo de formación ha recibido en manejo agrícola?
+1. ¿Cuánto tiempo lleva gestionando su granja y qué tipo de formación ha recibido en manejo agrícola (informal o formal)?
 2. ¿Qué habilidades y conocimientos considera que le faltan para gestionar su granja de manera más eficiente?
-3. ¿Cuáles son las herramientas y recursos clave que necesita para mejorar la gestión de su granja en áreas como producción, manejo de recursos y sostenibilidad?
-4. ¿Cuáles son sus principales objetivos para su granja?
-5. ¿Cuáles son los principales problemas que enfrenta actualmente al gestionar su granja?
-6. ¿Qué obstáculos ha encontrado al intentar implementar prácticas agrícolas más sostenibles y modernas?
-7. ¿A través de qué canales digitales suele buscar información o interactuar con expertos agrícolas?
-8. ¿Qué tipo de asesoramiento considera más valioso para su granja: técnico, financiero, de gestión, u otro?
-9. ¿Con qué frecuencia cree que necesitaría asesoramiento especializado para resolver problemas específicos en su granja?
-10. ¿Qué formato de asesoramiento prefiere (por ejemplo, consultas en línea, reuniones presenciales, guías escritas)?
-11. ¿Ha tenido experiencias previas con asesores agrícolas? Si es así, ¿cómo fueron y qué aspectos mejoraría en esas experiencias?
-12. ¿Qué dificultades tiene para obtener el asesoramiento que necesita para su granja?
-13. ¿Qué cualidades o habilidades le gustaría que tuviera un asesor para que el asesoramiento sea más efectivo y útil para usted?
-14. ¿Cómo prefiere recibir seguimiento después de una sesión de asesoramiento?
+3. ¿Cuáles son sus principales objetivos para el desarrollo de su granja?
+4. ¿Cuáles son los principales desafíos que enfrenta en la gestión de su granja?
+5. ¿Qué obstáculos ha encontrado al intentar implementar prácticas agrícolas más sostenibles y modernas?
+6. ¿A través de qué canales digitales suele buscar información o interactuar con expertos agrícolas?
+7. ¿Qué tipo de asesoramiento considera más valioso para su granja: técnico, financiero, de gestión, u otro?
+8. ¿Con qué frecuencia cree que necesitaría asesoramiento especializado para resolver problemas específicos en su granja?
+9. ¿Qué formato de asesoramiento prefiere (por ejemplo, consultas en línea, reuniones presenciales, guías escritas)?
+10. ¿Ha tenido experiencias previas con asesores agrícolas? Si no, ¿qué esperaría de una asesoría con un experto?
+11. ¿Qué dificultades tiene para obtener el asesoramiento que necesita para su granja?
+12. ¿Qué cualidades le gustaría que tuviera una applicación para separación de asesorías para que sea útil para usted?
+13. ¿Cómo preferiría recibir seguimiento después de una sesión de asesoramiento (revisiones periódicas, infores o consultas adicionales)?
 
 **Segmemto Objetivo: Asesores experimentados**
 
 **Objetivo:** Comprender las necesidades y expectativas de los asesores para optimizar su uso de AgroSupport y mejorar su eficacia en la asesoría.
 
-1. ¿Cuánto tiempo lleva trabajando como asesor y en qué áreas específicas del manejo de granjas se especializa?
+1. ¿Cuánto tiempo lleva trabajando como asesor y en qué áreas específicas de la gestión de granjas se especializa?
 2. ¿Cuál es su enfoque principal al ofrecer asesoría a los granjeros?
-3. ¿Qué herramientas o plataformas considera que le ayudarían a mejorar la eficacia de sus asesorías?
+3. Según su experiencia, ¿qué tipo de asesoramiento buscan más los granjeros (técnico, financiero, gestión, etc.)?
 4. ¿Cuáles son los mayores desafíos que enfrenta en la prestación de asesoría a los granjeros?
-5. ¿Qué dificultades ha encontrado al utilizar herramientas tecnológicas para su trabajo?
-6. ¿Qué dispositivos tecnológicos utiliza en su trabajo diario y qué aplicaciones o plataformas utiliza para la asesoría?
-7. ¿Cómo evalúa la efectividad de las herramientas tecnológicas actuales en su trabajo?
-8. ¿A través de qué canales digitales prefiere interactuar con granjeros y otros expertos?
-9. ¿Qué medios considera más efectivos para compartir información y recibir retroalimentación?
-10. ¿Qué funcionalidades le gustaría ver en una plataforma de asesoramiento para mejorar su capacidad de asesorar a los granjeros?
+5. ¿Qué dificultades ha enfrentado al buscar clientes a los cuales realizar asesorías?
+6. ¿Qué problemas ha encontrado al coordinar horarios y medios de comunicación para llevar a cabo las sesiones de asesoría?
+7. ¿Qué tan complejo es mantener a los granjeros como clientes recurrentes? ¿Qué factores considera cruciales para la retención de clientes?
+8. ¿Qué funcionalidades le gustaría ver en una plataforma de asesoramiento para mejorar su capacidad de asesorar a los granjeros?
+9. Después de una sesión de asesoría, ¿cómo suele hacer el seguimiento con el granjero? ¿Qué tan importante es este seguimiento para el éxito de la asesoría?
 
 ### 2.2.2. Registro de entrevistas
 
