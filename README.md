@@ -771,18 +771,17 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
 **Objetivo:** Entender las necesidades, desafíos y expectativas de granjeros con poca experiencia para adaptar AgroSupport a sus requerimientos específicos.
 
 1. ¿Cuánto tiempo lleva gestionando su granja y qué tipo de formación ha recibido en manejo agrícola (informal o formal)?
-2. ¿Qué habilidades y conocimientos considera que le faltan para gestionar su granja de manera más eficiente?
-3. ¿Cuáles son sus principales objetivos para el desarrollo de su granja?
-4. ¿Cuáles son los principales desafíos que enfrenta en la gestión de su granja?
-5. ¿Qué obstáculos ha encontrado al intentar implementar prácticas agrícolas más sostenibles y modernas?
-6. ¿A través de qué canales digitales suele buscar información o interactuar con expertos agrícolas?
-7. ¿Qué tipo de asesoramiento considera más valioso para su granja: técnico, financiero, de gestión, u otro?
-8. ¿Con qué frecuencia cree que necesitaría asesoramiento especializado para resolver problemas específicos en su granja?
-9. ¿Qué formato de asesoramiento prefiere (por ejemplo, consultas en línea, reuniones presenciales, guías escritas)?
-10. ¿Ha tenido experiencias previas con asesores agrícolas? Si no, ¿qué esperaría de una asesoría con un experto?
-11. ¿Qué dificultades tiene para obtener el asesoramiento que necesita para su granja?
-12. ¿Qué cualidades le gustaría que tuviera una applicación para separación de asesorías para que sea útil para usted?
-13. ¿Cómo preferiría recibir seguimiento después de una sesión de asesoramiento (revisiones periódicas, infores o consultas adicionales)?
+2. ¿Cuáles son sus principales objetivos para el desarrollo de su granja?
+3. ¿Cuáles son los principales desafíos que enfrenta en la gestión de su granja?
+4. ¿Qué obstáculos ha encontrado al intentar implementar prácticas agrícolas más sostenibles y modernas?
+5. ¿A través de qué canales digitales suele buscar información o interactuar con expertos agrícolas?
+6. ¿Qué tipo de asesoramiento considera más valioso para su granja: técnico, financiero, de gestión, u otro?
+7. ¿Con qué frecuencia cree que necesitaría asesoramiento especializado para resolver problemas específicos en su granja?
+8. ¿Qué formato de asesoramiento prefiere (por ejemplo, consultas en línea, reuniones presenciales, guías escritas)?
+9. ¿Ha tenido experiencias previas con asesores agrícolas? Si no, ¿qué esperaría de una asesoría con un experto?
+10. ¿Qué dificultades tiene para obtener el asesoramiento que necesita para su granja?
+11. ¿Qué cualidades le gustaría que tuviera una applicación para separación de asesorías para que sea útil para usted?
+12. ¿Cómo preferiría recibir seguimiento después de una sesión de asesoramiento (revisiones periódicas, informes o consultas adicionales)?
 
 **Segmemto Objetivo: Asesores experimentados**
 
