@@ -272,26 +272,26 @@ De esta forma, nosotros hemos definido los siguientes objetivos para nuestro pro
       <td>Se espera que este objetivo sea cumplido al terminar la implementación de la primera versión de la aplicación móvil. En caso no sea así, se espera que sea hasta antes de finalizar el mes de noviembre.</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Sebastian Paredes</td>
+      <td>Desarrollar y desplegar una API RESTful segura y escalable para manejar las operaciones CRUD de los datos de usuarios, asegurando que la API soporte varias solicitudes simultáneas sin afectar el rendimiento.</td>
+      <td>30/08/2024</td>
+      <td>20/09/2024</td>
+      <td>Se logrará la implementación de una API RESTful que maneje de manera eficiente las operaciones CRUD (Create, Read, Update, Delete) de los datos de usuarios. La API estará diseñada para ser segura y escalable, garantizando que pueda manejar múltiples solicitudes simultáneas sin comprometer el rendimiento.</td>
+      <td>Sí, las métricas clave incluyen el tiempo de respuesta de la API, la capacidad de soportar al menos 100 solicitudes concurrentes sin degradar el rendimiento.</td>
+      <td>Este objetivo es retador porque requiere un diseño arquitectónico robusto y la implementación de prácticas avanzadas de seguridad y escalabilidad. Además, implica pruebas exhaustivas bajo condiciones de carga para asegurar que la API mantenga su rendimiento, lo que va más allá de la simple creación de endpoints CRUD.</td>
+      <td>Está alineado con la estrategia de asegurar que AgroSupport sea una plataforma confiable y segura, capaz de escalar a medida que aumenta el número de usuarios y la complejidad de las operaciones, garantizando así la continuidad y crecimiento del servicio.</td>
+      <td>El objetivo se cumplirá al desplegar la API en un entorno de producción, después de haber pasado pruebas de carga y seguridad, y una vez que se haya demostrado que cumple con las métricas definidas.</td>
     </tr>
     <tr>
+      <td>Sebastian Paredes</td>
+      <td>Diseñar y desarrollar la vista para nuestro segmento objetivo "Granjero" en la aplicación, asegurando que ambas interfaces vayan acorde a las necesidades de nuestro usuario.</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Se logrará diseñar y desarrollar una vista específica para el segmento objetivo "Granjero" en la aplicación AgroSupport, que esté alineada con las necesidades y expectativas de los usuarios granjeros. La interfaz estará optimizada para ser intuitiva y fácil de usar, facilitando el acceso a las funcionalidades y servicios relevantes para ellos.</td>
+      <td>Sí, las métricas clave incluyen la satisfacción del usuario medida a través de encuestas, donde se buscará que al menos el 85% de los granjeros indiquen que la interfaz es fácil de usar y cumple con sus necesidades.</td>
+      <td>Este objetivo es retador porque implica comprender a fondo las necesidades de los granjeros y traducir esas necesidades en un diseño de interfaz efectivo y funcional.</td>
+      <td>Está alineado con la estrategia de AgroSupport de proporcionar una experiencia de usuario personalizada y efectiva, adaptada a las necesidades específicas del segmento de granjeros. Esto es crucial para mejorar la adopción y el uso de la aplicación por parte de este grupo objetivo.</td>
+      <td>El objetivo se cumplirá al finalizar el diseño y desarrollo de la vista para granjeros y tras recibir retroalimentación positiva en pruebas de usabilidad y satisfacción de los usuarios.</td>
     </tr>
     <tr>
       <td></td>
