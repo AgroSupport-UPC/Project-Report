@@ -285,8 +285,8 @@ De esta forma, nosotros hemos definido los siguientes objetivos para nuestro pro
     <tr>
       <td>Sebastian Paredes</td>
       <td>Diseñar y desarrollar la vista para nuestro segmento objetivo "Granjero" en la aplicación, asegurando que ambas interfaces vayan acorde a las necesidades de nuestro usuario.</td>
-      <td></td>
-      <td></td>
+      <td>20/08/2024</td>
+      <td>30/09/2024</td>
       <td>Se logrará diseñar y desarrollar una vista específica para el segmento objetivo "Granjero" en la aplicación AgroSupport, que esté alineada con las necesidades y expectativas de los usuarios granjeros. La interfaz estará optimizada para ser intuitiva y fácil de usar, facilitando el acceso a las funcionalidades y servicios relevantes para ellos.</td>
       <td>Sí, las métricas clave incluyen la satisfacción del usuario medida a través de encuestas, donde se buscará que al menos el 85% de los granjeros indiquen que la interfaz es fácil de usar y cumple con sus necesidades.</td>
       <td>Este objetivo es retador porque implica comprender a fondo las necesidades de los granjeros y traducir esas necesidades en un diseño de interfaz efectivo y funcional.</td>
