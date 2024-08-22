@@ -356,9 +356,9 @@ Brindar a los granjeros acceso fácil y directo a asesoría especializada, promo
 Liderar la innovación tecnológica para el sector agropecuario, promoviendo el bienestar animal y la sostenibilidad a través de tecnología accesible.
 
 **Logo de AgroSupport**
-
-<img src="img/agrosupport-logo.png" width="200">
-
+<p align="center">
+  <img src="img/agrosupport-logo.png" width="200">
+</p>
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -797,6 +797,93 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
 8. Después de una sesión de asesoría, ¿cómo suele hacer el seguimiento con el granjero? ¿Qué tan importante es este seguimiento para el éxito de la asesoría?
 
 ### 2.2.2. Registro de entrevistas
+
+**Segmento: Granjero con poca experiencia**
+
+**Entrevista 1**
+
+**Entrevistador:**
+
+**Entrevistado:**
+
+**Enlace a entrevista:**
+
+<img src="">
+
+**Resumen:**
+
+----
+
+**Entrevista 2**
+
+**Entrevistador:** Salvador Salinas
+
+**Entrevistado:** Anderson Gonza
+
+**Enlace a entrevista:** https://youtu.be/f_8SsNOV2Ew
+
+<img src="img/entrevista-granjero-2.png">
+
+**Resumen:** Anderson Gonza es un joven estudiante que suele ayudar a su padre en la gestión de una pequeña granja de cuyes. Comenta que necesita apoyo para conocer sobre ciertas técnicas para el cuidado de los animales y cultivos, así como sobre el clima, el cual influye bastante en la producción. Al comentarle sobre la idea de una app para recibir asesorías con expertos en este sector, mencionó que le sería muy útil a través de reuniones en línea o a través de un chat virtual. Asimismo, comenta que debería ser una aplicación fácil de usar y accesible para todos.
+
+----
+
+**Entrevista 3**
+
+**Entrevistador:**
+
+**Entrevistado:**
+
+**Enlace a entrevista:**
+
+<img src="">
+
+**Resumen:**
+
+-----
+
+**Segmento: Asesores experimentados**
+
+**Entrevista 1**
+
+**Entrevistador:**
+
+**Entrevistado:**
+
+**Enlace a entrevista:**
+
+<img src="">
+
+**Resumen:**
+
+----
+
+**Entrevista 2**
+
+**Entrevistador:** Salvador Salinas
+
+**Entrevistado:** Tamara García
+
+**Enlace a entrevista:** https://youtu.be/Xoqhu8TpxRc
+
+<img src="img/entrevista-asesor-2.png">
+
+**Resumen:** Tamara García es una potencial asesora con conocimientos en la gestión de una granja de mangos y está dispuesta a aconsejar a granjeros que necesiten apoyo. Su principal recurso es la experiencia que ha ganado gracias a su familia. Menciona que ya ha apoyado a otras personas anteriormente, pero han sido conocidos como familia y amigos. Igualmente, está interesada en poder ayudar a muchas más personas, brindando asesorías cada cierto tiempo cuando haya granjeros que necesiten.
+
+----
+
+**Entrevista 3**
+
+**Entrevistador:**
+
+**Entrevistado:**
+
+**Enlace a entrevista:**
+
+<img src="">
+
+**Resumen:**
+
 
 ### 2.2.3. Análisis de entrevistas
 
