@@ -822,7 +822,7 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
 
 **Enlace a entrevista:** https://youtu.be/f_8SsNOV2Ew
 
-<img src="img/entrevista-granjero-2.png">
+<img alt="Entrevista con Anderson Gonza" src="img/entrevista-granjero-2.png">
 
 **Resumen:** Anderson Gonza es un joven estudiante que suele ayudar a su padre en la gestión de una pequeña granja de cuyes. Comenta que necesita apoyo para conocer sobre ciertas técnicas para el cuidado de los animales y cultivos, así como sobre el clima, el cual influye bastante en la producción. Al comentarle sobre la idea de una app para recibir asesorías con expertos en este sector, mencionó que le sería muy útil a través de reuniones en línea o a través de un chat virtual. Asimismo, comenta que debería ser una aplicación fácil de usar y accesible para todos.
 
@@ -866,7 +866,7 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
 
 **Enlace a entrevista:** https://youtu.be/Xoqhu8TpxRc
 
-<img src="img/entrevista-asesor-2.png">
+<img alt="Entrevista con Tamara García" src="img/entrevista-asesor-2.png">
 
 **Resumen:** Tamara García es una potencial asesora con conocimientos en la gestión de una granja de mangos y está dispuesta a aconsejar a granjeros que necesiten apoyo. Su principal recurso es la experiencia que ha ganado gracias a su familia. Menciona que ya ha apoyado a otras personas anteriormente, pero han sido conocidos como familia y amigos. Igualmente, está interesada en poder ayudar a muchas más personas, brindando asesorías cada cierto tiempo cuando haya granjeros que necesiten.
 
@@ -892,17 +892,27 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
 
 ### 2.3.1. User Personas
 
-**Segmento Objetivo: Asesores experimentados**
-
-<img alt="Imagen de asesor experimentado" src="/img/segmento_objetivo_asesor.png" width="100%">
-
-**Segmento Objetivo: Granjeros con poca experiencia**
+**Segmento: Granjeros con poca experiencia**
 
 <img alt="Imagen de granjero con poca experiencia" src="/img/segmento_objetivo_granjero.png" width="100%">
+
+**Segmento: Asesores experimentados**
+
+<img alt="Imagen de asesor experimentado" src="/img/segmento_objetivo_asesor.png" width="100%">
 
 ### 2.3.2. User Task Matrix
 
 ### 2.3.3. User Journey Mapping
+
+El User Journey Mapping es una herramienta que permite visualizar el recorrido que un usuario sigue al interactuar con un producto o servicio, desde el primer contacto hasta la finalización de su objetivo. Este mapa identifica los puntos de interacción, emociones, necesidades, y problemas que enfrenta el usuario en cada etapa. El objetivo es comprender la experiencia del usuario para mejorar el diseño y ofrecer soluciones más efectivas.
+
+**Segmento: Granjeros con poca experiencia**
+
+<img alt="User Journey Mapping para Granjero" src="img/user-journey-mapping-farmer.png">
+
+**Segmento: Asesores experimentados**
+
+<img alt="User Journey Mapping para Asesor" src="img/user-journey-mapping-advisor.png">
 
 ### 2.3.4. Empathy Mapping
 
