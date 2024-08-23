@@ -892,6 +892,11 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
 
 ### 2.3.1. User Personas
 
+**Segmento Objetivo: Asesores experimentados**
+
+<img alt="Imagen de asesor" src="/img/segmento_objetivo_asesor.png" width="100">
+
+
 ### 2.3.2. User Task Matrix
 
 ### 2.3.3. User Journey Mapping
