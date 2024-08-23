@@ -766,7 +766,7 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
 5. ¿Qué navegador usa normalmente?
 6. ¿Qué dispositivo móvil tiene?
 
-**Segmemto Objetivo: Granjeros con poca experiencia**
+**Segmento Objetivo: Granjeros con poca experiencia**
 
 **Objetivo:** Entender las necesidades, desafíos y expectativas de granjeros con poca experiencia para adaptar AgroSupport a sus requerimientos específicos.
 
@@ -783,7 +783,7 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
 11. ¿Qué cualidades le gustaría que tuviera una aplicación para separación de asesorías para que sea útil para usted?
 12. ¿Cómo preferiría recibir seguimiento después de una sesión de asesoramiento (revisiones periódicas, informes o consultas adicionales)?
 
-**Segmemto Objetivo: Asesores experimentados**
+**Segmento Objetivo: Asesores experimentados**
 
 **Objetivo:** Comprender las necesidades y expectativas de los asesores para optimizar su uso de AgroSupport y mejorar su eficacia en la asesoría.
 
@@ -900,6 +900,8 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
 
 ### 2.3.5. As-is Scenario Mapping
 
+El As-Is Scenario Mapping es una herramienta que se utiliza para analizar y documentar el estado actual de los procesos y experiencias de los usuarios antes de la implementación de una nueva solución. En este proyecto, se enfoca en cómo los granjeros inexpertos y los asesores experimentados manejan sus necesidades de asesoramiento agrícola sin la aplicación móvil propuesta. Este mapeo es esencial para identificar los desafíos y las ineficiencias en los métodos actuales, proporcionando una base para comparar con los escenarios futuros (To-Be) y asegurar que la nueva solución realmente atienda las necesidades identificadas.
+
 **Segmento: Granjeros con poca experiencia**
 
 <table>
@@ -974,14 +976,87 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
   </tbody>
 </table>
 
-
 ## 2.4. Requirements Specification
 
 ### 2.4.1. To-Be Scenario Mapping
 
+El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y experiencias de los usuarios evolucionarán tras la implementación de una nueva solución. En este caso, se enfoca en cómo la aplicación móvil mejorará la forma en que los granjeros inexpertos acceden a asesorías especializadas y cómo los asesores experimentados encontrarán y se comunicarán con los granjeros. Este mapeo destaca las eficiencias, facilidades y beneficios que la aplicación aportará, permitiendo visualizar el futuro deseado y asegurando que la solución cumpla con las expectativas de los usuarios, resolviendo los desafíos identificados en el escenario As-Is.
+
+**Segmento: Granjeros con poca experiencia**
+
+<table>
+  <thead>
+    <tr>
+      <td>Phases</td>
+      <td>Enfrentamiento de problemas</td>
+      <td>Búsqueda de soluciones</td>
+      <td>Consulta con asesor</td>
+      <td>Toma de decisiones</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Doing</td>
+      <td>Los granjeros se encuentran con problemas en su granja que no saben cómo resolver.</td>
+      <td>Abren la aplicación, buscan asesores especializados para resolver el tipo de problema que enfrentan.</td>
+      <td>Seleccionan un asesor, agendan una consulta, y se comunican con él para discutir los detalles del problema y recibir recomendaciones específicas.</td>
+      <td>Utilizan la información y recomendaciones obtenidas para tomar decisiones informadas sobre cómo manejar el problema en su granja.</td>
+    </tr>
+    <tr>
+      <td>Thinking</td>
+      <td>"Tengo un problema serio, pero al menos sé que puedo encontrar a alguien que me ayude a solucionarlo de manera eficiente."</td>
+      <td>"Es bueno saber que hay expertos que entienden exactamente lo que necesito. Ahora puedo elegir al que mejor se ajuste a mis necesidades."</td>
+      <td>"Este asesor realmente entiende mi problema y me está dando consejos útiles que puedo aplicar de inmediato."</td>
+      <td>"Con el respaldo del asesor, puedo tomar decisiones que realmente mejorarán mi granja, y sé que puedo volver a consultar si tengo más dudas."</td>
+    </tr>
+    <tr>
+      <td>Feeling</td>
+      <td>Un poco de preocupación pero también esperanza, sabiendo que puede obtener ayuda rápidamente gracias a la aplicación.</td>
+      <td>Alivio al ver una lista clara de asesores disponibles con sus calificaciones y especializaciones.</td>
+      <td>Comprendido y apoyado, al recibir orientación personalizada que se adapta a su situación particular.</td>
+      <td>Confiado de que está tomando la mejor acción posible basada en el asesoramiento recibido.</td>
+    </tr>
+  </tbody>
+</table>
+
+**Segmento: Asesores experimentados**
+
+<table>
+  <thead>
+    <tr>
+      <td>Phases</td>
+      <td>Promoción de servicios</td>
+      <td>Contacto con granjeros</td>
+      <td>Realización de asesorías</td>
+      <td>Seguimiento</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Doing</td>
+      <td>Los asesor crean publicaciones con los servicios que ofrecen para llamar la atención de los granjeros.</td>
+      <td>Reciben notificaciones de solicitudes de asesoría de granjeros y revisan los detalles para saber la fecha y hora de la asesoría.</td>
+      <td>Realizan las sesiones de asesoría acordadas, y proporcionan recomendaciones y soluciones personalizadas durante la consulta.</td>
+      <td>Realiza un seguimiento con los granjeros a través de la aplicación, revisa los resultados obtenidos y ajusta recomendaciones si es necesario.</td>
+    </tr>
+    <tr>
+      <td>Thinking</td>
+      <td>"La aplicación me permite mostrar mis habilidades y experiencia de manera efectiva, lo que puede atraer a más granjeros que necesitan asesoría."</td>
+      <td>"La aplicación simplifica la gestión de solicitudes y el contacto inicial, permitiéndome organizar rápidamente las consultas y centrarme en la asesoría efectiva."</td>
+      <td>"La aplicación me ofrece una opción sencilla para unirme a una videoconferencia y poder realizar la asesoría, lo que me permite despreocuparme de otras coordinaciones."</td>
+      <td> "El seguimiento es fácil al poder contactar al granjero por la aplicación."</td>
+    </tr>
+    <tr>
+      <td>Feeling</td>
+      <td>Motivación al poder mostrar sus servicios de una manera efectiva y llamativa para recibir mayores ofertas de trabajo.</td>
+      <td>Alivio al poder gestionar todas las solicitudes de asesoría de manera sencilla.</td>
+      <td>Satisfecho al tener una plataforma que facilita un enlace para unirse a la videoconferencia donde se hará la asesoría sin mayores complicaciones.</td>
+      <td>Alivio al tener una herramienta que facilita el seguimiento y permite mantener una comunicación continua con los granjeros.</td>
+    </tr>
+  </tbody>
+</table>
+
 ### 2.4.2. User Stories
-
-
 
 ### 2.4.3. Impact Mapping
 
