@@ -894,13 +894,115 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
 
 **Segmento: Granjeros con poca experiencia**
 
-<img alt="Imagen de granjero con poca experiencia" src="/img/segmento_objetivo_granjero.png" width="100%">
+<img alt="Imagen de granjero con poca experiencia" src="img/segmento_objetivo_granjero.png" width="100%">
 
 **Segmento: Asesores experimentados**
 
-<img alt="Imagen de asesor experimentado" src="/img/segmento_objetivo_asesor.png" width="100%">
+<img alt="Imagen de asesor experimentado" src="img/segmento_objetivo_asesor.png" width="100%">
 
 ### 2.3.2. User Task Matrix
+
+El User Task Matrix es una herramienta que organiza y muestra las tareas que los usuarios deben realizar al interactuar con un producto o servicio. Esta matriz cruza las tareas de los usuarios con diferentes variables, como la frecuencia, la importancia, o el nivel de dificultad, para identificar qué funciones son más críticas y cómo priorizarlas en el diseño. Es útil para entender las necesidades de los usuarios y mejorar la experiencia al optimizar las tareas clave.
+
+<table>
+  <tr>
+    <th rowspan="2" valign="top"><b>Task Matrix</b></th>
+    <th colspan="2" valign="top"><b>Asesores</b></th>
+    <th colspan="2" valign="top"><b>Granjeros</b></th>
+  </tr>
+  <tr>
+    <td valign="top"><b>Frecuencia</b></td>
+    <td valign="top"><b>Importancia</b></td>
+    <td valign="top"><b>Frecuencia</b></td>
+    <td valign="top"><b>Importancia</b></td>
+  </tr>
+  <tr>
+    <td>Sembrar cultivos</td>
+    <td>Nunca</td>
+    <td>Ninguna</td>
+    <td>Diaria</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Proporcionar agua limpia</td>
+    <td>Nunca</td>
+    <td>Ninguna</td>
+    <td>Diaria</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Comprar suministros y alimentos</td>
+    <td>Nunca</td>
+    <td>Ninguna</td>
+    <td>Mensual</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Vender producciones</td>
+    <td>Nunca</td>
+    <td>Ninguna</td>
+    <td>Mensual</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Gestionar gastos y ganancias</td>
+    <td>Mensual</td>
+    <td>Media</td>
+    <td>Mensual</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Monitorear el estado de los cultivos</td>
+    <td>Mensual</td>
+    <td>Alta</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Investigar sobre nuevas prácticas agrícolas</td>
+    <td>Mensual</td>
+    <td>Media</td>
+    <td>Casi Nunca</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Realizar seguimiento y evaluación de progreso de granjas</td>
+    <td>Semanal</td>
+    <td>Alta</td>
+    <td>Semanal</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Participar de sesiones de asesoramiento</td>
+    <td>Mensual</td>
+    <td>Media</td>
+    <td>Mensual</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Resolver problemas específicos en las granjas</td>
+    <td>Según necesidad</td>
+    <td>Muy Alta</td>
+    <td>Según necesidad</td>
+    <td>Muy Alta</td>
+  </tr>
+  <tr>
+    <td>Desarrollar y/o asistir a sesiones de capacitación sobre técnicas agrícolas</td>
+    <td>A veces</td>
+    <td>Alta</td>
+    <td>A veces</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Evaluar las condiciones y necesidades de las granjas de forma presencial</td>
+    <td>Casi nunca</td>
+    <td>Alta</td>
+    <td>Diaria</td>
+    <td>Media</td>
+  </tr>
+</table>
+
+A partir de esta matriz, se ha logrado evidenciar que los asesores y granjeros tienen tareas con prioridades y frecuencias distintas, pero comparten algunas actividades clave, como resolver problemas específicos y realizar seguimiento semanal del progreso de la granja. Las tareas diarias de los granjeros, como sembrar, cuidar y monitorear los cultivos, son fundamentales para su trabajo, mientras que los asesores se enfocan más en el monitoreo, la evaluación y la capacitación. Este análisis sugiere que la plataforma debería ser flexible y adaptarse a las necesidades específicas de cada grupo, facilitando tanto la gestión diaria de la granja como el soporte especializado.
 
 ### 2.3.3. User Journey Mapping
 
