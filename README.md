@@ -894,8 +894,11 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
 
 **Segmento Objetivo: Asesores experimentados**
 
-<img alt="Imagen de asesor" src="/img/segmento_objetivo_asesor.png" width="100%">
+<img alt="Imagen de asesor experimentado" src="/img/segmento_objetivo_asesor.png" width="100%">
 
+**Segmento Objetivo: Granjeros con poca experiencia**
+
+<img alt="Imagen de granjero con poca experiencia" src="/img/segmento_objetivo_granjero.png" width="100%">
 
 ### 2.3.2. User Task Matrix
 
