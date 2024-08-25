@@ -802,15 +802,16 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
 
 **Entrevista 1**
 
-**Entrevistador:**
+**Entrevistador:** Sebastian Paredes
 
-**Entrevistado:**
+**Entrevistado:** Marcelo Neyra
 
-**Enlace a entrevista:**
+**Enlace a entrevista: ** https://youtu.be/rHiZI37vcJY
 
-<img src="">
+<img alt="Entrevista con Marcelo Neyra" src="img/entrevista-granjero-1.png">
 
 **Resumen:**
+Marcelo Neyra, un joven estudiante que asiste a su padre en la administración de una pequeña granja familiar, expresa que, en sus tareas diarias como regar el huerto o cuidar los animales, requiere apoyo y asesoramiento confiable. Al hablarle sobre la propuesta de una aplicación para recibir consejos de expertos en el ámbito agrícola, consideró que le sería de gran utilidad.
 
 ----
 
