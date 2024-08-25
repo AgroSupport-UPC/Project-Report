@@ -1184,10 +1184,84 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
 
 ### 2.4.2. User Stories
 
+<table>
+    <thead>
+      <tr>
+        <th style="width: 10%;">User Story ID</th>
+        <th style="width: 20%;">Título</th>
+        <th style="width: 25%;">Descripción</th>
+        <th style="width: 35%;">Criterios de aceptación</th>
+        <th style="width: 10%;">Relacionado con (Epic ID)</th>
+      </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>US01</td>
+        <td>Titulo</td>
+        <td>Descripcion</td>
+        <td>
+          <strong>Escenario 1: Ejemplo</strong><br>
+          <strong>Given</strong> el.<br>
+          <strong>And</strong> algo.
+          <br>
+          <strong>When</strong> algo.
+          <br>
+          <strong>Then</strong> algo.
+        </td>
+        <td>1</td>
+    </tr>
+        <tr>
+        <td>US02</td>
+        <td>Titulo</td>
+        <td>Descripcion</td>
+        <td>
+          <strong>Escenario 1: Ejemplo</strong><br>
+          <strong>Given</strong> el.<br>
+          <strong>And</strong> algo.
+          <br>
+          <strong>When</strong> algo.
+          <br>
+          <strong>Then</strong> algo.
+        </td>
+        <td>1</td>
+    </tr>
+  </tbody>
+</table>
+
 ### 2.4.3. Impact Mapping
+
+El Impact Mapping es una técnica estratégica que se utiliza para planificar y comunicar cómo un proyecto o producto contribuirá a alcanzar los objetivos de negocio. A través de esta herramienta, se identifican los Business Goals que se desean lograr, las Personas clave que influirán en estos objetivos, los Impacts que se espera de estas personas, y los Deliverables que se desarrollarán para generar esos impactos. Además, se detallan las User Stories que describen cómo los usuarios interactuarán con los entregables para lograr el impacto deseado. De esta manera, el Impact Mapping ayuda a alinear el desarrollo de productos con los objetivos estratégicos, asegurando que cada esfuerzo contribuya directamente al éxito del proyecto.
+
+**Segmento: Granjeros con poca experiencia**
+
+<img alt="Impact Map para Granjero" src="img/impact-mapping-farmer.png">
+
+**Segmento: Asesores experimentados**
+
+<img alt="Impact Map para Asesor" src="img/impact-mapping-advisor.png">
 
 ### 2.4.4. Product Backlog
 
+<table>
+    <thead>
+      <tr>
+        <th># Orden</th>
+        <th>User Story ID</th>
+        <th>Título</th>
+        <th>Descripción</th>
+        <th>Story Points (1/2/3/5/8)</th>
+      </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>1</td>
+        <td>US01</td>
+        <td>User Story</td>
+        <td>Ejemplo</td>
+        <td>1</td>
+    </tr>
+  </tbody>
+</table>
 
 # Capítulo 3: Arquitectura
 
