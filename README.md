@@ -452,10 +452,10 @@ Según un informe realizado (Ames, 2022), se ha identificado que el sector agrop
 |¿Podría AgroSupport ayudar a los granjeros en Perú a mejorar su rentabilidad mediante una gestión más eficiente de sus granjas?|
 
 **Problem Statement 3**
-|Nuestro producto tiene como objetivo facilitar el acceso a mercados y mejorar la comercialización de los productos en Perú.|
+|Nuestro producto tiene como objetivo proporcionar asesoramiento especializado a los granjeros en Perú.|
 |:--|
-|Hemos observado que muchos granjeros en Perú enfrentan dificultades para acceder a mercados y comercializar sus productos de manera efectiva.|
-|¿Podría AgroSupport ayudar a los granjeros en Perú a acceder a mercados y mejorar la comercialización de sus productos?|
+|Hemos observado que muchos granjeros en Perú enfrentan desafíos para obtener asesoramiento adecuado y especializado en la gestión de sus granjas.|
+|¿Cómo podría AgroSupport ayudar a los granjeros en Perú a acceder a asesorías especializadas para mejorar la gestión de sus granjas?|
 
 #### 1.2.2.2. Lean UX Assumptions.
 
@@ -515,13 +515,6 @@ Presentación de otros supuestos:
 | Cuando proporcionemos orientación y recursos específicos sobre prácticas sostenibles a través de AgroSupport y evaluemos la adopción de estas prácticas, viendo un aumento del 15% en el uso de prácticas sostenibles dentro de los primeros 6 meses de lanzamiento. |
 
 **Hypothesis Statement 3**
-
-| Creemos que al facilitar el acceso a mercados y mejorar la comercialización de los productos agricolas en Perú a través de AgroSupport, los granjeros aumentarán sus ventas y expandirán sus negocios. |
-| - |
-| Sabremos que esto es cierto… |
-| Cuando se establezcan conexiones efectivas con compradores y mercados a través de la plataforma, y se observe un aumento del 25% en las ventas de los granjeros en los primeros 6 meses de uso de la aplicación. |
-
-**Hypothesis Statement 4**
 
 | Creemos que al incentivar a los asesores con una nueva estructura de comisiones en AgroSupport, se incrementará el número de asesores activos y su satisfacción. |
 | - |
