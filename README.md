@@ -893,6 +893,8 @@ Marcelo Neyra, un joven estudiante que asiste a su padre en la administración d
 
 ### 2.3.1. User Personas
 
+El User Persona es una representación ficticia de un usuario ideal, construida a partir de datos reales y comportamientos observados. Esta descripción detalla sus características demográficas, objetivos, necesidades, desafíos y comportamientos en relación con un producto o servicio. En este caso, nos ha permitido representar de manera efectiva a nuestros dos segmentos objetivo, facilitando una comprensión más profunda de sus perfiles y necesidades.
+
 **Segmento: Granjeros con poca experiencia**
 
 <img alt="Imagen de granjero con poca experiencia" src="img/segmento_objetivo_granjero.png" width="100%">
