@@ -1018,6 +1018,16 @@ El User Journey Mapping es una herramienta que permite visualizar el recorrido q
 
 ### 2.3.4. Empathy Mapping
 
+El Empathy Mapping es una herramienta estratégica utilizada para comprender a los usuarios, en nuestro caso a los granjeros inexpertos y a los asesores experimentados. Al desarrollar un Empathy Map, se obtiene una visión integral de las necesidades, motivaciones, frustraciones y comportamientos de los usuarios al analizar lo que los usuarios piensan, sienten, dicen y hacen. De esta manera, se puede diseñar una solución más alineada con sus expectativas y mejorar su experiencia general con la aplicación.
+
+**Segmento: Granjeros con poca experiencia**
+
+<img alt="Empathy Map para Granjero" src="img/empathy-mapping-farmer.png">
+
+**Segmento: Asesores experimentados**
+
+<img alt="Empathy Map para Asesor" src="img/empathy-mapping-advisor.png">
+
 ### 2.3.5. As-is Scenario Mapping
 
 El As-Is Scenario Mapping es una herramienta que se utiliza para analizar y documentar el estado actual de los procesos y experiencias de los usuarios antes de la implementación de una nueva solución. En este proyecto, se enfoca en cómo los granjeros inexpertos y los asesores experimentados manejan sus necesidades de asesoramiento agrícola sin la aplicación móvil propuesta. Este mapeo es esencial para identificar los desafíos y las ineficiencias en los métodos actuales, proporcionando una base para comparar con los escenarios futuros (To-Be) y asegurar que la nueva solución realmente atienda las necesidades identificadas.
