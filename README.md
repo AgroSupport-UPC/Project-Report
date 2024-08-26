@@ -1197,16 +1197,32 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
   <tbody>
     <tr>
         <td>US01</td>
-        <td>Titulo</td>
+        <td>Visualización del catálogo de asesores</td>
         <td>Descripcion</td>
         <td>
-          <strong>Escenario 1: Ejemplo</strong><br>
-          <strong>Given</strong> el.<br>
-          <strong>And</strong> algo.
+          <strong>Escenario 1: Explorar catálogo de asesores</strong><br>
+          <strong>Given</strong> el granjero con poca experiencia quiere explorar el catálogo de asesores<br>
+          <strong>And</strong> se encuentra en el apartado de “Asesores”
           <br>
-          <strong>When</strong> algo.
+          <strong>When</strong> seleccione el botón “Catálogo de asesores”
           <br>
-          <strong>Then</strong> algo.
+          <strong>Then</strong> el sistema le mostrará una lista de todos los asesores disponibles en la aplicación
+          <br>
+          <strong>Escenario 2: Filtrar búsqueda de asesores</strong><br>
+          <strong>Given</strong> el granjero con poca experiencia quiere personalizar su búsqueda<br>
+          <strong>And</strong> se encuentra en el apartado de “Asesores”
+          <br>
+          <strong>When</strong> seleccione el botón de filtros
+          <br>
+          <strong>Then</strong>  el sistema le permitirá filtrar el catálogo de asesores por ubicación, experiencia o reputación
+          <br>
+          <strong>Escenario 3: Ver mis asesores</strong><br>
+          <strong>Given</strong> el granjero con poca experiencia desea ver los asesores a los que les solicitó un servicio para recibir una mentoría<br>
+          <strong>And</strong> se encuentra en el apartado de “Asesores”
+          <br>
+          <strong>When</strong> haga clic en el botón “Mis Asesores”
+          <br>
+          <strong>Then</strong> el sistema le mostrará una lista de todos los asesores a los que ha solicitado una cita
         </td>
         <td>1</td>
     </tr>
