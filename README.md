@@ -1180,21 +1180,15 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
         <td>
             <strong>Escenario 1: Explorar catálogo de asesores</strong><br>
             <strong>Given</strong> el granjero con poca experiencia quiere explorar el catálogo de asesores.<br>
-            <strong>And</strong> se encuentra en el apartado de “Asesores”.<br>
-            <strong>When</strong> seleccione el botón “Catálogo de asesores”.<br>
+            <strong>And</strong> se encuentra en la aplicación.<br>
+            <strong>When</strong> seleccione el botón relacionado con el “Catálogo de asesores”.<br>
             <strong>Then</strong> el sistema le mostrará una lista de todos los asesores disponibles en la aplicación.
             <br><br>
             <strong>Escenario 2: Filtrar búsqueda de asesores</strong><br>
             <strong>Given</strong> el granjero con poca experiencia quiere personalizar su búsqueda.<br>
             <strong>And</strong> se encuentra en el apartado de “Asesores”.<br>
             <strong>When</strong> seleccione el botón de filtros.<br>
-            <strong>Then</strong> el sistema le permitirá filtrar el catálogo de asesores por ubicación, experiencia o reputación.
-            <br><br>
-            <strong>Escenario 3: Ver mis asesores</strong><br>
-            <strong>Given</strong> el granjero con poca experiencia desea ver los asesores a los que les solicitó un servicio para recibir una mentoría.<br>
-            <strong>And</strong> se encuentra en el apartado de “Asesores”.<br>
-            <strong>When</strong> haga clic en el botón “Mis Asesores”.<br>
-            <strong>Then</strong> el sistema le mostrará una lista de todos los asesores a los que ha solicitado una cita.
+            <strong>Then</strong> el sistema le permitirá filtrar el catálogo de asesores por nombre o reputación.
         </td>
         <td>1</td>
     </tr>
@@ -1205,7 +1199,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
         <td>
             <strong>Escenario 1: Ver información de un asesor</strong><br>
             <strong>Given</strong> el granjero con poca experiencia quiere ver información de un asesor.<br>
-            <strong>And</strong> se encuentra en el apartado de “Asesores” en su dispositivo móvil.<br>
+            <strong>And</strong> se encuentra en el apartado del “Catálogo de Asesores” en su dispositivo móvil.<br>
             <strong>When</strong> seleccione al cuadro de un asesor en la interfaz móvil.<br>
             <strong>Then</strong> el sistema le mostrará la información del asesor como nombre, experiencia, calificación y reseñas de manera optimizada para móvil.
             <br><br>
@@ -1227,7 +1221,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
             <strong>Given</strong> el granjero con poca experiencia desea visualizar los horarios disponibles de un asesor elegido.<br>
             <strong>And</strong> se encuentra viendo la información del perfil de un asesor en su dispositivo móvil.<br>
             <strong>When</strong> haga clic en el botón “Reservar Cita” en la interfaz móvil.<br>
-            <strong>Then</strong> el sistema le mostrará una interfaz optimizada para móvil con los horarios disponibles del asesor.
+            <strong>Then</strong> el sistema le mostrará una interfaz con los horarios disponibles del asesor.
             <br><br>
             <strong>Escenario 2: Fallar al intentar visualizar horarios</strong><br>
             <strong>Given</strong> el granjero con poca experiencia desea visualizar los horarios disponibles del asesor elegido.<br>
@@ -1248,157 +1242,108 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
             <strong>And</strong> se encuentra en el apartado de “Horarios Disponibles” del perfil de un asesor en su dispositivo móvil.<br>
             <strong>When</strong> seleccione un horario disponible.<br>
             <strong>And</strong> complete los campos solicitados.<br>
-            <strong>And</strong> haga clic en el botón “Reservar Cita” en la interfaz móvil.<br>
-            <strong>Then</strong> el sistema le mostrará un mensaje de confirmación en la interfaz móvil.
+            <strong>And</strong> haga clic en el botón “Reservar Cita”.<br>
+            <strong>Then</strong> el sistema le mostrará un mensaje de confirmación.
             <br><br>
             <strong>Escenario 2: Fallar al programar cita</strong><br>
             <strong>Given</strong> el granjero con poca experiencia desea programar una cita.<br>
-            <strong>And</strong> se encuentra en el apartado de “Horarios Disponibles” del perfil de un asesor en su dispositivo móvil.<br>
+            <strong>And</strong> se encuentra en el apartado de “Horarios Disponibles” del perfil de un asesor.<br>
             <strong>When</strong> seleccione un horario disponible.<br>
             <strong>And</strong> se encuentra un error técnico o de conexión que impide completar la programación.<br>
-            <strong>Then</strong> el sistema le mostrará un mensaje de error sugiriendo contactar con soporte en la interfaz móvil.
+            <strong>Then</strong> el sistema le mostrará un mensaje de error.
         </td>
         <td>1</td>
     </tr>
     <tr>
         <td>US05</td>
-        <td>Notificación de citas al granjero</td>
-        <td>Como granjero con poca experiencia, quiero recibir notificaciones referentes al estado de mis citas para mantenerme al tanto de las asesorías que he solicitado.</td>
-        <td>
-            <strong>Escenario 1: Ver notificaciones de cita programadas con los asesores</strong><br>
-            <strong>Given</strong> el granjero con poca experiencia desea ver sus notificaciones de citas programadas.<br>
-            <strong>When</strong> se encuentre en el apartado de “Notificaciones” en su dispositivo móvil.<br>
-            <strong>Then</strong> el sistema le mostrará un mensaje que describe brevemente la solicitud de la cita programada.
-            <br><br>
-            <strong>Escenario 2: Aceptar notificación de cita programada con el asesor</strong><br>
-            <strong>Given</strong> el granjero con poca experiencia decide cerrar la notificación para liberar espacio y permitir la visualización de otras notificaciones.<br>
-            <strong>And</strong> se encuentra en la sección de "Notificaciones" del sistema en su dispositivo móvil.<br>
-            <strong>When</strong> haga clic en el botón "Aceptar" dentro de la notificación correspondiente a la cita programada con el asesor.<br>
-            <strong>Then</strong> el sistema eliminará la notificación de la lista de notificaciones.
-        </td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>US06</td>
-        <td>Notificación de citas al asesor</td>
-        <td>Como asesor, quiero recibir notificaciones de citas programadas por los criadores para mantenerme al tanto de mis ofertas laborales.</td>
-        <td>
-            <strong>Escenario 1: Ver notificaciones de cita programadas por criadores</strong><br>
-            <strong>Given</strong> el asesor desea ver sus notificaciones de citas programadas.<br>
-            <strong>When</strong> se encuentre en el apartado de “Notificaciones” en su dispositivo móvil.<br>
-            <strong>Then</strong> el sistema le mostrará un mensaje que describe brevemente la solicitud en la interfaz móvil.
-            <br><br>
-            <strong>Escenario 2: Aceptar notificación de cita programada con el criador</strong><br>
-            <strong>Given</strong> el asesor decide cerrar la notificación para liberar espacio y permitir la visualización de otras notificaciones.<br>
-            <strong>And</strong> se encuentra en la sección de "Notificaciones" del sistema en su dispositivo móvil.<br>
-            <strong>When</strong> haga clic en el botón "Aceptar" dentro de la notificación correspondiente a la cita programada con el criador en la interfaz móvil.<br>
-            <strong>Then</strong> el sistema eliminará la notificación de la lista en la interfaz móvil.
-        </td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>US07</td>
         <td>Calificación del asesor luego de una cita</td>
         <td>Como granjero con poca experiencia, quiero calificar al asesor luego de la consulta para ayudar a otros granjeros a tomar una decisión informada antes de separar una cita.</td>
         <td>
             <strong>Escenario 1: Calificar al asesor</strong><br>
             <strong>Given</strong> el granjero con poca experiencia desea hacer un feedback referente al servicio del asesor.<br>
-            <strong>And</strong> se encuentra en la vista de calificación del servicio en su dispositivo móvil.<br>
-            <strong>When</strong> haga clic en el botón “Calificar Servicio” en la interfaz móvil.<br>
-            <strong>Then</strong> el sistema le permitirá asignarle un número de estrellas y reseñar el servicio del asesor en la interfaz móvil.
+            <strong>And</strong> se encuentra en la vista de historial de asesorías.
+            <strong>And</strong> selecciona una asesoría sin reseña.
+            <br>
+            <strong>When</strong> haga clic en el botón “Calificar Servicio” en la interfaz.<br>
+            <strong>Then</strong> el sistema le permitirá asignarle un número de estrellas y reseñar el servicio del asesor.
             <br><br>
             <strong>Escenario 2: Omitir Calificación</strong><br>
             <strong>Given</strong> el granjero con poca experiencia no desea dar feedback al asesor referente al servicio.<br>
-            <strong>And</strong> se encuentra en la vista de calificación del servicio en su dispositivo móvil.<br>
-            <strong>When</strong> haga clic en el botón “Omitir calificación” en la interfaz móvil.<br>
-            <strong>Then</strong> el sistema le permitirá omitir la reseña en la interfaz móvil.
+            <strong>And</strong> se encuentra en la vista de historial de asesorías.
+            <strong>And</strong> selecciona una asesoría sin reseña.
+            <strong>When</strong> haga clic en el botón “Omitir Calificación” en la interfaz.<br>
+            <strong>Then</strong> el sistema le permitirá omitir la reseña.
         </td>
         <td>1</td>
     </tr>
     <tr>
-        <td>US08</td>
-        <td>Separación de fechas disponibles para asesoría</td>
-        <td>Como asesor, quiero poder seleccionar y separar las fechas y horas en las que estoy disponible para ofrecer asesorías para que los usuarios interesados puedan ver mis horarios disponibles y agendar una cita en un momento conveniente.</td>
+        <td>US06</td>
+        <td>Separación de horarios de disponibilidad para asesorías</td>
+        <td>Como asesor, quiero poder separar los horarios en las que estoy disponible para que los usuarios interesados puedan agendar una asesoría en un momento conveniente.</td>
         <td>
             <strong>Escenario 1: Registrar disponibilidad para asesorías</strong><br>
-            <strong>Given</strong> el asesor desea registrar sus fechas y horas disponibles para asesorías.<br>
-            <strong>And</strong> está visualizando la página de "Horario disponible" en su dispositivo móvil.<br>
-            <strong>When</strong> haga clic en el botón “Registrar nueva fecha” en la interfaz móvil.<br>
-            <strong>And</strong> complete los datos del nuevo horario disponible que tiene el asesor.<br>
-            <strong>Then</strong> el sistema actualizará y guardará las fechas y horas seleccionadas como disponibles en la interfaz móvil.
+            <strong>Given</strong> el asesor desea registrar su horario de disponibilidad para una asesoría.<br>
+            <strong>And</strong> está visualizando la sección de "Horarios disponibles" en su dispositivo.<br>
+            <strong>When</strong> haga clic en el botón para registrar un nuevo horario.<br>
+            <strong>And</strong> complete los datos del nuevo horario.<br>
+            <strong>Then</strong> el sistema actualizará y guardará los horarios y horas seleccionadas como disponibles en la interfaz móvil.
             <br><br>
             <strong>Escenario 2: Eliminar horario de disponibilidad para asesorías</strong><br>
             <strong>Given</strong> el asesor desea eliminar un horario de disponibilidad para asesorías.<br>
-            <strong>And</strong> está visualizando la página de "Horario disponible" en su dispositivo móvil.<br>
-            <strong>When</strong> haga clic en el botón “Eliminar” junto al horario que desea eliminar en la interfaz móvil.<br>
+            <strong>And</strong> está visualizando la página de "Horario disponible" en su dispositivo.<br>
+            <strong>When</strong> haga clic en el botón “Eliminar” relacionado al horario que desea eliminar.<br>
             <strong>And</strong> confirme la eliminación del horario.<br>
-            <strong>Then</strong> el sistema actualizará y eliminará el horario de disponibilidad seleccionado en la interfaz móvil.
+            <strong>Then</strong> el sistema eliminará el horario de disponibilidad seleccionado.
         </td>
         <td>1</td>
     </tr>
     <tr>
-        <td>US09</td>
+        <td>US07</td>
         <td>Gestión de publicaciones de asesores</td>
         <td>Como asesor, quiero hacer publicaciones referentes a mis trabajos para que los criadores tengan más confianza en mí.</td>
         <td>
             <strong>Escenario 1: Crear una nueva publicación</strong><br>
             <strong>Given</strong> el asesor desea crear una publicación.<br>
-            <strong>And</strong> está en el apartado de "Mis Publicaciones" en la Sidebar.<br>
-            <strong>When</strong> hace clic en el botón "Crear Publicación" de la Sidebar.<br>
+            <strong>And</strong> está en el apartado de sus publicaciones<br>
+            <strong>When</strong> hace clic en el botón "Crear Publicación" de la interfaz.<br>
             <strong>Then</strong> se le redirige a un formulario donde puede ingresar el contenido de su nueva publicación.<br>
             <strong>And</strong> después de completar el contenido, hace clic en el botón "Publicar".<br>
             <strong>Then</strong> el sistema le mostrará un mensaje de confirmación.
+            <strong>And</strong> el sistema publicará el contenido para que sea visible a los granjeros.
             <br><br>
             <strong>Escenario 2: Editar una publicación existente</strong><br>
             <strong>Given</strong> el asesor desea editar una publicación existente.<br>
-            <strong>And</strong> está en el apartado de "Mis Publicaciones" de la Sidebar.<br>
+            <strong>And</strong> está en el apartado de sus publicaciones<br>
             <strong>And</strong> tiene una publicación previamente creada.<br>
-            <strong>When</strong> selecciona la opción de editar en la publicación que desea modificar.<br>
+            <strong>When</strong> selecciona la opción de editar en la publicación.<br>
             <strong>Then</strong> se le redirige al formulario de edición donde puede modificar el contenido de la publicación.<br>
             <strong>And</strong> después de realizar los cambios deseados, hace clic en el botón "Guardar Cambios".<br>
             <strong>Then</strong> el sistema le mostrará un mensaje de confirmación y los cambios se reflejan en la publicación actualizada.
             <br><br>
             <strong>Escenario 3: Eliminar una publicación existente</strong><br>
             <strong>Given</strong> el asesor desea eliminar una publicación existente.<br>
-            <strong>And</strong> está en el apartado de "Mis Publicaciones" de la Sidebar.<br>
+            <strong>And</strong> está en el apartado de sus publicaciones<br>
             <strong>And</strong> tiene una publicación previamente creada.<br>
             <strong>When</strong> selecciona la opción de eliminar en la publicación que desea borrar.<br>
             <strong>Then</strong> el sistema le mostrará un mensaje de confirmación solicitando la confirmación de la eliminación.<br>
-            <strong>And</strong> después de confirmar, la publicación se elimina de su perfil y ya no está disponible para los criadores.
+            <strong>And</strong> después de confirmar, la publicación se elimina de su perfil y ya no está disponible para los granjeros.
         </td>
-        <td>1</td>
+        <td>2</td>
     </tr>
     <tr>
-        <td>US10</td>
+        <td>US08</td>
         <td>Visualización de publicaciones de los asesores</td>
-        <td>Como granjero con poca experiencia, quiero poder ver las publicaciones de la comunidad de asesores para obtener información útil y, si es necesario, solicitar asesoramiento en base a esas publicaciones.</td>
+        <td>Como granjero con poca experiencia, quiero poder ver las publicaciones de los asesores para obtener información útil y solicitar asesoramiento en base a esas publicaciones.</td>
         <td>
             <strong>Escenario 1: Visualizar publicaciones de asesores</strong><br>
-            <strong>Given</strong> el granjero con poca experiencia desea ver las publicaciones de la comunidad.<br>
-            <strong>When</strong> haga clic en el botón “Publicaciones” de la Sidebar.<br>
-            <strong>Then</strong> el sistema le mostrará una lista de las últimas publicaciones de la comunidad de asesores.
+            <strong>Given</strong> el granjero con poca experiencia desea ver las publicaciones de los asesores.<br>
+            <strong>When</strong> haga clic en el botón de publicaciones.<br>
+            <strong>Then</strong> el sistema le mostrará una lista de las publicaciones de los asesores.
         </td>
-        <td>1</td>
+        <td>2</td>
     </tr>
     <tr>
-        <td>US11</td>
-        <td>Disponibilidad y confiabilidad</td>
-        <td>Como usuario, quiero que la aplicación esté disponible siempre para acceder a ella en cualquier momento y sin interrupciones.</td>
-        <td>
-            <strong>Escenario 1: Acceso a la aplicación en todo momento</strong><br>
-            <strong>Given</strong> el usuario desea usar la aplicación en cualquier instante.<br>
-            <strong>When</strong> ingresa a la aplicación.<br>
-            <strong>Then</strong> la aplicación debe estar disponible y funcional, sin caídas ni errores que impidan el acceso.
-            <br><br>
-            <strong>Escenario 2: Acceso a la aplicación sin interrupciones</strong><br>
-            <strong>Given</strong> el usuario desea usar la aplicación en cualquier instante.<br>
-            <strong>When</strong> ingresa a la aplicación.<br>
-            <strong>Then</strong> la aplicación debe cargar rápidamente y gestionar el tráfico de manera eficiente para asegurar una experiencia de usuario fluida, evitando tiempos de carga prolongados o interrupciones en el servicio.
-        </td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>US12</td>
+        <td>US09</td>
         <td>Registro de un usuario nuevo</td>
         <td>Como usuario, quiero registrarme para acceder a las funciones de usuario.</td>
         <td>
@@ -1406,7 +1351,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
             <strong>Given</strong> el usuario desea registrarse en la aplicación.<br>
             <strong>And</strong> se encuentra en el apartado de “Registrarse”.<br>
             <strong>When</strong> complete el formulario de registro con su información personal.<br>
-            <strong>And</strong> seleccione su rol en la aplicación entre “Criador” o “Asesor”.<br>
+            <strong>And</strong> seleccione su rol en la aplicación entre “Granjero” o “Asesor”.<br>
             <strong>And</strong> los datos sean correctos según las validaciones establecidas.<br>
             <strong>Then</strong> la cuenta se creará exitosamente.
             <br><br>
@@ -1416,10 +1361,10 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
             <strong>Then</strong> la cuenta no se creará.<br>
             <strong>And</strong> recibirá un mensaje indicando el error en los datos ingresados.
         </td>
-        <td>1</td>
+        <td>3</td>
     </tr>
     <tr>
-        <td>US13</td>
+        <td>US10</td>
         <td>Inicio de sesión</td>
         <td>Como usuario quiero acceder a mi cuenta registrada para acceder a las funciones de usuario.</td>
         <td>
@@ -1444,10 +1389,10 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
             <strong>Then</strong> recibirá un mensaje que le informe que ha excedido el número de intentos permitidos.<br>
             <strong>And</strong> su cuenta será bloqueada temporalmente.
         </td>
-        <td>1</td>
+        <td>3</td>
     </tr>
     <tr>
-        <td>US14</td>
+        <td>US11</td>
         <td>Recuperación de contraseña</td>
         <td>Como usuario quiero poder recuperar mi contraseña para acceder a mi cuenta.</td>
         <td>
@@ -1458,42 +1403,146 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
             <strong>And</strong> coloque su correo vinculado a la cuenta.<br>
             <strong>Then</strong> se le enviará un correo para que cambie su contraseña.
         </td>
-        <td>1</td>
+        <td>3</td>
     </tr>
     <tr>
-    <td>US15</td>
-    <td>Recuperación de contraseña</td>
-    <td>Como usuario quiero poder recuperar mi contraseña para acceder a mi cuenta.</td>
-    <td>
+      <td>US12</td>
+      <td>Recuperación de contraseña</td>
+      <td>Como usuario quiero poder recuperar mi contraseña para acceder a mi cuenta.</td>
+      <td>
         <strong>Escenario 1: Recuperación de contraseña</strong><br>
         <strong>Given</strong> el usuario olvidó su contraseña.<br>
         <strong>When</strong> se dirija a la sección de “Inicio de sesión”.<br>
         <strong>And</strong> seleccione “olvidé mi contraseña”.<br>
         <strong>And</strong> coloque su correo vinculado a la cuenta.<br>
         <strong>Then</strong> se le enviará un correo para que cambie su contraseña.
-    </td>
-    <td>1</td>
+      </td>
+      <td>3</td>
     </tr>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <tr>
+      <td>US13</td>
+      <td>Notificación al usuario</td>
+      <td>Como usuario de la aplicación, quiero recibir notificaciones referentes al estado de las asesorias u otra información relevante para mantenerme informado.</td>
+      <td>
+        <strong>Escenario 1: Recibir notificaciones de asesorías programadas</strong><br>
+        <strong>Given</strong> el usuario está registrado en la aplicación.<br>
+        <strong>When</strong> se aproxime la fecha de una asesoría.<br>
+        <strong>Then</strong> el sistema le enviará una notificación a su dispositivo indicando la proximidad de la asesoría.
+        <br><br>
+        <strong>Escenario 2: Recibir notificaciones de información relevante</strong><br>
+        <strong>Given</strong> el usuario está registrado en la aplicación.<br>
+        <strong>When</strong> se genere información relevante para el usuario, como cambios en la política de privacidad, actualizaciones importantes, o nuevas funcionalidades.<br>
+        <strong>Then</strong> el sistema le enviará una notificación a su dispositivo indicando la relevancia de dicha información.
+      </td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>US14</td>
+      <td>Disponibilidad y confiabilidad</td>
+      <td>Como usuario, quiero que la aplicación esté disponible siempre para acceder a ella en cualquier momento y sin interrupciones.</td>
+      <td>
+        <strong>Escenario 1: Acceso a la aplicación en todo momento</strong><br>
+        <strong>Given</strong> el usuario desea usar la aplicación en cualquier instante.<br>
+        <strong>When</strong> ingresa a la aplicación.<br>
+        <strong>Then</strong> la aplicación debe estar disponible y funcional, sin caídas ni errores que impidan el acceso.
+        <br><br>
+        <strong>Escenario 2: Acceso a la aplicación sin interrupciones</strong><br>
+        <strong>Given</strong> el usuario desea usar la aplicación en cualquier instante.<br>
+        <strong>When</strong> ingresa a la aplicación.<br>
+        <strong>Then</strong> la aplicación debe cargar rápidamente y gestionar el tráfico de manera eficiente para asegurar una experiencia de usuario fluida, evitando tiempos de carga prolongados o interrupciones en el servicio.
+      </td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>US15</td>
+      <td>Visualización de la sección de inicio de la Landing Page</td>
+      <td>Como potencial usuario quiero acceder a una página de inicio para conocer la idea principal de la aplicación y ver un diseño agradable.</td>
+      <td>
+        <strong>Escenario 1: Visualización de página de inicio</strong><br>
+        <strong>Given</strong> el usuario desea conocer sobre la aplicación.<br>
+        <strong>When</strong> ingresa al Landing Page.<br>
+        <strong>Then</strong> se mostrará la página inicial sencilla que da a entender la idea principal.
+      </td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>US16</td>
+      <td>Visualización de la sección 'Acerca de' de la Landing Page</td>
+      <td>Como potencial usuario quiero acceder a una página sobre el problema que resuelve para conocer el propósito de la aplicación.</td>
+      <td>
+        <strong>Escenario 1: Visualización de la sección</strong><br>
+        <strong>Given</strong> el usuario desea conocer sobre el problema que resuelve la aplicación.<br>
+        <strong>When</strong> ingresa al Landing Page.<br>
+        <strong>And</strong> ingresa a la sección 'Acerca De'.<br>
+        <strong>Then</strong> se mostrará la página Acerca De, en la que se detalla la problemática que resolverá la aplicación.
+      </td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>US16</td>
+      <td>Visualización de la sección 'Sobre Nosotros' de la Landing Page</td>
+      <td>Como potencial usuario quiero acceder a una página sobre la startup para conocer el propósito de la empresa detrás de la aplicación.</td>
+      <td>
+        <strong>Escenario 1: Visualización de la sección</strong><br>
+        <strong>Given</strong> el usuario desea conocer sobre la empresa detrás de la aplicación.<br>
+        <strong>When</strong> ingresa al Landing Page.<br>
+        <strong>And</strong> ingresa a la sección 'Sobre Nosotros'.<br>
+        <strong>Then</strong> se mostrará la página Sobre Nosotros, en la que detalla información sobre la startup, su misión y visión.
+      </td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>US17</td>
+      <td>Visualización de la sección 'Características' de la Landing Page</td>
+      <td>Como potencial usuario quiero acceder a una página sobre las características para conocer las principales funcionalidades de la aplicación.</td>
+      <td>
+        <strong>Escenario 1: Visualización de la sección</strong><br>
+        <strong>Given</strong> el usuario desea conocer sobre las características de la aplicación.<br>
+        <strong>When</strong> ingresa al Landing Page.<br>
+        <strong>And</strong> ingresa a la sección 'Características'.<br>
+        <strong>Then</strong> se mostrará la página Características en la que detalla información sobre las funcionalidades principales que ofrece la aplicación.
+      </td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>US17</td>
+      <td>Visualización de la sección 'Contacto' de la Landing Page</td>
+      <td>Como potencial usuario quiero acceder a una página de contacto para poder contactar con la empresa en caso tenga algún problema, duda o sugerencia.</td>
+      <td>
+        <strong>Escenario 1: Visualización de la sección</strong><br>
+        <strong>Given</strong> el usuario desea contactar con el área de soporte de la empresa.<br>
+        <strong>When</strong> ingresa al Landing Page.<br>
+        <strong>And</strong> ingresa a la sección 'Contacto'.<br>
+        <strong>Then</strong> se mostrará la página Contacto, en la que se muestra los medios de contacto que puede usar el usuario para hacer consultas.
+      </td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>US18</td>
+      <td>Uso de un API para videollamadas</td>
+      <td>Como desarrollador quiero integrar la creación de videollamadas utilizando la API de Jitsi Meet para facilitar las asesorías en la aplicación.</td>
+      <td>
+        <strong>Escenario 1: Creación de videollamada</strong><br>
+        <strong>Given</strong> el usuario tiene una asesoría pendiente.<br>
+        <strong>When</strong> seleccione la opción de ingresar a la asesoría.<br>
+        <strong>Then</strong> el sistema lo redireccionará a un enlace con la videollamada de Jitsi Meet para que el usuario acceda a la asesoría.
+      </td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>US19</td>
+      <td>Uso de un API para alojar imágenes</td>
+      <td>Como desarrollador quiero integrar la API de almacenamiento de Firebase para que los usuarios puedan subir y visualizar sus imágenes de foto de perfil y publicaciones.</td>
+      <td>
+        <strong>Escenario 1: Creación de videollamada</strong><br>
+        <strong>Given</strong> el usuario desea subir una imagen en nuestra plataforma.
+        <br>
+        <strong>When</strong> se reciba la imagen en el formato compatible.
+        <br>
+        <strong>Then</strong>  el sistema sube la imagen usando la API del almacenamiento de Firebase para generar el enlace de visualización.
+      </td>
+      <td>5</td>
+    </tr>
   </tbody>
 </table>
 
