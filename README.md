@@ -818,15 +818,15 @@ Marcelo Neyra, un joven estudiante que asiste a su padre en la administración d
 
 **Entrevista 1**
 
-**Entrevistador:**
+**Entrevistador:** Piero Delgado
 
-**Entrevistado:**
+**Entrevistado:** Adrián Espinoza
 
-**Enlace a entrevista:**
+**Enlace a entrevista:** https://youtu.be/ANKhs9e_x5E
 
-<img src="">
+<img alt="Entrevista con Adrian Espinoza" src="img/entrevista-asesor-1.png">
 
-**Resumen:**
+**Resumen:** Adrián ha estado involucrado en la crianza de cuyes desde joven por su familia y recientemente ha empezado a ofrecer asesoramiento a otras familias en alimentación, manejo sanitario y selección de razas de cuyes. Por ello, decidió estudiar Medicina Veterinaria en Arequipa para aprender más de la crianza de animales. Durante la entrevista, destacó los desafíos comunes que enfrentan los criadores principiantes, como el manejo de la alimentación y la prevención de enfermedades. Actualmente, utiliza principalmente su conocimiento personal y recursos en línea para brindar asesoramiento, pero está interesado en explorar nuevas herramientas como aplicaciones.
 
 ----
 
