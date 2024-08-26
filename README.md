@@ -1300,7 +1300,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
     <tr>
         <td>US07</td>
         <td>Gestión de publicaciones de asesores</td>
-        <td>Como asesor, quiero hacer publicaciones referentes a mis trabajos para que los criadores tengan más confianza en mí.</td>
+        <td>Como asesor, quiero hacer publicaciones referentes a mis trabajos para tener una mayor visibilidad con los granjeros inexpertos.</td>
         <td>
             <strong>Escenario 1: Crear una nueva publicación</strong><br>
             <strong>Given</strong> el asesor desea crear una publicación.<br>
