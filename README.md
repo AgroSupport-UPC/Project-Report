@@ -1198,49 +1198,324 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
     <tr>
         <td>US01</td>
         <td>Visualización del catálogo de asesores</td>
-        <td>Descripcion</td>
+        <td>Como granjero con poca experiencia, quiero explorar el catálogo de asesores para conocer quiénes me pueden apoyar con asesorías.</td>
         <td>
-          <strong>Escenario 1: Explorar catálogo de asesores</strong><br>
-          <strong>Given</strong> el granjero con poca experiencia quiere explorar el catálogo de asesores<br>
-          <strong>And</strong> se encuentra en el apartado de “Asesores”
-          <br>
-          <strong>When</strong> seleccione el botón “Catálogo de asesores”
-          <br>
-          <strong>Then</strong> el sistema le mostrará una lista de todos los asesores disponibles en la aplicación
-          <br>
-          <strong>Escenario 2: Filtrar búsqueda de asesores</strong><br>
-          <strong>Given</strong> el granjero con poca experiencia quiere personalizar su búsqueda<br>
-          <strong>And</strong> se encuentra en el apartado de “Asesores”
-          <br>
-          <strong>When</strong> seleccione el botón de filtros
-          <br>
-          <strong>Then</strong>  el sistema le permitirá filtrar el catálogo de asesores por ubicación, experiencia o reputación
-          <br>
-          <strong>Escenario 3: Ver mis asesores</strong><br>
-          <strong>Given</strong> el granjero con poca experiencia desea ver los asesores a los que les solicitó un servicio para recibir una mentoría<br>
-          <strong>And</strong> se encuentra en el apartado de “Asesores”
-          <br>
-          <strong>When</strong> haga clic en el botón “Mis Asesores”
-          <br>
-          <strong>Then</strong> el sistema le mostrará una lista de todos los asesores a los que ha solicitado una cita
+            <strong>Escenario 1: Explorar catálogo de asesores</strong><br>
+            <strong>Given</strong> el granjero con poca experiencia quiere explorar el catálogo de asesores.<br>
+            <strong>And</strong> se encuentra en el apartado de “Asesores”.<br>
+            <strong>When</strong> seleccione el botón “Catálogo de asesores”.<br>
+            <strong>Then</strong> el sistema le mostrará una lista de todos los asesores disponibles en la aplicación.
+            <br><br>
+            <strong>Escenario 2: Filtrar búsqueda de asesores</strong><br>
+            <strong>Given</strong> el granjero con poca experiencia quiere personalizar su búsqueda.<br>
+            <strong>And</strong> se encuentra en el apartado de “Asesores”.<br>
+            <strong>When</strong> seleccione el botón de filtros.<br>
+            <strong>Then</strong> el sistema le permitirá filtrar el catálogo de asesores por ubicación, experiencia o reputación.
+            <br><br>
+            <strong>Escenario 3: Ver mis asesores</strong><br>
+            <strong>Given</strong> el granjero con poca experiencia desea ver los asesores a los que les solicitó un servicio para recibir una mentoría.<br>
+            <strong>And</strong> se encuentra en el apartado de “Asesores”.<br>
+            <strong>When</strong> haga clic en el botón “Mis Asesores”.<br>
+            <strong>Then</strong> el sistema le mostrará una lista de todos los asesores a los que ha solicitado una cita.
         </td>
         <td>1</td>
     </tr>
-        <tr>
+    <tr>
         <td>US02</td>
-        <td>Titulo</td>
-        <td>Descripcion</td>
+        <td>Visualización de información de un asesor</td>
+        <td>Como granjero con poca experiencia, quiero ver la información de un asesor para tomar una decisión informada antes de separar una cita.</td>
         <td>
-          <strong>Escenario 1: Ejemplo</strong><br>
-          <strong>Given</strong> el.<br>
-          <strong>And</strong> algo.
-          <br>
-          <strong>When</strong> algo.
-          <br>
-          <strong>Then</strong> algo.
+            <strong>Escenario 1: Ver información de un asesor</strong><br>
+            <strong>Given</strong> el granjero con poca experiencia quiere ver información de un asesor.<br>
+            <strong>And</strong> se encuentra en el apartado de “Asesores” en su dispositivo móvil.<br>
+            <strong>When</strong> seleccione al cuadro de un asesor en la interfaz móvil.<br>
+            <strong>Then</strong> el sistema le mostrará la información del asesor como nombre, experiencia, calificación y reseñas de manera optimizada para móvil.
+            <br><br>
+            <strong>Escenario 2: Fallar al visualizar la información del asesor</strong><br>
+            <strong>Given</strong> el granjero con poca experiencia quiere ver información relevante del asesor.<br>
+            <strong>And</strong> se encuentra en el apartado de “Asesores” en su dispositivo móvil.<br>
+            <strong>When</strong> seleccione al cuadro de un asesor en la interfaz móvil.<br>
+            <strong>And</strong> se encuentre con un error al cargar la información.<br>
+            <strong>Then</strong> el sistema le mostrará un mensaje de error de carga en la interfaz móvil.
         </td>
         <td>1</td>
     </tr>
+    <tr>
+        <td>US03</td>
+        <td>Visualización de horarios de asesores</td>
+        <td>Como granjero con poca experiencia, quiero ver los horarios disponibles de los asesores en mi móvil para seleccionar un horario que se ajuste a mi agenda.</td>
+        <td>
+            <strong>Escenario 1: Visualizar horarios disponibles</strong><br>
+            <strong>Given</strong> el granjero con poca experiencia desea visualizar los horarios disponibles de un asesor elegido.<br>
+            <strong>And</strong> se encuentra viendo la información del perfil de un asesor en su dispositivo móvil.<br>
+            <strong>When</strong> haga clic en el botón “Reservar Cita” en la interfaz móvil.<br>
+            <strong>Then</strong> el sistema le mostrará una interfaz optimizada para móvil con los horarios disponibles del asesor.
+            <br><br>
+            <strong>Escenario 2: Fallar al intentar visualizar horarios</strong><br>
+            <strong>Given</strong> el granjero con poca experiencia desea visualizar los horarios disponibles del asesor elegido.<br>
+            <strong>And</strong> se encuentra viendo la información del perfil de un asesor en su dispositivo móvil.<br>
+            <strong>When</strong> haga clic en el botón “Reservar Cita” en la interfaz móvil.<br>
+            <strong>And</strong> el asesor no tenga horarios disponibles.<br>
+            <strong>Then</strong> el sistema le mostrará un mensaje de error “El asesor no tiene horarios disponibles” en la interfaz móvil.
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US04</td>
+        <td>Programación de citas con asesores</td>
+        <td>Como granjero con poca experiencia, quiero programar una cita con un asesor para recibir orientación personalizada en el sector agropecuario.</td>
+        <td>
+            <strong>Escenario 1: Programar cita</strong><br>
+            <strong>Given</strong> el granjero con poca experiencia desea programar una cita.<br>
+            <strong>And</strong> se encuentra en el apartado de “Horarios Disponibles” del perfil de un asesor en su dispositivo móvil.<br>
+            <strong>When</strong> seleccione un horario disponible.<br>
+            <strong>And</strong> complete los campos solicitados.<br>
+            <strong>And</strong> haga clic en el botón “Reservar Cita” en la interfaz móvil.<br>
+            <strong>Then</strong> el sistema le mostrará un mensaje de confirmación en la interfaz móvil.
+            <br><br>
+            <strong>Escenario 2: Fallar al programar cita</strong><br>
+            <strong>Given</strong> el granjero con poca experiencia desea programar una cita.<br>
+            <strong>And</strong> se encuentra en el apartado de “Horarios Disponibles” del perfil de un asesor en su dispositivo móvil.<br>
+            <strong>When</strong> seleccione un horario disponible.<br>
+            <strong>And</strong> se encuentra un error técnico o de conexión que impide completar la programación.<br>
+            <strong>Then</strong> el sistema le mostrará un mensaje de error sugiriendo contactar con soporte en la interfaz móvil.
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US05</td>
+        <td>Notificación de citas al granjero</td>
+        <td>Como granjero con poca experiencia, quiero recibir notificaciones referentes al estado de mis citas para mantenerme al tanto de las asesorías que he solicitado.</td>
+        <td>
+            <strong>Escenario 1: Ver notificaciones de cita programadas con los asesores</strong><br>
+            <strong>Given</strong> el granjero con poca experiencia desea ver sus notificaciones de citas programadas.<br>
+            <strong>When</strong> se encuentre en el apartado de “Notificaciones” en su dispositivo móvil.<br>
+            <strong>Then</strong> el sistema le mostrará un mensaje que describe brevemente la solicitud de la cita programada.
+            <br><br>
+            <strong>Escenario 2: Aceptar notificación de cita programada con el asesor</strong><br>
+            <strong>Given</strong> el granjero con poca experiencia decide cerrar la notificación para liberar espacio y permitir la visualización de otras notificaciones.<br>
+            <strong>And</strong> se encuentra en la sección de "Notificaciones" del sistema en su dispositivo móvil.<br>
+            <strong>When</strong> haga clic en el botón "Aceptar" dentro de la notificación correspondiente a la cita programada con el asesor.<br>
+            <strong>Then</strong> el sistema eliminará la notificación de la lista de notificaciones.
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US06</td>
+        <td>Notificación de citas al asesor</td>
+        <td>Como asesor, quiero recibir notificaciones de citas programadas por los criadores para mantenerme al tanto de mis ofertas laborales.</td>
+        <td>
+            <strong>Escenario 1: Ver notificaciones de cita programadas por criadores</strong><br>
+            <strong>Given</strong> el asesor desea ver sus notificaciones de citas programadas.<br>
+            <strong>When</strong> se encuentre en el apartado de “Notificaciones” en su dispositivo móvil.<br>
+            <strong>Then</strong> el sistema le mostrará un mensaje que describe brevemente la solicitud en la interfaz móvil.
+            <br><br>
+            <strong>Escenario 2: Aceptar notificación de cita programada con el criador</strong><br>
+            <strong>Given</strong> el asesor decide cerrar la notificación para liberar espacio y permitir la visualización de otras notificaciones.<br>
+            <strong>And</strong> se encuentra en la sección de "Notificaciones" del sistema en su dispositivo móvil.<br>
+            <strong>When</strong> haga clic en el botón "Aceptar" dentro de la notificación correspondiente a la cita programada con el criador en la interfaz móvil.<br>
+            <strong>Then</strong> el sistema eliminará la notificación de la lista en la interfaz móvil.
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US07</td>
+        <td>Calificación del asesor luego de una cita</td>
+        <td>Como granjero con poca experiencia, quiero calificar al asesor luego de la consulta para ayudar a otros granjeros a tomar una decisión informada antes de separar una cita.</td>
+        <td>
+            <strong>Escenario 1: Calificar al asesor</strong><br>
+            <strong>Given</strong> el granjero con poca experiencia desea hacer un feedback referente al servicio del asesor.<br>
+            <strong>And</strong> se encuentra en la vista de calificación del servicio en su dispositivo móvil.<br>
+            <strong>When</strong> haga clic en el botón “Calificar Servicio” en la interfaz móvil.<br>
+            <strong>Then</strong> el sistema le permitirá asignarle un número de estrellas y reseñar el servicio del asesor en la interfaz móvil.
+            <br><br>
+            <strong>Escenario 2: Omitir Calificación</strong><br>
+            <strong>Given</strong> el granjero con poca experiencia no desea dar feedback al asesor referente al servicio.<br>
+            <strong>And</strong> se encuentra en la vista de calificación del servicio en su dispositivo móvil.<br>
+            <strong>When</strong> haga clic en el botón “Omitir calificación” en la interfaz móvil.<br>
+            <strong>Then</strong> el sistema le permitirá omitir la reseña en la interfaz móvil.
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US08</td>
+        <td>Separación de fechas disponibles para asesoría</td>
+        <td>Como asesor, quiero poder seleccionar y separar las fechas y horas en las que estoy disponible para ofrecer asesorías para que los usuarios interesados puedan ver mis horarios disponibles y agendar una cita en un momento conveniente.</td>
+        <td>
+            <strong>Escenario 1: Registrar disponibilidad para asesorías</strong><br>
+            <strong>Given</strong> el asesor desea registrar sus fechas y horas disponibles para asesorías.<br>
+            <strong>And</strong> está visualizando la página de "Horario disponible" en su dispositivo móvil.<br>
+            <strong>When</strong> haga clic en el botón “Registrar nueva fecha” en la interfaz móvil.<br>
+            <strong>And</strong> complete los datos del nuevo horario disponible que tiene el asesor.<br>
+            <strong>Then</strong> el sistema actualizará y guardará las fechas y horas seleccionadas como disponibles en la interfaz móvil.
+            <br><br>
+            <strong>Escenario 2: Eliminar horario de disponibilidad para asesorías</strong><br>
+            <strong>Given</strong> el asesor desea eliminar un horario de disponibilidad para asesorías.<br>
+            <strong>And</strong> está visualizando la página de "Horario disponible" en su dispositivo móvil.<br>
+            <strong>When</strong> haga clic en el botón “Eliminar” junto al horario que desea eliminar en la interfaz móvil.<br>
+            <strong>And</strong> confirme la eliminación del horario.<br>
+            <strong>Then</strong> el sistema actualizará y eliminará el horario de disponibilidad seleccionado en la interfaz móvil.
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US09</td>
+        <td>Gestión de publicaciones de asesores</td>
+        <td>Como asesor, quiero hacer publicaciones referentes a mis trabajos para que los criadores tengan más confianza en mí.</td>
+        <td>
+            <strong>Escenario 1: Crear una nueva publicación</strong><br>
+            <strong>Given</strong> el asesor desea crear una publicación.<br>
+            <strong>And</strong> está en el apartado de "Mis Publicaciones" en la Sidebar.<br>
+            <strong>When</strong> hace clic en el botón "Crear Publicación" de la Sidebar.<br>
+            <strong>Then</strong> se le redirige a un formulario donde puede ingresar el contenido de su nueva publicación.<br>
+            <strong>And</strong> después de completar el contenido, hace clic en el botón "Publicar".<br>
+            <strong>Then</strong> el sistema le mostrará un mensaje de confirmación.
+            <br><br>
+            <strong>Escenario 2: Editar una publicación existente</strong><br>
+            <strong>Given</strong> el asesor desea editar una publicación existente.<br>
+            <strong>And</strong> está en el apartado de "Mis Publicaciones" de la Sidebar.<br>
+            <strong>And</strong> tiene una publicación previamente creada.<br>
+            <strong>When</strong> selecciona la opción de editar en la publicación que desea modificar.<br>
+            <strong>Then</strong> se le redirige al formulario de edición donde puede modificar el contenido de la publicación.<br>
+            <strong>And</strong> después de realizar los cambios deseados, hace clic en el botón "Guardar Cambios".<br>
+            <strong>Then</strong> el sistema le mostrará un mensaje de confirmación y los cambios se reflejan en la publicación actualizada.
+            <br><br>
+            <strong>Escenario 3: Eliminar una publicación existente</strong><br>
+            <strong>Given</strong> el asesor desea eliminar una publicación existente.<br>
+            <strong>And</strong> está en el apartado de "Mis Publicaciones" de la Sidebar.<br>
+            <strong>And</strong> tiene una publicación previamente creada.<br>
+            <strong>When</strong> selecciona la opción de eliminar en la publicación que desea borrar.<br>
+            <strong>Then</strong> el sistema le mostrará un mensaje de confirmación solicitando la confirmación de la eliminación.<br>
+            <strong>And</strong> después de confirmar, la publicación se elimina de su perfil y ya no está disponible para los criadores.
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US10</td>
+        <td>Visualización de publicaciones de los asesores</td>
+        <td>Como granjero con poca experiencia, quiero poder ver las publicaciones de la comunidad de asesores para obtener información útil y, si es necesario, solicitar asesoramiento en base a esas publicaciones.</td>
+        <td>
+            <strong>Escenario 1: Visualizar publicaciones de asesores</strong><br>
+            <strong>Given</strong> el granjero con poca experiencia desea ver las publicaciones de la comunidad.<br>
+            <strong>When</strong> haga clic en el botón “Publicaciones” de la Sidebar.<br>
+            <strong>Then</strong> el sistema le mostrará una lista de las últimas publicaciones de la comunidad de asesores.
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US11</td>
+        <td>Disponibilidad y confiabilidad</td>
+        <td>Como usuario, quiero que la aplicación esté disponible siempre para acceder a ella en cualquier momento y sin interrupciones.</td>
+        <td>
+            <strong>Escenario 1: Acceso a la aplicación en todo momento</strong><br>
+            <strong>Given</strong> el usuario desea usar la aplicación en cualquier instante.<br>
+            <strong>When</strong> ingresa a la aplicación.<br>
+            <strong>Then</strong> la aplicación debe estar disponible y funcional, sin caídas ni errores que impidan el acceso.
+            <br><br>
+            <strong>Escenario 2: Acceso a la aplicación sin interrupciones</strong><br>
+            <strong>Given</strong> el usuario desea usar la aplicación en cualquier instante.<br>
+            <strong>When</strong> ingresa a la aplicación.<br>
+            <strong>Then</strong> la aplicación debe cargar rápidamente y gestionar el tráfico de manera eficiente para asegurar una experiencia de usuario fluida, evitando tiempos de carga prolongados o interrupciones en el servicio.
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US12</td>
+        <td>Registro de un usuario nuevo</td>
+        <td>Como usuario, quiero registrarme para acceder a las funciones de usuario.</td>
+        <td>
+            <strong>Escenario 1: Registro de cuenta por formulario</strong><br>
+            <strong>Given</strong> el usuario desea registrarse en la aplicación.<br>
+            <strong>And</strong> se encuentra en el apartado de “Registrarse”.<br>
+            <strong>When</strong> complete el formulario de registro con su información personal.<br>
+            <strong>And</strong> seleccione su rol en la aplicación entre “Criador” o “Asesor”.<br>
+            <strong>And</strong> los datos sean correctos según las validaciones establecidas.<br>
+            <strong>Then</strong> la cuenta se creará exitosamente.
+            <br><br>
+            <strong>Escenario 2: Registro incorrecto de cuenta</strong><br>
+            <strong>Given</strong> el usuario se encuentra en el apartado de “Registrarse”.<br>
+            <strong>When</strong> ingrese los datos solicitados de manera errónea.<br>
+            <strong>Then</strong> la cuenta no se creará.<br>
+            <strong>And</strong> recibirá un mensaje indicando el error en los datos ingresados.
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US13</td>
+        <td>Inicio de sesión</td>
+        <td>Como usuario quiero acceder a mi cuenta registrada para acceder a las funciones de usuario.</td>
+        <td>
+            <strong>Escenario 1: Inicio de sesión exitoso</strong><br>
+            <strong>Given</strong> el usuario desea acceder a su cuenta registrada.<br>
+            <strong>And</strong> se encuentra en el apartado de “Iniciar Sesión”.<br>
+            <strong>When</strong> introduzca sus credenciales correctamente.<br>
+            <strong>Then</strong> será redireccionado a su vista de usuario.
+            <br><br>
+            <strong>Escenario 2: Inicio de sesión fallido</strong><br>
+            <strong>Given</strong> el usuario desea acceder a su cuenta registrada.<br>
+            <strong>And</strong> se encuentra en el apartado de “Iniciar Sesión”.<br>
+            <strong>When</strong> introduzca sus credenciales incorrectamente.<br>
+            <strong>Then</strong> no se le permitirá acceso a su cuenta.<br>
+            <strong>And</strong> recibirá un mensaje indicando el error.
+            <br><br>
+            <strong>Escenario 3: Bloqueo de sesión por exceso de intentos</strong><br>
+            <strong>Given</strong> el usuario desea acceder a su cuenta registrada.<br>
+            <strong>And</strong> se encuentra en el apartado de “Iniciar sesión”.<br>
+            <strong>When</strong> introduzca sus credenciales incorrectamente.<br>
+            <strong>And</strong> siga errando hasta alcanzar el número máximo de intentos permitidos (tres intentos).<br>
+            <strong>Then</strong> recibirá un mensaje que le informe que ha excedido el número de intentos permitidos.<br>
+            <strong>And</strong> su cuenta será bloqueada temporalmente.
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>US14</td>
+        <td>Recuperación de contraseña</td>
+        <td>Como usuario quiero poder recuperar mi contraseña para acceder a mi cuenta.</td>
+        <td>
+            <strong>Escenario 1: Recuperación de contraseña</strong><br>
+            <strong>Given</strong> el usuario olvidó su contraseña.<br>
+            <strong>When</strong> se dirija a la sección de “Inicio de sesión”.<br>
+            <strong>And</strong> seleccione “olvidé mi contraseña”.<br>
+            <strong>And</strong> coloque su correo vinculado a la cuenta.<br>
+            <strong>Then</strong> se le enviará un correo para que cambie su contraseña.
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+    <td>US15</td>
+    <td>Recuperación de contraseña</td>
+    <td>Como usuario quiero poder recuperar mi contraseña para acceder a mi cuenta.</td>
+    <td>
+        <strong>Escenario 1: Recuperación de contraseña</strong><br>
+        <strong>Given</strong> el usuario olvidó su contraseña.<br>
+        <strong>When</strong> se dirija a la sección de “Inicio de sesión”.<br>
+        <strong>And</strong> seleccione “olvidé mi contraseña”.<br>
+        <strong>And</strong> coloque su correo vinculado a la cuenta.<br>
+        <strong>Then</strong> se le enviará un correo para que cambie su contraseña.
+    </td>
+    <td>1</td>
+    </tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   </tbody>
 </table>
 
