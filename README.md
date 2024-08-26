@@ -294,48 +294,26 @@ De esta forma, nosotros hemos definido los siguientes objetivos para nuestro pro
       <td>El objetivo se cumplirá al finalizar el diseño y desarrollo de la vista para granjeros y tras recibir retroalimentación positiva en pruebas de usabilidad y satisfacción de los usuarios.</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Christian Matos</td>
+      <td>Desarrollar una funcionalidad de búsqueda avanzada en la aplicación que permita a los granjeros con poca experiencia encontrar y conectar con especialistas en áreas específicas de gestión de granjas.</td>
+      <td>01/09/2024</td>
+      <td>10/10/2024</td>
+      <td>Se logrará implementar una funcionalidad de búsqueda avanzada que permita a los granjeros identificar y conectar con asesores especializados en áreas específicas de gestión de granjas. Esta funcionalidad mejorará el acceso a asesoramiento experto, adaptado a las necesidades individuales de los usuarios, facilitando la gestión de granjas y promoviendo prácticas sostenibles.</td>
+      <td>La métrica clave será la capacidad del sistema para ofrecer recomendaciones precisas y relevantes a los granjeros, con un objetivo de que al menos el 85% de los usuarios encuentren a un asesor adecuado en menos de 5 minutos de búsqueda, y que al menos el 90% de los usuarios evaluados estén satisfechos con las recomendaciones recibidas.</td>
+      <td>Este objetivo es retador porque requiere la implementación de un sistema de filtrado y recomendación avanzado que considere la experiencia y las necesidades específicas de cada usuario, garantizando la relevancia y efectividad de las conexiones con los asesores.</td>
+      <td>Está alineado con la misión de AgroTech de brindar acceso fácil a asesoría especializada y con la visión de mejorar la gestión de granjas mediante la conexión efectiva entre granjeros y expertos.</td>
+      <td>El objetivo se cumplirá al desplegar la funcionalidad de búsqueda avanzada en AgroSupport y tras la evaluación de su eficacia en conectar granjeros con especialistas, utilizando métricas de satisfacción del usuario y tiempo de conexión para asegurar su éxito.</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Christian Matos</td>
+      <td>Optimizar el rendimiento de la aplicación AgroSupport para asegurar tiempos de respuesta de menos de 2 segundos en el 95% de las solicitudes de usuario. Esto incluirá la implementación de técnicas de caching, la optimización de consultas a la base de datos y la mejora del código de backend. El objetivo es completar la optimización y realizar pruebas de carga que demuestren que al menos el 95% de las solicitudes cumplen con el tiempo de respuesta objetivo antes del lanzamiento de la aplicación.</td>
+      <td>15/09/2024</td>
+      <td>10/10/2024</td>
+      <td>Se logrará optimizar el rendimiento de AgroSupport para que el 95% de las solicitudes de usuario tengan tiempos de respuesta de menos de 2 segundos. Esto se alcanzará mediante la implementación de técnicas de caching, optimización de consultas a la base de datos y mejoras en el código de backend. Además, se realizarán pruebas de carga para verificar que se cumpla el objetivo.</td>
+      <td>Las métricas clave incluyen el tiempo de respuesta de las solicitudes (menos de 2 segundos para el 95% de las solicitudes) y los resultados de las pruebas de carga que confirmen que la aplicación cumple con este estándar de rendimiento.</td>
+      <td>Este objetivo es retador porque requiere la implementación de varias técnicas de optimización y la validación del rendimiento bajo condiciones de carga, lo que implica un enfoque integral para mejorar la eficiencia de la aplicación.</td>
+      <td>Está alineado con la visión de AgroTech de ofrecer una aplicación eficiente y ágil, asegurando que los usuarios tengan una experiencia de uso fluida y rápida, lo cual es esencial para la adopción y satisfacción del usuario.</td>
+      <td>El objetivo se cumplirá al optimizar el rendimiento de la aplicación, realizar pruebas de carga que confirmen que el 95% de las solicitudes tienen tiempos de respuesta de menos de 2 segundos, y ajustar las optimizaciones según los resultados obtenidos.</td>
     </tr>
   </tbody>
 </table>
@@ -824,15 +802,15 @@ Marcelo Neyra, un joven estudiante que asiste a su padre en la administración d
 
 **Entrevista 3**
 
-**Entrevistador:**
+**Entrevistador:** Christian Matos
 
-**Entrevistado:**
+**Entrevistado:** Jorge Quiñones
 
-**Enlace a entrevista:**
+**Enlace a entrevista:** https://youtu.be/-kR_byKjvVI
 
-<img src="">
+<img alt="Entrevista con Jorge Quiñones" src="img/entrevista-granjero-3.png">
 
-**Resumen:**
+**Resumen:** Jorge Quiñones lleva menos de dos años gestionando una granja con formación principalmente informal. Sus objetivos incluyen aumentar la producción, mejorar la calidad de los productos, implementar prácticas sostenibles y acceder a mejores mercados. Enfrenta desafíos como la falta de conocimientos técnicos y la gestión de recursos en épocas de sequía, además de obstáculos como la falta de información confiable y los altos costos de nuevas tecnologías. Jorge busca asesoramiento en redes sociales como Facebook y YouTube, utilizando grupos de WhatsApp, y prefiere consultas en línea y guías escritas. Usa el navegador Brave y un dispositivo iOS, y le gustaría una aplicación que le permita agendar citas fácilmente y ofrezca seguimiento periódico.
 
 -----
 
@@ -868,15 +846,15 @@ Marcelo Neyra, un joven estudiante que asiste a su padre en la administración d
 
 **Entrevista 3**
 
-**Entrevistador:**
+**Entrevistador:** Christian Matos
 
-**Entrevistado:**
+**Entrevistado:** Heransue Geldres
 
-**Enlace a entrevista:**
+**Enlace a entrevista:** https://youtu.be/HvL_uEf40Ww
 
-<img src="">
+<img alt="Entrevista con Heransue Geldres" src="img/entrevista-asesor-3.png">
 
-**Resumen:**
+**Resumen:** Heransue Geldres es una asesora en gestión de granjas con más de dos años de experiencia, especializada en áreas como gestión financiera, tecnología, bienestar animal y sostenibilidad. Su enfoque es ofrecer soluciones prácticas y personalizadas para cada granja. Los desafíos más grandes que enfrenta son la resistencia al cambio y las limitaciones presupuestarias de los granjeros. Para mejorar su trabajo, le gustaría contar con herramientas de análisis predictivo y sistemas de seguimiento más eficaces. Navega por sus dispositivos usando Android y Chrome, que le permiten estar siempre conectada y preparada para ofrecer el mejor asesoramiento.
 
 
 ### 2.2.3. Análisis de entrevistas
