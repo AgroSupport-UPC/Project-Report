@@ -1238,6 +1238,147 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
 
 ### 2.4.2. User Stories
 
+
+<table>
+    <thead>
+      <tr>
+        <th style="width: 10%;">Epic ID</th>
+        <th style="width: 35%;">Epic</th>
+        <th style="width: 10%;">User Story ID</th>
+        <th style="width: 45%;">User Stories</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td rowspan="11">1</td>
+        <td rowspan="11">Sistema de búsqueda y programación de citas</td>
+        <td>US01</td>
+        <td>Visualización del catálogo de asesores</td>
+      </tr>
+      <tr>
+        <td>US02</td>
+        <td>Visualización de información de un asesor</td>
+      </tr>
+      <tr>
+        <td>US03</td>
+        <td>Visualización de horarios de asesores</td>
+      </tr>
+      <tr>
+        <td>US04</td>
+        <td>Programación de citas con asesores</td>
+      </tr>
+      <tr>
+        <td>US05</td>
+        <td>Calificación del asesor luego de una cita</td>
+      </tr>
+      <tr>
+        <td>US06</td>
+        <td>Separación de horarios de disponibilidad para asesorías</td>
+      </tr>
+      <tr>
+        <td>US19</td>
+        <td>Recordatorio de Cita</td>
+      </tr>
+      <tr>
+        <td>US20</td>
+        <td>Confirmación de Asistencia</td>
+      </tr>
+      <tr>
+        <td>US21</td>
+        <td>Visualización de Historial de Citas</td>
+      </tr>
+      <tr>
+        <td>US22</td>
+        <td>Reprogramación de Citas</td>
+      </tr>
+      <tr>
+        <td>US23</td>
+        <td>Búsqueda y Filtrado de Citas</td>
+      </tr>
+      <tr>
+        <td rowspan="2">2</td>
+        <td rowspan="2">Publicaciones de asesores</td>
+        <td>US07</td>
+        <td>Gestión de publicaciones de asesores</td>
+      </tr>
+      <tr>
+        <td>US08</td>
+        <td>Visualización de publicaciones de los asesores</td>
+      </tr>
+      <tr>
+        <td rowspan="5">3</td>
+        <td rowspan="5">Sistema de gestión de usuarios</td>
+        <td>US09</td>
+        <td>Registro de un usuario nuevo</td>
+      </tr>
+      <tr>
+        <td>US10</td>
+        <td>Inicio de sesión</td>
+      </tr>
+      <tr>
+        <td>US11</td>
+        <td>Recuperación de contraseña</td>
+      </tr>
+      <tr>
+        <td>US12</td>
+        <td>Notificación al usuario</td>
+      </tr>
+      <tr>
+        <td>US13</td>
+        <td>Disponibilidad y confiabilidad</td>
+      </tr>
+      <tr>
+        <td rowspan="5">4</td>
+        <td rowspan="5">Landing Page de App Móvil</td>
+        <td>US14</td>
+        <td>Visualización de la sección de inicio de la Landing Page</td>
+      </tr>
+      <tr>
+        <td>US15</td>
+        <td>Visualización de la sección 'Acerca de' de la Landing Page</td>
+      </tr>
+      <tr>
+        <td>US16</td>
+        <td>Visualización de la sección 'Sobre Nosotros' de la Landing Page</td>
+      </tr>
+      <tr>
+        <td>US17</td>
+        <td>Visualización de la sección 'Características' de la Landing Page</td>
+      </tr>
+      <tr>
+        <td>US18</td>
+        <td>Visualización de la sección 'Contacto' de la Landing Page</td>
+      </tr>
+      <tr>
+        <td rowspan="6">5</td>
+        <td rowspan="6">Funcionalidades de Web API (Backend)</td>
+        <td>US24</td>
+        <td>Uso de una API para videollamadas</td>
+      </tr>
+      <tr>
+        <td>US25</td>
+        <td>Uso de una API para alojar imágenes</td>
+      </tr>
+      <tr>
+        <td>US26</td>
+        <td>Uso de nuestra API para gestionar perfiles</td>
+      </tr>
+      <tr>
+        <td>US27</td>
+        <td>Uso de nuestra API para gestionar citas de asesoría</td>
+      </tr>
+      <tr>
+        <td>US28</td>
+        <td>Uso de nuestra API para gestionar publicaciones</td>
+      </tr>
+      <tr>
+        <td>US29</td>
+        <td>Uso de nuestra API para gestionar IAM</td>
+      </tr>
+    </tbody>
+</table>
+
+
 <table>
     <thead>
       <tr>
@@ -1483,20 +1624,6 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
     </tr>
     <tr>
       <td>US12</td>
-      <td>Recuperación de contraseña</td>
-      <td>Como usuario quiero poder recuperar mi contraseña para acceder a mi cuenta.</td>
-      <td>
-        <strong>Escenario 1: Recuperación de contraseña</strong><br>
-        <strong>Given</strong> el usuario olvidó su contraseña.<br>
-        <strong>When</strong> se dirija a la sección de “Inicio de sesión”.<br>
-        <strong>And</strong> seleccione “olvidé mi contraseña”.<br>
-        <strong>And</strong> coloque su correo vinculado a la cuenta.<br>
-        <strong>Then</strong> se le enviará un correo para que cambie su contraseña.
-      </td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>US13</td>
       <td>Notificación al usuario</td>
       <td>Como usuario de la aplicación, quiero recibir notificaciones referentes al estado de las asesorias u otra información relevante para mantenerme informado.</td>
       <td>
@@ -1513,7 +1640,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       <td>3</td>
     </tr>
     <tr>
-      <td>US14</td>
+      <td>US13</td>
       <td>Disponibilidad y confiabilidad</td>
       <td>Como usuario, quiero que la aplicación esté disponible siempre para acceder a ella en cualquier momento y sin interrupciones.</td>
       <td>
@@ -1530,7 +1657,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       <td>3</td>
     </tr>
     <tr>
-      <td>US15</td>
+      <td>US14</td>
       <td>Visualización de la sección de inicio de la Landing Page</td>
       <td>Como potencial usuario quiero acceder a una página de inicio para conocer la idea principal de la aplicación y ver un diseño agradable.</td>
       <td>
@@ -1542,7 +1669,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       <td>4</td>
     </tr>
     <tr>
-      <td>US16</td>
+      <td>US15</td>
       <td>Visualización de la sección 'Acerca de' de la Landing Page</td>
       <td>Como potencial usuario quiero acceder a una página sobre el problema que resuelve para conocer el propósito de la aplicación.</td>
       <td>
@@ -1581,7 +1708,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       <td>4</td>
     </tr>
     <tr>
-      <td>US17</td>
+      <td>US18</td>
       <td>Visualización de la sección 'Contacto' de la Landing Page</td>
       <td>Como potencial usuario quiero acceder a una página de contacto para poder contactar con la empresa en caso tenga algún problema, duda o sugerencia.</td>
       <td>
@@ -1594,8 +1721,68 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       <td>4</td>
     </tr>
     <tr>
-      <td>US18</td>
-      <td>Uso de un API para videollamadas</td>
+      <td>US19</td>
+      <td>Recordatorio de Cita</td>
+      <td>Como usuario, quiero recibir un recordatorio de la cita programada para asegurarme de no olvidarla y estar preparado para la reunión.</td>
+      <td>
+        <strong>Escenario 1: Envío de recordatorio</strong><br>
+        <strong>Given</strong> el usuario tiene una cita programada.<br>
+        <strong>When</strong> la cita está próxima (por ejemplo, 24 horas antes).<br>
+        <strong>Then</strong> el sistema enviará un recordatorio por notificación en la aplicación y/o por correo electrónico.
+      </td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>US20</td>
+      <td>Confirmación de Asistencia</td>
+      <td>Como usuario, quiero confirmar mi asistencia a las citas programadas para asegurarme de que la reunión se llevará a cabo.</td>
+      <td>
+        <strong>Escenario 1: Confirmación de asistencia</strong><br>
+        <strong>Given</strong> el usuario tiene una cita programada.<br>
+        <strong>When</strong> recibe la invitación para la cita.<br>
+        <strong>Then</strong> podrá confirmar su asistencia a la cita a través de la aplicación, y el organizador recibirá una notificación de confirmación.
+      </td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>US21</td>
+      <td>Visualización de Historial de Citas</td>
+      <td>Como usuario, quiero ver un historial de mis citas anteriores para tener un registro de las reuniones y sus detalles.</td>
+      <td>
+        <strong>Escenario 1: Acceso al historial de citas</strong><br>
+        <strong>Given</strong> el usuario está en la sección de perfil de su cuenta.<br>
+        <strong>When</strong> selecciona la opción para ver el historial de citas.<br>
+        <strong>Then</strong> podrá ver una lista de todas las citas anteriores, incluyendo fechas, horas y detalles de las reuniones.
+      </td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>US22</td>
+      <td>Reprogramación de Citas</td>
+      <td>Como usuario, quiero poder reprogramar mis citas existentes para ajustarlas a mis nuevas disponibilidades o necesidades.</td>
+      <td>
+        <strong>Escenario 1: Reprogramación de una cita</strong><br>
+        <strong>Given</strong> el usuario tiene una cita programada y desea cambiar la fecha o la hora.<br>
+        <strong>When</strong> selecciona la opción para reprogramar la cita y elige una nueva fecha y hora.<br>
+        <strong>Then</strong> el sistema actualizará la cita con la nueva información y notificará al usuario y al asesor sobre el cambio.
+      </td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>US23</td>
+      <td>Búsqueda y Filtrado de Citas</td>
+      <td>Como usuario, quiero buscar y filtrar mis citas programadas para encontrar fácilmente una cita específica o consultar citas en un rango de fechas determinado.</td>
+      <td>
+        <strong>Escenario 1: Búsqueda de citas</strong><br>
+        <strong>Given</strong> el usuario está en la sección de citas de la aplicación.<br>
+        <strong>When</strong> ingresa un término de búsqueda o selecciona filtros (por ejemplo, fecha, tipo de cita).<br>
+        <strong>Then</strong> el sistema mostrará una lista de citas que coincidan con los criterios de búsqueda y filtrado.
+      </td>
+      <td>1</td>
+    </tr>
+        <tr>
+      <td>US24</td>
+      <td>Uso de una API para videollamadas</td>
       <td>Como desarrollador quiero integrar la creación de videollamadas utilizando la API de Jitsi Meet para facilitar las asesorías en la aplicación.</td>
       <td>
         <strong>Escenario 1: Creación de videollamada</strong><br>
@@ -1606,8 +1793,8 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       <td>5</td>
     </tr>
     <tr>
-      <td>US19</td>
-      <td>Uso de un API para alojar imágenes</td>
+      <td>US25</td>
+      <td>Uso de una API para alojar imágenes</td>
       <td>Como desarrollador quiero integrar la API de almacenamiento de Firebase para que los usuarios puedan subir y visualizar sus imágenes de foto de perfil y publicaciones.</td>
       <td>
         <strong>Escenario 1: Creación de videollamada</strong><br>
@@ -1620,64 +1807,122 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       <td>5</td>
     </tr>
     <tr>
-      <td>US20</td>
-      <td>Recordatorio de Cita</td>
-      <td>Como usuario, quiero recibir un recordatorio de la cita programada para asegurarme de no olvidarla y estar preparado para la reunión.</td>
+      <td>US26</td>
+      <td>Uso de nuestra API para gestionar perfiles</td>
+      <td>Como desarrollador quiero integrar un API para gestionar la información de los perfiles de los usuarios en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.</td>
       <td>
-        <strong>Escenario 1: Envío de recordatorio</strong><br>
-        <strong>Given</strong> el usuario tiene una cita programada.<br>
-        <strong>When</strong> la cita está próxima (por ejemplo, 24 horas antes).<br>
-        <strong>Then</strong> el sistema enviará un recordatorio por notificación en la aplicación y/o por correo electrónico.
+        <strong>Escenario 1: Integrar un API para manejar las solicitudes HTTP de los perfiles de usuario</strong><br>
+        <strong>Given</strong> la aplicación tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración.
+        <br>
+        <strong>When</strong> se envía una solicitud de tipo GET, POST o PUT con los datos solicitados del usuario a la API.
+        <br>
+        <strong>Then</strong> la API responde con un código de estado correspondiente (200 OK o 201 Created).
+        <br>
+        <strong>And</strong> se realiza la operación solicitada.
+        <br><br>
+        <strong>Escenario 2: Manejar errores en la Integración de API para Solicitudes HTTP de perfiles de usuario</strong><br>
+        <strong>Given</strong> la aplicación tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración
+        <br>
+        <strong>When</strong> se envía una solicitud de tipo GET, POST, PUT o DELETE con los datos solicitados del perfil del usuario a la API
+        <br>
+        <strong>And</strong> ocurre un error.
+        <br>
+        <strong>Then</strong> la API responde con un código de estado correspondiente al error (400 Bad Request, 401 Unauthorized, 403 Forbidden, 404 Not Found, 500 Internal Server Error).
+        <br>
+        <strong>And</strong> el sistema proporciona un mensaje de error descriptivo que ayuda al desarrollador a identificar y corregir el problema.
       </td>
-      <td>6</td>
+      <td>5</td>
     </tr>
     <tr>
-      <td>US21</td>
-      <td>Confirmación de Asistencia</td>
-      <td>Como usuario, quiero confirmar mi asistencia a las citas programadas para asegurarme de que la reunión se llevará a cabo.</td>
+      <td>US27</td>
+      <td>Uso de nuestra API para gestionar citas de asesoría</td>
+      <td>Como desarrollador quiero integrar un API para gestionar la información de las citas de asesoría en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.</td>
       <td>
-        <strong>Escenario 1: Confirmación de asistencia</strong><br>
-        <strong>Given</strong> el usuario tiene una cita programada.<br>
-        <strong>When</strong> recibe la invitación para la cita.<br>
-        <strong>Then</strong> podrá confirmar su asistencia a la cita a través de la aplicación, y el organizador recibirá una notificación de confirmación.
+        <strong>Escenario 1: Integrar un API para manejar las solicitudes HTTP de las citas de asesoría</strong><br>
+        <strong>Given</strong> la aplicación tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración.
+        <br>
+        <strong>When</strong> se envía una solicitud de tipo GET, POST o PUT con los datos solicitados del usuario a la API.
+        <br>
+        <strong>Then</strong> la API responde con un código de estado correspondiente (200 OK o 201 Created).
+        <br>
+        <strong>And</strong> se realiza la operación solicitada.
+        <br><br>
+        <strong>Escenario 2: Manejar errores en la Integración de API para Solicitudes HTTP de citas de asesoría</strong><br>
+        <strong>Given</strong> la aplicación tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración
+        <br>
+        <strong>When</strong> se envía una solicitud de tipo GET, POST, PUT o DELETE con los datos solicitados de la cita de asesoría a la API
+        <br>
+        <strong>And</strong> ocurre un error.
+        <br>
+        <strong>Then</strong> la API responde con un código de estado correspondiente al error (400 Bad Request, 401 Unauthorized, 403 Forbidden, 404 Not Found, 500 Internal Server Error).
+        <br>
+        <strong>And</strong> el sistema proporciona un mensaje de error descriptivo que ayuda al desarrollador a identificar y corregir el problema.
       </td>
-      <td>6</td>
+      <td>5</td>
     </tr>
     <tr>
-      <td>US22</td>
-      <td>Visualización de Historial de Citas</td>
-      <td>Como usuario, quiero ver un historial de mis citas anteriores para tener un registro de las reuniones y sus detalles.</td>
+      <td>US28</td>
+      <td>Uso de nuestra API para gestionar publicaciones</td>
+      <td>Como desarrollador quiero integrar un API para gestionar la información de las publicaciones de los asesores en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.</td>
       <td>
-        <strong>Escenario 1: Acceso al historial de citas</strong><br>
-        <strong>Given</strong> el usuario está en la sección de perfil de su cuenta.<br>
-        <strong>When</strong> selecciona la opción para ver el historial de citas.<br>
-        <strong>Then</strong> podrá ver una lista de todas las citas anteriores, incluyendo fechas, horas y detalles de las reuniones.
+        <strong>Escenario 1: Integrar un API para manejar las solicitudes HTTP de las publicaciones</strong><br>
+        <strong>Given</strong> la aplicación tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración.
+        <br>
+        <strong>When</strong> se envía una solicitud de tipo GET, POST o PUT con los datos solicitados del usuario a la API.
+        <br>
+        <strong>Then</strong> la API responde con un código de estado correspondiente (200 OK o 201 Created).
+        <br>
+        <strong>And</strong> se realiza la operación solicitada.
+        <br><br>
+        <strong>Escenario 2: Manejar errores en la Integración de API para Solicitudes HTTP de publicaciones</strong><br>
+        <strong>Given</strong> la aplicación tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración
+        <br>
+        <strong>When</strong> se envía una solicitud de tipo GET, POST, PUT o DELETE con los datos solicitados de la publicación a la API
+        <br>
+        <strong>And</strong> ocurre un error.
+        <br>
+        <strong>Then</strong> la API responde con un código de estado correspondiente al error (400 Bad Request, 401 Unauthorized, 403 Forbidden, 404 Not Found, 500 Internal Server Error).
+        <br>
+        <strong>And</strong> el sistema proporciona un mensaje de error descriptivo que ayuda al desarrollador a identificar y corregir el problema.
       </td>
-      <td>6</td>
+      <td>5</td>
     </tr>
     <tr>
-      <td>US42</td>
-      <td>Reprogramación de Citas</td>
-      <td>Como usuario, quiero poder reprogramar mis citas existentes para ajustarlas a mis nuevas disponibilidades o necesidades.</td>
+      <td>US29</td>
+      <td>Uso de nuestra API para gestionar IAM</td>
+      <td>Como desarrollador quiero integrar un API para gestionar la información de las citas de asesoría en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.</td>
       <td>
-        <strong>Escenario 1: Reprogramación de una cita</strong><br>
-        <strong>Given</strong> el usuario tiene una cita programada y desea cambiar la fecha o la hora.<br>
-        <strong>When</strong> selecciona la opción para reprogramar la cita y elige una nueva fecha y hora.<br>
-        <strong>Then</strong> el sistema actualizará la cita con la nueva información y notificará al usuario y al asesor sobre el cambio.
+        <strong>Escenario 1: Registro de un nuevo usuario con verificación de seguridad (sign-up)</strong>
+        <br>
+        <strong>Given</strong> el usuario desea registrarse
+        <br>
+        <strong>When</strong> el sistema recibe una solicitud POST con los datos del nuevo usuario a la API
+        <br>
+        <strong>Then</strong> se registrará el nuevo usuario
+        <br>
+        <strong>And</strong> brindará respuesta a la petición realizada
+        <br><br>
+        <strong>Escenario 2: Inicio de sesión del usuario con verificación de seguridad exitoso (sign-in)</strong>
+        <br>
+        <strong>Given</strong> el usuario desea iniciar sesión de forma segura
+        <br>
+        <strong>When</strong> el sistema recibe una solicitud POST con las credenciales de inicio de sesión del usuario (correo electrónico y contraseña) a la API
+        <br>
+        <strong>Then</strong> se verificarán las credenciales
+        <br>
+        <strong>And</strong> la API responde con un código de estado 200 y el token de autenticación válido
+        <br><br>
+        <strong>Escenario 3: Inicio de sesión del usuario con verificación de seguridad fallido (sign-in)</strong>
+        <br>
+        <strong>Given</strong> el usuario desea iniciar sesión de forma segura
+        <br>
+        <strong>When</strong> el sistema recibe una solicitud POST con las credenciales de inicio de sesión del usuario (correo electrónico y contraseña) a la API
+        <br>
+        <strong>Then</strong> se verificarán las credenciales
+        <br>
+        <strong>And</strong> la API responde con un código de estado 400 indicando que no se encontró un usuario con las credenciales ingresadas
       </td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>US41</td>
-      <td>Búsqueda y Filtrado de Citas</td>
-      <td>Como usuario, quiero buscar y filtrar mis citas programadas para encontrar fácilmente una cita específica o consultar citas en un rango de fechas determinado.</td>
-      <td>
-        <strong>Escenario 1: Búsqueda de citas</strong><br>
-        <strong>Given</strong> el usuario está en la sección de citas de la aplicación.<br>
-        <strong>When</strong> ingresa un término de búsqueda o selecciona filtros (por ejemplo, fecha, tipo de cita).<br>
-        <strong>Then</strong> el sistema mostrará una lista de citas que coincidan con los criterios de búsqueda y filtrado.
-      </td>
-      <td>6</td>
+      <td>5</td>
     </tr>
   </tbody>
 </table>
