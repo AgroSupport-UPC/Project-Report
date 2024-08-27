@@ -409,7 +409,7 @@ Liderar la innovación tecnológica para el sector agropecuario, promoviendo el 
 
 **How:** A través de la aplicación móvil AgroSupport, se proporcionará asesoramiento especializado para ayudar a los granjeros a gestionar de manera inteligente y eficiente las granjas. De esta forma, apoyaremos a aumentar su producción y por consiguiente su rentabilidad.
 
-**How much:** Se espera que la aplicación tenga un impacto significativo en la mejora de la gestión de las granjas, aumentando la productividad, mejorando el bienestar animal y promoviendo prácticas más sostenibles en la industria agropecuaria.
+**How much:** Se espera que la aplicación tenga un impacto significativo en la mejora de la gestión de las granjas, aumentando de la productividad y promoviendo prácticas más sostenibles en la industria agropecuaria.
 
 Según un informe realizado (Ames, 2022), se ha identificado que el sector agropecuario agrupa alrededor de un cuarto de los empleos del país, aproximadamente un 27.5% de la población. No obstante, se identificó que solo aporta un 5.2% al PBI. Esto indica que la productividad de la agricultura peruana es baja en comparación con otros países de la región, lo que se traduce en una menor rentabilidad para los agricultores y una mayor vulnerabilidad frente a los cambios climáticos y los mercados internacionales.
 
@@ -439,11 +439,11 @@ Según un informe realizado (Ames, 2022), se ha identificado que el sector agrop
 
 **1. ¿Quién es el usuario?**
 
-El usuario principal es el granjero con poca experiencia, quien se beneficiará directamente de los asesores experimentados que utilizan la plataforma para guiar y apoyar a los granjeros en la gestión eficiente de sus granjas, promoviendo prácticas sostenibles y mejorando la productividad en el sector agropecuario
+El usuario principal es el agricultor con poca experiencia, quien se beneficiará directamente del apoyo de los asesores experimentados que utilizan la plataforma para guiarlo en la gestión eficiente de su granja. AgroSupport facilita la adopción de prácticas sostenibles y la mejora de la productividad en el sector agropecuario.
 
 **2. ¿Dónde encaja nuestro producto en su trabajo o vida?**
 
-Nuestro producto encaja en la vida del granjero al proporcionarle herramientas tecnológicas y asesoramiento especializado para mejorar la gestión de sus granjas. AgroSupport se integra en su trabajo diario al ofrecer soluciones para la gestión eficiente del granjero, la mejora del bienestar animal, la adopción de prácticas sostenibles y la comercialización de sus productos.
+Nuestro producto se integra en la vida del agricultor al ofrecer asesoramiento especializado para mejorar la gestión de sus operaciones agropecuarias. AgroSupport se incorpora a su trabajo diario proporcionando soluciones para una gestión eficiente, la mejora del bienestar de los animales y cultivos, la adopción de prácticas sostenibles y la comercialización de sus productos.
 
 **3. ¿Qué problemas tiene nuestro producto? ¿Resolver?**
 
@@ -467,13 +467,13 @@ Nuestro producto debe tener una interfaz fácil de usar, con un diseño llamativ
 
 Presentación de otros supuestos:
 
-|Creo que mis clientes necesitan un servicio que les brinde soluciones integrales para la gestión eficiente de la crianza de animales, abordando aspectos como la salud animal, la nutrición, la reproducción y la comercialización.|Haré dinero a través de la venta de suscripciones a nuestra plataforma AgroConnect, así como mediante la prestación de servicios de consultoría especializada y la venta de productos complementarios.|
+|Considero que mis clientes necesitan un servicio que ofrezca soluciones integrales para la gestión eficiente de sus actividades agropecuarias, abordando aspectos clave como la salud y nutrición de los cultivos y animales, la reproducción y la comercialización. Generaré ingresos a través de la venta de suscripciones a nuestra plataforma AgroSupport.|
 | - | - |
-|Estas necesidades se pueden resolver con tecnologías avanzadas de monitoreo y análisis de datos, junto con el acceso a un equipo de expertos en crianza de animales que proporcionen orientación y recomendaciones personalizadas.|Mi competencia principal en el mercado será BestFarm.|
-|Mis clientes iniciales son los criadores de animales en Perú que buscan mejorar la eficiencia y la rentabilidad de sus operaciones.|Los venceremos gracias a nuestra combinación única de tecnología avanzada, conocimientos especializados y enfoque centrado en las necesidades específicas de la crianza de animales.|
-|El valor número uno que un cliente quiere de mi servicio es mejorar la rentabilidad de su granja mientras garantiza el bienestar de los animales y adoptar prácticas sostenibles.|Mi mayor riesgo con respecto al producto es la resistencia al cambio por parte de algunos criadores, que pueden ser reacios a adoptar nuevas tecnologías o modificar sus métodos de crianza.|
+|Estas necesidades se pueden resolver con tecnologías avanzadas de monitoreo y análisis de datos, junto con el acceso a un equipo de expertos en el sector agropecuario que proporcionen orientación y recomendaciones personalizadas.|Mi competencia principal en el mercado será BestFarm.|
+|Mis clientes iniciales pertenecen al sector agropecuario en Perú que buscan mejorar la eficiencia y la rentabilidad de sus operaciones.|Superaremos los desafíos del sector agropecuario gracias a nuestra aplicación, que conecta a asesores experimentados con personas inexpertas, proporcionando conocimientos especializados y un enfoque centrado en las necesidades específicas en las diversas áreas agropecuarias|
+|El principal valor que un cliente busca en mi servicio es mejorar la rentabilidad de su granja agropecuaria, garantizando al mismo tiempo el bienestar de los animales y/o cultivos, y adoptando prácticas sostenibles.|El mayor riesgo para mi producto es la resistencia al cambio por parte de algunos agricultores, que podrían mostrarse reacios a adoptar nuevas metodologías de trabajo.|
 |El cliente también puede optar por no renovar su suscripción a nuestra plataforma si no percibe mejoras significativas en la gestión y rentabilidad de su granja.|Resolveremos esto a través de una estrategia integral de educación y soporte continuo para nuestros clientes, demostrando el valor tangible de nuestra plataforma a través de casos de éxito y resultados demostrables.|
-|Voy a adquirir a la mayoría de mis clientes a través de campañas de marketing dirigidas en línea, participación en eventos agrícolas locales y asociaciones con organizaciones de productores de animales.|Nuestro enfoque principal es proporcionar asesoramiento especializado y herramientas tecnológicas para mejorar la gestión de la crianza de animales de forma inteligente y eficiente.|
+|Voy a adquirir a la mayoría de mis clientes a través de campañas de marketing dirigidas en línea, participación en eventos agrícolas locales y asociaciones con organizaciones del sector agropecuario.|Nuestro enfoque principal es brindar asesoramiento especializado para optimizar la gestión agropecuaria, utilizando soluciones inteligentes y eficientes que maximicen el rendimiento y la sostenibilidad.|
 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
@@ -487,7 +487,7 @@ Presentación de otros supuestos:
 
 **Hypothesis Statement 2**
 
-| Creemos que al promover prácticas agrícolas sostenibles y éticas en la crianza de animales en Perú a través de AgroSupport, los granjeros adoptarán un enfoque más responsable con el medio ambiente. |
+| Creemos que al promover prácticas agrícolas sostenibles y éticas en el sector agropecuario en Perú a través de AgroSupport, los agricultores adoptarán un enfoque más responsable hacia el medio ambiente.|
 | - |
 | Sabremos que esto es cierto… |
 | Cuando proporcionemos orientación y recursos específicos sobre prácticas sostenibles a través de AgroSupport y evaluemos la adopción de estas prácticas, viendo un aumento del 15% en el uso de prácticas sostenibles dentro de los primeros 6 meses de lanzamiento. |
