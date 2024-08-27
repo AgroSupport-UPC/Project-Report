@@ -777,7 +777,7 @@ Los asesores experimentados juegan un papel crucial en el sector agropecuario, y
 
 **Entrevistado:** Marcelo Neyra
 
-**Enlace a entrevista: ** https://youtu.be/rHiZI37vcJY
+**Enlace a entrevista:** https://youtu.be/rHiZI37vcJY
 
 <img alt="Entrevista con Marcelo Neyra" src="img/entrevista-granjero-1.png">
 
@@ -1734,6 +1734,15 @@ El Impact Mapping es una técnica estratégica que se utiliza para planificar y 
 # Video About the Team
 
 # Glosario
+
+En esta sección, se definen los términos utilizados a lo largo del proyecto para que se pueda comprender por todo el equipo y agentes interesados.
+
+- **Farmer (Granjeros):** Usuarios que gestionan granjas y buscan asesoramiento para mejorar sus prácticas agrícolas.
+- **Advisor (Asesores):** Expertos en agricultura que brindan asesorías y apoyo técnico a los granjeros.
+- **Appointment (Cita):** Sesión programada entre un granjero y un asesor para discutir problemas específicos o recibir orientación.
+- **Schedule (Horario):** Planificación de citas y tareas, organizado según la disponibilidad de los asesores y las necesidades de los granjeros.
+- **Feedback (Retroalimentación):** Comentarios y observaciones que los granjeros o asesores proporcionan después de una sesión para mejorar el servicio.
+- **Self-sustainable (Autosostenible):** Capacidad de una granja o sistema agrícola para operar y mantenerse por sí mismo sin necesidad de recursos externos continuos, logrando un equilibrio entre producción y consumo que permite su funcionamiento a largo plazo.
 
 # Bibliografía
 
