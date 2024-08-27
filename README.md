@@ -859,6 +859,82 @@ Marcelo Neyra, un joven estudiante que asiste a su padre en la administración d
 
 ### 2.2.3. Análisis de entrevistas
 
+**Segmento: Granjeros con poca experiencia**
+
+El análisis de entrevistas de granjeros con poca experiencia revela patrones comunes que permiten identificar características clave para la construcción de arquetipos representativos. Este segmento se caracteriza por su falta de experiencia en la gestión de granjas, y una fuerte necesidad de apoyo técnico. Las entrevistas proporcionan una visión detallada de sus desafíos y expectativas, especialmente en relación con el uso de herramientas tecnológicas para recibir asesoramiento.
+
+*Segmento Demográfico:*
+
+- **Edad:** Principalmente jóvenes (16 a 30 años).
+- **Sexo:** Masculino y Femenino.
+- **Ocupación:** Estudiantes que ayudan en la gestión de granjas familiares.
+
+*Segmento Geográfico:*
+
+- **País:** Perú.
+- **Idioma:** Español.
+
+*Segmento Psicográfico:*
+
+- **Clase Social:** NSE C y NSE D, debido a que trabajan en granjas familiares pequeñas con recursos limitados.
+- **Intereses:** Buscan mejorar sus habilidades en el manejo de granjas, aumentar la producción y aprender sobre nuevas técnicas de cultivo y cuidado animal.
+
+*Segmento Conductual:*
+
+- **Conocimientos:** Conocimiento básico sobre manejo de granjas y uso de tecnología (30% - Marcelo, Anderson).
+- **Actitudes:** Buscan asesoramiento práctico y accesible. Prefieren herramientas que sean fáciles de usar y que les permitan agendar y recibir consultas de manera eficiente (100% - Marcelo, Anderson, Jorge). Se enfrentan a desafíos como la falta de experiencia técnica y recursos limitados para implementar nuevas tecnologías.
+
+*Características Objetivas:*
+- 100% (3/3): Mencionan la falta de conocimientos técnicos como un obstáculo significativo.
+- 66.7% (2/3): Requieren asesoría específica en técnicas de cuidado de animales y cultivos.
+- 100% (3/3): Consideran que una aplicación para recibir asesoría de expertos sería útil.
+- 66.7% (2/3): Prefieren que la aplicación permita reuniones en línea o chat virtual para consultas rápidas.
+- 33.3% (1/3): Utiliza Brave y dispositivos iOS, mientras que los otros 66.7% (2/3) no especificaron su preferencia tecnológica.
+
+*Características Subjetivas:*
+- 100% (3/3): Sienten inseguridad en la toma de decisiones debido a la falta de experiencia, lo que les lleva a buscar asesoría externa.
+- 66.7% (2/3): Manifiestan una dependencia fuerte en la experiencia familiar, pero reconocen la necesidad de conocimientos adicionales.
+- 100% (3/3): Están abiertos a utilizar tecnología como herramientas móviles para recibir asesoría, lo que refleja una actitud positiva hacia la innovación.
+- 66.7% (2/3): Insisten en que la aplicación debe ser fácil de usar y accesible para todos, subrayando la importancia de la simplicidad en la adopción de nuevas tecnologías.
+
+
+
+**Segmento: Asesores experimentados**
+
+Las entrevistas con asesores experimentados ofrecen una rica fuente de información sobre las prácticas, motivaciones y desafíos de este grupo. A partir de sus respuestas, es posible delinear los rasgos más representativos que influyen en su enfoque de asesoramiento. Este análisis se enfoca en identificar las necesidades tecnológicas y las barreras que enfrentan, así como en cómo su experiencia y especialización informan su deseo de utilizar herramientas avanzadas para mejorar la calidad de la asesoría que brindan.
+
+*Segmento Demográfico:*
+
+- **Edad:** Adultos jóvenes a adultos (25 a 45 años).
+- **Sexo:** Masculino y Femenino.
+- **Ocupación:** Asesores en gestión agrícola y veterinaria.
+
+*Segmento Geográfico:*
+
+- **País:** Perú.
+- **Idioma:** Español.
+
+*Segmento Psicográfico:*
+
+- **Clase Social:** NSE A y NSE B, por su nivel de especialización y experiencia en el sector.
+- **Intereses:** Ofrecer asesoramiento profesional, mejorar la productividad agrícola y encontrar herramientas que faciliten la gestión de granjas (100% - Adrián, Tamara, Heransue).
+
+*Segmento Conductual:*
+
+- **Conocimientos:** Experiencia avanzada en gestión de granjas, técnicas de cultivo y cuidado de animales. Utilizan recursos en línea y herramientas digitales para asesorar (100% - Adrián, Tamara, Heransue).
+- **Actitudes:** Están interesados en integrar nuevas tecnologías que les permitan ofrecer asesorías más eficaces y personalizadas. Enfrentan desafíos como la resistencia al cambio y las limitaciones presupuestarias de los granjeros (100% - Heransue).
+
+*Características Objetivas:*
+- 100% (3/3): Ofrecen asesoramiento basado en su conocimiento personal y experiencia familiar, complementado con recursos en línea.
+- 33.3% (1/3): Desean incorporar nuevas herramientas tecnológicas, como análisis predictivos y sistemas de seguimiento.
+- 66.7% (2/3): Utilizan dispositivos Android y el navegador Chrome para estar siempre conectados.
+
+*Características Subjetivas:*
+- 100% (3/3): Tienen una fuerte motivación para ayudar a otros granjeros, especialmente a aquellos que están comenzando, mostrando una actitud altruista y de compromiso con el desarrollo del sector agrícola.
+- 33.3% (1/3): Mencionan que uno de los desafíos más grandes que enfrentan es la resistencia al cambio por parte de los granjeros, lo que puede dificultar la implementación de nuevas prácticas o tecnologías.
+- 66.7% (2/3): Enfatizan la importancia de ofrecer soluciones prácticas y personalizadas, adaptadas a las necesidades específicas de cada granja.
+
+
 
 ## 2.3. Needfinding
 
@@ -1542,6 +1618,66 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
         <strong>Then</strong>  el sistema sube la imagen usando la API del almacenamiento de Firebase para generar el enlace de visualización.
       </td>
       <td>5</td>
+    </tr>
+    <tr>
+      <td>US20</td>
+      <td>Recordatorio de Cita</td>
+      <td>Como usuario, quiero recibir un recordatorio de la cita programada para asegurarme de no olvidarla y estar preparado para la reunión.</td>
+      <td>
+        <strong>Escenario 1: Envío de recordatorio</strong><br>
+        <strong>Given</strong> el usuario tiene una cita programada.<br>
+        <strong>When</strong> la cita está próxima (por ejemplo, 24 horas antes).<br>
+        <strong>Then</strong> el sistema enviará un recordatorio por notificación en la aplicación y/o por correo electrónico.
+      </td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>US21</td>
+      <td>Confirmación de Asistencia</td>
+      <td>Como usuario, quiero confirmar mi asistencia a las citas programadas para asegurarme de que la reunión se llevará a cabo.</td>
+      <td>
+        <strong>Escenario 1: Confirmación de asistencia</strong><br>
+        <strong>Given</strong> el usuario tiene una cita programada.<br>
+        <strong>When</strong> recibe la invitación para la cita.<br>
+        <strong>Then</strong> podrá confirmar su asistencia a la cita a través de la aplicación, y el organizador recibirá una notificación de confirmación.
+      </td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>US22</td>
+      <td>Visualización de Historial de Citas</td>
+      <td>Como usuario, quiero ver un historial de mis citas anteriores para tener un registro de las reuniones y sus detalles.</td>
+      <td>
+        <strong>Escenario 1: Acceso al historial de citas</strong><br>
+        <strong>Given</strong> el usuario está en la sección de perfil de su cuenta.<br>
+        <strong>When</strong> selecciona la opción para ver el historial de citas.<br>
+        <strong>Then</strong> podrá ver una lista de todas las citas anteriores, incluyendo fechas, horas y detalles de las reuniones.
+      </td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>US42</td>
+      <td>Reprogramación de Citas</td>
+      <td>Como usuario, quiero poder reprogramar mis citas existentes para ajustarlas a mis nuevas disponibilidades o necesidades.</td>
+      <td>
+        <strong>Escenario 1: Reprogramación de una cita</strong><br>
+        <strong>Given</strong> el usuario tiene una cita programada y desea cambiar la fecha o la hora.<br>
+        <strong>When</strong> selecciona la opción para reprogramar la cita y elige una nueva fecha y hora.<br>
+        <strong>Then</strong> el sistema actualizará la cita con la nueva información y notificará al usuario y al asesor sobre el cambio.
+      </td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>US41</td>
+      <td>Búsqueda y Filtrado de Citas</td>
+      <td>Como usuario, quiero buscar y filtrar mis citas programadas para encontrar fácilmente una cita específica o consultar citas en un rango de fechas determinado.</td>
+      <td>
+        <strong>Escenario 1: Búsqueda de citas</strong><br>
+        <strong>Given</strong> el usuario está en la sección de citas de la aplicación.<br>
+        <strong>When</strong> ingresa un término de búsqueda o selecciona filtros (por ejemplo, fecha, tipo de cita).<br>
+        <strong>Then</strong> el sistema mostrará una lista de citas que coincidan con los criterios de búsqueda y filtrado.
+      </td>
+      <td>6</td>
     </tr>
   </tbody>
 </table>
