@@ -1797,7 +1797,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       <td>Uso de una API para alojar imágenes</td>
       <td>Como desarrollador quiero integrar la API de almacenamiento de Firebase para que los usuarios puedan subir y visualizar sus imágenes de foto de perfil y publicaciones.</td>
       <td>
-        <strong>Escenario 1: Creación de videollamada</strong><br>
+        <strong>Escenario 1: Subir imagen en la aplicación</strong><br>
         <strong>Given</strong> el usuario desea subir una imagen en nuestra plataforma.
         <br>
         <strong>When</strong> se reciba la imagen en el formato compatible.
