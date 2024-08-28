@@ -510,9 +510,25 @@ Presentación de otros supuestos:
 
 Los granjeros con poca experiencia en Perú enfrentan dificultades significativas para gestionar sus granjas de manera eficiente debido a la falta de conocimientos técnicos y recursos adecuados. Estos desafíos se traducen en una menor productividad y mayores costos operativos, afectando negativamente su rentabilidad y la sostenibilidad de sus prácticas agrícolas. AgroSupport está diseñado específicamente para abordar estas necesidades al proporcionarles herramientas tecnológicas avanzadas y asesoramiento especializado, facilitando la implementación de prácticas eficientes y sostenibles. Con el apoyo de la plataforma, estos granjeros pueden mejorar la gestión de sus granjas, optimizar el uso de recursos, y aumentar su rentabilidad, contribuyendo a una agricultura más productiva y sostenible en el país.
 
+|**Segmento objetivo**|Granjeros con poca experiencia|
+| :- | :- |
+|**Edad**|18-40 años|
+|**Ubicación**|Perú|
+|**Sexo**|Masculino y Femenino|
+|**Formación educativa**|Educación primaria|
+|**Poder adquisitivo**|Bajo y medio|
+
 **2. Asesores experimentados**
 
-Los asesores experimentados juegan un papel crucial en el sector agropecuario, ya que su conocimiento y experiencia ayudan a los granjeros a superar obstáculos técnicos y operativos. Estos profesionales proporcionan orientación valiosa sobre la gestión de granjas, la implementación de prácticas sostenibles y la optimización de procesos. AgroSupport les ofrece una plataforma para expandir su alcance y eficacia al conectar con granjeros que necesitan su expertise. Al proporcionarles herramientas para gestionar y coordinar sus asesorías, la aplicación permite a los asesores ofrecer un soporte más efectivo y adaptado a las necesidades de cada granjero. Esta colaboración no solo mejora la productividad y sostenibilidad de las granjas, sino que también fortalece el papel de los asesores como facilitadores clave en la evolución del sector agropecuario.
+Los asesores experimentados desempeñan un papel crucial en el sector agropecuario peruano, ya que su experiencia y conocimiento son esenciales para ayudar a los pequeños y medianos productores a superar desafíos técnicos y operativos. Estos asesores brindan orientación valiosa en la gestión de granjas, la implementación de prácticas sostenibles y la optimización de procesos productivos. AgroSupport les ofrece una plataforma para ampliar su alcance y efectividad, conectándolos con productores que necesitan su experiencia. A través de la plataforma, los asesores pueden gestionar y coordinar sus asesorías de manera más eficiente, adaptándose a las necesidades específicas de cada productor. Esta colaboración mejora no solo la productividad y sostenibilidad de las unidades agropecuarias, sino que también refuerza el papel de los asesores como facilitadores clave en el desarrollo del sector.
+
+|**Segmento objetivo**|Asesores experimentados|
+| :- | :- |
+|**Edad**|22-60 años|
+|**Ubicación**|Perú|
+|**Sexo**|Masculino y Femenino|
+|**Formación educativa**|Universitario o cualquier educación superior|
+|**Poder adquisitivo**|Bajo, medio y alto|
 
 # Capítulo 2: Needfinding
 
