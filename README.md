@@ -171,7 +171,7 @@
         <p><strong>TB1:</strong> Para esta entrega, se adquirieron nuevos conocimientos en la realización de entrevistas y su análisis ya que se pudo entender mejor las necesidades de los granjeros y asesores. Esto es fundamental para la creación de los User Personas, User Task Matrix, y realizar el User Journey Mapping y nos permitirá .realizar una mejor solución de software.</p>
         <p></p>
         <p><strong>Matos Fernandez, Christian Andre</strong></p>
-        <p><strong>TB1:</strong></p>
+        <p><strong>TB1:</strong>Para esta entrega, investigamos a los competidores y desarrollamos estrategias para enfrentarlos. Además, realizamos entrevistas, de las cuales obtuvimos la información necesaria para crear las User Stories que serán útiles en el desarrollo de la aplicación.</p>
         <p></p>
         <p><strong>Salinas Torres, Salvador Antonio</strong></p>
         <p><strong>TB1:</strong> En este entregable, definimos el problema inicial sobre el cual partirá nuestra aplicación móvil a realizar. Igualmente, tuvimos que actualizar conocimientos para determinar bien la problemática a través de una investigación sobre el tema y también sobre lo necesario para poder desarrollar la aplicación móvil.</p>
@@ -192,7 +192,7 @@
         <p><strong>TB1:</strong> Mediante las opiniones obtenidas de las entrevistas pudimos comprender la necesidad de un aprendizaje continuo porque gracias a estas pudimos diseñar las funcionalidades del producto delimitadas en las User Stories para que se alineen con las necesidades cambiantes de nuestros segmentos objetivos y tomando en cuenta las nuevas tecnologías.</p>
         <p></p>
         <p><strong>Matos Fernandez, Christian Andre</strong></p>
-        <p><strong>TB1:</strong></p>
+        <p><strong>TB1:</strong>A partir de las entrevistas y del análisis de los datos obtenidos, logramos identificar la importancia de integrar un enfoque de aprendizaje continuo. Esto nos permitió definir las User Stories del producto de manera que se adapten a las demandas reales y cambiantes de nuestros usuarios.</p>
         <p></p>
         <p><strong>Salinas Torres, Salvador Antonio</strong></p>
         <p><strong>TB1:</strong> Se realizó una investigación sobre el tema para verificar de forma clara la necesidad a resolver, así como con fuentes secundarias recuperadas de artículos y fuentes primarias como las entrevistas realizadas.</p>
