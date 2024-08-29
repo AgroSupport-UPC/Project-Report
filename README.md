@@ -338,6 +338,9 @@ Liderar la innovación tecnológica para el sector agropecuario, promoviendo el 
   <img src="img/agrosupport-logo.png" width="200">
 </p>
 
+_Imagen 1. Logo de AgroSupport_
+
+
 ### 1.1.2. Perfiles de integrantes del equipo
 
 <table>
@@ -522,6 +525,7 @@ Presentación de otros supuestos:
 
 <img src="img/lean_ux_canva.png" alt="Lean UX Canvas" width="100%" />
 
+_Imagen 2. Lean UX Canvas_
 
 ## 1.3. Segmentos objetivo
 
@@ -816,6 +820,8 @@ Los asesores experimentados desempeñan un papel crucial en el sector agropecuar
 
 <img alt="Entrevista con Marcelo Neyra" src="img/entrevista-granjero-1.png">
 
+_Imagen 3. Entrevista con Marcelo Neyra_
+
 **Resumen:**
 Marcelo Neyra, un joven estudiante que asiste a su padre en la administración de una pequeña granja familiar, expresa que, en sus tareas diarias como regar el huerto o cuidar los animales, requiere apoyo y asesoramiento confiable. Al hablarle sobre la propuesta de una aplicación para recibir consejos de expertos en el ámbito agrícola, consideró que le sería de gran utilidad.
 
@@ -831,6 +837,8 @@ Marcelo Neyra, un joven estudiante que asiste a su padre en la administración d
 
 <img alt="Entrevista con Anderson Gonza" src="img/entrevista-granjero-2.png">
 
+_Imagen 4. Entrevista con Anderson Gonza_
+
 **Resumen:** Anderson Gonza es un joven estudiante que suele ayudar a su padre en la gestión de una pequeña granja de cuyes. Comenta que necesita apoyo para conocer sobre ciertas técnicas para el cuidado de los animales y cultivos, así como sobre el clima, el cual influye bastante en la producción. Al comentarle sobre la idea de una app para recibir asesorías con expertos en este sector, mencionó que le sería muy útil a través de reuniones en línea o a través de un chat virtual. Asimismo, comenta que debería ser una aplicación fácil de usar y accesible para todos.
 
 ----
@@ -844,6 +852,8 @@ Marcelo Neyra, un joven estudiante que asiste a su padre en la administración d
 **Enlace a entrevista:** https://youtu.be/-kR_byKjvVI
 
 <img alt="Entrevista con Jorge Quiñones" src="img/entrevista-granjero-3.png">
+
+_Imagen 5. Entrevista con Jorge Quiñones_
 
 **Resumen:** Jorge Quiñones lleva menos de dos años gestionando una granja con formación principalmente informal. Sus objetivos incluyen aumentar la producción, mejorar la calidad de los productos, implementar prácticas sostenibles y acceder a mejores mercados. Enfrenta desafíos como la falta de conocimientos técnicos y la gestión de recursos en épocas de sequía, además de obstáculos como la falta de información confiable y los altos costos de nuevas tecnologías. Jorge busca asesoramiento en redes sociales como Facebook y YouTube, utilizando grupos de WhatsApp, y prefiere consultas en línea y guías escritas. Usa el navegador Brave y un dispositivo iOS, y le gustaría una aplicación que le permita agendar citas fácilmente y ofrezca seguimiento periódico.
 
@@ -861,6 +871,8 @@ Marcelo Neyra, un joven estudiante que asiste a su padre en la administración d
 
 <img alt="Entrevista con Adrian Espinoza" src="img/entrevista-asesor-1.png">
 
+_Imagen 6. Entrevista con Adrián Espinoza_
+
 **Resumen:** Adrián ha estado involucrado en la crianza de cuyes desde joven por su familia y recientemente ha empezado a ofrecer asesoramiento a otras familias en alimentación, manejo sanitario y selección de razas de cuyes. Por ello, decidió estudiar Medicina Veterinaria en Arequipa para aprender más de la crianza de animales. Durante la entrevista, destacó los desafíos comunes que enfrentan los criadores principiantes, como el manejo de la alimentación y la prevención de enfermedades. Actualmente, utiliza principalmente su conocimiento personal y recursos en línea para brindar asesoramiento, pero está interesado en explorar nuevas herramientas como aplicaciones.
 
 ----
@@ -875,6 +887,8 @@ Marcelo Neyra, un joven estudiante que asiste a su padre en la administración d
 
 <img alt="Entrevista con Tamara García" src="img/entrevista-asesor-2.png">
 
+_Imagen 7. Entrevista con Tamara García_
+
 **Resumen:** Tamara García es una potencial asesora con conocimientos en la gestión de una granja de mangos y está dispuesta a aconsejar a granjeros que necesiten apoyo. Su principal recurso es la experiencia que ha ganado gracias a su familia. Menciona que ya ha apoyado a otras personas anteriormente, pero han sido conocidos como familia y amigos. Igualmente, está interesada en poder ayudar a muchas más personas, brindando asesorías cada cierto tiempo cuando haya granjeros que necesiten.
 
 ----
@@ -888,6 +902,8 @@ Marcelo Neyra, un joven estudiante que asiste a su padre en la administración d
 **Enlace a entrevista:** https://youtu.be/HvL_uEf40Ww
 
 <img alt="Entrevista con Heransue Geldres" src="img/entrevista-asesor-3.png">
+
+_Imagen 8. Entrevista con Heransue Geldres_
 
 **Resumen:** Heransue Geldres es una asesora en gestión de granjas con más de dos años de experiencia, especializada en áreas como gestión financiera, tecnología, bienestar animal y sostenibilidad. Su enfoque es ofrecer soluciones prácticas y personalizadas para cada granja. Los desafíos más grandes que enfrenta son la resistencia al cambio y las limitaciones presupuestarias de los granjeros. Para mejorar su trabajo, le gustaría contar con herramientas de análisis predictivo y sistemas de seguimiento más eficaces. Navega por sus dispositivos usando Android y Chrome, que le permiten estar siempre conectada y preparada para ofrecer el mejor asesoramiento.
 
@@ -981,9 +997,13 @@ El User Persona es una representación ficticia de un usuario ideal, construida 
 
 <img alt="Imagen de granjero con poca experiencia" src="img/segmento_objetivo_granjero.png" width="100%">
 
+_Imagen 9. User Persona: Granjero con poca experiencia_
+
 **Segmento: Asesores experimentados**
 
 <img alt="Imagen de asesor experimentado" src="img/segmento_objetivo_asesor.png" width="100%">
+
+_Imagen 10. User Persona: Asesor experimentado_
 
 ### 2.3.2. User Task Matrix
 
@@ -1097,9 +1117,13 @@ El User Journey Mapping es una herramienta que permite visualizar el recorrido q
 
 <img alt="User Journey Mapping para Granjero" src="img/user-journey-mapping-farmer.png">
 
+_Imagen 11. User Journey Mapping: Granjero con poca experiencia_
+
 **Segmento: Asesores experimentados**
 
 <img alt="User Journey Mapping para Asesor" src="img/user-journey-mapping-advisor.png">
+
+_Imagen 12. User Journey Mapping: Asesor experimentado_
 
 ### 2.3.4. Empathy Mapping
 
@@ -1109,9 +1133,13 @@ El Empathy Mapping es una herramienta estratégica utilizada para comprender a l
 
 <img alt="Empathy Map para Granjero" src="img/empathy-mapping-farmer.png">
 
+_Imagen 13. Empathy Map: Granjero con poca experiencia_
+
 **Segmento: Asesores experimentados**
 
 <img alt="Empathy Map para Asesor" src="img/empathy-mapping-advisor.png">
+
+_Imagen 14. Empathy Map: Asesor experimentado_
 
 ### 2.3.5. As-is Scenario Mapping
 
@@ -1970,9 +1998,13 @@ El Impact Mapping es una técnica estratégica que se utiliza para planificar y 
 
 <img alt="Impact Map para Granjero" src="img/impact-mapping-farmer.png">
 
+_Imagen 15: Impact Map para Granjero con poca experiencia_
+
 **Segmento: Asesores experimentados**
 
 <img alt="Impact Map para Asesor" src="img/impact-mapping-advisor.png">
+
+_Imagen 16: Impact Map para Asesor experimentado_
 
 ### 2.4.4. Product Backlog
 
