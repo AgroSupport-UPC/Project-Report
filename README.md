@@ -178,8 +178,8 @@
         <p></p>
       </td>
       <td>
-        <p><strong>TB1:</strong></p>
-        <p></p>
+        <p><strong>TB1: </strong></p>
+        <p>En este primer avance del proyecto, cada integrante del equipo ha actualizado y ampliado sus conocimientos esenciales para el desarrollo de soluciones de software, enfocándose en aspectos fundamentales como la investigación de necesidades, la realización y análisis de entrevistas, el estudio de la competencia, y la definición clara de problemáticas. Estos esfuerzos han permitido a todos mejorar su comprensión del mercado objetivo, garantizar que las User Stories y demás herramientas de diseño sean precisas y relevantes, y sentar las bases para el desarrollo de una aplicación móvil que responda adecuadamente a las necesidades identificadas.</p>
       </td>
     </tr>
     <tr>
@@ -199,8 +199,8 @@
         <p></p>
       </td>
       <td>
-        <p><strong>TB1:</strong></p>
-        <p></p>
+        <p><strong>TB1: </strong></p>
+        <p>En este primer avance del proyecto, cada integrante del equipo ha reconocido la importancia del aprendizaje continuo en el desarrollo profesional y en la creación de soluciones de software. A través de la investigación, entrevistas y análisis de datos, todos comprendieron que mantenerse actualizados y abiertos a nuevos conocimientos es crucial para diseñar funcionalidades que se alineen con las necesidades cambiantes de los usuarios y con las nuevas tecnologías. Esta actitud proactiva hacia el aprendizaje permitirá al equipo desarrollar un producto que no solo resuelve las problemáticas actuales, sino que también se adapta a futuros desafíos.</p>
       </td>
     </tr>
   </tbody>
