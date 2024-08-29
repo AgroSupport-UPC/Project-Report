@@ -174,7 +174,7 @@
         <p><strong>TB1:</strong></p>
         <p></p>
         <p><strong>Salinas Torres, Salvador Antonio</strong></p>
-        <p><strong>TB1:</strong></p>
+        <p><strong>TB1:</strong> En este entregable, definimos el problema inicial sobre el cual partirá nuestra aplicación móvil a realizar. Igualmente, tuvimos que actualizar conocimientos para determinar bien la problemática a través de una investigación sobre el tema y también sobre lo necesario para poder desarrollar la aplicación móvil.</p>
         <p></p>
       </td>
       <td>
@@ -185,8 +185,8 @@
     <tr>
       <td>Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.</td>
       <td>
-        <p><strong>Paredes Puente, Sebastian Roberto</strong> A través de las opiniones recogidas en las entrevistas, entendimos la importancia de un aprendizaje continuo. Esto nos permitió diseñar las funcionalidades del producto definidas en las User Stories, de manera que vayan acorde a las necesidades de nuestros usuarios.</p>
-        <p><strong>TB1:</strong></p>
+        <p><strong>Paredes Puente, Sebastian Roberto</strong></p>
+        <p><strong>TB1:</strong> A través de las opiniones recogidas en las entrevistas, entendimos la importancia de un aprendizaje continuo. Esto nos permitió diseñar las funcionalidades del producto definidas en las User Stories, de manera que vayan acorde a las necesidades de nuestros usuarios.</p>
         <p></p>
         <p><strong>Delgado Corrales, Piero Gonzalo</strong></p>
         <p><strong>TB1:</strong> Mediante las opiniones obtenidas de las entrevistas pudimos comprender la necesidad de un aprendizaje continuo porque gracias a estas pudimos diseñar las funcionalidades del producto delimitadas en las User Stories para que se alineen con las necesidades cambiantes de nuestros segmentos objetivos y tomando en cuenta las nuevas tecnologías.</p>
@@ -195,7 +195,7 @@
         <p><strong>TB1:</strong></p>
         <p></p>
         <p><strong>Salinas Torres, Salvador Antonio</strong></p>
-        <p><strong>TB1:</strong></p>
+        <p><strong>TB1:</strong> Se realizó una investigación sobre el tema para verificar de forma clara la necesidad a resolver, así como con fuentes secundarias recuperadas de artículos y fuentes primarias como las entrevistas realizadas.</p>
         <p></p>
       </td>
       <td>
