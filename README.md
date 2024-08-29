@@ -168,7 +168,7 @@
         <p><strong>TB1:</strong></p>
         <p></p>
         <p><strong>Delgado Corrales, Piero Gonzalo</strong></p>
-        <p><strong>TB1:</strong></p>
+        <p><strong>TB1:</strong> Para esta entrega, se adquirieron nuevos conocimientos en la realización de entrevistas y su análisis ya que se pudo entender mejor las necesidades de los granjeros y asesores. Esto es fundamental para la creación de los User Personas, User Task Matrix, y realizar el User Journey Mapping y nos permitirá .realizar una mejor solución de software.</p>
         <p></p>
         <p><strong>Matos Fernandez, Christian Andre</strong></p>
         <p><strong>TB1:</strong></p>
@@ -189,7 +189,7 @@
         <p><strong>TB1:</strong></p>
         <p></p>
         <p><strong>Delgado Corrales, Piero Gonzalo</strong></p>
-        <p><strong>TB1:</strong></p>
+        <p><strong>TB1:</strong> Mediante las opiniones obtenidas de las entrevistas pudimos comprender la necesidad de un aprendizaje continuo porque gracias a estas pudimos diseñar las funcionalidades del producto delimitadas en las User Stories para que se alineen con las necesidades cambiantes de nuestros segmentos objetivos y tomando en cuenta las nuevas tecnologías.</p>
         <p></p>
         <p><strong>Matos Fernandez, Christian Andre</strong></p>
         <p><strong>TB1:</strong></p>
@@ -234,7 +234,7 @@ De esta forma, nosotros hemos definido los siguientes objetivos para nuestro pro
       <td>19/10/2024</td>
       <td>Se va a lograr crear un buen diseño de una interfaz móvil intuitiva y fácil de usar para la aplicación, basándose en las mejores prácticas de diseño móvil identificadas a través de la investigación de aplicaciones exitosas en iOS y Android, como también documentación sobre mejores prácticas en videos o libros.</td>
       <td>La métrica será la valoración positiva de la interfaz por parte de los usuarios durante las entrevistas de validación. Se considerará éxito si al menos el 80% de los entrevistados expresan opiniones favorables.</td>
-      <td>Requiere una comprensión más profunda del diseño de interfaces mópviles, así como la capacidad de aplicar estos conocimientos en la aplicación. Esto supone un reto importante en el desarrollo móvil y va más allá de solo implementación las funcionalidades de la aplicación.</td>
+      <td>Requiere una comprensión más profunda del diseño de interfaces móviles, así como la capacidad de aplicar estos conocimientos en la aplicación. Esto supone un reto importante en el desarrollo móvil y va más allá de solo implementación las funcionalidades de la aplicación.</td>
       <td>Está alineado con la estrategia de desarrollar una aplicación que sea no solo funcional, sino también sencilla para que los granjeros puedan utilizarla de forma recurrente.</td>
       <td>Se cumplirá durante el desarrollo de los prototipos de la aplicación móvil y su primera versión.</td>
     </tr>
@@ -328,7 +328,7 @@ De esta forma, nosotros hemos definido los siguientes objetivos para nuestro pro
 Nuestra startup se llama AgroTech, y se especializa en abordar los desafíos de la gestión de granjas a través de nuestra aplicación integral AgroSupport. Nuestro enfoque principal es proporcionar asesoramiento especializado y herramientas tecnológicas para mejorar la gestión de granjas de manera inteligente y eficiente.
 
 **Misión:**
-Brindar a los granjeros acceso fácil y directo a asesoría especializada, promoviendo prácticas agrícolas sostenibles y modernas para mejorar la productividad, la rentabilidad y el bienestar de las comunidades agropecuarias
+Brindar a los granjeros acceso fácil y directo a asesoría especializada, promoviendo prácticas agrícolas sostenibles y modernas para mejorar la productividad, la rentabilidad y el bienestar de las comunidades agropecuarias.
 
 **Visión:**
 Liderar la innovación tecnológica para el sector agropecuario, promoviendo el bienestar animal y la sostenibilidad a través de tecnología accesible.
@@ -467,13 +467,32 @@ Nuestro producto debe tener una interfaz fácil de usar, con un diseño llamativ
 
 Presentación de otros supuestos:
 
-|Considero que mis clientes necesitan un servicio que ofrezca soluciones integrales para la gestión eficiente de sus actividades agropecuarias, abordando aspectos clave como la salud y nutrición de los cultivos y animales, la reproducción y la comercialización. Generaré ingresos a través de la venta de suscripciones a nuestra plataforma AgroSupport.|
-| - | - |
-|Estas necesidades se pueden resolver con tecnologías avanzadas de monitoreo y análisis de datos, junto con el acceso a un equipo de expertos en el sector agropecuario que proporcionen orientación y recomendaciones personalizadas.|Mi competencia principal en el mercado será BestFarm.|
-|Mis clientes iniciales pertenecen al sector agropecuario en Perú que buscan mejorar la eficiencia y la rentabilidad de sus operaciones.|Superaremos los desafíos del sector agropecuario gracias a nuestra aplicación, que conecta a asesores experimentados con personas inexpertas, proporcionando conocimientos especializados y un enfoque centrado en las necesidades específicas en las diversas áreas agropecuarias|
-|El principal valor que un cliente busca en mi servicio es mejorar la rentabilidad de su granja agropecuaria, garantizando al mismo tiempo el bienestar de los animales y/o cultivos, y adoptando prácticas sostenibles.|El mayor riesgo para mi producto es la resistencia al cambio por parte de algunos agricultores, que podrían mostrarse reacios a adoptar nuevas metodologías de trabajo.|
-|El cliente también puede optar por no renovar su suscripción a nuestra plataforma si no percibe mejoras significativas en la gestión y rentabilidad de su granja.|Resolveremos esto a través de una estrategia integral de educación y soporte continuo para nuestros clientes, demostrando el valor tangible de nuestra plataforma a través de casos de éxito y resultados demostrables.|
-|Voy a adquirir a la mayoría de mis clientes a través de campañas de marketing dirigidas en línea, participación en eventos agrícolas locales y asociaciones con organizaciones del sector agropecuario.|Nuestro enfoque principal es brindar asesoramiento especializado para optimizar la gestión agropecuaria, utilizando soluciones inteligentes y eficientes que maximicen el rendimiento y la sostenibilidad.|
+<table border="1">
+  <tr>
+    <td>Considero que mis clientes necesitan un servicio que ofrezca soluciones integrales para la gestión eficiente de sus actividades agropecuarias, abordando aspectos clave como la salud y nutrición de los cultivos y animales, la reproducción y la comercialización. Generaré ingresos a través de la venta de suscripciones a nuestra plataforma AgroSupport.</td>
+    <td>Estas necesidades se pueden resolver con tecnologías avanzadas de monitoreo y análisis de datos, junto con el acceso a un equipo de expertos en el sector agropecuario que proporcionen orientación y recomendaciones personalizadas.</td>
+  </tr>
+  <tr>
+    <td>Mi competencia principal en el mercado será BestFarm.</td>
+    <td>Mis clientes iniciales pertenecen al sector agropecuario en Perú que buscan mejorar la eficiencia y la rentabilidad de sus operaciones.</td>
+  </tr>
+  <tr>
+    <td>Superaremos los desafíos del sector agropecuario gracias a nuestra aplicación, que conecta a asesores experimentados con personas inexpertas, proporcionando conocimientos especializados y un enfoque centrado en las necesidades específicas en las diversas áreas agropecuarias.</td>
+    <td>El principal valor que un cliente busca en mi servicio es mejorar la rentabilidad de su granja agropecuaria, garantizando al mismo tiempo el bienestar de los animales y/o cultivos, y adoptando prácticas sostenibles.</td>
+  </tr>
+  <tr>
+    <td>El mayor riesgo para mi producto es la resistencia al cambio por parte de algunos agricultores, que podrían mostrarse reacios a adoptar nuevas metodologías de trabajo.</td>
+    <td>El cliente también puede optar por no renovar su suscripción a nuestra plataforma si no percibe mejoras significativas en la gestión y rentabilidad de su granja.</td>
+  </tr>
+  <tr>
+    <td>Resolveremos esto a través de una estrategia integral de educación y soporte continuo para nuestros clientes, demostrando el valor tangible de nuestra plataforma a través de casos de éxito y resultados demostrables.</td>
+    <td>Voy a adquirir a la mayoría de mis clientes a través de campañas de marketing dirigidas en línea, participación en eventos agrícolas locales y asociaciones con organizaciones del sector agropecuario.</td>
+  </tr>
+  <tr>
+    <td>Nuestro enfoque principal es brindar asesoramiento especializado para optimizar la gestión agropecuaria, utilizando soluciones inteligentes y eficientes que maximicen el rendimiento y la sostenibilidad.</td>
+  </tr>
+</table>
+
 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
@@ -613,7 +632,7 @@ Los asesores experimentados desempeñan un papel crucial en el sector agropecuar
    </tr>
    <tr>
       <td valign="top">Precios & Costos</td>
-      <td valign="top"><b>AgroSupport</b> ofrece un modelo de suscripción que puede ser mensual o anual, con precios que dependen de la magnitud de la operación y las funcionalidades necesarias.</td>
+      <td valign="top"><b>AgroSupport</b> ofrece un modelo de suscripción que puede ser mensual o anual, con precios que dependen de la magnitud de la operación y las funcionalidades necesarias</td>
       <td valign="top"><b>BestFarm</b> ofrece un modelo de suscripción flexible, con precios escalonados según el tamaño y necesidades de la finca</td>
       <td valign="top"><b>AgriWebb</b> ofrece una estructura de precios basada en suscripciones, con planes que se ajustan según el tamaño y las necesidades de la finca.</td>
       <td valign="top"><b>Trimble Ag</b> da precios basados en suscripción, con diferentes niveles según las características y el tamaño de la finca</td>
