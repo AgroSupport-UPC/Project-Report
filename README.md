@@ -14,7 +14,7 @@
   <p><strong>Producto:</strong> AgroSupport</p>
 </div>
 
-<table style="text-align:center; margin-left:auto; margin-right:auto;">
+<table align="center">
   <tr>
     <th>Integrantes</th>
     <th>Código</th>
