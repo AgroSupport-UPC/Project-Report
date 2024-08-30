@@ -2019,6 +2019,8 @@ _Imagen 16: Impact Map para Asesor experimentado_
 
 ### 2.4.4. Product Backlog
 
+Este Product Backlog presenta una lista priorizada de las User Stories para el desarrollo de nuestra aplicación, estructurada en función de las prioridades del proyecto. El backlog incluye 29 User Stories, organizadas por Epics que abarcan las funcionalidades clave, como la Landing Page, las características de la aplicación y las funcionalidades del Backend. Cada User Story está detallada con una descripción y una estimación de Story Points, facilitando así la planificación y ejecución del desarrollo. La estructura prioriza primero las funcionalidades visibles y esenciales para los usuarios, asegurando que las necesidades más críticas se aborden de manera efectiva y eficiente.
+
 <table>
   <thead>
     <tr>
