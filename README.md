@@ -3,25 +3,15 @@
 </p>
 
 <div align="center">
-
-# <span>Universidad Peruana de Ciencias Aplicadas</span>
-
-**Carrera:** Ingeniería de Software
-
-**Ciclo:** 2024 - 2
-
-**Curso:** Aplicaciones para Dispositivos Móviles
-
-**Sección:** SW63
-
-**Profesor:** Jorge Luis Mayta Guillermo
-
-**“Informe de Trabajo Final"**
-
-**Startup:** AgroTech
-
-**Producto:** AgroSupport
-
+  <h1>Universidad Peruana de Ciencias Aplicadas</h1>
+  <p><strong>Carrera:</strong> Ingeniería de Software</p>
+  <p><strong>Ciclo:</strong> 2024 - 2</p>
+  <p><strong>Curso:</strong> Aplicaciones para Dispositivos Móviles</p>
+  <p><strong>Sección:</strong> SW63</p>
+  <p><strong>Profesor:</strong> Jorge Luis Mayta Guillermo</p>
+  <p><strong>"Informe de Trabajo Final"</strong></p>
+  <p><strong>Startup:</strong> AgroTech</p>
+  <p><strong>Producto:</strong> AgroSupport</p>
 </div>
 
 <table align="center">
@@ -421,22 +411,43 @@ Según un informe realizado (Ames, 2022), se ha identificado que el sector agrop
 #### 1.2.2.1. Lean UX Problem Statements.
 
 **Problem Statement 1**
-|Nuestro producto tiene como objetivo mejorar la gestión de granjas en el Perú.|
-|:--|
-|Hemos observado que los granjeros en Perú enfrentan dificultades para gestionar eficientemente sus granjas, lo que afecta su productividad y rentabilidad.|
-|¿Podría nuestra aplicación AgroSupport ayudar a los granjeros a mejorar la gestión de sus granjas y aumentar su productividad?|
+<table>
+    <tr>
+        <td><strong>Nuestro producto tiene como objetivo mejorar la gestión de granjas en el Perú.</strong></td>
+    </tr>
+    <tr>
+        <td>Hemos observado que los granjeros en Perú enfrentan dificultades para gestionar eficientemente sus granjas, lo que afecta su productividad y rentabilidad.</td>
+    </tr>
+    <tr>
+        <td>¿Podría nuestra aplicación AgroSupport ayudar a los granjeros a mejorar la gestión de sus granjas y aumentar su productividad?</td>
+    </tr>
+</table>
 
 **Problem Statement 2**
-|Nuestro producto tiene como objetivo aumentar la rentabilidad de los granjeros en Perú.|
-|:--|
-|Hemos observado que muchos granjeros en Perú enfrentan desafíos para lograr una rentabilidad adecuada debido a la falta de eficiencia en la gestión de sus granjas.|
-|¿Podría AgroSupport ayudar a los granjeros en Perú a mejorar su rentabilidad mediante una gestión más eficiente de sus granjas?|
+<table>
+    <tr>
+        <td><strong>Nuestro producto tiene como objetivo aumentar la rentabilidad de los granjeros en Perú.</strong></td>
+    </tr>
+    <tr>
+        <td>Hemos observado que muchos granjeros en Perú enfrentan desafíos para lograr una rentabilidad adecuada debido a la falta de eficiencia en la gestión de sus granjas.</td>
+    </tr>
+    <tr>
+        <td>¿Podría AgroSupport ayudar a los granjeros en Perú a mejorar su rentabilidad mediante una gestión más eficiente de sus granjas?</td>
+    </tr>
+</table>
 
 **Problem Statement 3**
-|Nuestro producto tiene como objetivo proporcionar asesoramiento especializado a los granjeros en Perú.|
-|:--|
-|Hemos observado que muchos granjeros en Perú enfrentan desafíos para obtener asesoramiento adecuado y especializado en la gestión de sus granjas.|
-|¿Cómo podría AgroSupport ayudar a los granjeros en Perú a acceder a asesorías especializadas para mejorar la gestión de sus granjas?|
+<table>
+    <tr>
+        <td><strong>Nuestro producto tiene como objetivo proporcionar asesoramiento especializado a los granjeros en Perú.</strong></td>
+    </tr>
+    <tr>
+        <td>Hemos observado que muchos granjeros en Perú enfrentan desafíos para obtener asesoramiento adecuado y especializado en la gestión de sus granjas.</td>
+    </tr>
+    <tr>
+        <td>¿Cómo podría AgroSupport ayudar a los granjeros en Perú a acceder a asesorías especializadas para mejorar la gestión de sus granjas?</td>
+    </tr>
+</table>
 
 #### 1.2.2.2. Lean UX Assumptions.
 
@@ -2009,219 +2020,220 @@ _Imagen 16: Impact Map para Asesor experimentado_
 ### 2.4.4. Product Backlog
 
 <table>
-   <thead>
-      <tr>
-         <th># Orden</th>
-         <th>User Story ID</th>
-         <th>Título</th>
-         <th>Descripción</th>
-         <th>Story Points (1/2/3/5/8)</th>
-      </tr>
-   </thead>
-   <tbody>
-      <tr>
-         <td>1</td>
-         <td>US14</td>
-         <td>Visualización de la sección de inicio de la Landing Page</td>
-         <td>Implementar la visualización de la sección de inicio que presenta la aplicación móvil y sus beneficios.</td>
-         <td>3</td>
-      </tr>
-      <tr>
+  <thead>
+    <tr>
+      <th># Orden</th>
+      <th>User Story ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Story Points (1/2/3/5/8)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>US14</td>
+      <td>Visualización de la sección de inicio de la Landing Page</td>
+      <td>Implementar la visualización de la sección de inicio que presenta la aplicación móvil y sus beneficios.</td>
+      <td>3</td>
+    </tr>
+    <tr>
          <td>2</td>
          <td>US15</td>
          <td>Visualización de la sección 'Acerca de' de la Landing Page</td>
          <td>Mostrar información detallada sobre la misión y visión de la aplicación móvil en la Landing Page.</td>
          <td>2</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>3</td>
          <td>US16</td>
          <td>Visualización de la sección 'Sobre Nosotros' de la Landing Page</td>
          <td>Proveer una sección que explique quiénes son los creadores de la aplicación y su historia.</td>
          <td>2</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>4</td>
          <td>US17</td>
          <td>Visualización de la sección 'Características' de la Landing Page</td>
          <td>Presentar las características principales de la aplicación de manera clara y atractiva.</td>
          <td>3</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>5</td>
          <td>US18</td>
          <td>Visualización de la sección 'Contacto' de la Landing Page</td>
          <td>Permitir a los usuarios potenciales ponerse en contacto con los desarrolladores o soporte técnico.</td>
          <td>2</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>6</td>
          <td>US01</td>
          <td>Visualización del catálogo de asesores</td>
          <td>Permitir a los usuarios ver una lista completa de asesores disponibles.</td>
          <td>3</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>7</td>
          <td>US02</td>
          <td>Visualización de información de un asesor</td>
          <td>Mostrar detalles sobre un asesor específico, incluyendo su perfil, experiencia y áreas de especialización.</td>
          <td>3</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>8</td>
          <td>US03</td>
          <td>Visualización de horarios de asesores</td>
          <td>Permitir a los usuarios ver la disponibilidad de los asesores para programar citas.</td>
          <td>2</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>9</td>
          <td>US04</td>
          <td>Programación de citas con asesores</td>
          <td>Implementar la funcionalidad para que los usuarios puedan reservar citas con asesores.</td>
          <td>5</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>10</td>
          <td>US05</td>
          <td>Calificación del asesor luego de una cita</td>
          <td>Permitir a los usuarios calificar a los asesores después de una cita.</td>
          <td>3</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>11</td>
          <td>US06</td>
          <td>Separación de horarios de disponibilidad para asesorías</td>
          <td>Gestionar y separar los horarios de los asesores según su disponibilidad.</td>
          <td>5</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>12</td>
          <td>US19</td>
          <td>Recordatorio de Cita</td>
          <td>Enviar recordatorios automáticos a los usuarios sobre sus citas programadas.</td>
          <td>2</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>13</td>
          <td>US20</td>
          <td>Confirmación de Asistencia</td>
          <td>Implementar una funcionalidad que permita a los usuarios confirmar su asistencia a las citas programadas.</td>
          <td>2</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>14</td>
          <td>US21</td>
          <td>Visualización de Historial de Citas</td>
          <td>Permitir a los usuarios ver el historial de sus citas pasadas con asesores.</td>
          <td>3</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>15</td>
          <td>US22</td>
          <td>Reprogramación de Citas</td>
          <td>Permitir a los usuarios reprogramar sus citas con asesores.</td>
          <td>5</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>16</td>
          <td>US23</td>
          <td>Búsqueda y Filtrado de Citas</td>
          <td>Implementar funcionalidades de búsqueda y filtrado para que los usuarios puedan encontrar citas específicas fácilmente.</td>
          <td>3</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>17</td>
          <td>US07</td>
          <td>Gestión de publicaciones de asesores</td>
          <td>Permitir a los asesores crear y gestionar sus publicaciones.</td>
          <td>3</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>18</td>
          <td>US08</td>
          <td>Visualización de publicaciones de los asesores</td>
          <td>Permitir a los usuarios ver las publicaciones de los asesores.</td>
          <td>2</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>19</td>
          <td>US09</td>
          <td>Registro de un usuario nuevo</td>
          <td>Permitir a nuevos usuarios registrarse en la aplicación.</td>
          <td>3</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>20</td>
          <td>US10</td>
          <td>Inicio de sesión</td>
          <td>Implementar la funcionalidad de inicio de sesión para usuarios registrados.</td>
          <td>2</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>21</td>
          <td>US11</td>
          <td>Recuperación de contraseña</td>
          <td>Permitir a los usuarios recuperar su contraseña en caso de olvido.</td>
          <td>2</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>22</td>
          <td>US12</td>
          <td>Notificación al usuario</td>
          <td>Enviar notificaciones automáticas a los usuarios sobre actividades importantes.</td>
          <td>2</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>23</td>
          <td>US13</td>
          <td>Disponibilidad y confiabilidad</td>
          <td>Asegurar que el sistema sea accesible y confiable para todos los usuarios.</td>
          <td>8</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>24</td>
          <td>US24</td>
          <td>Uso de una API para videollamadas</td>
          <td>Integrar una API que permita realizar videollamadas dentro de la aplicación.</td>
          <td>8</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>25</td>
          <td>US25</td>
          <td>Uso de una API para alojar imágenes</td>
          <td>Implementar una API que permita a los usuarios subir y almacenar imágenes de manera segura.</td>
          <td>8</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>26</td>
          <td>US26</td>
          <td>Uso de nuestra API para gestionar perfiles</td>
          <td>Desarrollar una API propia que gestione los perfiles de los usuarios, permitiendo actualizar información y configuraciones.</td>
          <td>8</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>27</td>
          <td>US27</td>
          <td>Uso de nuestra API para gestionar citas de asesoría</td>
          <td>Desarrollar y utilizar una API que gestione todas las funcionalidades relacionadas con la programación y manejo de citas de asesoría.</td>
          <td>8</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>28</td>
          <td>US28</td>
          <td>Uso de nuestra API para gestionar notificaciones</td>
          <td>Desarrollar y utilizar una API que gestione todas las funcionalidades relacionadas con el envío de notificaciones a los usuarios.</td>
          <td>8</td>
-      </tr>
-      <tr>
+    </tr>
+    <tr>
          <td>29</td>
          <td>US29</td>
          <td>Uso de nuestra API para gestionar autenticación</td>
          <td>Desarrollar y utilizar una API que gestione la autenticación y autorización de usuarios en la aplicación.</td>
          <td>8</td>
-      </tr>    
+    </tr> 
+  </tbody>   
 </table>
 
 # Capítulo 3: Arquitectura
