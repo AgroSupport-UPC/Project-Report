@@ -2317,9 +2317,39 @@ Este Product Backlog presenta una lista priorizada de las User Stories para el d
 ### 3.2.1. Domain-Driven Software Architecture
 #### 3.2.1.1. Software Architecture Context Level Diagram
 
+El diagrama de contexto representa la estructura y las principales interacciones de un sistema de software. En nuestro proyecto, este diagrama muestra las interacciones clave entre la aplicación, los usuarios (granjeros y asesores) y los sistemas externos (servicio de videoconferencias y servicio de almacenamiento).
+
+<img alt="Diagrama de Contexto - AgroConnect" src="img/C4-Contexto.png">
+
+_Imagen X. Diagrama de Contexto de AgroConnect_
+
 #### 3.2.1.2. Software Architecture Container Level Diagram
 
+El diagrama de contenedores ofrece una visión detallada de la arquitectura del sistema, desglosandolo en sus principales contenedores y mostrando cómo interactúan entre sí. En el contexto de nuestro proyecto, este diagrama ilustra los diferentes componentes que componen la aplicación, tales como la aplicación móvil, la landing page, el API Rest y la base de datos.
+
+<img alt="Diagrama de Contenedores - AgroConnect" src="img/C4-Contenedor.png">
+
+_Imagen X. Diagrama de Contexto de AgroConnect_
+
 #### 3.2.1.3. Software Architecture Components Diagram
+
+El diagrama de componentes detalla la arquitectura de los componentes del sistema. En nuestro caso, el componente principal es el API REST que se descompone en otros 3 componentes: Profile, Appointment y Publishing.
+
+<img alt="Diagrama de Componentes: API REST" src="img/C4-API_Rest_Component_Diagram.png">
+
+_Imagen X. Diagrama de Componentes: API REST_
+
+<img alt="Diagrama de Componentes: Profile" src="img/C4-ProfileComponentDiagram.png">
+
+_Imagen X. Diagrama de Componentes: Profile_
+
+<img alt="Diagrama de Componentes: Appointment" src="img/C4-AppointmentComponentDiagram.png">
+
+_Imagen X. Diagrama de Componentes: Appointment_
+
+<img alt="Diagrama de Componentes: Publication" src="img/C4-PublicationComponentDiagram.png">
+
+_Imagen X. Diagrama de Componentes: Publication_
 
 ### 3.2.2. Software Object-Oriented Design
 #### 3.2.2.1. Class Diagrams
