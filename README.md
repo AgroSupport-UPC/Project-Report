@@ -2289,17 +2289,17 @@ El estilo de nuestro producto jugará un papel fundamental en brindar a nuestros
 #### 3.1.1.1. General Style Guidelines
 <strong>Consistencia Visual: </strong>Mantener una coherencia visual en todos los aspectos de la aplicación es clave para crear una experiencia intuitiva. Esto incluye el uso de una paleta de colores uniforme que refleje la naturaleza y la vida agrícola, una tipografía legible y tamaños de fuente adecuados para facilitar la lectura en diferentes condiciones de luz.
 
-<img alt="Consistencia visual" src="img/consistencia-visual.jpg">
+<img alt="Consistencia visual" src="img/consistencia-visual.png">
 _Imagen 17. Imagen de consistencia visual_
 
 <strong>Simplicidad y Claridad: </strong>La interfaz debe ser sencilla y fácil de navegar, con un diseño limpio que evite la sobrecarga de información. El uso de un lenguaje claro y directo es fundamental para asegurar que los usuarios, independientemente de su nivel de experiencia con la tecnología, puedan entender rápidamente cómo utilizar la aplicación.
 
-<img alt="Simplicidad y claridad" src="img/simplicidad-y-claridad.jpg">
+<img alt="Simplicidad y claridad" src="img/simplicidad-y-claridad.png">
 _Imagen 18. Imagen de simplicidad y claridad_
 
 <strong>Accesibilidad: </strong>Diseñar la aplicación teniendo en cuenta las necesidades de accesibilidad, como texto ampliable, contraste de colores para personas con discapacidades visuales, y compatibilidad con tecnologías de asistencia como lectores de pantalla.
 
-<img alt="Accesibilidad" src="img/accesibilidad-de-usuarios.png">
+<img alt="necesidades de accesibilidad de usuarios" src="img/accesibilidad">
 _Imagen 19. Imagen de necesidades de accesibilidad de usuarios_
 
 <strong>Logo: </strong>El logotipo de Agrosupport tiene un diseño circular, simbolizando la conexión y la unidad que queremos fomentar entre las comunidades agrícolas peruanas. En el corazón del círculo, se encuentra una zanahoria estilizada, un elemento visual que no solo representa la vitalidad y el crecimiento, sino también la agricultura sostenible y la importancia de la tierra en la cultura agrícola local. 
