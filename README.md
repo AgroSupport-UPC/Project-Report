@@ -2386,7 +2386,83 @@ _Imagen X. Diagrama de Componentes: Publication_
 ### 3.2.2. Software Object-Oriented Design
 #### 3.2.2.1. Class Diagrams
 
+Los diagramas de clase son herramientas cruciales en el diseño de sistemas orientados a objetos, ya que proporcionan una representación visual de las clases y sus relaciones dentro del sistema. En esta sección, se presentarán los diagramas de clase que detallan la estructura de cada bounded context: Profile, Appointment y Publication.
+
+
+<img alt="Diagrama de Clase: Profile" src="img/ClassDiagram_Profile.png">
+
+_Imagen X. Diagrama de Clase: Profile_
+
+<img alt="Diagrama de Clase: Appointment" src="img/ClassDiagram_Appointment.png">
+
+_Imagen X. Diagrama de Clase: Appointment_
+
+<img alt="Diagrama de Clase: Publication" src="img/ClassDiagram_Publication.png">
+
+_Imagen X. Diagrama de Clase: Publication_
+
 #### 3.2.2.2. Class Dictionary
+
+En esta sección, se especificarán las características detalladas de cada clase del sistema mediante un diccionario de clases. Este documento proporciona una descripción completa de las clases, incluyendo sus atributos y métodos. 
+
+<h3>3.2.2.5. Class Dictionary</h3>
+
+<p>En esta sección, se especificarán las clases representadas en los diagramas de clases para los distintos contextos del sistema. A continuación se presenta una tabla con las clases y una descripción sobre sus atributos, métodos y una breve descripción de cada una.</p>
+
+<table>
+    <thead>
+        <tr>
+            <th>Clase</th>
+            <th>Descripción</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>User</td>
+            <td>Representa un usuario del sistema. Incluye atributos como <em>id</em>, <em>username</em>, <em>password</em>, un <em>profile</em> asociado, un <em>role</em>, y una lista de <em>notifications</em>. Métodos principales: <em>getUser()</em>, <em>getNotifications()</em>.</td>
+        </tr>
+        <tr>
+            <td>Farmer</td>
+            <td>Representa a los usuarios del sector de granjero inexperto. Hereda de la clase <em>User</em>. Incluye un <em>user</em> asociado. Método principal: <em>getFarmer()</em>.</td>
+        </tr>
+        <tr>
+            <td>Advisor</td>
+            <td>Representa a los usuarios del sector de asesores especializados. Incluye atributos como <em>id</em>, <em>rating</em>, y un <em>user</em> asociado. Método principal: <em>getAdvisor()</em>.</td>
+        </tr>
+        <tr>
+            <td>Profile</td>
+            <td>Contiene la información detallada del usuario, incluyendo atributos como <em>firstname</em>, <em>lastname</em>, <em>city</em>, <em>country</em>, <em>birthdate</em>, <em>description</em>, <em>photo</em>, <em>occupation</em>, <em>experience</em>, y un <em>user</em> asociado. Método principal: <em>getProfile()</em>.</td>
+        </tr>
+        <tr>
+            <td>Notification</td>
+            <td>Representa una notificación que se enviará al usuario. Incluye atributos como <em>id</em>, <em>title</em>, <em>message</em>, y un <em>user</em> asociado. Método principal: <em>getNotification()</em>.</td>
+        </tr>
+        <tr>
+            <td>Role</td>
+            <td>Define el rol de un usuario dentro del sistema. Incluye atributos como <em>id</em> y <em>name</em>. Método principal: <em>getRole()</em>.</td>
+        </tr>
+        <tr>
+            <td>Appointment</td>
+            <td>Representa una cita programada entre un asesor y un granjero. Incluye atributos como <em>id</em>, <em>scheduled_date</em>, <em>start_time</em>, <em>end_time</em>, <em>status</em>, un <em>advisor</em>, y un <em>farmer</em>. Método principal: <em>getAppointment()</em>.</td>
+        </tr>
+        <tr>
+            <td>Review</td>
+            <td>Contiene la evaluación y comentario de una asesoría. Incluye atributos como <em>id</em>, <em>rating</em>, <em>comment</em>, y un <em>appointment</em> asociado. Método principal: <em>getReview()</em>.</td>
+        </tr>
+        <tr>
+            <td>AvailableDate</td>
+            <td>Representa los horarios cuando el asesor puede realizar una asesoría. Incluye atributos como <em>id</em>, <em>date</em>, <em>start_time</em>, <em>end_time</em>, y un <em>advisor</em> asociado. Método principal: <em>getAvailableDate()</em>.</td>
+        </tr>
+        <tr>
+            <td>Status</td>
+            <td>Representa los estados posibles de una cita: <em>PENDING</em>, <em>ONGOING</em>, <em>COMPLETED</em>, <em>REVIEWED</em>.</td>
+        </tr>
+        <tr>
+            <td>Publication</td>
+            <td>Representa una publicación hecha por un asesor. Incluye atributos como <em>id</em>, <em>title</em>, <em>description</em>, <em>image</em>, y un <em>advisor</em> asociado. Método principal: <em>getPublication()</em>.</td>
+        </tr>
+    </tbody>
+</table>
 
 #### 3.2.2.3. Database Design
 
