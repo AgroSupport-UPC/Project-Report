@@ -2358,7 +2358,70 @@ _Imagen X. Diagrama de Componentes: Publication_
 
 #### 3.2.2.3. Database Design
 
+El diseño de la base de datos es fundamental para garantizar una estructura sólida y eficiente en el almacenamiento y gestión de datos. En esta sección, se detalla el diseño de la base de datos para nuestro sistema, que está orientado a conectar granjeros con asesores especializados. La base de datos se compone de varias tablas, cada una de las cuales cumple con roles específicos en la organización de la información:
+
+<table>
+    <thead>
+        <tr>
+            <th>Tabla</th>
+            <th>Descripción</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Advisors</strong></td>
+            <td>Almacena la información sobre los asesores que abarca su id, el id de su usuario y su calificación promedio.</td>
+        </tr>
+        <tr>
+            <td><strong>Appointments</strong></td>
+            <td>Almacena la información de las citas programadas entre granjeros y asesores. La información incluye fecha, hora de inicio y fin, y el estado de las cita.</td>
+        </tr>
+        <tr>
+            <td><strong>Available Dates</strong></td>
+            <td>Contiene la información de los horarios disponibles de los asesores para realizar citas.</td>
+        </tr>
+        <tr>
+            <td><strong>Farmers</strong></td>
+            <td>Almacena la información sobre los granjeros que abarca su id y el id de su usuario respectivo.</td>
+        </tr>
+        <tr>
+            <td><strong>Notifications</strong></td>
+            <td>Gestiona la información de las notificaciones que se enviarán a los usuarios, incluyendo títulos, mensajes y fechas de envío.</td>
+        </tr>
+        <tr>
+            <td><strong>Profiles</strong></td>
+            <td>Guarda información detallada sobre los usuarios, como el nombre del usuario, su país de origen, la url de su foto de perfil, etc.</td>
+        </tr>
+        <tr>
+            <td><strong>Publications</strong></td>
+            <td>Almacena la información de las publicaciones de los asesores, incluyendo su título, descripción e imagen relacionada.</td>
+        </tr>
+        <tr>
+            <td><strong>Reviews</strong></td>
+            <td>Registra las opiniones y calificaciones asociadas a una cita.</td>
+        </tr>
+        <tr>
+            <td><strong>Roles</strong></td>
+            <td>Define los roles dentro del sistema.</td>
+        </tr>
+        <tr>
+            <td><strong>User_roles</strong></td>
+            <td>Relaciona usuarios con roles específicos.</td>
+        </tr>
+        <tr>
+            <td><strong>Users</strong></td>
+            <td>Contiene los datos básicos de autenticación de los usuarios, el nombre de usuario y la contraseña encriptada.</td>
+        </tr>
+    </tbody>
+</table>
+
 #### 3.2.2.4. Database Diagram
+
+El diagrama de base de datos proporciona una representación visual de la estructura y las relaciones de las tablas dentro del sistema de gestión de base de datos.
+
+<img alt="Diagrama de Base de Datos" src="img/database.png">
+
+_Imagen X. Diagrama de base de datos_
 
 # Capítulo 4: Backend Product Implementation & Validation
 ## 4.1. Software Configuration Management
