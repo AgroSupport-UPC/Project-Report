@@ -2286,20 +2286,21 @@ Este Product Backlog presenta una lista priorizada de las User Stories para el d
 ### 3.1.1. Style Guidelines
 El estilo de nuestro producto jugará un papel fundamental en brindar a nuestros usuarios una experiencia visual que sea tanto satisfactoria como atractiva. A continuación, se proporcionará una descripción detallada más detallada de las características de nuestro proyecto:
 
+El estilo de nuestro producto jugará un papel fundamental en brindar a nuestros usuarios una experiencia visual que sea tanto satisfactoria como atractiva. A continuación, se proporcionará una descripción detallada más detallada de las características de nuestro proyecto:
 #### 3.1.1.1. General Style Guidelines
 <strong>Consistencia Visual: </strong>Mantener una coherencia visual en todos los aspectos de la aplicación es clave para crear una experiencia intuitiva. Esto incluye el uso de una paleta de colores uniforme que refleje la naturaleza y la vida agrícola, una tipografía legible y tamaños de fuente adecuados para facilitar la lectura en diferentes condiciones de luz.
 
-<img alt="Consistencia visual" src="img/consistencia-visual.png">
+<img alt="Consistencia visual" src="img/consistencia-visual.jpg">
 _Imagen 17. Imagen de consistencia visual_
 
 <strong>Simplicidad y Claridad: </strong>La interfaz debe ser sencilla y fácil de navegar, con un diseño limpio que evite la sobrecarga de información. El uso de un lenguaje claro y directo es fundamental para asegurar que los usuarios, independientemente de su nivel de experiencia con la tecnología, puedan entender rápidamente cómo utilizar la aplicación.
 
-<img alt="Simplicidad y claridad" src="img/simplicidad-y-claridad.png">
+<img alt="Simplicidad y claridad" src="img/simplicidad-y-claridad.jpg">
 _Imagen 18. Imagen de simplicidad y claridad_
 
 <strong>Accesibilidad: </strong>Diseñar la aplicación teniendo en cuenta las necesidades de accesibilidad, como texto ampliable, contraste de colores para personas con discapacidades visuales, y compatibilidad con tecnologías de asistencia como lectores de pantalla.
 
-<img alt="necesidades de accesibilidad de usuarios" src="img/accesibilidad">
+<img alt="necesidades de accesibilidad de usuarios" src="img/accesibilidad.png">
 _Imagen 19. Imagen de necesidades de accesibilidad de usuarios_
 
 <strong>Logo: </strong>El logotipo de Agrosupport tiene un diseño circular, simbolizando la conexión y la unidad que queremos fomentar entre las comunidades agrícolas peruanas. En el corazón del círculo, se encuentra una zanahoria estilizada, un elemento visual que no solo representa la vitalidad y el crecimiento, sino también la agricultura sostenible y la importancia de la tierra en la cultura agrícola local. 
@@ -2319,15 +2320,154 @@ _Imagen 22. Imagen de logo de AgroSupport_
  
 
 ### 3.1.2. Information Architecture
+La arquitectura de información es esencial para organizar y estructurar el contenido en una aplicación móvil, garantizando su accesibilidad y comprensión por parte de los usuarios. A continuación, se describen los sistemas de organización, etiquetado, SEO, búsqueda y navegación específicos para Agrosupport.
+
 #### 3.1.2.1. Organization Systems
+En Agrosupport, utilizamos un sistema de jerarquía visual adaptado a la interfaz móvil para resaltar la información clave y permitir a los usuarios encontrar fácilmente lo que necesitan. La organización secuencial en la aplicación guía a los usuarios a través del proceso de búsqueda y contacto con asesores. La categorización del contenido se realiza en función de la audiencia principal: Granjeros y Asesores.
 
 #### 3.1.2.2. Labelling Systems
 
+Para Agrosupport, hemos desarrollado un sistema de etiquetado claro y conciso para facilitar la navegación en la aplicación móvil. Las etiquetas utilizadas son:
+
+**Vista de Granjero:**
+
+<table>
+  <tbody>
+  <tr>
+      <th>My Farm - Mi Granja</th>
+      <td>Se implementará un botón que permitirá a los usuarios gestionar su inventario, que incluirá medicamentos, producción de carne, fertilizante y otros elementos relacionados.</td>
+  </tr>
+  <tr>
+      <th>Advisors - Mis asesores</th>
+      <td>Se implementará un botón que permitirá a los usuarios contactar con asesores.</td>
+  </tr>
+  <tr>
+      <th>Calendar - Calendario</th>
+      <td>Se implementará un botón que permitirá visualizar un calendario con las citas registradas.</td>
+  </tr>
+  <tr>
+      <th>Notifications - Notificaciones</th>
+      <td>Se implementará un botón que permitirá visualizar notificaciones respecto a las solicitudes de las ofertas de empleo.</td>
+  </tr>
+  <tr>
+      <th>Logout</th>
+      <td>Se implementará un botón que permitirá al usuario desvincularse de su cuenta.</td>
+  </tr>
+  </tbody>
+</table>
+
+<br></br>
+**Vista de Asesor:**
+
+<table>
+  <tbody>
+  <tr>
+      <th>Home - Inicio</th>
+      <td>Se implementará un botón que permitirá al usuario ver publicaciones de clientes y poder ofertar.</td>
+  </tr>
+  <tr>
+      <th>My clients - Mis clientes</th>
+      <td>Se implementará un botón que permitirá a los usuarios ver su clientes.</td>
+  </tr>
+  <tr>
+      <th>My publications - Mis publicaciones</th>
+      <td>Se implementará un botón que permitirá al usuario ver el historial de sus publicaciones de ofertas de trabajo.</td>
+  </tr>
+  <tr>
+      <th>Notifications - Notificaciones</th>
+      <td>Se implementará un botón que permitirá visualizar notificaciones respecto a las solicitudes de las ofertas de empleo y recordatorios de citas pendientes.</td>
+  </tr>
+    <tr>
+      <th>Calendar - Calendario</th>
+      <td>Se implementará un botón que permitirá visualizar un calendario con las citas registradas.</td>
+  </tr>
+  <tr>
+      <th>Logout</th>
+      <td>Se implementará un botón que permitirá al usuario desvincularse de su cuenta.</td>
+  </tr>
+</table>
+
 #### 3.1.2.3. SEO Tags and Meta Tags
+Para mejorar la visibilidad y el rendimiento de Agrosupport en motores de búsqueda y en las tiendas de aplicaciones, se han implementado las siguientes etiquetas SEO y metaetiquetas:
+
+<strong>Metaetiqueta de Descripción: </strong>Proporciona una breve descripción del contenido y propósito de la aplicación, ayudando a los usuarios a entender de qué se trata la aplicación y a mejorar la tasa de clics.
+
+````
+<meta name="description" content="AgroSupport is a platform that provides farmers with the necessary information to improve their farming practices.">
+````
+
+
+<strong>Metaetiqueta de Autor: </strong>Especifica el autor de la aplicación, lo que ayuda a atribuir la propiedad intelectual y la fuente del contenido.
+
+````
+<meta name="author" content="AgroTech">
+````
+<strong>Metaetiqueta de Robots: </strong>Indica a los motores de búsqueda cómo deben indexar y rastrear la página, permitiendo que se indexe y que se sigan los enlaces en la aplicación.
+
+````
+<meta name="robots" content="index, follow">
+````
+
+
+<strong>Etiqueta de Título: </strong> Define el título de la aplicación que aparece en los resultados de búsqueda y en las pestañas del navegador.
+
+````
+<title>AgroSupport</title>
+````
+
+<strong>Etiqueta de Idioma: </strong> Especifica el idioma principal del contenido de la aplicación para ayudar a los motores de búsqueda a entender y clasificar el contenido adecuadamente.
+
+````
+<html lang="en">
+````
+
+<p align="center">
+  <img src="img/seoTAGS.png" alt="SEO tags" width="600">
+</p>
+
+
 
 #### 3.1.2.4. Searching Systems
 
+La aplicación AgroConnect desarrollará un sistema de búsqueda intuitivo, diseñado para que los usuarios encuentren rápidamente la información que necesitan. Este sistema se basará en filtros inteligentes que simplificarán la búsqueda de asesores, evitando así que los usuarios se vean abrumados por la cantidad de información disponible. Con esta mejora, nuestra aplicación garantizará una experiencia de usuario más fluida y satisfactoria al buscar información relevante.
+
+<table>
+  <tbody>
+  <tr>
+      <th>Ubicación</th>
+      <td>Permite al usuario buscar asesores o recibir solicitudes de asesoramiento basadas en su ubicación actual o en una ubicación específica.</td>
+  </tr>
+  <tr>
+      <th>Tipo de Asesoría</th>
+      <td>Permite al usuario buscar según el tipo de asesoría ofrecida.</td>
+  </tr>
+  <tr>
+      <th>Presupuesto</th>
+      <td>Permite al usuario buscar asesores que se ajusten a su presupuesto.</td>
+  </tr>
+  <tr>
+      <th>Experiencia</th>
+      <td>Permite al usuario buscar asesores con un nivel de experiencia específico.</td>
+  </tr>
+  <tr>
+      <th>Reputación</th>
+      <td>Permite al usuario buscar asesores según las calificaciones obtenidas.</td>
+  </tr> 
+  <tr>
+      <th>Palabras Clave</th>
+      <td>Proporciona un cuadro de búsqueda donde los usuarios pueden ingresar palabras clave específicas relacionadas con el tipo de asesoría que necesitan.</td>
+  </tr>
+  </tbody>
+</table>
+
+
 #### 3.1.2.5. Navigation Systems
+
+La interfaz móvil de Agrosupport está diseñada para una navegación eficiente, con características adaptadas a la usabilidad en pantallas táctiles:
+
+ - ***Menús de Navegación:*** Menús adaptados para dispositivos móviles, que pueden incluir menús desplegables, botones en la parte superior o inferior de la pantalla, y accesos directos en la barra lateral.
+
+ - ***Navegación por Pestañas:*** Utiliza pestañas en la parte superior o inferior de la pantalla para organizar el contenido en secciones o categorías, permitiendo a los usuarios cambiar entre diferentes secciones sin necesidad de cargar nuevas pantallas.
 
 ### 3.1.3. Landing Page UI Design
 #### 3.1.3.1. Landing Page Wireframe
