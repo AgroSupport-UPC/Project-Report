@@ -2290,32 +2290,44 @@ El estilo de nuestro producto jugará un papel fundamental en brindar a nuestros
 #### 3.1.1.1. General Style Guidelines
 <strong>Consistencia Visual: </strong>Mantener una coherencia visual en todos los aspectos de la aplicación es clave para crear una experiencia intuitiva. Esto incluye el uso de una paleta de colores uniforme que refleje la naturaleza y la vida agrícola, una tipografía legible y tamaños de fuente adecuados para facilitar la lectura en diferentes condiciones de luz.
 
-<img alt="Consistencia visual" src="img/consistencia-visual.jpg">
+<div style="text-align: center;">
+  <img alt="Consistencia visual" src="img/consistencia-visual.jpg" width="600">
+</div>
 _Imagen 17. Imagen de consistencia visual_
 
 <strong>Simplicidad y Claridad: </strong>La interfaz debe ser sencilla y fácil de navegar, con un diseño limpio que evite la sobrecarga de información. El uso de un lenguaje claro y directo es fundamental para asegurar que los usuarios, independientemente de su nivel de experiencia con la tecnología, puedan entender rápidamente cómo utilizar la aplicación.
 
-<img alt="Simplicidad y claridad" src="img/simplicidad-y-claridad.jpg">
+<div style="text-align: center;">
+  <img alt="Simplicidad y claridad" src="img/simplicidad-y-claridad.jpg" width="600">
+</div>
 _Imagen 18. Imagen de simplicidad y claridad_
 
 <strong>Accesibilidad: </strong>Diseñar la aplicación teniendo en cuenta las necesidades de accesibilidad, como texto ampliable, contraste de colores para personas con discapacidades visuales, y compatibilidad con tecnologías de asistencia como lectores de pantalla.
 
-<img alt="necesidades de accesibilidad de usuarios" src="img/accesibilidad.png">
+<div style="text-align: center;">
+  <img alt="necesidades de accesibilidad de usuarios" src="img/accesibilidad.png" width="600">
+</div>
 _Imagen 19. Imagen de necesidades de accesibilidad de usuarios_
 
-<strong>Logo: </strong>El logotipo de Agrosupport tiene un diseño circular, simbolizando la conexión y la unidad que queremos fomentar entre las comunidades agrícolas peruanas. En el corazón del círculo, se encuentra una zanahoria estilizada, un elemento visual que no solo representa la vitalidad y el crecimiento, sino también la agricultura sostenible y la importancia de la tierra en la cultura agrícola local. 
+<strong>Logo: </strong>El logotipo de Agrosupport tiene un diseño circular, simbolizando la conexión y la unidad que queremos fomentar entre las comunidades agrícolas peruanas. En el corazón del círculo, se encuentra una zanahoria estilizada, un elemento visual que no solo representa la vitalidad y el crecimiento, sino también la agricultura sostenible y la importancia de la tierra en la cultura agrícola local.
 
-<img alt="Logo" src="img/agrosupport-logo.png">
+<div style="text-align: center;">
+  <img alt="Logo" src="img/agrosupport-logo.png" width="600">
+</div>
 _Imagen 20. Imagen de logo de AgroSupport_
 
 <strong>Tipografía: </strong>La tipografía seleccionada para Agrosupport es "Roboto", una fuente sans-serif moderna y altamente legible. Roboto destaca por su estilo limpio y contemporáneo, transmitiendo profesionalismo y actualización. La elección de Roboto garantiza que el texto en las interfaces de usuario sea fácilmente legible y mantenga una apariencia moderna y uniforme. Además, Roboto es una fuente versátil que ofrece una amplia gama de pesos y estilos, permitiendo una adaptación flexible a diferentes contextos y tamaños de texto en la aplicación.
 
-<img alt="Tipografía" src="img/typography.png">
+<div style="text-align: center;">
+  <img alt="Tipografía" src="img/typography.png" width="600">
+</div>
 _Imagen 21. Imagen de logo de AgroSupport_
 
 <strong>Colores: </strong>Agrosupport ha optado por una paleta de colores que proyecta confiabilidad y eficiencia, ideal para la contratación de asesores especializados y el uso de herramientas avanzadas. Los tonos predominantes, como el naranja, el verde y el marrón, evocan una sensación cálida que refleja la vitalidad y la energía de la naturaleza en las granjas peruanas. Esta selección de colores no solo subraya la conexión con la tierra y las raíces agrícolas, sino que también crea un ambiente acogedor y estimulante para los usuarios de la plataforma.
 
-<img alt="Paleta de colores" src="img/colors.png">
+<div style="text-align: center;">
+  <img alt="Paleta de colores" src="img/colors.png" width="600">
+</div>
 _Imagen 22. Imagen de logo de AgroSupport_
  
 
@@ -2421,9 +2433,11 @@ Para mejorar la visibilidad y el rendimiento de Agrosupport en motores de búsqu
 <html lang="en">
 ````
 
-<p align="center">
+<div style="text-align: center;">
   <img src="img/seoTAGS.png" alt="SEO tags" width="600">
-</p>
+</div>
+_Imagen 23. Imagen de logo SEO TAGS_
+ 
 
 
 
