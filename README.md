@@ -2360,13 +2360,16 @@ Para Agrosupport, hemos desarrollado un sistema de etiquetado claro y conciso pa
       <td>Se implementará un botón que permitirá visualizar un calendario con las citas registradas.</td>
   </tr>
   <tr>
+      <th>Appointments - Mis asesorías</th>
+      <td>Se implementará un botón que permitirá visualizar la información de las citas registradas.</td>
+  </tr>
+  <tr>
       <th>Logout</th>
       <td>Se implementará un botón que permitirá al usuario desvincularse de su cuenta.</td>
   </tr>
   </tbody>
 </table>
 
-<br></br>
 **Vista de Asesor:**
 
 <table>
@@ -2447,12 +2450,8 @@ La aplicación AgroSupport desarrollará un sistema de búsqueda intuitivo, dise
       <td>Permite al usuario buscar asesores o recibir solicitudes de asesoramiento basadas en su ubicación actual o en una ubicación específica.</td>
   </tr>
   <tr>
-      <th>Tipo de Asesoría</th>
-      <td>Permite al usuario buscar según el tipo de asesoría ofrecida.</td>
-  </tr>
-  <tr>
-      <th>Presupuesto</th>
-      <td>Permite al usuario buscar asesores que se ajusten a su presupuesto.</td>
+      <th>Nombre</th>
+      <td>Permite al usuario buscar según el nombre del asesor.</td>
   </tr>
   <tr>
       <th>Experiencia</th>
