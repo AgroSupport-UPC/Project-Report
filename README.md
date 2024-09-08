@@ -2352,16 +2352,16 @@ Para Agrosupport, hemos desarrollado un sistema de etiquetado claro y conciso pa
 <table>
   <tbody>
   <tr>
-      <th>Advisors - Mis asesores</th>
+      <th>Advisors - Asesores</th>
       <td>Se implementará un botón que permitirá a los usuarios contactar con asesores.</td>
   </tr>
   <tr>
-      <th>Calendar - Calendario</th>
-      <td>Se implementará un botón que permitirá visualizar un calendario con las citas registradas.</td>
+      <th>Appointments - Citas</th>
+      <td>Se implementará un botón que permitirá visualizar la información de las citas registradas.</td>
   </tr>
   <tr>
-      <th>Appointments - Mis asesorías</th>
-      <td>Se implementará un botón que permitirá visualizar la información de las citas registradas.</td>
+      <th>Profile - Perfil</th>
+      <td>Se implementará un botón que permitirá al usuario visualizar y editar su perfil.</td>
   </tr>
   <tr>
       <th>Logout</th>
@@ -2379,16 +2379,16 @@ Para Agrosupport, hemos desarrollado un sistema de etiquetado claro y conciso pa
       <td>Se implementará un botón que permitirá al usuario ver publicaciones de clientes y poder ofertar.</td>
   </tr>
   <tr>
-      <th>My clients - Mis clientes</th>
-      <td>Se implementará un botón que permitirá a los usuarios ver su clientes.</td>
+      <th>Appointments - Citas</th>
+      <td>Se implementará un botón que permitirá visualizar la información de las citas registradas.</td>
   </tr>
   <tr>
       <th>My publications - Mis publicaciones</th>
       <td>Se implementará un botón que permitirá al usuario ver el historial de sus publicaciones de ofertas de trabajo.</td>
   </tr>
-    <tr>
-      <th>Calendar - Calendario</th>
-      <td>Se implementará un botón que permitirá visualizar un calendario con las citas registradas.</td>
+  <tr>
+      <th>Profile - Perfil</th>
+      <td>Se implementará un botón que permitirá al usuario visualizar y editar su perfil.</td>
   </tr>
   <tr>
       <th>Logout</th>
@@ -2435,8 +2435,6 @@ Para mejorar la visibilidad y el rendimiento de Agrosupport en motores de búsqu
 </p>
 
 _Imagen 23. Imagen de logo SEO TAGS_
- 
-
 
 
 #### 3.1.2.4. Searching Systems
@@ -2458,7 +2456,7 @@ La aplicación AgroSupport desarrollará un sistema de búsqueda intuitivo, dise
       <td>Permite al usuario buscar asesores con un nivel de experiencia específico.</td>
   </tr>
   <tr>
-      <th>Reputación</th>
+      <th>Calificación</th>
       <td>Permite al usuario buscar asesores según las calificaciones obtenidas.</td>
   </tr> 
   <tr>
@@ -2480,7 +2478,151 @@ La interfaz móvil de Agrosupport está diseñada para una navegación eficiente
 ### 3.1.3. Landing Page UI Design
 #### 3.1.3.1. Landing Page Wireframe
 
+Los wireframes son el esquema básico de la Landing page, mostrando la estructura principal y la disposición de los elementos. Aquí se detallan las secciones clave como el encabezado, el área de beneficios, las llamadas a la acción y la ubicación de imágenes, enfocándose en la usabilidad y el flujo de la página sin distracciones visuales.
+
+
+**Página de inicio**
+
+<img src="img/wireframe-inicio.png" alt="Wireframe - Inicio">
+
+_Imagen 24. Wireframe de la página de inicio_
+
+
+**Página de inicio (versión móvil)**
+
+<img src="img/wireframe-inicio-mobile.png" alt="Wireframe - Inicio (móvil)">
+
+_Imagen 25. Wireframe de la página de inicio (móvil)_
+
+
+**Página de Problemática**
+
+<img src="img/wireframe-problematica.png" alt="Wireframe - Problemática">
+
+_Imagen 26. Wireframe de la página de Problemática_
+
+
+**Página de Problemática (versión móvil)**
+
+<img src="img/wireframe-problematica-mobile.png" alt="Wireframe - Problemática (móvil)">
+
+_Imagen 27. Wireframe de la página de Problemática (móvil)_
+
+
+**Página de Características**
+
+<img src="img/wireframe-caracteristicas.png" alt="Wireframe - Características">
+
+_Imagen 28. Wireframe de la página de Características_
+
+
+**Página de Características (versión móvil)**
+
+<img src="img/wireframe-caracteristicas-mobile.png" alt="Wireframe - Características (móvil)">
+
+_Imagen 29. Wireframe de la página de Características (móvil)_
+
+
+**Página de Sobre Nosotros**
+
+<img src="img/wireframe-nosotros.png" alt="Wireframe - Nosotros">
+
+_Imagen 30. Wireframe de la página de Sobre Nosotros_
+
+
+**Página de Sobre Nosotros (versión móvil)**
+
+<img src="img/wireframe-nosotros-mobile.png" alt="Wireframe - Nosotros (móvil)">
+
+_Imagen 31. Wireframe de la página de Sobre Nosotros (móvil)_
+
+
+**Página de Contacto**
+
+<img src="img/wireframe-contacto.png" alt="Wireframe - Contacto">
+
+_Imagen 32. Wireframe de la página de Contacto_
+
+
+**Página de Contacto (versión móvil)**
+
+<img src="img/wireframe-contacto-mobile.png" alt="Wireframe - Contacto (móvil)">
+
+_Imagen 33. Wireframe de la página de Contacto (móvil)_
+
+
 #### 3.1.3.2. Landing Page Mock-up
+
+Los mockups añaden detalles visuales y de diseño a los wireframes, mostrando la paleta de colores, tipografía y estilo gráfico que tendrá la landing page. Representan cómo se verá la página final, integrando los elementos visuales que harán la experiencia más atractiva y coherente con la marca.
+
+**Página de inicio**
+
+<img src="img/mockup-inicio.png" alt="Mock-up - Inicio">
+
+_Imagen 34. Mock-up de la página de inicio_
+
+
+**Página de inicio (versión móvil)**
+
+<img src="img/mockup-inicio-mobile.png" alt="Mock-up - Inicio (móvil)">
+
+_Imagen 35. Mock-up de la página de inicio (móvil)_
+
+
+**Página de Problemática**
+
+<img src="img/mockup-problematica.png" alt="Mock-up - Problemática">
+
+_Imagen 36. Mock-up de la página de Problemática_
+
+
+**Página de Problemática (versión móvil)**
+
+<img src="img/mockup-problematica-mobile.png" alt="Mock-up - Problemática (móvil)">
+
+_Imagen 37. Mock-up de la página de Problemática (móvil)_
+
+
+**Página de Características**
+
+<img src="img/mockup-caracteristicas.png" alt="Mock-up - Características">
+
+_Imagen 38. Mock-up de la página de Características_
+
+
+**Página de Características (versión móvil)**
+
+<img src="img/mockup-caracteristicas-mobile.png" alt="Mock-up - Características (móvil)">
+
+_Imagen 39. Mock-up de la página de Características (móvil)_
+
+
+**Página de Sobre Nosotros**
+
+<img src="img/mockup-nosotros.png" alt="Mock-up - Nosotros">
+
+_Imagen 40. Mock-up de la página de Sobre Nosotros_
+
+
+**Página de Sobre Nosotros (versión móvil)**
+
+<img src="img/mockup-nosotros-mobile.png" alt="Mock-up - Nosotros (móvil)">
+
+_Imagen 41. Mock-up de la página de Sobre Nosotros (móvil)_
+
+
+**Página de Contacto**
+
+<img src="img/mockup-contacto.png" alt="Mock-up - Contacto">
+
+_Imagen 42. Mock-up de la página de Contacto_
+
+
+**Página de Contacto (versión móvil)**
+
+<img src="img/mockup-contacto-mobile.png" alt="Mock-up - Contacto (móvil)">
+
+_Imagen 43. Mock-up de la página de Contacto (móvil)_
 
 ### 3.1.4. Mobile Applications UX/UI Design
 #### 3.1.4.1. Mobile Applications Wireframes
