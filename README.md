@@ -2625,15 +2625,37 @@ _Imagen 42. Mock-up de la página de Contacto_
 _Imagen 43. Mock-up de la página de Contacto (móvil)_
 
 ### 3.1.4. Mobile Applications UX/UI Design
+
 #### 3.1.4.1. Mobile Applications Wireframes
+
+Los wireframes de la app móvil muestran el diseño básico de cada pantalla, enfocándose en la organización de elementos y funciones clave, asegurando una navegación intuitiva y sencilla para el usuario.
+
+<a href="https://www.figma.com/design/28qWSJQGZxkutQKmfUcLb0/Moviles-TB2?node-id=1-2&node-type=CANVAS&t=wIJNUS0aMNwb6bGF-0">Enlace a Wireframes en Figma</a>
 
 #### 3.1.4.2. Mobile Applications Wireflow Diagrams
 
+Los wireflow diagrams combinan los wireframes con el flujo de interacción entre pantallas, visualizando cómo los usuarios navegarán a través de la app y resaltando las decisiones y acciones posibles en cada paso.
+
+<a href="https://www.figma.com/design/28qWSJQGZxkutQKmfUcLb0/Moviles-TB2?node-id=1-4&node-type=CANVAS&t=wIJNUS0aMNwb6bGF-0">Enlace a Wireflow Diagrams en Figma</a>
+
 #### 3.1.4.3. Mobile Applications Mock-ups
+
+Los mockups de la app aportan estilo visual y detalles gráficos, mostrando cómo lucirán las pantallas finales con colores, tipografías y elementos visuales que crean una experiencia atractiva y alineada con la identidad de la app.
+
+<a href="https://www.figma.com/design/28qWSJQGZxkutQKmfUcLb0/Moviles-TB2?node-id=1-3&node-type=CANVAS&t=wIJNUS0aMNwb6bGF-0">Enlace a Mock-ups en Figma</a>
 
 #### 3.1.4.4. Mobile Applications User Flow Diagrams
 
+Los user flow diagrams ilustran el recorrido completo del usuario dentro de la app, desde el inicio hasta el logro de sus objetivos, ayudando a entender los pasos y decisiones clave que se tomarán en cada interacción.
+
+<a href="https://www.figma.com/design/28qWSJQGZxkutQKmfUcLb0/Moviles-TB2?node-id=1-5&node-type=CANVAS&t=wIJNUS0aMNwb6bGF-0">Enlace a User Flow Diagrams en Figma</a>
+
+
 #### 3.1.4.5. Mobile Applications Prototyping
+
+El prototipo de interacción real permite simular la navegación y las funciones de la app tal como las experimentará el usuario final. Ofrece una representación interactiva del flujo entre pantallas, mostrando cómo responderán los elementos y mejorando la usabilidad antes de la fase de desarrollo.
+
+<a href="https://www.figma.com/proto/28qWSJQGZxkutQKmfUcLb0/Moviles-TB2?node-id=130-3269&node-type=CANVAS&t=yNMsjSd7gEHbZG3y-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A5">Enlace a Prototipo en Figma</a>
 
 ## 3.2. Architecture Overview
 ### 3.2.1. Domain-Driven Software Architecture
