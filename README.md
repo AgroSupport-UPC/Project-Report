@@ -2795,11 +2795,255 @@ Los wireflow diagrams combinan los wireframes con el flujo de interacción entre
 
 <a href="https://www.figma.com/design/28qWSJQGZxkutQKmfUcLb0/Moviles-TB2?node-id=1-4&node-type=CANVAS&t=wIJNUS0aMNwb6bGF-0">Enlace a Wireflow Diagrams en Figma</a>
 
+*Para Granjeros Inexpertos**
+
+<img src="img/wireflow-1.png" alt="Wireflow 1">
+
+_Imagen 82. Wireflow Goal 1 - Granjeros_
+
+<img src="img/wireflow-2.png" alt="Wireflow 2">
+
+_Imagen 83. Wireflow Goal 2 - Granjeros_
+
+<img src="img/wireflow-3.png" alt="Wireflow 3">
+
+_Imagen 84. Wireflow Goal 3 - Granjeros_
+
+<img src="img/wireflow-4.png" alt="Wireflow 4">
+
+_Imagen 85. Wireflow Goal 4 - Granjeros_
+
+<img src="img/wireflow-5.png" alt="Wireflow 5">
+
+_Imagen 86. Wireflow Goal 5 - Granjeros_
+
+<img src="img/wireflow-6.png" alt="Wireflow 6">
+
+_Imagen 87. Wireflow Goal 6 - Granjeros_
+
+<img src="img/wireflow-7.png" alt="Wireflow 7">
+
+_Imagen 88. Wireflow Goal 7 - Granjeros_
+
+<img src="img/wireflow-8.png" alt="Wireflow 8">
+
+_Imagen 89. Wireflow Goal 8 - Granjeros_
+
+<img src="img/wireflow-9.png" alt="Wireflow 9">
+
+_Imagen 90. Wireflow Goal 9 - Granjeros_
+
+<img src="img/wireflow-10.png" alt="Wireflow 10">
+
+_Imagen 91. Wireflow Goal 10 - Granjeros_
+
+<img src="img/wireflow-11.png" alt="Wireflow 11">
+
+_Imagen 92. Wireflow Goal 11 - Granjeros_
+
+**Para Asesores Experimentados**
+
+<img src="img/wireflow-12.png" alt="Wireflow 12">
+
+_Imagen 93. Wireflow Goal 12 - Asesores_
+
+<img src="img/wireflow-13.png" alt="Wireflow 13">
+
+_Imagen 94. Wireflow Goal 13 - Asesores_
+
+<img src="img/wireflow-14.png" alt="Wireflow 14">
+
+_Imagen 95. Wireflow Goal 14 - Asesores_
+
+<img src="img/wireflow-15.png" alt="Wireflow 15">
+
+_Imagen 96. Wireflow Goal 15 - Asesores_
+
+<img src="img/wireflow-16.png" alt="Wireflow 16">
+
+_Imagen 97. Wireflow Goal 16 - Asesores_
+
+<img src="img/wireflow-17.png" alt="Wireflow 17">
+
+_Imagen 98. Wireflow Goal 17 - Asesores_
+ 
+<img src="img/wireflow-18.png" alt="Wireflow 18">
+
+_Imagen 99. Wireflow Goal 18 - Asesores_
+
+<img src="img/wireflow-19.png" alt="Wireflow 19">
+
+_Imagen 100. Wireflow Goal 19 - Asesores_
+
+<img src="img/wireflow-20.png" alt="Wireflow 20">
+
+_Imagen 101. Wireflow Goal 20 - Asesores_
+
 #### 3.1.4.3. Mobile Applications Mock-ups
 
 Los mockups de la app aportan estilo visual y detalles gráficos, mostrando cómo lucirán las pantallas finales con colores, tipografías y elementos visuales que crean una experiencia atractiva y alineada con la identidad de la app.
 
 <a href="https://www.figma.com/design/28qWSJQGZxkutQKmfUcLb0/Moviles-TB2?node-id=1-3&node-type=CANVAS&t=wIJNUS0aMNwb6bGF-0">Enlace a Mock-ups en Figma</a>
+
+**Para Granjeros Inexpertos**
+
+<img src="img/mock-up-bienvenida.png" alt="Mock Up bienvenida">
+
+_Imagen 102. Mock Up de bienvenida_
+
+<img src="img/mock-up-olvidar-contraseña.png" alt="Mock Up olvidar contraseña">
+
+_Imagen 103. Mock Up de olvidar contraseña_
+
+<img src="img/mock-up-restablecer-contraseña.png" alt="Mock Up restablecer contraseña">
+
+_Imagen 104. Mock Up de restablecer contraseña_
+
+<img src="img/mock-up-contraseña-restablecida.png" alt="Mock Up contraseña restablecida">
+
+_Imagen 105. Mock Up de contraseña restablecida_
+
+<img src="img/mock-up-rol.png" alt="Mock Up selección de rol">
+
+_Imagen 106. Mock Up de selección de rol_
+
+<img src="img/mock-up-crear-cuenta-granjero.png" alt="Mock Up creación de cuenta de granjero">
+
+_Imagen 107. Mock Up de creación de cuenta de granjero_
+
+<img src="img/mock-up-crear-cuenta-granjero.png" alt="Mock Up creación de cuenta de granjero">
+
+_Imagen 108. Mock Up de creación de cuenta de granjero_
+
+<img src="img/mock-up-cuenta-creada-granjero.png" alt="Mock Up cuenta creada de granjero">
+
+_Imagen 109. Mock Up de cuenta creada de granjero_
+
+<img src="img/mock-up-home-granjero.png" alt="Mock Up inicio granjero">
+
+_Imagen 110. Mock Up de inicio de granjero_
+
+<img src="img/mock-up-lista-asesores-granjero.png" alt="Mock Up lista de asesores">
+
+_Imagen 111. Mock Up de lista de asesores_
+
+<img src="img/mock-up-perfil-asesor-granjero.png" alt="Mock Up perfil del asesor">
+
+_Imagen 112. Mock Up de perfil del asesor_
+
+<img src="img/mock-up-reseñas-asesor-granjero.png" alt="Mock Up reseñas del asesor">
+
+_Imagen 113. Mock Up de reseñas del asesor_
+
+<img src="img/mock-up-agendar-cita-granjero.png" alt="Mock Up agendar cita con asesor">
+
+_Imagen 114. Mock Up de agendar cita con asesor_
+
+<img src="img/mock-up-cita-agendada.png" alt="Mock Up cita agendada">
+
+_Imagen 115. Mock Up de cita agendada_
+
+<img src="img/mock-up-menu.png" alt="Mock Up menú principal">
+
+_Imagen 116. Mock Up de menú principal_
+
+<img src="img/mock-up-editar-perfil-granjero.png" alt="Mock Up editar perfil de granjero">
+
+_Imagen 117. Mock Up de editar perfil de granjero_
+
+<img src="img/mock-up-lista-citas-granjero.png" alt="Mock Up lista de citas de granjero">
+
+_Imagen 118. Mock Up de lista de citas de granjero_
+
+<img src="img/mock-up-historial-citas-granjero.png" alt="Mock Up historial de citas de granjero">
+
+_Imagen 119. Mock Up de historial de citas de granjero_
+
+<img src="img/mock-up-detalle-cita-granjero.png" alt="Mock Up detalle de la cita de granjero">
+
+_Imagen 120. Mock Up de detalle de la cita de granjero_
+
+<img src="img/mock-up-califcacion-granjero.png" alt="Mock Up calificación de asesor por granjero">
+
+_Imagen 121. Mock Up de calificación de asesor por granjero_
+
+<img src="img/mock-up-cancelar-cita-granjero.png" alt="Mock Up cancelación de cita de granjero">
+
+_Imagen 122. Mock Up de cancelación de cita de granjero_
+
+<img src="img/mock-up-cita-cancelada-granjero.png" alt="Mock Up cita cancelada de granjero">
+
+_Imagen 123. Mock Up de cita cancelada de granjero_
+
+<img src="img/mock-up-publicaciones-granjero.png" alt="Mock Up publicaciones de granjero">
+
+_Imagen 124. Mock Up de publicaciones de granjero_
+
+<img src="img/mock-up-publicaciones-asesor-granjero.png" alt="Mock Up publicaciones de asesor para granjero">
+
+_Imagen 125. Mock Up de publicaciones de asesor para granjero_
+
+**Para Asesores Experimentados**
+
+<img src="img/mock-up-crear-perfil-asesor.png" alt="Mock Up creación de perfil asesor">
+
+_Imagen 126. Mock Up de creación de perfil de asesor_
+
+<img src="img/mock-up-cuenta-creada-asesor.png" alt="Mock Up cuenta creada asesor">
+
+_Imagen 127. Mock Up de cuenta creada de asesor_
+
+<img src="img/mock-up-home-asesor.png" alt="Mock Up inicio asesor">
+
+_Imagen 128. Mock Up de inicio de asesor_
+
+<img src="img/mock-up-publicaciones-asesor.png" alt="Mock Up publicaciones asesor">
+
+_Imagen 129. Mock Up de publicaciones de asesor_
+
+<img src="img/mock-up-crear-publicacion-asesor.png" alt="Mock Up crear publicación asesor">
+
+_Imagen 130. Mock Up de crear publicación de asesor_
+
+<img src="img/mock-up-vista-publicacion-asesor.png" alt="Mock Up vista de publicación asesor">
+
+_Imagen 131. Mock Up de vista de publicación de asesor_
+
+<img src="img/mock-up-editar-publicacion.png" alt="Mock Up edición de publicación asesor">
+
+_Imagen 132. Mock Up de edición de publicación de asesor_
+
+<img src="img/mock-up-menu-publicaciones.png" alt="Mock Up menú de publicaciones asesor">
+
+_Imagen 133. Mock Up de menú de publicaciones de asesor_
+
+<img src="img/mock-up-notificaciones-asesor.png" alt="Mock Up notificaciones asesor">
+
+_Imagen 134. Mock Up de notificaciones de asesor_
+
+<img src="img/mock-up-lista-citas-asesor.png" alt="Mock Up lista de citas asesor">
+
+_Imagen 135. Mock Up de lista de citas de asesor_
+
+<img src="img/mock-up-historial-citas-asesor.png" alt="Mock Up historial de citas asesor">
+
+_Imagen 136. Mock Up de historial de citas de asesor_
+
+<img src="img/mock-up-detalle-cita-asesor.png" alt="Mock Up detalle de cita asesor">
+
+_Imagen 137. Mock Up de detalle de cita de asesor_
+
+<img src="img/mock-up-detalle-cita-pasada-asesor.png" alt="Mock Up detalle de cita pasada asesor">
+
+_Imagen 138. Mock Up de detalle de cita pasada de asesor_
+
+<img src="img/mock-up-detalle-cita-califcacion-asesor.png" alt="Mock Up detalle de cita con calificación asesor">
+
+_Imagen 139. Mock Up de detalle de cita con calificación de asesor_
+
+<img src="img/mock-up-editar-perfil-asesor.png" alt="Mock Up editar perfil asesor">
+
+_Imagen 140. Mock Up de editar perfil de asesor_
 
 #### 3.1.4.4. Mobile Applications User Flow Diagrams
 
@@ -2807,6 +3051,89 @@ Los user flow diagrams ilustran el recorrido completo del usuario dentro de la a
 
 <a href="https://www.figma.com/design/28qWSJQGZxkutQKmfUcLb0/Moviles-TB2?node-id=1-5&node-type=CANVAS&t=wIJNUS0aMNwb6bGF-0">Enlace a User Flow Diagrams en Figma</a>
 
+**Para Granjeros Inexpertos**
+
+<img src="img/userflow-1.png" alt="UserFlow 1">
+
+_Imagen 141. UserFlow 1 - Granjeros_
+
+<img src="img/userflow-2.png" alt="UserFlow 2">
+
+_Imagen 142. UserFlow 2 - Granjeros_
+
+<img src="img/userflow-3.png" alt="UserFlow 3">
+
+_Imagen 143. UserFlow 3 - Granjeros_
+
+<img src="img/userflow-4.png" alt="UserFlow 4">
+
+_Imagen 144. UserFlow 4 - Granjeros_
+
+<img src="img/userflow-5.png" alt="UserFlow 5">
+
+_Imagen 145. UserFlow 5 - Granjeros_
+
+<img src="img/userflow-6.png" alt="UserFlow 6">
+
+_Imagen 146. UserFlow 6 - Granjeros_
+
+<img src="img/userflow-7.png" alt="UserFlow 7">
+
+_Imagen 147. UserFlow 7 - Granjeros_
+
+<img src="img/userflow-8.png" alt="UserFlow 8">
+
+_Imagen 148. UserFlow 8 - Granjeros_
+
+<img src="img/userflow-9.png" alt="UserFlow 9">
+
+_Imagen 149. UserFlow 9 - Granjeros_
+
+<img src="img/userflow-10.png" alt="UserFlow 10">
+
+_Imagen 150. UserFlow 10 - Granjeros_
+
+<img src="img/userflow-11.png" alt="UserFlow 11">
+
+_Imagen 151. UserFlow 11 - Granjeros_
+
+**Para Asesores Experimentados**
+
+<img src="img/userflow-12.png" alt="UserFlow 12">
+
+_Imagen 152. UserFlow 1 - Asesores_
+
+<img src="img/userflow-13.png" alt="UserFlow 13">
+
+_Imagen 153. UserFlow 2 - Asesores_
+
+<img src="img/userflow-14.png" alt="UserFlow 14">
+
+_Imagen 154. UserFlow 3 - Asesores_
+
+<img src="img/userflow-15.png" alt="UserFlow 15">
+
+_Imagen 155. UserFlow 4 - Asesores_
+
+<img src="img/userflow-16.png" alt="UserFlow 16">
+
+_Imagen 156. UserFlow 5 - Asesores_
+
+<img src="img/userflow-17.png" alt="UserFlow 17">
+
+_Imagen 157. UserFlow 6 - Asesores_
+
+<img src="img/userflow-18.png" alt="UserFlow 18">
+
+_Imagen 158. UserFlow 7 - Asesores_
+
+<img src="img/userflow-19.png" alt="UserFlow 19">
+
+_Imagen 159. UserFlow 8 - Asesores_
+
+<img src="img/userflow-20.png" alt="UserFlow 20">
+
+_Imagen 160. UserFlow 9 - Asesores_
 
 #### 3.1.4.5. Mobile Applications Prototyping
 
