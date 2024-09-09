@@ -2632,6 +2632,163 @@ Los wireframes de la app móvil muestran el diseño básico de cada pantalla, en
 
 <a href="https://www.figma.com/design/28qWSJQGZxkutQKmfUcLb0/Moviles-TB2?node-id=1-2&node-type=CANVAS&t=wIJNUS0aMNwb6bGF-0">Enlace a Wireframes en Figma</a>
 
+**Para Granjeros Inexpertos**
+
+<img src="img/wireframe-bienvenida.png" alt="Wireframe de la aplicación bienvenida">
+
+_Imagen 44. Wireframe de bienvenida_
+
+<img src="img/wireframe-inicio-sesion.png" alt="Wireframe de inicio de sesión">
+
+_Imagen 45. Wireframe de inicio de sesión_
+
+<img src="img/wireframe-crear-cuenta.png" alt="Wireframe de creación de cuenta de granjeros">
+
+_Imagen 46. Wireframe de creación de cuenta de granjeros inexpertos_
+
+<img src="img/wireframe-cuenta-granjero.png" alt="Wireframe de creación de cuenta de granjeros">
+
+_Imagen 47. Wireframe de creación de cuenta de granjeros inexpertos_
+
+<img src="img/wireframe-cuenta-granjero-perfil.png" alt="Wireframe de crear cuenta de granjeros">
+
+_Imagen 48. Wireframe de creación de perfil de granjeros inexpertos_
+
+<img src="img/wireframe-cuenta-creada-granjero.png" alt="Wireframe de cuenta creada de granjeros inexpertos">
+
+_Imagen 49. Wireframe de cuenta creada de granjeros inexpertos_
+
+<img src="img/wireframe-olvidar-contraseña.png" alt="Wireframe de olvidar contraseña">
+
+_Imagen 50. Wireframe de olvidar contraseña_
+
+<img src="img/wireframe-restablecer-contraseña.png" alt="Wireframe de restablecer contraseña">
+
+_Imagen 51. Wireframe de restablecer contraseña_
+
+<img src="img/wireframe-contraseña-restablecida.png" alt="Wireframe de contraseña restablecida">
+
+_Imagen 52. Wireframe de contraseña restablecida_
+
+<img src="img/wireframe-home-granjeros.png" alt="Wireframe de inicio de granjeros inexpertos">
+
+_Imagen 53. Wireframe de inicio de granjeros inexpertos_
+
+<img src="img/wireframe-lista-asesores.png" alt="Wireframe de lista de asesores experimentados">
+
+_Imagen 54. Wireframe de lista de asesores experimentados_
+
+<img src="img/wireframe-perfil-asesor-granjero.png" alt="Wireframe del perfil del asesor experimentado">
+
+_Imagen 55. Wireframe del perfil del asesor experimentado_
+
+<img src="img/wireframe-calificacion-asesor.png" alt="Wireframe de reseñas del asesor">
+
+_Imagen 56. Wireframe de reseñas del asesor experimentado_
+
+<img src="img/wireframe-agendar-cita.png" alt="Wireframe de agendar cita con asesor experimentado">
+
+_Imagen 57. Wireframe de agendar cita con asesor experimentado_
+
+<img src="img/wireframe-cita-agendada.png" alt="Wireframe de cita agendada con asesor experimentado">
+
+_Imagen 58. Wireframe de cita agendada con asesor experimentado_
+
+<img src="img/wireframe-menu.png" alt="Wireframe de menú">
+
+_Imagen 59. Wireframe de menú_
+
+<img src="img/wireframe-perfil-granjeros.png" alt="Wireframe de perfil del granjero inexperto">
+
+_Imagen 60. Wireframe de perfil de granjeros inexpertos_
+
+<img src="img/wireframe-lista-citas-granjeros.png" alt="Wireframe de lista de citas de granjeros inexpertos">
+
+_Imagen 61. Wireframe de lista de citas de granjeros inexpertos_
+
+<img src="img/wireframe-historial-citas-granjeros.png" alt="Wireframe de historial de citas de granjeros inexpertos">
+
+_Imagen 62. Wireframe de historial de citas de granjeros inexpertos_
+
+<img src="img/wireframe-detalle-cita-granjeros.png" alt="Wireframe de detalles de la cita de granjeros inexpertos">
+
+_Imagen 63. Wireframe de detalles de la cita de granjeros inexpertos_
+
+<img src="img/wireframe-califcacion-granjero.png" alt="Wireframe de calificación de asesor de granjeros inexpertos">
+
+_Imagen 64. Wireframe de calificación de asesor de granjeros inexpertos_
+
+<img src="img/wireframe-cancelar-cita-granjero.png" alt="Wireframe de cancelación de cita de granjeros inexpertos">
+
+_Imagen 65. Wireframe de cancelación de cita de granjeros inexpertos_
+
+<img src="img/wireframe-cita-cancelada-granjero.png" alt="Wireframe de cita cancelada de granjeros inexpertos">
+
+_Imagen 66. Wireframe de cita cancelada de granjeros inexpertos_
+
+<img src="img/wireframe-publicaciones-granjero.png" alt="Wireframe de publicaciones de asesores de granjeros inexpertos">
+
+_Imagen 67. Wireframe de publicaciones de asesores de granjeros inexpertos_
+
+<img src="img/wireframe-publicacion-asesor-granjero.png" alt="Wireframe de publicación de un asesor de granjeros inexpertos">
+
+_Imagen 68. Wireframe de publicación de un asesor de granjeros inexpertos_
+
+
+**Para Asesores Experimentados**
+
+<img src="img/wireframe-crear-cuenta-asesor.png" alt="Wireframe de creación de cuenta de asesores">
+
+_Imagen 69. Wireframe de creación de cuenta de asesores experimentados_
+
+<img src="img/wireframe-cuenta-creada-asesor.png" alt="Wireframe de cuenta creada de asesor">
+
+_Imagen 70. Wireframe de cuenta creada de asesores experimentados_
+
+<img src="img/wireframe-home-asesores.png" alt="Wireframe de inicio de asesores">
+
+_Imagen 71. Wireframe de inicio de asesores experimentados_
+
+<img src="img/wireframe-publicaciones-asesores.png" alt="Wireframe de publicaciones de asesores">
+
+_Imagen 72. Wireframe de mis publicaciones de asesores experimentados_
+
+<img src="img/wireframe-crear-publicacion-asesor.png" alt="Wireframe de creación de publicación de asesores">
+
+_Imagen 73. Wireframe de creación de publicaciones de asesores experimentados_
+
+<img src="img/wireframe-editar-publicacion.png" alt="Wireframe de edición de publicación de asesores">
+
+_Imagen 74. Wireframe de edición de publicación de asesores experimentados_
+
+<img src="img/wireframe-menu-publicaciones.png" alt="Wireframe de menú de publicaciones">
+
+_Imagen 75. Wireframe de menú de publicaciones_
+
+<img src="img/wireframe-lista-citas-asesor.png" alt="Wireframe de lista de citas de asesores">
+
+_Imagen 76. Wireframe de lista de citas de asesores experimentados_
+
+<img src="img/wireframe-historial-citas-asesor.png" alt="Wireframe de historial de citas de asesores">
+
+_Imagen 77. Wireframe de historial de citas de asesores experimentados_
+
+<img src="img/wireframe-detalle-cita-asesor-asesor.png" alt="Wireframe de detalle de la cita de asesores">
+
+_Imagen 78. Wireframe de detalle de la cita de asesores experimentados_
+
+<img src="img/wireframe-detalle-cita-pasada-asesor.png" alt="Wireframe de cita pasada de asesores">
+
+_Imagen 79. Wireframe de cita pasada de asesores experimentados_
+
+<img src="img/wireframe-vista-publicacion-asesor.png" alt="Wireframe de vista de publicaciones pasada de asesores">
+
+_Imagen 80. Wireframe de vista de publicaciones pasada de asesores_
+
+<img src="img/wireframe-detalle-cita-asesor.png" alt="Wireframe de detalle de cita de asesores">
+
+_Imagen 81. WWireframe de detalle de cita de asesores experimentados_
+
 #### 3.1.4.2. Mobile Applications Wireflow Diagrams
 
 Los wireflow diagrams combinan los wireframes con el flujo de interacción entre pantallas, visualizando cómo los usuarios navegarán a través de la app y resaltando las decisiones y acciones posibles en cada paso.
