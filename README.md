@@ -3141,6 +3141,15 @@ El prototipo de interacción real permite simular la navegación y las funciones
 
 <a href="https://www.figma.com/proto/28qWSJQGZxkutQKmfUcLb0/Moviles-TB2?node-id=130-3269&node-type=CANVAS&t=yNMsjSd7gEHbZG3y-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A5">Enlace a Prototipo en Figma</a>
 
+Igualmente, se realizó un video de explicación mostrando la interacción con los elementos para mostrar como se comporta la aplicación en un dispositivo móvil.
+
+<a href="https://youtu.be/z36rb1-5HoQ">Enlace a video</a>
+
+<img src="img/prototyping.png" alt="Captura de video de prototipo">
+
+_Imagen 161. Captura de video de prototipo_
+
+
 ## 3.2. Architecture Overview
 ### 3.2.1. Domain-Driven Software Architecture
 #### 3.2.1.1. Software Architecture Context Level Diagram
