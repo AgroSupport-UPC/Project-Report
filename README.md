@@ -152,9 +152,9 @@
     - [4.1.3. Source Code Style Guide & Conventions](#413-source-code-style-guide--conventions)
     - [4.1.4. Software Deployment Configuration](#414-software-deployment-configuration)
   - [4.2. Software Development & Implementation](#42-software-development--implementation)
-    - [4.2.1. Sprint n](#421-sprint-n)
-      - [4.2.1.1. Sprint Planning n](#4211-sprint-planning-n)
-      - [4.2.1.2. Sprint Backlog n](#4212-sprint-backlog-n)
+    - [4.2.1. Sprint 1](#421-sprint-1)
+      - [4.2.1.1. Sprint Planning 1](#4211-sprint-planning-1)
+      - [4.2.1.2. Sprint Backlog 1](#4212-sprint-backlog-1)
       - [4.2.1.3. Development Evidence for Sprint Review](#4213-development-evidence-for-sprint-review)
       - [4.2.1.4. Testing Suite Evidence for Sprint Review](#4214-testing-suite-evidence-for-sprint-review)
       - [4.2.1.5. Execution Evidence for Sprint Review](#4215-execution-evidence-for-sprint-review)
@@ -3158,7 +3158,7 @@ El diagrama de contexto representa la estructura y las principales interacciones
 
 <img alt="Diagrama de Contexto - AgroSupport" src="img/C4-Contexto.png">
 
-_Imagen X. Diagrama de Contexto de AgroSupport_
+_Imagen 162. Diagrama de Contexto de AgroSupport_
 
 #### 3.2.1.2. Software Architecture Container Level Diagram
 
@@ -3166,7 +3166,7 @@ El diagrama de contenedores ofrece una visión detallada de la arquitectura del 
 
 <img alt="Diagrama de Contenedores - AgroSupport" src="img/C4-Contenedor.png">
 
-_Imagen X. Diagrama de Contexto de AgroSupport_
+_Imagen 163. Diagrama de Contexto de AgroSupport_
 
 #### 3.2.1.3. Software Architecture Components Diagram
 
@@ -3174,19 +3174,19 @@ El diagrama de componentes detalla la arquitectura de los componentes del sistem
 
 <img alt="Diagrama de Componentes: API REST" src="img/C4-API_Rest_Component_Diagram.png">
 
-_Imagen X. Diagrama de Componentes: API REST_
+_Imagen 164. Diagrama de Componentes: API REST_
 
 <img alt="Diagrama de Componentes: Profile" src="img/C4-ProfileComponentDiagram.png">
 
-_Imagen X. Diagrama de Componentes: Profile_
+_Imagen 165. Diagrama de Componentes: Profile_
 
 <img alt="Diagrama de Componentes: Appointment" src="img/C4-AppointmentComponentDiagram.png">
 
-_Imagen X. Diagrama de Componentes: Appointment_
+_Imagen 166. Diagrama de Componentes: Appointment_
 
 <img alt="Diagrama de Componentes: Publication" src="img/C4-PublicationComponentDiagram.png">
 
-_Imagen X. Diagrama de Componentes: Publication_
+_Imagen 167. Diagrama de Componentes: Publication_
 
 ### 3.2.2. Software Object-Oriented Design
 #### 3.2.2.1. Class Diagrams
@@ -3196,23 +3196,19 @@ Los diagramas de clase son herramientas cruciales en el diseño de sistemas orie
 
 <img alt="Diagrama de Clase: Profile" src="img/ClassDiagram_Profile.png">
 
-_Imagen X. Diagrama de Clase: Profile_
+_Imagen 168. Diagrama de Clase: Profile_
 
 <img alt="Diagrama de Clase: Appointment" src="img/ClassDiagram_Appointment.png">
 
-_Imagen X. Diagrama de Clase: Appointment_
+_Imagen 169. Diagrama de Clase: Appointment_
 
 <img alt="Diagrama de Clase: Publication" src="img/ClassDiagram_Publication.png">
 
-_Imagen X. Diagrama de Clase: Publication_
+_Imagen 170. Diagrama de Clase: Publication_
 
 #### 3.2.2.2. Class Dictionary
 
-En esta sección, se especificarán las características detalladas de cada clase del sistema mediante un diccionario de clases. Este documento proporciona una descripción completa de las clases, incluyendo sus atributos y métodos. 
-
-<h3>3.2.2.5. Class Dictionary</h3>
-
-<p>En esta sección, se especificarán las clases representadas en los diagramas de clases para los distintos contextos del sistema. A continuación se presenta una tabla con las clases y una descripción sobre sus atributos, métodos y una breve descripción de cada una.</p>
+En esta sección, se especificarán las características detalladas de cada clase del sistema mediante un diccionario de clases. A continuación se presenta una tabla con las clases y una descripción sobre sus atributos, métodos y una breve descripción de cada una.
 
 <table>
     <thead>
@@ -3334,7 +3330,7 @@ El diagrama de base de datos proporciona una representación visual de la estruc
 
 <img alt="Diagrama de Base de Datos" src="img/database.png">
 
-_Imagen X. Diagrama de base de datos_
+_Imagen 171. Diagrama de base de datos_
 
 # Capítulo 4: Backend Product Implementation & Validation
 ## 4.1. Software Configuration Management
