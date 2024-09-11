@@ -3284,7 +3284,7 @@ El diseño de la base de datos es fundamental para garantizar una estructura só
         </tr>
         <tr>
             <td><strong>Appointments</strong></td>
-            <td>Almacena la información de las citas programadas entre granjeros y asesores. La información incluye fecha, hora de inicio y fin, y el estado de las cita.</td>
+            <td>Almacena la información de las citas programadas entre granjeros y asesores. La información incluye fecha, hora de inicio y fin, el estado de las cita y el enlace para la videollamada.</td>
         </tr>
         <tr>
             <td><strong>Available Dates</strong></td>
@@ -3329,7 +3329,7 @@ El diseño de la base de datos es fundamental para garantizar una estructura só
 
 El diagrama de base de datos proporciona una representación visual de la estructura y las relaciones de las tablas dentro del sistema de gestión de base de datos.
 
-<img alt="Diagrama de Base de Datos" src="img/database.png">
+<img alt="Diagrama de Base de Datos" src="img/database2.png">
 
 _Imagen 171. Diagrama de base de datos_
 
