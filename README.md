@@ -1469,27 +1469,27 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       <tr>
         <td rowspan="6">5</td>
         <td rowspan="6">Funcionalidades de Web API (Backend)</td>
-        <td>TS24</td>
+        <td>TS01</td>
         <td>Uso de una API para videollamadas</td>
       </tr>
       <tr>
-        <td>TS25</td>
+        <td>TS02</td>
         <td>Uso de una API para alojar imágenes</td>
       </tr>
       <tr>
-        <td>TS26</td>
+        <td>TS03</td>
         <td>Uso de nuestra API para gestionar perfiles</td>
       </tr>
       <tr>
-        <td>TS27</td>
+        <td>TS04</td>
         <td>Uso de nuestra API para gestionar citas de asesoría</td>
       </tr>
       <tr>
-        <td>TS28</td>
+        <td>TS05</td>
         <td>Uso de nuestra API para gestionar publicaciones</td>
       </tr>
       <tr>
-        <td>TS29</td>
+        <td>TS06</td>
         <td>Uso de nuestra API para gestionar IAM</td>
       </tr>
     </tbody>
@@ -1898,7 +1898,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       <td>1</td>
     </tr>
         <tr>
-      <td>TS24</td>
+      <td>TS01</td>
       <td>Uso de una API para videollamadas</td>
       <td>Como desarrollador quiero integrar la creación de videollamadas utilizando la API de Jitsi Meet para facilitar las asesorías en la aplicación.</td>
       <td>
@@ -1910,7 +1910,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       <td>5</td>
     </tr>
     <tr>
-      <td>TS25</td>
+      <td>TS02</td>
       <td>Uso de una API para alojar imágenes</td>
       <td>Como desarrollador quiero integrar la API de almacenamiento de Firebase para que los usuarios puedan subir y visualizar sus imágenes de foto de perfil y publicaciones.</td>
       <td>
@@ -1924,7 +1924,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       <td>5</td>
     </tr>
     <tr>
-      <td>TS26</td>
+      <td>TS03</td>
       <td>Uso de nuestra API para gestionar perfiles</td>
       <td>Como desarrollador quiero integrar un API para gestionar la información de los perfiles de los usuarios en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.</td>
       <td>
@@ -1951,7 +1951,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       <td>5</td>
     </tr>
     <tr>
-      <td>TS27</td>
+      <td>TS04</td>
       <td>Uso de nuestra API para gestionar citas de asesoría</td>
       <td>Como desarrollador quiero integrar un API para gestionar la información de las citas de asesoría en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.</td>
       <td>
@@ -1978,7 +1978,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       <td>5</td>
     </tr>
     <tr>
-      <td>TS28</td>
+      <td>TS05</td>
       <td>Uso de nuestra API para gestionar publicaciones</td>
       <td>Como desarrollador quiero integrar un API para gestionar la información de las publicaciones de los asesores en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.</td>
       <td>
@@ -2005,7 +2005,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       <td>5</td>
     </tr>
     <tr>
-      <td>TS29</td>
+      <td>TS06</td>
       <td>Uso de nuestra API para gestionar IAM</td>
       <td>Como desarrollador quiero integrar un API para gestionar la información de las citas de asesoría en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.</td>
       <td>
@@ -2077,28 +2077,28 @@ Este Product Backlog presenta una lista priorizada de las User Stories para el d
   <tbody>
   <tr>
          <td>1</td>
-         <td>TS26</td>
+         <td>TS03</td>
          <td>Uso de nuestra API para gestionar perfiles</td>
          <td>Desarrollar una API propia que gestione los perfiles de los usuarios, permitiendo actualizar información y configuraciones.</td>
          <td>8</td>
     </tr>
     <tr>
          <td>2</td>
-         <td>TS27</td>
+         <td>TS04</td>
          <td>Uso de nuestra API para gestionar citas de asesoría</td>
          <td>Desarrollar y utilizar una API que gestione todas las funcionalidades relacionadas con la programación y manejo de citas de asesoría.</td>
          <td>8</td>
     </tr>
     <tr>
          <td>3</td>
-         <td>TS28</td>
+         <td>TS05</td>
          <td>Uso de nuestra API para gestionar publicaciones</td>
          <td>Desarrollar y utilizar una API que gestione todas las funcionalidades relacionadas con información de las publicaciones de los asesores en la base de datos.</td>
          <td>8</td>
     </tr>
     <tr>
          <td>4</td>
-         <td>TS29</td>
+         <td>TS06</td>
          <td>Uso de nuestra API para gestionar autenticación</td>
          <td>Desarrollar y utilizar una API que gestione la autenticación y autorización de usuarios en la aplicación.</td>
          <td>8</td>
@@ -2140,14 +2140,14 @@ Este Product Backlog presenta una lista priorizada de las User Stories para el d
     </tr>
     <tr>
          <td>10</td>
-         <td>TS24</td>
+         <td>TS01</td>
          <td>Uso de una API para videollamadas</td>
          <td>Integrar una API que permita realizar videollamadas dentro de la aplicación.</td>
          <td>8</td>
     </tr>
     <tr>
          <td>11</td>
-         <td>TS25</td>
+         <td>TS02</td>
          <td>Uso de una API para alojar imágenes</td>
          <td>Implementar una API que permita a los usuarios subir y almacenar imágenes de manera segura.</td>
          <td>8</td>
