@@ -2080,28 +2080,28 @@ Este Product Backlog presenta una lista priorizada de las User Stories para el d
          <td>TS03</td>
          <td>Uso de nuestra API para gestionar perfiles</td>
          <td>Desarrollar una API propia que gestione los perfiles de los usuarios, permitiendo actualizar información y configuraciones.</td>
-         <td>8</td>
+         <td>5</td>
     </tr>
     <tr>
          <td>2</td>
          <td>TS04</td>
          <td>Uso de nuestra API para gestionar citas de asesoría</td>
          <td>Desarrollar y utilizar una API que gestione todas las funcionalidades relacionadas con la programación y manejo de citas de asesoría.</td>
-         <td>8</td>
+         <td>5</td>
     </tr>
     <tr>
          <td>3</td>
          <td>TS05</td>
          <td>Uso de nuestra API para gestionar publicaciones</td>
          <td>Desarrollar y utilizar una API que gestione todas las funcionalidades relacionadas con información de las publicaciones de los asesores en la base de datos.</td>
-         <td>8</td>
+         <td>5</td>
     </tr>
     <tr>
          <td>4</td>
          <td>TS06</td>
          <td>Uso de nuestra API para gestionar autenticación</td>
          <td>Desarrollar y utilizar una API que gestione la autenticación y autorización de usuarios en la aplicación.</td>
-         <td>8</td>
+         <td>5</td>
     </tr>
     <tr>
       <td>5</td>
@@ -2143,14 +2143,14 @@ Este Product Backlog presenta una lista priorizada de las User Stories para el d
          <td>TS01</td>
          <td>Uso de una API para videollamadas</td>
          <td>Integrar una API que permita realizar videollamadas dentro de la aplicación.</td>
-         <td>8</td>
+         <td>5</td>
     </tr>
     <tr>
          <td>11</td>
          <td>TS02</td>
          <td>Uso de una API para alojar imágenes</td>
          <td>Implementar una API que permita a los usuarios subir y almacenar imágenes de manera segura.</td>
-         <td>8</td>
+         <td>5</td>
     </tr>
     <tr>
          <td>12</td>
@@ -3463,9 +3463,59 @@ Así es como con este, que cada miembro podrá trabajar de forma remota desde su
 ### 4.2.1. Sprint 1
 #### 4.2.1.1. Sprint Planning 1
 
+Se planeó el primer sprint a través de una reunión presencial. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
+
+|**Sprint #**|Sprint 1|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|2024-09-05|
+|Time|01:00 PM|
+|Location|Presencial (En la universidad)|
+|Prepared by|Paredes Puente, Sebastian Roberto|
+|Attendees (to planning meeting)|<p>Delgado Corrales, Piero Gonzalo</p><p>Matos Fernandez, Christian Andre</p><p>Paredes Puente, Sebastián Roberto</p><p>Salinas Torres, Salvador Antonio</p>|
+|Sprint n - 1 Review Summary|No hubo sprint anterior|
+|Sprint n - 1 Retrospective Summary|No hubo sprint anterior|
+|**Sprint Goal & User Stories**||
+|Sprint 1 Goal|Realizar el primer deployment del Backend.|
+|Sprint 1 Velocity|20|
+|Sum of Story Points|20|
+
 #### 4.2.1.2. Sprint Backlog 1
 
+El objetivo de este primer sprint es la implementación y despliegue del Backend.
+
+<table><tr><th colspan="1" valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 1</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top">Estimation </td><td colspan="1" valign="top">Assigned To</td><td colspan="1" valign="top">Status (To-Do / In-Process / Review / Done)</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">TS03</td><td colspan="1" rowspan="2" valign="top">Uso de nuestra API para gestionar perfiles</td><td colspan="1" valign="top">WI01</td><td colspan="1" valign="top">Implementación de protocolos HTTP para perfiles</td><td colspan="1" valign="top">Se implementan los protocolos HTTP para los perfiles de los usuarios (granjeros y asesores) dentro de nuestra API.</td><td colspan="1" rowspan="2" valign="top">5</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">WI02</td><td colspan="1" valign="top">Implementación de protocolos HTTP para notificaciones</td><td colspan="1" valign="top">Se implementan los protocolos HTTP para las notificaciones dentro de nuestra API.</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">TS04</td><td colspan="1" rowspan="3" valign="top">Uso de nuestra API para gestionar citas de asesoría</td><td colspan="1" valign="top">WI03</td><td colspan="1" valign="top">Implementación de protocolos HTTP para citas</td><td colspan="1" valign="top">Se implementan los protocolos HTTP para las citas de asesorías dentro de nuestra API.</td><td colspan="1" rowspan="3" valign="top">5</td><td colspan="1" valign="top">Christian Matos, Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">WI04</td><td colspan="1" valign="top">Implementación de protocolos HTTP para horarios disponibles</td><td colspan="1" valign="top">Se implementan los protocolos HTTP para los horarios disponibles de los asesores dentro de nuestra API.</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">WI05</td><td colspan="1" valign="top">Implementación de protocolos HTTP para reseñas</td><td colspan="1" valign="top">Se implementan los protocolos HTTP para las reseñas sobre los asesores dentro de nuestra API.</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">TS05</td><td colspan="1" valign="top">Uso de nuestra API para gestionar publicaciones</td><td colspan="1" valign="top">WI06</td><td colspan="1" valign="top">Implementación de protocolos HTTP para publicaciones</td><td colspan="1" valign="top">Se implementan los protocolos HTTP para las publicaciones dentro de nuestra API.</td><td colspan="1" valign="top">5</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">TS06</td><td colspan="1" rowspan="2" valign="top">Uso de nuestra API para gestionar autenticación	</td><td colspan="1" valign="top">WI07</td><td colspan="1" valign="top">Implementación de autenticación IAM</td><td colspan="1" valign="top">Se implementan los protocolos HTTP para la autenticación de los usuarios (granjeros y asesores) dentro de nuestra API.</td><td colspan="1" rowspan="2" valign="top">5</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+</table>
+
+
 #### 4.2.1.3. Development Evidence for Sprint Review
+
+A continuación, se detallan los commits realizados, los cuales se trabajaron a partir de las tareas asignadas a cada miembro como se muestra en el Sprint Backlog 1. De este modo, se trabajó mayormente en el Backend.
+
+Repositorio Backend: <https://github.com/AgroSupport-UPC/Backend>
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroSupport-UPC/Backend|main|95268d6|chore: base project|07/09/2024|
+|AgroSupport-UPC/Backend|main|d662f5e|docs: readme file|07/09/2024|
+|AgroSupport-UPC/Backend|feature/TS03|7e1e0be|feat: add profile, advisor and farmer components|10/09/2024|
+|AgroSupport-UPC/Backend|feature/TS03|c2eb875|feat: notification components + acl context facade|10/09/2024|
+|AgroSupport-UPC/Backend|feature/TS04|2617af0|feat: appointment bounded context added|10/09/2024|
+|AgroSupport-UPC/Backend|feature/TS05|b1b3b3b|feat: bounded context publication added|11/09/2024|
+|AgroSupport-UPC/Backend|develop|73bde39|fix: add missing attributes in aggregates|11/09/2024|
+|AgroSupport-UPC/Backend|develop|f28bcfd|feat: add farmer id to review|11/09/2024|
+|AgroSupport-UPC/Backend|release|d88cd4a|feat: connection to remote database|11/09/2024|
+|AgroSupport-UPC/Backend|release|8b33156|feat: dockerfile|11/09/2024|
+|AgroSupport-UPC/Backend|main|6eb4c51|Merge pull request #5 from AgroSupport-UPC/release|11/09/2024|
 
 #### 4.2.1.4. Testing Suite Evidence for Sprint Review
 
@@ -3520,6 +3570,13 @@ Evidencia del funcionamiento del Backend deployado:
 _Imagen 1XX. Evidencia de deployment_
 
 #### 4.2.1.8. Team Collaboration Insights during Sprint
+
+Durante el desarrollo del sprint, se realizaron reuniones diarias para revisar el avance de las tareas asignadas y resolver cualquier impedimento que pudiera surgir. Además, se mantuvo una comunicación constante a través de WhatsApp para coordinar las actividades y compartir información relevante. Gracias a esta colaboración, se logró cumplir con los objetivos establecidos para el sprint y se mantuvo un ambiente de trabajo armonioso y productivo.
+
+Cada integrante trabajó en ramas "feature" correspondientes a sus tareas asignadas. Posteriormente, realizamos los "merge" con la rama "develop", hicimos el "release" y finalmente integramos los cambios en la rama "main".
+
+<img src="img/team-collaboration-insights-backend-sprint-1.png" alt="Team Collaboration Insights - Backend Sprint 1">
+
 
 # Capítulo 5: Product Implementation & Validation
 
