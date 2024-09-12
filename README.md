@@ -3475,6 +3475,50 @@ Así es como con este, que cada miembro podrá trabajar de forma remota desde su
 
 #### 4.2.1.7. Software Deployment Evidence for Sprint Review
 
+Para desplegar el Web Service se utilizó Docker para poner la aplicación en un contenedor, y Azure para alojar el contenedor.
+
+Primero, se generó la carpeta target con todos los archivos que conforman la aplicación.
+
+<img alt="Evidencia de deployment 1" src="img/backend_deployment1.png">
+
+_Imagen 1XX. Evidencia de deployment_
+
+Luego, se creó el dockerfile para la creación de la imagen.
+
+<img alt="Evidencia de deployment 2" src="img/backend_deployment2.png">
+
+_Imagen 1XX. Evidencia de deployment_
+
+Asimismo, se subió la imagen de la aplicación a Docker Hub.
+
+<img alt="Evidencia de deployment 3" src="img/backend_deployment3.png">
+
+_Imagen 1XX. Evidencia de deployment_
+
+Por otro lado, se creó el Web App en Azure con las configuraciones básicas.
+
+<img alt="Evidencia de deployment 4" src="img/backend_deployment4.png">
+
+_Imagen 1XX. Evidencia de deployment_
+
+Además, se utilizó la imagen subida a Docker Hub.
+
+<img alt="Evidencia de deployment 5" src="img/backend_deployment5.png">
+
+_Imagen 1XX. Evidencia de deployment_
+
+Finalmente, se inicializó el Web App.
+
+<img alt="Evidencia de deployment 6" src="img/backend_deployment6.png">
+
+_Imagen 1XX. Evidencia de deployment_
+
+Evidencia del funcionamiento del Backend deployado:
+
+<img alt="Evidencia de deployment 7" src="img/backend_deployment7.png">
+
+_Imagen 1XX. Evidencia de deployment_
+
 #### 4.2.1.8. Team Collaboration Insights during Sprint
 
 # Capítulo 5: Product Implementation & Validation
