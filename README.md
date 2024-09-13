@@ -284,25 +284,25 @@ De esta forma, nosotros hemos definido los siguientes objetivos para nuestro pro
     </tr>
     <tr>
       <td>Salvador Salinas</td>
-      <td>Implementar una aplicación que sea capaz de utilizar la autenticación de forma segura y adecuada (IAM), de forma que los datos ingresados por los usuarios a través de la aplicación móvil siempre se encuentren protegidos.</td>
-      <td>20/08/2024</td>
-      <td>26/09/2024</td>
-      <td>Se logrará la implementación segura del backend de la aplicación móvil utilizando la autenticación para los usuarios, ya sea administrador o cliente, a través de un sistema IAM el cual sea totalmente compatible con el Frontend de la aplicación móvil.</td>
-      <td>La métrica a tomar en cuenta es la cantidad de intentos que toma acceder con un usuario existente a la aplicación móvil, ya que debe comprobar que las credenciales sean las correctas en un 100% de las veces.</td>
-      <td>La implementación del sistema de IAM implica retos para realizar buenas prácticas, ya que a pesar de que ya tenemos algo de conocimiento para poder realizarlo, igualmente falta investigación para poder hacerlo de la manera correcta.</td>
-      <td>Está alineado con el alcance del trabajo, ya que es esencial entregar una aplicación móvil que funcione de forma segura para los usuarios.</td>
-      <td>El objetivo será cumplido al terminar la implementación del backend y conectarlo con el Frontend de la aplicación móvil.</td>
+      <td>Dominar un framework de desarrollo móvil como Flutter para crear aplicaciones multiplataforma de manera eficiente.</td>
+      <td>20/09/2024</td>
+      <td>20/11/2024</td>
+      <td>Se logrará desarrollar la capacidad para crear aplicaciones móviles multiplataforma utilizando Flutter, de este modo, no limitarse a solo programar para Android, sino también que sea compatible con iOS.</td>
+      <td>La métrica a tomar en cuenta es crear y desplegar una aplicación funcional en un repositorio de GitHub y compartirla con la comunidad, así como implementar todas las funcionalidades descritas en las historias de usuario definidas.</td>
+      <td>La implementación de una aplicación con Flutter es retador, ya que implica aprender un nuevo framework y desarrollar una aplicación nueva desde cero. Además, se espera que se aplique buenas prácticas en el código.</td>
+      <td>Está alineado con el alcance del trabajo, ya que es esencial entregar una aplicación móvil que funcione como se espera para los usuarios.</td>
+      <td>El objetivo será cumplido al terminar la implementación y despliegue de la aplicación móvil.</td>
     </tr>
     <tr>
       <td>Salvador Salinas</td>
-      <td>Integrar un sistema externo de videoconferencias para los asesoramientos programados para los usuarios.</td>
-      <td>20/10/2024</td>
+      <td>Desarrollar una red profesional dentro del ecosistema de desarrollo de aplicaciones móviles.</td>
+      <td>13/09/2024</td>
       <td>20/11/2024</td>
-      <td>El logro de este objetivo es implementar y configurar un sistema de videoconferencia externo que permita a los usuarios llevar a cabo los asesoramientos a través de la aplicación móvil.</td>
-      <td>Para medir si este objetivo llegó a cumplirse, será haciendo la prueba de creación de videoconferencias dentro de la aplicación. Para ello, se considerará que las videoconferencias se creen y se pueda acceder a ellas un 100% de las pruebas. Es importante que siempre funcione ya que esta funcionalidad es lo que brinda el mayor valor a nuestra aplicación.</td>
-      <td>La integración de un sistema externo para videoconferencias si se considera retador, ya que es importante encontrar una API robusta y con soporte técnico disponible, así como debe tener alta compatibilidad para la implementación de la aplicación y para los dispositivos móviles desde los cuales se podrá acceder.</td>
-      <td>La integración del sistema para videoconferencias es crucial para la aplicación, ya que es la principal funcionalidad que ofrecemos a nuestros segmentos objetivo.</td>
-      <td>Se espera que este objetivo sea cumplido al terminar la implementación de la primera versión de la aplicación móvil. En caso no sea así, se espera que sea hasta antes de finalizar el mes de noviembre.</td>
+      <td>Construir una red sólida de contactos profesionales en la industria de desarrollo de aplicaciones móviles para intercambiar ideas, obtener mentorías, y explorar nuevas oportunidades laborales.</td>
+      <td>Para medir si este objetivo llegó a cumplirse, se espera conectar con al menos 10 contactos a través de LinkedIn u otros medios, para establecer conexiones importantes en el ámbito laboral profesional.</td>
+      <td>Es retador ya que implica dedicar tiempo adicional fuera de las actividades diarias y requiere proactividad para interactuar y construir relaciones, lo que va más allá del enfoque técnico.</td>
+      <td>El networking es clave para el crecimiento profesional, permitiendo acceder a mentorías, nuevas oportunidades y mantenerse actualizado en las tendencias del desarrollo móvil.</td>
+      <td>En aproximadamente 2 meses, se espera haber conectado con otras personas y ser un miembro activo de comunidades en línea.</td>
     </tr>
     <tr>
       <td>Sebastian Paredes</td>
