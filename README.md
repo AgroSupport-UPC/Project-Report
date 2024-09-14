@@ -230,6 +230,7 @@
         <p></p>
         <p><strong>Matos Fernandez, Christian Andre</strong></p>
         <p><strong>TB1:</strong>Para esta entrega, investigamos a los competidores y desarrollamos estrategias para enfrentarlos. Además, realizamos entrevistas, de las cuales obtuvimos la información necesaria para crear las User Stories que serán útiles en el desarrollo de la aplicación.</p>
+        <p><strong>TB2:</strong>  En esta entrega, completé con éxito la implementación del backend, cumpliendo con las tareas que me asignaron, de lo cual tuve que repasar y aplicar los conocimientos adquiridos en cursos anteriores.</p>
         <p></p>
         <p><strong>Salinas Torres, Salvador Antonio</strong></p>
         <p><strong>TB1:</strong> En este entregable, definimos el problema inicial sobre el cual partirá nuestra aplicación móvil a realizar. Igualmente, tuvimos que actualizar conocimientos para determinar bien la problemática a través de una investigación sobre el tema y también sobre lo necesario para poder desarrollar la aplicación móvil.</p>
@@ -252,6 +253,7 @@
         <p></p>
         <p><strong>Matos Fernandez, Christian Andre</strong></p>
         <p><strong>TB1:</strong>A partir de las entrevistas y del análisis de los datos obtenidos, logramos identificar la importancia de integrar un enfoque de aprendizaje continuo. Esto nos permitió definir las User Stories del producto de manera que se adapten a las demandas reales y cambiantes de nuestros usuarios.</p>
+        <p><strong>TB2:</strong> Durante el repaso para la implementación del backend, también reforcé los conceptos de configuración de controladores y rutas en Spring Boot, lo cual facilita el manejo de solicitudes HTTP de manera eficiente. </p>
         <p></p>
         <p><strong>Salinas Torres, Salvador Antonio</strong></p>
         <p><strong>TB1:</strong> Se realizó una investigación sobre el tema para verificar de forma clara la necesidad a resolver, así como con fuentes secundarias recuperadas de artículos y fuentes primarias como las entrevistas realizadas.</p>
@@ -3546,6 +3548,12 @@ Repositorio Backend: <https://github.com/AgroSupport-UPC/Backend>
 #### 4.2.1.4. Testing Suite Evidence for Sprint Review
 
 #### 4.2.1.5. Execution Evidence for Sprint Review
+
+Durante el sprint backlog 1, se completaron todas las historias de usuario planificadas. Al final del sprint, se mostró un compromiso excepcional con el éxito del proyecto y la entrega de valor al cliente. Para demostrar la ejecución de las tareas realizadas, se grabó un video que presenta los procesos alcanzados.
+
+URL del video: [Video de ejecución de los Web Services](https://youtu.be/qCKmFRo37Wc)
+
+<img alt="Execution Evidence Sprint 1" src="img/execution-evidence-1.png">
 
 #### 4.2.1.6. Services Documentation Evidence for Sprint Review
 
