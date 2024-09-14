@@ -71,6 +71,30 @@
         </ul>
       </td>
   </tr>
+  <tr>
+      <td><strong>TB2</strong></td>
+      <td>15 de setiembre</td>
+      <td>
+        <ul>
+          <li>Paredes Puente, Sebastian Roberto</li>
+          <li>Delgado Corrales, Piero Gonzalo</li>
+          <li>Matos Fernandez, Christian Andre</li>
+          <li>Salinas Torres, Salvador Antonio</li>
+        </ul>
+      </td>
+      <td>
+        Se ha incluido el avance de los siguientes capítulos:
+        <ul>
+          <li>Capítulo 3: Arquitectura</li>
+          <li>Capítulo 4: Backend Product Implementation & Validation</li>
+        </ul>
+        Se ha mejorado:
+        <ul>
+          <li>Objetivos SMART</li>
+          <li>Definición de technical user stories</li>
+        </ul>
+      </td>
+  </tr>
   </tbody>
 </table>
 
@@ -202,6 +226,7 @@
         <p></p>
         <p><strong>Delgado Corrales, Piero Gonzalo</strong></p>
         <p><strong>TB1:</strong> Para esta entrega, se adquirieron nuevos conocimientos en la realización de entrevistas y su análisis ya que se pudo entender mejor las necesidades de los granjeros y asesores. Esto es fundamental para la creación de los User Personas, User Task Matrix, y realizar el User Journey Mapping y nos permitirá .realizar una mejor solución de software.</p>
+        <p><strong>TB2:</strong> Para esta entrega, se ha avanzado la implementación del backend para la aplicación móvil. Para ello, se tuvo que recordar los temas aprendidas en cursos previos y adaptarlo al contexto de la aplicación. </p>
         <p></p>
         <p><strong>Matos Fernandez, Christian Andre</strong></p>
         <p><strong>TB1:</strong>Para esta entrega, investigamos a los competidores y desarrollamos estrategias para enfrentarlos. Además, realizamos entrevistas, de las cuales obtuvimos la información necesaria para crear las User Stories que serán útiles en el desarrollo de la aplicación.</p>
@@ -223,6 +248,7 @@
         <p></p>
         <p><strong>Delgado Corrales, Piero Gonzalo</strong></p>
         <p><strong>TB1:</strong> Mediante las opiniones obtenidas de las entrevistas pudimos comprender la necesidad de un aprendizaje continuo porque gracias a estas pudimos diseñar las funcionalidades del producto delimitadas en las User Stories para que se alineen con las necesidades cambiantes de nuestros segmentos objetivos y tomando en cuenta las nuevas tecnologías.</p>
+        <p><strong>TB2:</strong> A través de la documentación de Spring Boot pude aprender sobre el deployment del backend en un contenedor de Docker. Gracias a esto, se pudo desplegar el backend de forma eficaz y está solución nos permitirá seguir actualizando el backend de forma rapida con los nuevos conocimientos adquiridos.</p>
         <p></p>
         <p><strong>Matos Fernandez, Christian Andre</strong></p>
         <p><strong>TB1:</strong>A partir de las entrevistas y del análisis de los datos obtenidos, logramos identificar la importancia de integrar un enfoque de aprendizaje continuo. Esto nos permitió definir las User Stories del producto de manera que se adapten a las demandas reales y cambiantes de nuestros usuarios.</p>
@@ -262,10 +288,10 @@ De esta forma, nosotros hemos definido los siguientes objetivos para nuestro pro
   <tbody>
     <tr>
       <td>Piero Delgado</td>
-      <td>Investigar principios de diseño de interfaces móviles intuitivas para iOS y Android para aplicarlos en la primera versión de nuestra aplicación con el fin de mejorar la usabilidad y experiencia de usuario.</td>
+      <td>Investigar principios de diseño de interfaces móviles intuitivas para iOS y Android para aplicarlos en la primera versión de nuestra aplicación con el fin de mejorar mis competencias en UX/UI.</td>
       <td>19/08/2024</td>
       <td>19/10/2024</td>
-      <td>Se va a lograr crear un buen diseño de una interfaz móvil intuitiva y fácil de usar para la aplicación, basándose en las mejores prácticas de diseño móvil identificadas a través de la investigación de aplicaciones exitosas en iOS y Android, como también documentación sobre mejores prácticas en videos o libros.</td>
+      <td>Desarrollar una interfaz móvil intuitiva basada en las mejores prácticas de UX/UI para fortalecer mis habilidades profesionales en diseño de aplicaciones móviles.</td>
       <td>La métrica será la valoración positiva de la interfaz por parte de los usuarios durante las entrevistas de validación. Se considerará éxito si al menos el 80% de los entrevistados expresan opiniones favorables.</td>
       <td>Requiere una comprensión más profunda del diseño de interfaces móviles, así como la capacidad de aplicar estos conocimientos en la aplicación. Esto supone un reto importante en el desarrollo móvil y va más allá de solo implementación las funcionalidades de la aplicación.</td>
       <td>Está alineado con la estrategia de desarrollar una aplicación que sea no solo funcional, sino también sencilla para que los granjeros puedan utilizarla de forma recurrente.</td>
@@ -273,14 +299,14 @@ De esta forma, nosotros hemos definido los siguientes objetivos para nuestro pro
     </tr>
     <tr>
       <td>Piero Delgado</td>
-      <td>Desarrollar un sistema de notificaciones en tiempo real en Flutter para alertar a los granjeros sobre proximas asesorías y otros eventos como actualizaciones.</td>
+      <td>Desarrollar un sistema de notificaciones en tiempo real en Kotlin para mejorar mis habilidades en desarrollo móvil.</td>
       <td>19/10/2024</td>
       <td>19/11/2024</td>
-      <td>Se logrará la implementación de un sistema de notificaciones en tiempo real que informe a los granjeros sobre eventos importantes, mejorando la comunicación dentro de la aplicación.</td>
+      <td>Implementar un sistema de notificaciones en tiempo real que informe a los granjeros sobre eventos importantes, mejorando la comunicación dentro de la aplicación, y aplicando conocimientos en desarrollo móvil y backend.</td>
       <td>La métrica a considerar será la visualización de las notificaciones en los dispositivos de prueba. Se considerará exitoso si al menos un 95% de las notificaciones enviadas durante las pruebas son recibidas correctamente.</td>
-      <td>La integración de este sistema sí implica un desafío ya que se requiere conocimientos en distintas funcionalidades de Flutter como el envío de notificaciones, creación de eventos dentro de la aplicación y conexión con el backend para saber la fecha de las distintas asesorías.</td>
-      <td>Está alineado con el alcance del trabajo ya que esta funcionalidad permite mantener a los granjeros informados sobre el estado de sus asesorías.</td>
-      <td>El objetivo se cumplirá al terminar la implementación de la primera versión de la aplicación con Flutter.</td>
+      <td>La integración de este sistema implica un desafío ya que se requiere conocimientos en distintas funcionalidades de Kotlin como el envío de notificaciones, creación de eventos dentro de la aplicación y conexión con el backend para saber la fecha de las distintas asesorías.</td>
+      <td>Está alineado con el alcance del trabajo ya que esta funcionalidad permite mantener a los granjeros informados sobre el estado de sus asesorías. Además, podre aumentar mi dominio de tecnologías móviles.</td>
+      <td>El objetivo se cumplirá al terminar la implementación de la segunda versión de la aplicación con Kotlin.</td>
     </tr>
     <tr>
       <td>Salvador Salinas</td>
