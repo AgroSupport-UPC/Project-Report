@@ -2431,6 +2431,7 @@ Para Agrosupport, hemos desarrollado un sistema de etiquetado claro y conciso pa
       <th>Logout</th>
       <td>Se implementará un botón que permitirá al usuario desvincularse de su cuenta.</td>
   </tr>
+  </tbody>
 </table>
 
 #### 3.1.2.3. SEO Tags and Meta Tags
