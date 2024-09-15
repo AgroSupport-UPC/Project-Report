@@ -241,6 +241,8 @@
       <td>
         <p><strong>TB1: </strong></p>
         <p>En este primer avance del proyecto, cada integrante del equipo ha actualizado y ampliado sus conocimientos esenciales para el desarrollo de soluciones de software, enfocándose en aspectos fundamentales como la investigación de necesidades, la realización y análisis de entrevistas, el estudio de la competencia, y la definición clara de problemáticas. Estos esfuerzos han permitido a todos mejorar su comprensión del mercado objetivo, garantizar que las User Stories y demás herramientas de diseño sean precisas y relevantes, y sentar las bases para el desarrollo de una aplicación móvil que responda adecuadamente a las necesidades identificadas.</p>
+        <p><strong>TB2: </strong></p>
+        <p>En este segundo avance, el equipo ha consolidado los conocimientos adquiridos previamente y los ha aplicado de manera efectiva en el desarrollo del projecto. En particular, se ha logrado implementar el backend de la aplicación móvil, un componente esencial que requirió la adaptación de habilidades técnicas adquiridas en cursos anteriores. Además, se realizaron mejoras en el diseño visual, aprovechando las nuevas funcionalidades de herramientas como Figma, lo que ha permitido optimizar los prototipos de la aplicación. Estos logros refuerzan la capacidad del equipo para enfrentar los desafíos del proyecto, estableciendo una base sólida para los siguientes avances y garantizando que la aplicación final esté alineada con las necesidades identificadas en fases previas.</p>
       </td>
     </tr>
     <tr>
@@ -266,6 +268,8 @@
       <td>
         <p><strong>TB1: </strong></p>
         <p>En este primer avance del proyecto, cada integrante del equipo ha reconocido la importancia del aprendizaje continuo en el desarrollo profesional y en la creación de soluciones de software. A través de la investigación, entrevistas y análisis de datos, todos comprendieron que mantenerse actualizados y abiertos a nuevos conocimientos es crucial para diseñar funcionalidades que se alineen con las necesidades cambiantes de los usuarios y con las nuevas tecnologías. Esta actitud proactiva hacia el aprendizaje permitirá al equipo desarrollar un producto que no solo resuelve las problemáticas actuales, sino que también se adapta a futuros desafíos.</p>
+        <p><strong>TB2: </strong></p>
+        <p>En este segundo avance, el equipo ha reafirmado la importancia del aprendizaje continuo para el éxito en el desarrollo de software. Cada miembro del equipo ha adquirido y aplicado nuevos conocimientos, como el despliegue del backend utilizando Docker y la configuración eficiente de controladores y rutas en Spring Boot. Este proceso ha permitido optimizar el flujo de trabajo y asegurar que futuras actualizaciones sean ágiles y adaptables. La disposición del equipo a aprender y a aplicar nuevas tecnologías no solo fortalece la solución actual, sino que también garantiza su capacidad para evolucionar con el tiempo, enfrentando futuros desafíos con una base técnica sólida y moderna.</p>
       </td>
     </tr>
   </tbody>
