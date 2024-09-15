@@ -3547,6 +3547,19 @@ Repositorio Backend: <https://github.com/AgroSupport-UPC/Backend>
 
 #### 4.2.1.4. Testing Suite Evidence for Sprint Review
 
+Se realizaron las pruebas de aceptación para las historias de usuario trabajadas utilizando el lenguaje Gherkin en archivos feature. De esta manera, se registraron en el repositorio.
+
+Repositorio Acceptance Tests: <https://github.com/AgroSupport-UPC/Acceptance-Tests>
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroSupport-UPC/Acceptance-Tests|main|8d46c64 |<p>feat: TS01.feature added</p><p></p>|14/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|a2242cb |<p>feat: TS02.feature added</p><p></p>|14/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|4b2e274 |<p>feat: TS03.feature added</p><p></p>|14/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|53b75a5 |<p>feat: TS04.feature added</p><p></p>|14/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|5619d89 |<p>feat: TS05.feature added</p><p></p>|14/09/2024|
+
+
 #### 4.2.1.5. Execution Evidence for Sprint Review
 
 Durante el sprint backlog 1, se completaron todas las historias de usuario planificadas. Al final del sprint, se mostró un compromiso excepcional con el éxito del proyecto y la entrega de valor al cliente. Para demostrar la ejecución de las tareas realizadas, se grabó un video que presenta los procesos alcanzados.
@@ -3556,6 +3569,14 @@ URL del video: [Video de ejecución de los Web Services](https://youtu.be/qCKmFR
 <img alt="Execution Evidence Sprint 1" src="img/execution-evidence-1.png">
 
 #### 4.2.1.6. Services Documentation Evidence for Sprint Review
+
+Para este sprint, hemos implementado una primera versión de la API con los endpoints necesarios para el funcionamiento de nuestro proyecto.
+
+Enlace al repositorio del API: https://github.com/AgroSupport-UPC/Backend
+
+
+
+
 
 #### 4.2.1.7. Software Deployment Evidence for Sprint Review
 
