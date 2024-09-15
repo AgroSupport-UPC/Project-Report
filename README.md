@@ -364,25 +364,25 @@ De esta forma, nosotros hemos definido los siguientes objetivos para nuestro pro
     </tr>
     <tr>
       <td>Christian Matos</td>
-      <td>Desarrollar una funcionalidad de búsqueda avanzada en la aplicación que permita a los granjeros con poca experiencia encontrar y conectar con especialistas en áreas específicas de gestión de granjas.</td>
+      <td>Mejorar mis competencias en desarrollo de aplicaciones mediante la implementación de una funcionalidad avanzada de búsqueda en AgroSupport.</td>
       <td>01/09/2024</td>
       <td>10/10/2024</td>
-      <td>Se logrará implementar una funcionalidad de búsqueda avanzada que permita a los granjeros identificar y conectar con asesores especializados en áreas específicas de gestión de granjas. Esta funcionalidad mejorará el acceso a asesoramiento experto, adaptado a las necesidades individuales de los usuarios, facilitando la gestión de granjas y promoviendo prácticas sostenibles.</td>
-      <td>La métrica clave será la capacidad del sistema para ofrecer recomendaciones precisas y relevantes a los granjeros, con un objetivo de que al menos el 85% de los usuarios encuentren a un asesor adecuado en menos de 5 minutos de búsqueda, y que al menos el 90% de los usuarios evaluados estén satisfechos con las recomendaciones recibidas.</td>
-      <td>Este objetivo es retador porque requiere la implementación de un sistema de filtrado y recomendación avanzado que considere la experiencia y las necesidades específicas de cada usuario, garantizando la relevancia y efectividad de las conexiones con los asesores.</td>
-      <td>Está alineado con la misión de AgroTech de brindar acceso fácil a asesoría especializada y con la visión de mejorar la gestión de granjas mediante la conexión efectiva entre granjeros y expertos.</td>
-      <td>El objetivo se cumplirá al desplegar la funcionalidad de búsqueda avanzada en AgroSupport y tras la evaluación de su eficacia en conectar granjeros con especialistas, utilizando métricas de satisfacción del usuario y tiempo de conexión para asegurar su éxito.</td>
+      <td>Implementar una funcionalidad avanzada de búsqueda en AgroSupport, mejorando el acceso a asesoramiento especializado para los granjeros.</td>
+      <td>La métrica clave será que al menos el 85% de los usuarios puedan encontrar un asesor adecuado en menos de 5 minutos de búsqueda.</td>
+      <td>Es retador porque requiere la implementación de un sistema avanzado de filtrado y recomendación, basado en las necesidades de los granjeros y las áreas de especialización de los asesores.</td>
+      <td>Está alineado con la estrategia de AgroTech de mejorar el acceso a asesoría especializada y aumentar la eficiencia en la gestión de granjas.</td>
+      <td>Se cumplirá al desplegar la funcionalidad de búsqueda y validarla mediante pruebas de satisfacción del usuario y efectividad en la conexión con asesores.</td>
     </tr>
     <tr>
       <td>Christian Matos</td>
-      <td>Optimizar el rendimiento de la aplicación AgroSupport para asegurar tiempos de respuesta de menos de 2 segundos en el 95% de las solicitudes de usuario. Esto incluirá la implementación de técnicas de caching, la optimización de consultas a la base de datos y la mejora del código de backend. El objetivo es completar la optimización y realizar pruebas de carga que demuestren que al menos el 95% de las solicitudes cumplen con el tiempo de respuesta objetivo antes del lanzamiento de la aplicación.</td>
+      <td>Fortalecer mis habilidades en optimización de rendimiento de aplicaciones, asegurando tiempos de respuesta inferiores a 2 segundos en el 95% de las solicitudes de usuario en AgroSupport..</td>
       <td>15/09/2024</td>
       <td>10/10/2024</td>
-      <td>Se logrará optimizar el rendimiento de AgroSupport para que el 95% de las solicitudes de usuario tengan tiempos de respuesta de menos de 2 segundos. Esto se alcanzará mediante la implementación de técnicas de caching, optimización de consultas a la base de datos y mejoras en el código de backend. Además, se realizarán pruebas de carga para verificar que se cumpla el objetivo.</td>
-      <td>Las métricas clave incluyen el tiempo de respuesta de las solicitudes (menos de 2 segundos para el 95% de las solicitudes) y los resultados de las pruebas de carga que confirmen que la aplicación cumple con este estándar de rendimiento.</td>
-      <td>Este objetivo es retador porque requiere la implementación de varias técnicas de optimización y la validación del rendimiento bajo condiciones de carga, lo que implica un enfoque integral para mejorar la eficiencia de la aplicación.</td>
-      <td>Está alineado con la visión de AgroTech de ofrecer una aplicación eficiente y ágil, asegurando que los usuarios tengan una experiencia de uso fluida y rápida, lo cual es esencial para la adopción y satisfacción del usuario.</td>
-      <td>El objetivo se cumplirá al optimizar el rendimiento de la aplicación, realizar pruebas de carga que confirmen que el 95% de las solicitudes tienen tiempos de respuesta de menos de 2 segundos, y ajustar las optimizaciones según los resultados obtenidos.</td>
+      <td>Optimizar el rendimiento de AgroSupport para que el 95% de las solicitudes tengan tiempos de respuesta de menos de 2 segundos.</td>
+      <td>La métrica clave será la reducción de los tiempos de respuesta a menos de 2 segundos en el 95% de las solicitudes, verificada a través de pruebas de carga.</td>
+      <td>Es retador porque requiere la implementación de diversas técnicas de optimización, tanto en el código como en la infraestructura, bajo condiciones de carga.</td>
+      <td>Está alineado con la estrategia de AgroTech de ofrecer una aplicación eficiente y rápida para los usuarios.</td>
+      <td>Se cumplirá al realizar pruebas de carga que verifiquen el tiempo de respuesta de las solicitudes y al implementar las optimizaciones necesarias.</td>
     </tr>
   </tbody>
 </table>
