@@ -1512,7 +1512,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       </tr>
       <tr>
         <td>TS04</td>
-        <td>Uso de nuestra API para gestionar citas de asesoría</td>
+        <td>Uso de nuestra API para gestionar asesorías</td>
       </tr>
       <tr>
         <td>TS05</td>
@@ -1520,7 +1520,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       </tr>
       <tr>
         <td>TS06</td>
-        <td>Uso de nuestra API para gestionar IAM</td>
+        <td>Uso de nuestra API para gestionar autenticación</td>
       </tr>
     </tbody>
 </table>
@@ -1982,10 +1982,10 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
     </tr>
     <tr>
       <td>TS04</td>
-      <td>Uso de nuestra API para gestionar citas de asesoría</td>
-      <td>Como desarrollador quiero integrar un API para gestionar la información de las citas de asesoría en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.</td>
+      <td>Uso de nuestra API para gestionar asesorías</td>
+      <td>Como desarrollador quiero integrar un API para gestionar la información de las asesorías en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.</td>
       <td>
-        <strong>Escenario 1: Integrar un API para manejar las solicitudes HTTP de las citas de asesoría</strong><br>
+        <strong>Escenario 1: Integrar un API para manejar las solicitudes HTTP de las asesorías</strong><br>
         <strong>Given</strong> la aplicación tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración.
         <br>
         <strong>When</strong> se envía una solicitud de tipo GET, POST o PUT con los datos solicitados del usuario a la API.
@@ -1994,7 +1994,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
         <br>
         <strong>And</strong> se realiza la operación solicitada.
         <br><br>
-        <strong>Escenario 2: Manejar errores en la Integración de API para Solicitudes HTTP de citas de asesoría</strong><br>
+        <strong>Escenario 2: Manejar errores en la Integración de API para Solicitudes HTTP de asesorías</strong><br>
         <strong>Given</strong> la aplicación tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración
         <br>
         <strong>When</strong> se envía una solicitud de tipo GET, POST, PUT o DELETE con los datos solicitados de la cita de asesoría a la API
@@ -2036,8 +2036,8 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
     </tr>
     <tr>
       <td>TS06</td>
-      <td>Uso de nuestra API para gestionar IAM</td>
-      <td>Como desarrollador quiero integrar un API para gestionar la información de las citas de asesoría en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.</td>
+      <td>Uso de nuestra API para gestionar autenticación</td>
+      <td>Como desarrollador quiero integrar un API para gestionar la información de los usuarios en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.</td>
       <td>
         <strong>Escenario 1: Registro de un nuevo usuario con verificación de seguridad (sign-up)</strong>
         <br>
@@ -2115,7 +2115,7 @@ Este Product Backlog presenta una lista priorizada de las User Stories para el d
     <tr>
          <td>2</td>
          <td>TS04</td>
-         <td>Uso de nuestra API para gestionar citas de asesoría</td>
+         <td>Uso de nuestra API para gestionar asesorías</td>
          <td>Desarrollar y utilizar una API que gestione todas las funcionalidades relacionadas con la programación y manejo de citas de asesoría.</td>
          <td>5</td>
     </tr>
