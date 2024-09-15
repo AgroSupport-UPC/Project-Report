@@ -3574,8 +3574,52 @@ Para este sprint, hemos implementado una primera versión de la API con los endp
 
 Enlace al repositorio del API: https://github.com/AgroSupport-UPC/Backend
 
+|Método|Endpoint|Descripción|
+|--|--|--|
+|GET|/api/v1/users|Se obtiene la lista de usuarios|
+|POST|/api/v1/users|Se publica un nuevo usuario|
+|GET|/api/v1/users/{id}|Se obtiene un usuario por ID|
+|GET|/api/v1/users/{id}/notifications|Se obtiene la lista de notificaciones de un usuario por su ID|
+|GET|/api/v1/appointments|Se obtiene la lista de las citas|
+|POST|/api/v1/appointments|Se publica una nueva cita|
+|GET|/api/v1/appointments/{id}|Se obtiene una cita por ID|
+|PUT|/api/v1/appointments/{id}|Se modifica una cita por ID|
+|DELETE|/api/v1/appointments/{id}|Se elimina una cita por ID|
+|GET|/api/v1/available-dates|Se obtiene la lista de horarios disponibles|
+|POST|/api/v1/available-dates|Se publica un nuevo horario|
+|GET|/api/v1/available-dates/{id}|Se obtiene un horario por ID|
+|PUT|/api/v1/available-dates/{id}|Se modifica un horario por ID|
+|DELETE|/api/v1/available-dates/{id}|Se elimina un horario por ID|
+|GET|/api/v1/publications|Se obtiene la lista de publicaciones|
+|POST|/api/v1/publications|Se publica una nueva publicación|
+|GET|/api/v1/publications/{id}|Se obtiene una publicación por ID|
+|PUT|/api/v1/publications/{id}|Se modifica una publicación por ID|
+|DELETE|/api/v1/publications/{id}|Se elimina una publicación por ID|
+|GET|/api/v1/profiles|Se obtiene la lista de perfiles|
+|POST|/api/v1/profiles|Se publica un nuevo perfil|
+|GET|/api/v1/profiles/{id}|Se obtiene un perfil por ID|
+|PUT|/api/v1/profiles/{id}|Se modifica un perfil por ID|
+|DELETE|/api/v1/profiles/{id}|Se elimina un perfil por ID|
+|GET|/api/v1/advisors|Se obtiene la lista de asesores|
+|POST|/api/v1/advisors|Se publica un nuevo asesor|
+|GET|/api/v1/advisors/{id}|Se obtiene un asesor por ID|
+|PUT|/api/v1/advisors/{id}|Se modifica un asesor por ID|
+|DELETE|/api/v1/advisors/{id}|Se elimina un asesor por ID|
+|GET|/api/v1/farmers|Se obtiene la lista de granjeros|
+|POST|/api/v1/farmers|Se publica un nuevo granjero|
+|GET|/api/v1/farmers/{id}|Se obtiene un granjero por ID|
+|DELETE|/api/v1/farmers/{id}|Se elimina un granjero por ID|
+|GET|/api/v1/notifications|Se obtiene la lista de notificaciones|
+|POST|/api/v1/notifications|Se publica una nueva notificación|
+|GET|/api/v1/notifications/{id}|Se obtiene una notificación por ID|
+|DELETE|/api/v1/notifications/{id}|Se elimina una notificación por ID|
+|GET|/api/v1/reviews|Se obtiene la lista de reseñas|
+|POST|/api/v1/reviews|Se publica una nueva reseña|
+|GET|/api/v1/reviews/{id}|Se obtiene una reseña por ID|
+|PUT|/api/v1/reviews/{id}|Se modifica una reseña por ID|
+|DELETE|/api/v1/reviews/{id}|Se elimina una reseña por ID|
 
-
+Enlace al API deployado: http://agrosupport-ewdyg8e2hjbwdge7.eastus-01.azurewebsites.net/
 
 
 #### 4.2.1.7. Software Deployment Evidence for Sprint Review
