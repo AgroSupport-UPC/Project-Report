@@ -3570,6 +3570,8 @@ URL del video: [Video de ejecución de los Web Services](https://youtu.be/qCKmFR
 
 <img alt="Execution Evidence Sprint 1" src="img/execution-evidence-1.png">
 
+_Imagen 172. Captura del video de Execution Evidence_
+
 #### 4.2.1.6. Services Documentation Evidence for Sprint Review
 
 Para este sprint, hemos implementado una primera versión de la API con los endpoints necesarios para el funcionamiento de nuestro proyecto.
@@ -3623,6 +3625,9 @@ Enlace al repositorio del API: https://github.com/AgroSupport-UPC/Backend
 
 Enlace al API deployado: http://agrosupport-ewdyg8e2hjbwdge7.eastus-01.azurewebsites.net/
 
+<img alt="Swagger" src="img/swagger.png">
+
+_Imagen 173. Swagger con endpoints del proyecto deployado_
 
 #### 4.2.1.7. Software Deployment Evidence for Sprint Review
 
@@ -3632,43 +3637,43 @@ Primero, se generó la carpeta target con todos los archivos que conforman la ap
 
 <img alt="Evidencia de deployment 1" src="img/backend_deployment1.png">
 
-_Imagen 172. Evidencia de deployment_
+_Imagen 174. Evidencia de deployment_
 
 Luego, se creó el dockerfile para la creación de la imagen.
 
 <img alt="Evidencia de deployment 2" src="img/backend_deployment2.png">
 
-_Imagen 173. Evidencia de deployment_
+_Imagen 175. Evidencia de deployment_
 
 Asimismo, se subió la imagen de la aplicación a Docker Hub.
 
 <img alt="Evidencia de deployment 3" src="img/backend_deployment3.png">
 
-_Imagen 174. Evidencia de deployment_
+_Imagen 176. Evidencia de deployment_
 
 Por otro lado, se creó el Web App en Azure con las configuraciones básicas.
 
 <img alt="Evidencia de deployment 4" src="img/backend_deployment4.png">
 
-_Imagen 175. Evidencia de deployment_
+_Imagen 177. Evidencia de deployment_
 
 Además, se utilizó la imagen subida a Docker Hub.
 
 <img alt="Evidencia de deployment 5" src="img/backend_deployment5.png">
 
-_Imagen 176. Evidencia de deployment_
+_Imagen 178. Evidencia de deployment_
 
 Finalmente, se inicializó el Web App.
 
 <img alt="Evidencia de deployment 6" src="img/backend_deployment6.png">
 
-_Imagen 177. Evidencia de deployment_
+_Imagen 179. Evidencia de deployment_
 
 Evidencia del funcionamiento del Backend deployado:
 
 <img alt="Evidencia de deployment 7" src="img/backend_deployment7.png">
 
-_Imagen 178. Evidencia de deployment_
+_Imagen 180. Evidencia de deployment_
 
 #### 4.2.1.8. Team Collaboration Insights during Sprint
 
@@ -3678,6 +3683,7 @@ Cada integrante trabajó en ramas "feature" correspondientes a sus tareas asigna
 
 <img src="img/team-collaboration-insights-backend-sprint-1.png" alt="Team Collaboration Insights - Backend Sprint 1">
 
+_Imagen 181. Insights en GitHub_
 
 # Capítulo 5: Product Implementation & Validation
 
