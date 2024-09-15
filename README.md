@@ -314,12 +314,12 @@ De esta forma, nosotros hemos definido los siguientes objetivos para nuestro pro
     </tr>
     <tr>
       <td>Salvador Salinas</td>
-      <td>Dominar un framework de desarrollo móvil como Flutter para crear aplicaciones multiplataforma de manera eficiente.</td>
-      <td>20/09/2024</td>
+      <td>Dominar un lenguaje de programación de desarrollo móvil como Kotlin para crear aplicaciones de manera eficiente.</td>
+      <td>22/08/2024</td>
       <td>20/11/2024</td>
-      <td>Se logrará desarrollar la capacidad para crear aplicaciones móviles multiplataforma utilizando Flutter, de este modo, no limitarse a solo programar para Android, sino también que sea compatible con iOS.</td>
+      <td>Se logrará desarrollar la capacidad para crear aplicaciones móviles utilizando Kotlin, de este modo podré iniciar a programar aplicaciones móviles para Android.</td>
       <td>La métrica a tomar en cuenta es crear y desplegar una aplicación funcional en un repositorio de GitHub y compartirla con la comunidad, así como implementar todas las funcionalidades descritas en las historias de usuario definidas.</td>
-      <td>La implementación de una aplicación con Flutter es retador, ya que implica aprender un nuevo framework y desarrollar una aplicación nueva desde cero. Además, se espera que se aplique buenas prácticas en el código.</td>
+      <td>La implementación de una aplicación con Kotlin es retador, ya que implica aprender un nuevo lenguaje de programación y desarrollar una aplicación nueva desde cero. Además, se espera que se aplique buenas prácticas en el código.</td>
       <td>Está alineado con el alcance del trabajo, ya que es esencial entregar una aplicación móvil que funcione como se espera para los usuarios.</td>
       <td>El objetivo será cumplido al terminar la implementación y despliegue de la aplicación móvil.</td>
     </tr>
