@@ -223,6 +223,7 @@
       <td>
         <p><strong>Paredes Puente, Sebastian Roberto</strong></p>
         <p><strong>TB1:</strong> En este primer avance, se identificó la problemática y se realizó la investigación necesaria para definir los requisitos que nuestra aplicación final debe cubrir. Para ello, llevé a cabo entrevistas con personas de nuestros segmentos objetivo para comprender mejor sus principales necesidades y adoptar su perspectiva, asegurándome de que las user stories que planteamos fueran las más adecuadas.</p>
+        <p><strong>TB2:</strong> Para este segundo avance, se realizo la implementación del backend para la aplicación móvil, el cual ha requerido de los conocimientos adquiridos en cursos previos, demostrando la importancia de adaptar estos conceptos a las necesidades específicas del proyecto. Este proceso ha permitido reforzar habilidades técnicas y enfrentar los desafíos particulares del desarrollo, contribuyendo al progreso del proyecto y estableciendo una base sólida para las siguientes etapas.</p>
         <p></p>
         <p><strong>Delgado Corrales, Piero Gonzalo</strong></p>
         <p><strong>TB1:</strong> Para esta entrega, se adquirieron nuevos conocimientos en la realización de entrevistas y su análisis ya que se pudo entender mejor las necesidades de los granjeros y asesores. Esto es fundamental para la creación de los User Personas, User Task Matrix, y realizar el User Journey Mapping y nos permitirá .realizar una mejor solución de software.</p>
@@ -246,6 +247,7 @@
       <td>
         <p><strong>Paredes Puente, Sebastian Roberto</strong></p>
         <p><strong>TB1:</strong> A través de las opiniones recogidas en las entrevistas, entendimos la importancia de un aprendizaje continuo. Esto nos permitió diseñar las funcionalidades del producto definidas en las User Stories, de manera que vayan acorde a las necesidades de nuestros usuarios.</p>
+        <p><strong>TB2:</strong> Gracias a la documentación de Spring Boot, se logro adquirir los conocimientos necesarios para desplegar el backend en un contenedor de Docker de manera efectiva. Esto ha permitido optimizar el proceso de despliegue, asegurando que futuras actualizaciones del backend se realicen de forma ágil y eficiente, lo que mejora la adaptabilidad del proyecto a medida que se incorporan nuevos aprendizajes.</p>
         <p></p>
         <p><strong>Delgado Corrales, Piero Gonzalo</strong></p>
         <p><strong>TB1:</strong> Mediante las opiniones obtenidas de las entrevistas pudimos comprender la necesidad de un aprendizaje continuo porque gracias a estas pudimos diseñar las funcionalidades del producto delimitadas en las User Stories para que se alineen con las necesidades cambiantes de nuestros segmentos objetivos y tomando en cuenta las nuevas tecnologías.</p>
@@ -334,25 +336,25 @@ De esta forma, nosotros hemos definido los siguientes objetivos para nuestro pro
     </tr>
     <tr>
       <td>Sebastian Paredes</td>
-      <td>Desarrollar y desplegar una API RESTful segura y escalable para manejar las operaciones CRUD de los datos de usuarios, asegurando que la API soporte varias solicitudes simultáneas sin afectar el rendimiento.</td>
+      <td>Desarrollar y desplegar una API RESTful segura y escalable para mejorar mis competencias en desarrollo backend y gestión de infraestructura en la nube.</td>
       <td>30/08/2024</td>
       <td>20/09/2024</td>
-      <td>Se logrará la implementación de una API RESTful que maneje de manera eficiente las operaciones CRUD (Create, Read, Update, Delete) de los datos de usuarios. La API estará diseñada para ser segura y escalable, garantizando que pueda manejar múltiples solicitudes simultáneas sin comprometer el rendimiento.</td>
-      <td>Sí, las métricas clave incluyen el tiempo de respuesta de la API, la capacidad de soportar al menos 100 solicitudes concurrentes sin degradar el rendimiento.</td>
-      <td>Este objetivo es retador porque requiere un diseño arquitectónico robusto y la implementación de prácticas avanzadas de seguridad y escalabilidad. Además, implica pruebas exhaustivas bajo condiciones de carga para asegurar que la API mantenga su rendimiento, lo que va más allá de la simple creación de endpoints CRUD.</td>
-      <td>Está alineado con la estrategia de asegurar que AgroSupport sea una plataforma confiable y segura, capaz de escalar a medida que aumenta el número de usuarios y la complejidad de las operaciones, garantizando así la continuidad y crecimiento del servicio.</td>
-      <td>El objetivo se cumplirá al desplegar la API en un entorno de producción, después de haber pasado pruebas de carga y seguridad, y una vez que se haya demostrado que cumple con las métricas definidas.</td>
+      <td>Implementar una API RESTful que maneje de manera eficiente las operaciones CRUD, soportando múltiples solicitudes simultáneas sin comprometer el rendimiento, para fortalecer mis habilidades en backend y escalabilidad.</td>
+      <td>La métrica clave será la capacidad de la API para manejar al menos 100 solicitudes concurrentes sin degradación en el rendimiento, evaluada a través de pruebas de carga. Será exitoso si el tiempo de respuesta se mantiene bajo 200 ms.</td>
+      <td>Este objetivo supone un reto ya que requiere el diseño de una arquitectura robusta y la implementación de prácticas avanzadas de seguridad y optimización para el manejo de cargas simultáneas.</td>
+      <td>Está alineado con la estrategia de AgroSupport de garantizar una plataforma confiable y escalable, y también permitirá mejorar mi dominio en tecnologías backend y arquitecturas de software.</td>
+      <td>Se cumplirá tras el despliegue exitoso de la API en producción, después de haber superado pruebas de carga y seguridad.</td>
     </tr>
     <tr>
       <td>Sebastian Paredes</td>
-      <td>Diseñar y desarrollar la vista para nuestro segmento objetivo "Granjero" en la aplicación, asegurando que ambas interfaces vayan acorde a las necesidades de nuestro usuario.</td>
+      <td>Diseñar y desarrollar la vista móvil para el segmento de granjeros en la aplicación AgroSupport, con el fin de mejorar mis competencias en diseño de interfaces móviles.</td>
       <td>20/08/2024</td>
       <td>30/09/2024</td>
-      <td>Se logrará diseñar y desarrollar una vista específica para el segmento objetivo "Granjero" en la aplicación AgroSupport, que esté alineada con las necesidades y expectativas de los usuarios granjeros. La interfaz estará optimizada para ser intuitiva y fácil de usar, facilitando el acceso a las funcionalidades y servicios relevantes para ellos.</td>
-      <td>Sí, las métricas clave incluyen la satisfacción del usuario medida a través de encuestas, donde se buscará que al menos el 85% de los granjeros indiquen que la interfaz es fácil de usar y cumple con sus necesidades.</td>
-      <td>Este objetivo es retador porque implica comprender a fondo las necesidades de los granjeros y traducir esas necesidades en un diseño de interfaz efectivo y funcional.</td>
-      <td>Está alineado con la estrategia de AgroSupport de proporcionar una experiencia de usuario personalizada y efectiva, adaptada a las necesidades específicas del segmento de granjeros. Esto es crucial para mejorar la adopción y el uso de la aplicación por parte de este grupo objetivo.</td>
-      <td>El objetivo se cumplirá al finalizar el diseño y desarrollo de la vista para granjeros y tras recibir retroalimentación positiva en pruebas de usabilidad y satisfacción de los usuarios.</td>
+      <td>Crear una interfaz intuitiva y funcional para los granjeros, basada en buenas prácticas de UX/UI, para fortalecer mis habilidades en diseño de aplicaciones móviles.</td>
+      <td>La métrica será la satisfacción de los usuarios evaluada a través de encuestas. Se considerará éxito si al menos el 85% de los granjeros indican que la interfaz es fácil de usar y adecuada a sus necesidades.</td>
+      <td>Este objetivo es desafiante porque implica un entendimiento profundo de las necesidades de los granjeros y cómo traducirlas en un diseño de interfaz efectivo.</td>
+      <td>Está alineado con la estrategia de AgroSupport de proporcionar una experiencia de usuario amigable y funcional, permitiendo también que yo mejore en el diseño de interfaces orientadas a usuarios.</td>
+      <td>El objetivo se cumplirá cuando la vista móvil esté desarrollada y se obtenga retroalimentación positiva en pruebas de usabilidad.</td>
     </tr>
     <tr>
       <td>Christian Matos</td>
@@ -3630,43 +3632,43 @@ Primero, se generó la carpeta target con todos los archivos que conforman la ap
 
 <img alt="Evidencia de deployment 1" src="img/backend_deployment1.png">
 
-_Imagen 1XX. Evidencia de deployment_
+_Imagen 172. Evidencia de deployment_
 
 Luego, se creó el dockerfile para la creación de la imagen.
 
 <img alt="Evidencia de deployment 2" src="img/backend_deployment2.png">
 
-_Imagen 1XX. Evidencia de deployment_
+_Imagen 173. Evidencia de deployment_
 
 Asimismo, se subió la imagen de la aplicación a Docker Hub.
 
 <img alt="Evidencia de deployment 3" src="img/backend_deployment3.png">
 
-_Imagen 1XX. Evidencia de deployment_
+_Imagen 174. Evidencia de deployment_
 
 Por otro lado, se creó el Web App en Azure con las configuraciones básicas.
 
 <img alt="Evidencia de deployment 4" src="img/backend_deployment4.png">
 
-_Imagen 1XX. Evidencia de deployment_
+_Imagen 175. Evidencia de deployment_
 
 Además, se utilizó la imagen subida a Docker Hub.
 
 <img alt="Evidencia de deployment 5" src="img/backend_deployment5.png">
 
-_Imagen 1XX. Evidencia de deployment_
+_Imagen 176. Evidencia de deployment_
 
 Finalmente, se inicializó el Web App.
 
 <img alt="Evidencia de deployment 6" src="img/backend_deployment6.png">
 
-_Imagen 1XX. Evidencia de deployment_
+_Imagen 177. Evidencia de deployment_
 
 Evidencia del funcionamiento del Backend deployado:
 
 <img alt="Evidencia de deployment 7" src="img/backend_deployment7.png">
 
-_Imagen 1XX. Evidencia de deployment_
+_Imagen 178. Evidencia de deployment_
 
 #### 4.2.1.8. Team Collaboration Insights during Sprint
 
