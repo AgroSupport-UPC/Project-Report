@@ -3,25 +3,15 @@
 </p>
 
 <div align="center">
-
-# <span>Universidad Peruana de Ciencias Aplicadas</span>
-
-**Carrera:** Ingeniería de Software
-
-**Ciclo:** 2024 - 2
-
-**Curso:** Aplicaciones para Dispositivos Móviles
-
-**Sección:** SW63
-
-**Profesor:** Jorge Luis Mayta Guillermo
-
-**“Informe de Trabajo Final"**
-
-**Startup:** AgroTech
-
-**Producto:** AgroSupport
-
+  <h1>Universidad Peruana de Ciencias Aplicadas</h1>
+  <p><strong>Carrera:</strong> Ingeniería de Software</p>
+  <p><strong>Ciclo:</strong> 2024 - 2</p>
+  <p><strong>Curso:</strong> Aplicaciones para Dispositivos Móviles</p>
+  <p><strong>Sección:</strong> SW63</p>
+  <p><strong>Profesor:</strong> Jorge Luis Mayta Guillermo</p>
+  <p><strong>"Informe de Trabajo Final"</strong></p>
+  <p><strong>Startup:</strong> AgroTech</p>
+  <p><strong>Producto:</strong> AgroSupport</p>
 </div>
 
 <table align="center">
@@ -81,6 +71,30 @@
         </ul>
       </td>
   </tr>
+  <tr>
+      <td><strong>TB2</strong></td>
+      <td>15 de setiembre</td>
+      <td>
+        <ul>
+          <li>Paredes Puente, Sebastian Roberto</li>
+          <li>Delgado Corrales, Piero Gonzalo</li>
+          <li>Matos Fernandez, Christian Andre</li>
+          <li>Salinas Torres, Salvador Antonio</li>
+        </ul>
+      </td>
+      <td>
+        Se ha incluido el avance de los siguientes capítulos:
+        <ul>
+          <li>Capítulo 3: Arquitectura</li>
+          <li>Capítulo 4: Backend Product Implementation & Validation</li>
+        </ul>
+        Se ha mejorado:
+        <ul>
+          <li>Objetivos SMART</li>
+          <li>Definición de technical user stories</li>
+        </ul>
+      </td>
+  </tr>
   </tbody>
 </table>
 
@@ -126,8 +140,51 @@
     - [2.4.4. Product Backlog](#244-product-backlog)
 
 [Capítulo 3: Arquitectura](#Capítulo-3-Arquitectura)
+  - [3.1. Product design](#31-product-design)
+    - [3.1.1. Style Guidelines](#311-style-guidelines)
+      - [3.1.1.1. General Style Guidelines](#3111-general-style-guidelines)
+    - [3.1.2. Information Architecture](#312-information-architecture)
+      - [3.1.2.1. Organization Systems](#3121-organization-systems)
+      - [3.1.2.2. Labelling Systems](#3122-labelling-systems)
+      - [3.1.2.3. SEO Tags and Meta Tags](#3123-seo-tags-and-meta-tags)
+      - [3.1.2.4. Searching Systems](#3124-searching-systems)
+      - [3.1.2.5. Navigation Systems](#3125-navigation-systems)
+    - [3.1.3. Landing Page UI Design](#313-landing-page-ui-design)
+      - [3.1.3.1. Landing Page Wireframe](#3131-landing-page-wireframe)
+      - [3.1.3.2. Landing Page Mock-up](#3132-landing-page-mock-up)
+    - [3.1.4. Mobile Applications UX/UI Design](#314-mobile-applications-uxui-design)
+      - [3.1.4.1. Mobile Applications Wireframes](#3141-mobile-applications-wireframes)
+      - [3.1.4.2. Mobile Applications Wireflow Diagrams](#3142-mobile-applications-wireflow-diagrams)
+      - [3.1.4.3. Mobile Applications Mock-ups](#3143-mobile-applications-mock-ups)
+      - [3.1.4.4. Mobile Applications User Flow Diagrams](#3144-mobile-applications-user-flow-diagrams)
+      - [3.1.4.5. Mobile Applications Prototyping](#3145-mobile-applications-prototyping)
+  - [3.2. Architecture Overview](#32-architecture-overview)
+    - [3.2.1. Domain-Driven Software Architecture](#321-domain-driven-software-architecture)
+      - [3.2.1.1. Software Architecture Context Level Diagram](#3211-software-architecture-context-level-diagram)
+      - [3.2.1.2. Software Architecture Container Level Diagram](#3212-software-architecture-container-level-diagram)
+      - [3.2.1.3. Software Architecture Components Diagram](#3213-software-architecture-components-diagram)
+    - [3.2.2. Software Object-Oriented Design](#322-software-object-oriented-design)
+      - [3.2.2.1. Class Diagrams](#3221-class-diagrams)
+      - [3.2.2.2. Class Dictionary](#3222-class-dictionary)
+      - [3.2.2.3. Database Design](#3223-database-design)
+      - [3.2.2.4. Database Diagram](#3224-database-diagram)
 
 [Capítulo 4: Backend Product Implementation & Validation](#Capítulo-4-Backend-Product-Implementation--Validation)
+  - [4.1. Software Configuration Management](#41-software-configuration-management)
+    - [4.1.1. Software Development Environment Configuration](#411-software-development-environment-configuration)
+    - [4.1.2. Source Code Management](#412-source-code-management)
+    - [4.1.3. Source Code Style Guide & Conventions](#413-source-code-style-guide--conventions)
+    - [4.1.4. Software Deployment Configuration](#414-software-deployment-configuration)
+  - [4.2. Software Development & Implementation](#42-software-development--implementation)
+    - [4.2.1. Sprint 1](#421-sprint-1)
+      - [4.2.1.1. Sprint Planning 1](#4211-sprint-planning-1)
+      - [4.2.1.2. Sprint Backlog 1](#4212-sprint-backlog-1)
+      - [4.2.1.3. Development Evidence for Sprint Review](#4213-development-evidence-for-sprint-review)
+      - [4.2.1.4. Testing Suite Evidence for Sprint Review](#4214-testing-suite-evidence-for-sprint-review)
+      - [4.2.1.5. Execution Evidence for Sprint Review](#4215-execution-evidence-for-sprint-review)
+      - [4.2.1.6. Services Documentation Evidence for Sprint Review](#4216-services-documentation-evidence-for-sprint-review)
+      - [4.2.1.7. Software Deployment Evidence for Sprint Review](#4217-software-deployment-evidence-for-sprint-review)
+      - [4.2.1.8. Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)
 
 [Capítulo 5: Product Implementation & Validation](#Capítulo-5-Product-Implementation--Validation)
 
@@ -166,20 +223,26 @@
       <td>
         <p><strong>Paredes Puente, Sebastian Roberto</strong></p>
         <p><strong>TB1:</strong> En este primer avance, se identificó la problemática y se realizó la investigación necesaria para definir los requisitos que nuestra aplicación final debe cubrir. Para ello, llevé a cabo entrevistas con personas de nuestros segmentos objetivo para comprender mejor sus principales necesidades y adoptar su perspectiva, asegurándome de que las user stories que planteamos fueran las más adecuadas.</p>
+        <p><strong>TB2:</strong> Para este segundo avance, se realizo la implementación del backend para la aplicación móvil, el cual ha requerido de los conocimientos adquiridos en cursos previos, demostrando la importancia de adaptar estos conceptos a las necesidades específicas del proyecto. Este proceso ha permitido reforzar habilidades técnicas y enfrentar los desafíos particulares del desarrollo, contribuyendo al progreso del proyecto y estableciendo una base sólida para las siguientes etapas.</p>
         <p></p>
         <p><strong>Delgado Corrales, Piero Gonzalo</strong></p>
         <p><strong>TB1:</strong> Para esta entrega, se adquirieron nuevos conocimientos en la realización de entrevistas y su análisis ya que se pudo entender mejor las necesidades de los granjeros y asesores. Esto es fundamental para la creación de los User Personas, User Task Matrix, y realizar el User Journey Mapping y nos permitirá .realizar una mejor solución de software.</p>
+        <p><strong>TB2:</strong> Para esta entrega, se ha avanzado la implementación del backend para la aplicación móvil. Para ello, se tuvo que recordar los temas aprendidas en cursos previos y adaptarlo al contexto de la aplicación. </p>
         <p></p>
         <p><strong>Matos Fernandez, Christian Andre</strong></p>
-        <p><strong>TB1:</strong>Para esta entrega, investigamos a los competidores y desarrollamos estrategias para enfrentarlos. Además, realizamos entrevistas, de las cuales obtuvimos la información necesaria para crear las User Stories que serán útiles en el desarrollo de la aplicación.</p>
+        <p><strong>TB1:</strong> Para esta entrega, investigamos a los competidores y desarrollamos estrategias para enfrentarlos. Además, realizamos entrevistas, de las cuales obtuvimos la información necesaria para crear las User Stories que serán útiles en el desarrollo de la aplicación.</p>
+        <p><strong>TB2:</strong> En esta entrega, completé con éxito la implementación del backend, cumpliendo con las tareas que me asignaron, de lo cual tuve que repasar y aplicar los conocimientos adquiridos en cursos anteriores.</p>
         <p></p>
         <p><strong>Salinas Torres, Salvador Antonio</strong></p>
         <p><strong>TB1:</strong> En este entregable, definimos el problema inicial sobre el cual partirá nuestra aplicación móvil a realizar. Igualmente, tuvimos que actualizar conocimientos para determinar bien la problemática a través de una investigación sobre el tema y también sobre lo necesario para poder desarrollar la aplicación móvil.</p>
         <p></p>
+        <p><strong>TB2:</strong> En este segundo entregable, se definió los estilos, tipografía y paleta de colores a utilizar para el producto. De esta forma, realizamos los prototipos utilizando la herramienta de Figma, la cual ya hemos utilizado anteriormente, pero ha recibido actualizaciones nuevas como la implementación de una nueva AI, por lo que actualizamos nuestros conocimientos para poder sacar provecho a estas nuevas funcionalidades que nos ofrece la aplicación.</p>
       </td>
       <td>
         <p><strong>TB1: </strong></p>
         <p>En este primer avance del proyecto, cada integrante del equipo ha actualizado y ampliado sus conocimientos esenciales para el desarrollo de soluciones de software, enfocándose en aspectos fundamentales como la investigación de necesidades, la realización y análisis de entrevistas, el estudio de la competencia, y la definición clara de problemáticas. Estos esfuerzos han permitido a todos mejorar su comprensión del mercado objetivo, garantizar que las User Stories y demás herramientas de diseño sean precisas y relevantes, y sentar las bases para el desarrollo de una aplicación móvil que responda adecuadamente a las necesidades identificadas.</p>
+        <p><strong>TB2: </strong></p>
+        <p>En este segundo avance, el equipo ha consolidado los conocimientos adquiridos previamente y los ha aplicado de manera efectiva en el desarrollo del projecto. En particular, se ha logrado implementar el backend de la aplicación móvil, un componente esencial que requirió la adaptación de habilidades técnicas adquiridas en cursos anteriores. Además, se realizaron mejoras en el diseño visual, aprovechando las nuevas funcionalidades de herramientas como Figma, lo que ha permitido optimizar los prototipos de la aplicación. Estos logros refuerzan la capacidad del equipo para enfrentar los desafíos del proyecto, estableciendo una base sólida para los siguientes avances y garantizando que la aplicación final esté alineada con las necesidades identificadas en fases previas.</p>
       </td>
     </tr>
     <tr>
@@ -187,20 +250,26 @@
       <td>
         <p><strong>Paredes Puente, Sebastian Roberto</strong></p>
         <p><strong>TB1:</strong> A través de las opiniones recogidas en las entrevistas, entendimos la importancia de un aprendizaje continuo. Esto nos permitió diseñar las funcionalidades del producto definidas en las User Stories, de manera que vayan acorde a las necesidades de nuestros usuarios.</p>
+        <p><strong>TB2:</strong> Gracias a la documentación de Spring Boot, se logro adquirir los conocimientos necesarios para desplegar el backend en un contenedor de Docker de manera efectiva. Esto ha permitido optimizar el proceso de despliegue, asegurando que futuras actualizaciones del backend se realicen de forma ágil y eficiente, lo que mejora la adaptabilidad del proyecto a medida que se incorporan nuevos aprendizajes.</p>
         <p></p>
         <p><strong>Delgado Corrales, Piero Gonzalo</strong></p>
         <p><strong>TB1:</strong> Mediante las opiniones obtenidas de las entrevistas pudimos comprender la necesidad de un aprendizaje continuo porque gracias a estas pudimos diseñar las funcionalidades del producto delimitadas en las User Stories para que se alineen con las necesidades cambiantes de nuestros segmentos objetivos y tomando en cuenta las nuevas tecnologías.</p>
+        <p><strong>TB2:</strong> A través de la documentación de Spring Boot pude aprender sobre el deployment del backend en un contenedor de Docker. Gracias a esto, se pudo desplegar el backend de forma eficaz y está solución nos permitirá seguir actualizando el backend de forma rapida con los nuevos conocimientos adquiridos.</p>
         <p></p>
         <p><strong>Matos Fernandez, Christian Andre</strong></p>
-        <p><strong>TB1:</strong>A partir de las entrevistas y del análisis de los datos obtenidos, logramos identificar la importancia de integrar un enfoque de aprendizaje continuo. Esto nos permitió definir las User Stories del producto de manera que se adapten a las demandas reales y cambiantes de nuestros usuarios.</p>
+        <p><strong>TB1:</strong> A partir de las entrevistas y del análisis de los datos obtenidos, logramos identificar la importancia de integrar un enfoque de aprendizaje continuo. Esto nos permitió definir las User Stories del producto de manera que se adapten a las demandas reales y cambiantes de nuestros usuarios.</p>
+        <p><strong>TB2:</strong> Durante el repaso para la implementación del backend, también reforcé los conceptos de configuración de controladores y rutas en Spring Boot, lo cual facilita el manejo de solicitudes HTTP de manera eficiente. </p>
         <p></p>
         <p><strong>Salinas Torres, Salvador Antonio</strong></p>
         <p><strong>TB1:</strong> Se realizó una investigación sobre el tema para verificar de forma clara la necesidad a resolver, así como con fuentes secundarias recuperadas de artículos y fuentes primarias como las entrevistas realizadas.</p>
         <p></p>
+        <p><strong>TB2:</strong> A pesar de que para este entregable aún no se empieza con la implementación del Frontend para la aplicación móvil, igualmente se ha iniciado con el Backend y el primer despliegue de este. De esta forma, hemos logrado aprender una nueva forma para realizar el despliegue del Backend con Docker, que resultó ser mucho mejor al método que utilizábamos anteriormente.</p>
       </td>
       <td>
         <p><strong>TB1: </strong></p>
         <p>En este primer avance del proyecto, cada integrante del equipo ha reconocido la importancia del aprendizaje continuo en el desarrollo profesional y en la creación de soluciones de software. A través de la investigación, entrevistas y análisis de datos, todos comprendieron que mantenerse actualizados y abiertos a nuevos conocimientos es crucial para diseñar funcionalidades que se alineen con las necesidades cambiantes de los usuarios y con las nuevas tecnologías. Esta actitud proactiva hacia el aprendizaje permitirá al equipo desarrollar un producto que no solo resuelve las problemáticas actuales, sino que también se adapta a futuros desafíos.</p>
+        <p><strong>TB2: </strong></p>
+        <p>En este segundo avance, el equipo ha reafirmado la importancia del aprendizaje continuo para el éxito en el desarrollo de software. Cada miembro del equipo ha adquirido y aplicado nuevos conocimientos, como el despliegue del backend utilizando Docker y la configuración eficiente de controladores y rutas en Spring Boot. Este proceso ha permitido optimizar el flujo de trabajo y asegurar que futuras actualizaciones sean ágiles y adaptables. La disposición del equipo a aprender y a aplicar nuevas tecnologías no solo fortalece la solución actual, sino que también garantiza su capacidad para evolucionar con el tiempo, enfrentando futuros desafíos con una base técnica sólida y moderna.</p>
       </td>
     </tr>
   </tbody>
@@ -229,10 +298,10 @@ De esta forma, nosotros hemos definido los siguientes objetivos para nuestro pro
   <tbody>
     <tr>
       <td>Piero Delgado</td>
-      <td>Investigar principios de diseño de interfaces móviles intuitivas para iOS y Android para aplicarlos en la primera versión de nuestra aplicación con el fin de mejorar la usabilidad y experiencia de usuario.</td>
+      <td>Investigar principios de diseño de interfaces móviles intuitivas para iOS y Android para aplicarlos en la primera versión de nuestra aplicación con el fin de mejorar mis competencias en UX/UI.</td>
       <td>19/08/2024</td>
       <td>19/10/2024</td>
-      <td>Se va a lograr crear un buen diseño de una interfaz móvil intuitiva y fácil de usar para la aplicación, basándose en las mejores prácticas de diseño móvil identificadas a través de la investigación de aplicaciones exitosas en iOS y Android, como también documentación sobre mejores prácticas en videos o libros.</td>
+      <td>Desarrollar una interfaz móvil intuitiva basada en las mejores prácticas de UX/UI para fortalecer mis habilidades profesionales en diseño de aplicaciones móviles.</td>
       <td>La métrica será la valoración positiva de la interfaz por parte de los usuarios durante las entrevistas de validación. Se considerará éxito si al menos el 80% de los entrevistados expresan opiniones favorables.</td>
       <td>Requiere una comprensión más profunda del diseño de interfaces móviles, así como la capacidad de aplicar estos conocimientos en la aplicación. Esto supone un reto importante en el desarrollo móvil y va más allá de solo implementación las funcionalidades de la aplicación.</td>
       <td>Está alineado con la estrategia de desarrollar una aplicación que sea no solo funcional, sino también sencilla para que los granjeros puedan utilizarla de forma recurrente.</td>
@@ -240,80 +309,80 @@ De esta forma, nosotros hemos definido los siguientes objetivos para nuestro pro
     </tr>
     <tr>
       <td>Piero Delgado</td>
-      <td>Desarrollar un sistema de notificaciones en tiempo real en Flutter para alertar a los granjeros sobre proximas asesorías y otros eventos como actualizaciones.</td>
+      <td>Desarrollar un sistema de notificaciones en tiempo real en Kotlin para mejorar mis habilidades en desarrollo móvil.</td>
       <td>19/10/2024</td>
       <td>19/11/2024</td>
-      <td>Se logrará la implementación de un sistema de notificaciones en tiempo real que informe a los granjeros sobre eventos importantes, mejorando la comunicación dentro de la aplicación.</td>
+      <td>Implementar un sistema de notificaciones en tiempo real que informe a los granjeros sobre eventos importantes, mejorando la comunicación dentro de la aplicación, y aplicando conocimientos en desarrollo móvil y backend.</td>
       <td>La métrica a considerar será la visualización de las notificaciones en los dispositivos de prueba. Se considerará exitoso si al menos un 95% de las notificaciones enviadas durante las pruebas son recibidas correctamente.</td>
-      <td>La integración de este sistema sí implica un desafío ya que se requiere conocimientos en distintas funcionalidades de Flutter como el envío de notificaciones, creación de eventos dentro de la aplicación y conexión con el backend para saber la fecha de las distintas asesorías.</td>
-      <td>Está alineado con el alcance del trabajo ya que esta funcionalidad permite mantener a los granjeros informados sobre el estado de sus asesorías.</td>
-      <td>El objetivo se cumplirá al terminar la implementación de la primera versión de la aplicación con Flutter.</td>
+      <td>La integración de este sistema implica un desafío ya que se requiere conocimientos en distintas funcionalidades de Kotlin como el envío de notificaciones, creación de eventos dentro de la aplicación y conexión con el backend para saber la fecha de las distintas asesorías.</td>
+      <td>Está alineado con el alcance del trabajo ya que esta funcionalidad permite mantener a los granjeros informados sobre el estado de sus asesorías. Además, podre aumentar mi dominio de tecnologías móviles.</td>
+      <td>El objetivo se cumplirá al terminar la implementación de la segunda versión de la aplicación con Kotlin.</td>
     </tr>
     <tr>
       <td>Salvador Salinas</td>
-      <td>Implementar una aplicación que sea capaz de utilizar la autenticación de forma segura y adecuada (IAM), de forma que los datos ingresados por los usuarios a través de la aplicación móvil siempre se encuentren protegidos.</td>
-      <td>20/08/2024</td>
-      <td>26/09/2024</td>
-      <td>Se logrará la implementación segura del backend de la aplicación móvil utilizando la autenticación para los usuarios, ya sea administrador o cliente, a través de un sistema IAM el cual sea totalmente compatible con el Frontend de la aplicación móvil.</td>
-      <td>La métrica a tomar en cuenta es la cantidad de intentos que toma acceder con un usuario existente a la aplicación móvil, ya que debe comprobar que las credenciales sean las correctas en un 100% de las veces.</td>
-      <td>La implementación del sistema de IAM implica retos para realizar buenas prácticas, ya que a pesar de que ya tenemos algo de conocimiento para poder realizarlo, igualmente falta investigación para poder hacerlo de la manera correcta.</td>
-      <td>Está alineado con el alcance del trabajo, ya que es esencial entregar una aplicación móvil que funcione de forma segura para los usuarios.</td>
-      <td>El objetivo será cumplido al terminar la implementación del backend y conectarlo con el Frontend de la aplicación móvil.</td>
-    </tr>
-    <tr>
-      <td>Salvador Salinas</td>
-      <td>Integrar un sistema externo de videoconferencias para los asesoramientos programados para los usuarios.</td>
-      <td>20/10/2024</td>
+      <td>Dominar un lenguaje de programación de desarrollo móvil como Kotlin para crear aplicaciones de manera eficiente.</td>
+      <td>22/08/2024</td>
       <td>20/11/2024</td>
-      <td>El logro de este objetivo es implementar y configurar un sistema de videoconferencia externo que permita a los usuarios llevar a cabo los asesoramientos a través de la aplicación móvil.</td>
-      <td>Para medir si este objetivo llegó a cumplirse, será haciendo la prueba de creación de videoconferencias dentro de la aplicación. Para ello, se considerará que las videoconferencias se creen y se pueda acceder a ellas un 100% de las pruebas. Es importante que siempre funcione ya que esta funcionalidad es lo que brinda el mayor valor a nuestra aplicación.</td>
-      <td>La integración de un sistema externo para videoconferencias si se considera retador, ya que es importante encontrar una API robusta y con soporte técnico disponible, así como debe tener alta compatibilidad para la implementación de la aplicación y para los dispositivos móviles desde los cuales se podrá acceder.</td>
-      <td>La integración del sistema para videoconferencias es crucial para la aplicación, ya que es la principal funcionalidad que ofrecemos a nuestros segmentos objetivo.</td>
-      <td>Se espera que este objetivo sea cumplido al terminar la implementación de la primera versión de la aplicación móvil. En caso no sea así, se espera que sea hasta antes de finalizar el mes de noviembre.</td>
+      <td>Se logrará desarrollar la capacidad para crear aplicaciones móviles utilizando Kotlin, de este modo podré iniciar a programar aplicaciones móviles para Android.</td>
+      <td>La métrica a tomar en cuenta es crear y desplegar una aplicación funcional en un repositorio de GitHub y compartirla con la comunidad, así como implementar todas las funcionalidades descritas en las historias de usuario definidas.</td>
+      <td>La implementación de una aplicación con Kotlin es retador, ya que implica aprender un nuevo lenguaje de programación y desarrollar una aplicación nueva desde cero. Además, se espera que se aplique buenas prácticas en el código.</td>
+      <td>Está alineado con el alcance del trabajo, ya que es esencial entregar una aplicación móvil que funcione como se espera para los usuarios.</td>
+      <td>El objetivo será cumplido al terminar la implementación y despliegue de la aplicación móvil.</td>
+    </tr>
+    <tr>
+      <td>Salvador Salinas</td>
+      <td>Desarrollar una red profesional dentro del ecosistema de desarrollo de aplicaciones móviles.</td>
+      <td>13/09/2024</td>
+      <td>20/11/2024</td>
+      <td>Construir una red sólida de contactos profesionales en la industria de desarrollo de aplicaciones móviles para intercambiar ideas, obtener mentorías, y explorar nuevas oportunidades laborales.</td>
+      <td>Para medir si este objetivo llegó a cumplirse, se espera conectar con al menos 10 contactos a través de LinkedIn u otros medios, para establecer conexiones importantes en el ámbito laboral profesional.</td>
+      <td>Es retador ya que implica dedicar tiempo adicional fuera de las actividades diarias y requiere proactividad para interactuar y construir relaciones, lo que va más allá del enfoque técnico.</td>
+      <td>El networking es clave para el crecimiento profesional, permitiendo acceder a mentorías, nuevas oportunidades y mantenerse actualizado en las tendencias del desarrollo móvil.</td>
+      <td>En aproximadamente 2 meses, se espera haber conectado con otras personas y ser un miembro activo de comunidades en línea.</td>
     </tr>
     <tr>
       <td>Sebastian Paredes</td>
-      <td>Desarrollar y desplegar una API RESTful segura y escalable para manejar las operaciones CRUD de los datos de usuarios, asegurando que la API soporte varias solicitudes simultáneas sin afectar el rendimiento.</td>
+      <td>Desarrollar y desplegar una API RESTful segura y escalable para mejorar mis competencias en desarrollo backend y gestión de infraestructura en la nube.</td>
       <td>30/08/2024</td>
       <td>20/09/2024</td>
-      <td>Se logrará la implementación de una API RESTful que maneje de manera eficiente las operaciones CRUD (Create, Read, Update, Delete) de los datos de usuarios. La API estará diseñada para ser segura y escalable, garantizando que pueda manejar múltiples solicitudes simultáneas sin comprometer el rendimiento.</td>
-      <td>Sí, las métricas clave incluyen el tiempo de respuesta de la API, la capacidad de soportar al menos 100 solicitudes concurrentes sin degradar el rendimiento.</td>
-      <td>Este objetivo es retador porque requiere un diseño arquitectónico robusto y la implementación de prácticas avanzadas de seguridad y escalabilidad. Además, implica pruebas exhaustivas bajo condiciones de carga para asegurar que la API mantenga su rendimiento, lo que va más allá de la simple creación de endpoints CRUD.</td>
-      <td>Está alineado con la estrategia de asegurar que AgroSupport sea una plataforma confiable y segura, capaz de escalar a medida que aumenta el número de usuarios y la complejidad de las operaciones, garantizando así la continuidad y crecimiento del servicio.</td>
-      <td>El objetivo se cumplirá al desplegar la API en un entorno de producción, después de haber pasado pruebas de carga y seguridad, y una vez que se haya demostrado que cumple con las métricas definidas.</td>
+      <td>Implementar una API RESTful que maneje de manera eficiente las operaciones CRUD, soportando múltiples solicitudes simultáneas sin comprometer el rendimiento, para fortalecer mis habilidades en backend y escalabilidad.</td>
+      <td>La métrica clave será la capacidad de la API para manejar al menos 100 solicitudes concurrentes sin degradación en el rendimiento, evaluada a través de pruebas de carga. Será exitoso si el tiempo de respuesta se mantiene bajo 200 ms.</td>
+      <td>Este objetivo supone un reto ya que requiere el diseño de una arquitectura robusta y la implementación de prácticas avanzadas de seguridad y optimización para el manejo de cargas simultáneas.</td>
+      <td>Está alineado con la estrategia de AgroSupport de garantizar una plataforma confiable y escalable, y también permitirá mejorar mi dominio en tecnologías backend y arquitecturas de software.</td>
+      <td>Se cumplirá tras el despliegue exitoso de la API en producción, después de haber superado pruebas de carga y seguridad.</td>
     </tr>
     <tr>
       <td>Sebastian Paredes</td>
-      <td>Diseñar y desarrollar la vista para nuestro segmento objetivo "Granjero" en la aplicación, asegurando que ambas interfaces vayan acorde a las necesidades de nuestro usuario.</td>
+      <td>Diseñar y desarrollar la vista móvil para el segmento de granjeros en la aplicación AgroSupport, con el fin de mejorar mis competencias en diseño de interfaces móviles.</td>
       <td>20/08/2024</td>
       <td>30/09/2024</td>
-      <td>Se logrará diseñar y desarrollar una vista específica para el segmento objetivo "Granjero" en la aplicación AgroSupport, que esté alineada con las necesidades y expectativas de los usuarios granjeros. La interfaz estará optimizada para ser intuitiva y fácil de usar, facilitando el acceso a las funcionalidades y servicios relevantes para ellos.</td>
-      <td>Sí, las métricas clave incluyen la satisfacción del usuario medida a través de encuestas, donde se buscará que al menos el 85% de los granjeros indiquen que la interfaz es fácil de usar y cumple con sus necesidades.</td>
-      <td>Este objetivo es retador porque implica comprender a fondo las necesidades de los granjeros y traducir esas necesidades en un diseño de interfaz efectivo y funcional.</td>
-      <td>Está alineado con la estrategia de AgroSupport de proporcionar una experiencia de usuario personalizada y efectiva, adaptada a las necesidades específicas del segmento de granjeros. Esto es crucial para mejorar la adopción y el uso de la aplicación por parte de este grupo objetivo.</td>
-      <td>El objetivo se cumplirá al finalizar el diseño y desarrollo de la vista para granjeros y tras recibir retroalimentación positiva en pruebas de usabilidad y satisfacción de los usuarios.</td>
+      <td>Crear una interfaz intuitiva y funcional para los granjeros, basada en buenas prácticas de UX/UI, para fortalecer mis habilidades en diseño de aplicaciones móviles.</td>
+      <td>La métrica será la satisfacción de los usuarios evaluada a través de encuestas. Se considerará éxito si al menos el 85% de los granjeros indican que la interfaz es fácil de usar y adecuada a sus necesidades.</td>
+      <td>Este objetivo es desafiante porque implica un entendimiento profundo de las necesidades de los granjeros y cómo traducirlas en un diseño de interfaz efectivo.</td>
+      <td>Está alineado con la estrategia de AgroSupport de proporcionar una experiencia de usuario amigable y funcional, permitiendo también que yo mejore en el diseño de interfaces orientadas a usuarios.</td>
+      <td>El objetivo se cumplirá cuando la vista móvil esté desarrollada y se obtenga retroalimentación positiva en pruebas de usabilidad.</td>
     </tr>
     <tr>
       <td>Christian Matos</td>
-      <td>Desarrollar una funcionalidad de búsqueda avanzada en la aplicación que permita a los granjeros con poca experiencia encontrar y conectar con especialistas en áreas específicas de gestión de granjas.</td>
+      <td>Mejorar mis competencias en desarrollo de aplicaciones mediante la implementación de una funcionalidad avanzada de búsqueda en AgroSupport.</td>
       <td>01/09/2024</td>
       <td>10/10/2024</td>
-      <td>Se logrará implementar una funcionalidad de búsqueda avanzada que permita a los granjeros identificar y conectar con asesores especializados en áreas específicas de gestión de granjas. Esta funcionalidad mejorará el acceso a asesoramiento experto, adaptado a las necesidades individuales de los usuarios, facilitando la gestión de granjas y promoviendo prácticas sostenibles.</td>
-      <td>La métrica clave será la capacidad del sistema para ofrecer recomendaciones precisas y relevantes a los granjeros, con un objetivo de que al menos el 85% de los usuarios encuentren a un asesor adecuado en menos de 5 minutos de búsqueda, y que al menos el 90% de los usuarios evaluados estén satisfechos con las recomendaciones recibidas.</td>
-      <td>Este objetivo es retador porque requiere la implementación de un sistema de filtrado y recomendación avanzado que considere la experiencia y las necesidades específicas de cada usuario, garantizando la relevancia y efectividad de las conexiones con los asesores.</td>
-      <td>Está alineado con la misión de AgroTech de brindar acceso fácil a asesoría especializada y con la visión de mejorar la gestión de granjas mediante la conexión efectiva entre granjeros y expertos.</td>
-      <td>El objetivo se cumplirá al desplegar la funcionalidad de búsqueda avanzada en AgroSupport y tras la evaluación de su eficacia en conectar granjeros con especialistas, utilizando métricas de satisfacción del usuario y tiempo de conexión para asegurar su éxito.</td>
+      <td>Implementar una funcionalidad avanzada de búsqueda en AgroSupport, mejorando el acceso a asesoramiento especializado para los granjeros.</td>
+      <td>La métrica clave será que al menos el 85% de los usuarios puedan encontrar un asesor adecuado en menos de 5 minutos de búsqueda.</td>
+      <td>Es retador porque requiere la implementación de un sistema avanzado de filtrado y recomendación, basado en las necesidades de los granjeros y las áreas de especialización de los asesores.</td>
+      <td>Está alineado con la estrategia de AgroTech de mejorar el acceso a asesoría especializada y aumentar la eficiencia en la gestión de granjas.</td>
+      <td>Se cumplirá al desplegar la funcionalidad de búsqueda y validarla mediante pruebas de satisfacción del usuario y efectividad en la conexión con asesores.</td>
     </tr>
     <tr>
       <td>Christian Matos</td>
-      <td>Optimizar el rendimiento de la aplicación AgroSupport para asegurar tiempos de respuesta de menos de 2 segundos en el 95% de las solicitudes de usuario. Esto incluirá la implementación de técnicas de caching, la optimización de consultas a la base de datos y la mejora del código de backend. El objetivo es completar la optimización y realizar pruebas de carga que demuestren que al menos el 95% de las solicitudes cumplen con el tiempo de respuesta objetivo antes del lanzamiento de la aplicación.</td>
+      <td>Fortalecer mis habilidades en optimización de rendimiento de aplicaciones, asegurando tiempos de respuesta inferiores a 2 segundos en el 95% de las solicitudes de usuario en AgroSupport..</td>
       <td>15/09/2024</td>
       <td>10/10/2024</td>
-      <td>Se logrará optimizar el rendimiento de AgroSupport para que el 95% de las solicitudes de usuario tengan tiempos de respuesta de menos de 2 segundos. Esto se alcanzará mediante la implementación de técnicas de caching, optimización de consultas a la base de datos y mejoras en el código de backend. Además, se realizarán pruebas de carga para verificar que se cumpla el objetivo.</td>
-      <td>Las métricas clave incluyen el tiempo de respuesta de las solicitudes (menos de 2 segundos para el 95% de las solicitudes) y los resultados de las pruebas de carga que confirmen que la aplicación cumple con este estándar de rendimiento.</td>
-      <td>Este objetivo es retador porque requiere la implementación de varias técnicas de optimización y la validación del rendimiento bajo condiciones de carga, lo que implica un enfoque integral para mejorar la eficiencia de la aplicación.</td>
-      <td>Está alineado con la visión de AgroTech de ofrecer una aplicación eficiente y ágil, asegurando que los usuarios tengan una experiencia de uso fluida y rápida, lo cual es esencial para la adopción y satisfacción del usuario.</td>
-      <td>El objetivo se cumplirá al optimizar el rendimiento de la aplicación, realizar pruebas de carga que confirmen que el 95% de las solicitudes tienen tiempos de respuesta de menos de 2 segundos, y ajustar las optimizaciones según los resultados obtenidos.</td>
+      <td>Optimizar el rendimiento de AgroSupport para que el 95% de las solicitudes tengan tiempos de respuesta de menos de 2 segundos.</td>
+      <td>La métrica clave será la reducción de los tiempos de respuesta a menos de 2 segundos en el 95% de las solicitudes, verificada a través de pruebas de carga.</td>
+      <td>Es retador porque requiere la implementación de diversas técnicas de optimización, tanto en el código como en la infraestructura, bajo condiciones de carga.</td>
+      <td>Está alineado con la estrategia de AgroTech de ofrecer una aplicación eficiente y rápida para los usuarios.</td>
+      <td>Se cumplirá al realizar pruebas de carga que verifiquen el tiempo de respuesta de las solicitudes y al implementar las optimizaciones necesarias.</td>
     </tr>
   </tbody>
 </table>
@@ -421,22 +490,43 @@ Según un informe realizado (Ames, 2022), se ha identificado que el sector agrop
 #### 1.2.2.1. Lean UX Problem Statements.
 
 **Problem Statement 1**
-|Nuestro producto tiene como objetivo mejorar la gestión de granjas en el Perú.|
-|:--|
-|Hemos observado que los granjeros en Perú enfrentan dificultades para gestionar eficientemente sus granjas, lo que afecta su productividad y rentabilidad.|
-|¿Podría nuestra aplicación AgroSupport ayudar a los granjeros a mejorar la gestión de sus granjas y aumentar su productividad?|
+<table>
+    <tr>
+        <td><strong>Nuestro producto tiene como objetivo mejorar la gestión de granjas en el Perú.</strong></td>
+    </tr>
+    <tr>
+        <td>Hemos observado que los granjeros en Perú enfrentan dificultades para gestionar eficientemente sus granjas, lo que afecta su productividad y rentabilidad.</td>
+    </tr>
+    <tr>
+        <td>¿Podría nuestra aplicación AgroSupport ayudar a los granjeros a mejorar la gestión de sus granjas y aumentar su productividad?</td>
+    </tr>
+</table>
 
 **Problem Statement 2**
-|Nuestro producto tiene como objetivo aumentar la rentabilidad de los granjeros en Perú.|
-|:--|
-|Hemos observado que muchos granjeros en Perú enfrentan desafíos para lograr una rentabilidad adecuada debido a la falta de eficiencia en la gestión de sus granjas.|
-|¿Podría AgroSupport ayudar a los granjeros en Perú a mejorar su rentabilidad mediante una gestión más eficiente de sus granjas?|
+<table>
+    <tr>
+        <td><strong>Nuestro producto tiene como objetivo aumentar la rentabilidad de los granjeros en Perú.</strong></td>
+    </tr>
+    <tr>
+        <td>Hemos observado que muchos granjeros en Perú enfrentan desafíos para lograr una rentabilidad adecuada debido a la falta de eficiencia en la gestión de sus granjas.</td>
+    </tr>
+    <tr>
+        <td>¿Podría AgroSupport ayudar a los granjeros en Perú a mejorar su rentabilidad mediante una gestión más eficiente de sus granjas?</td>
+    </tr>
+</table>
 
 **Problem Statement 3**
-|Nuestro producto tiene como objetivo proporcionar asesoramiento especializado a los granjeros en Perú.|
-|:--|
-|Hemos observado que muchos granjeros en Perú enfrentan desafíos para obtener asesoramiento adecuado y especializado en la gestión de sus granjas.|
-|¿Cómo podría AgroSupport ayudar a los granjeros en Perú a acceder a asesorías especializadas para mejorar la gestión de sus granjas?|
+<table>
+    <tr>
+        <td><strong>Nuestro producto tiene como objetivo proporcionar asesoramiento especializado a los granjeros en Perú.</strong></td>
+    </tr>
+    <tr>
+        <td>Hemos observado que muchos granjeros en Perú enfrentan desafíos para obtener asesoramiento adecuado y especializado en la gestión de sus granjas.</td>
+    </tr>
+    <tr>
+        <td>¿Cómo podría AgroSupport ayudar a los granjeros en Perú a acceder a asesorías especializadas para mejorar la gestión de sus granjas?</td>
+    </tr>
+</table>
 
 #### 1.2.2.2. Lean UX Assumptions.
 
@@ -1415,28 +1505,28 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       <tr>
         <td rowspan="6">5</td>
         <td rowspan="6">Funcionalidades de Web API (Backend)</td>
-        <td>US24</td>
+        <td>TS01</td>
         <td>Uso de una API para videollamadas</td>
       </tr>
       <tr>
-        <td>US25</td>
+        <td>TS02</td>
         <td>Uso de una API para alojar imágenes</td>
       </tr>
       <tr>
-        <td>US26</td>
+        <td>TS03</td>
         <td>Uso de nuestra API para gestionar perfiles</td>
       </tr>
       <tr>
-        <td>US27</td>
-        <td>Uso de nuestra API para gestionar citas de asesoría</td>
+        <td>TS04</td>
+        <td>Uso de nuestra API para gestionar asesorías</td>
       </tr>
       <tr>
-        <td>US28</td>
+        <td>TS05</td>
         <td>Uso de nuestra API para gestionar publicaciones</td>
       </tr>
       <tr>
-        <td>US29</td>
-        <td>Uso de nuestra API para gestionar IAM</td>
+        <td>TS06</td>
+        <td>Uso de nuestra API para gestionar autenticación</td>
       </tr>
     </tbody>
 </table>
@@ -1844,7 +1934,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       <td>1</td>
     </tr>
         <tr>
-      <td>US24</td>
+      <td>TS01</td>
       <td>Uso de una API para videollamadas</td>
       <td>Como desarrollador quiero integrar la creación de videollamadas utilizando la API de Jitsi Meet para facilitar las asesorías en la aplicación.</td>
       <td>
@@ -1856,7 +1946,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       <td>5</td>
     </tr>
     <tr>
-      <td>US25</td>
+      <td>TS02</td>
       <td>Uso de una API para alojar imágenes</td>
       <td>Como desarrollador quiero integrar la API de almacenamiento de Firebase para que los usuarios puedan subir y visualizar sus imágenes de foto de perfil y publicaciones.</td>
       <td>
@@ -1870,7 +1960,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       <td>5</td>
     </tr>
     <tr>
-      <td>US26</td>
+      <td>TS03</td>
       <td>Uso de nuestra API para gestionar perfiles</td>
       <td>Como desarrollador quiero integrar un API para gestionar la información de los perfiles de los usuarios en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.</td>
       <td>
@@ -1897,11 +1987,11 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       <td>5</td>
     </tr>
     <tr>
-      <td>US27</td>
-      <td>Uso de nuestra API para gestionar citas de asesoría</td>
-      <td>Como desarrollador quiero integrar un API para gestionar la información de las citas de asesoría en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.</td>
+      <td>TS04</td>
+      <td>Uso de nuestra API para gestionar asesorías</td>
+      <td>Como desarrollador quiero integrar un API para gestionar la información de las asesorías en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.</td>
       <td>
-        <strong>Escenario 1: Integrar un API para manejar las solicitudes HTTP de las citas de asesoría</strong><br>
+        <strong>Escenario 1: Integrar un API para manejar las solicitudes HTTP de las asesorías</strong><br>
         <strong>Given</strong> la aplicación tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración.
         <br>
         <strong>When</strong> se envía una solicitud de tipo GET, POST o PUT con los datos solicitados del usuario a la API.
@@ -1910,7 +2000,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
         <br>
         <strong>And</strong> se realiza la operación solicitada.
         <br><br>
-        <strong>Escenario 2: Manejar errores en la Integración de API para Solicitudes HTTP de citas de asesoría</strong><br>
+        <strong>Escenario 2: Manejar errores en la Integración de API para Solicitudes HTTP de asesorías</strong><br>
         <strong>Given</strong> la aplicación tiene acceso a la documentación de la API y las credenciales necesarias para realizar la integración
         <br>
         <strong>When</strong> se envía una solicitud de tipo GET, POST, PUT o DELETE con los datos solicitados de la cita de asesoría a la API
@@ -1924,7 +2014,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       <td>5</td>
     </tr>
     <tr>
-      <td>US28</td>
+      <td>TS05</td>
       <td>Uso de nuestra API para gestionar publicaciones</td>
       <td>Como desarrollador quiero integrar un API para gestionar la información de las publicaciones de los asesores en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.</td>
       <td>
@@ -1951,9 +2041,9 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       <td>5</td>
     </tr>
     <tr>
-      <td>US29</td>
-      <td>Uso de nuestra API para gestionar IAM</td>
-      <td>Como desarrollador quiero integrar un API para gestionar la información de las citas de asesoría en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.</td>
+      <td>TS06</td>
+      <td>Uso de nuestra API para gestionar autenticación</td>
+      <td>Como desarrollador quiero integrar un API para gestionar la información de los usuarios en la base de datos, de manera que pueda realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) a través de solicitudes HTTP.</td>
       <td>
         <strong>Escenario 1: Registro de un nuevo usuario con verificación de seguridad (sign-up)</strong>
         <br>
@@ -2008,225 +2098,1599 @@ _Imagen 16: Impact Map para Asesor experimentado_
 
 ### 2.4.4. Product Backlog
 
+Este Product Backlog presenta una lista priorizada de las User Stories para el desarrollo de nuestra aplicación, estructurada en función de las prioridades del proyecto. El backlog incluye 29 User Stories, organizadas por Epics que abarcan las funcionalidades clave, como la Landing Page, las características de la aplicación y las funcionalidades del Backend. Cada User Story está detallada con una descripción y una estimación de Story Points, facilitando así la planificación y ejecución del desarrollo. La estructura prioriza primero las funcionalidades visibles y esenciales para los usuarios, asegurando que las necesidades más críticas se aborden de manera efectiva y eficiente.
+
 <table>
-   <thead>
-      <tr>
-         <th># Orden</th>
-         <th>User Story ID</th>
-         <th>Título</th>
-         <th>Descripción</th>
-         <th>Story Points (1/2/3/5/8)</th>
-      </tr>
-   </thead>
-   <tbody>
-      <tr>
+  <thead>
+    <tr>
+      <th># Orden</th>
+      <th>User Story ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Story Points (1/2/3/5/8)</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
          <td>1</td>
-         <td>US14</td>
-         <td>Visualización de la sección de inicio de la Landing Page</td>
-         <td>Implementar la visualización de la sección de inicio que presenta la aplicación móvil y sus beneficios.</td>
-         <td>3</td>
-      </tr>
-      <tr>
+         <td>TS03</td>
+         <td>Uso de nuestra API para gestionar perfiles</td>
+         <td>Desarrollar una API propia que gestione los perfiles de los usuarios, permitiendo actualizar información y configuraciones.</td>
+         <td>5</td>
+    </tr>
+    <tr>
          <td>2</td>
+         <td>TS04</td>
+         <td>Uso de nuestra API para gestionar asesorías</td>
+         <td>Desarrollar y utilizar una API que gestione todas las funcionalidades relacionadas con la programación y manejo de citas de asesoría.</td>
+         <td>5</td>
+    </tr>
+    <tr>
+         <td>3</td>
+         <td>TS05</td>
+         <td>Uso de nuestra API para gestionar publicaciones</td>
+         <td>Desarrollar y utilizar una API que gestione todas las funcionalidades relacionadas con información de las publicaciones de los asesores en la base de datos.</td>
+         <td>5</td>
+    </tr>
+    <tr>
+         <td>4</td>
+         <td>TS06</td>
+         <td>Uso de nuestra API para gestionar autenticación</td>
+         <td>Desarrollar y utilizar una API que gestione la autenticación y autorización de usuarios en la aplicación.</td>
+         <td>5</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>US14</td>
+      <td>Visualización de la sección de inicio de la Landing Page</td>
+      <td>Implementar la visualización de la sección de inicio que presenta la aplicación móvil y sus beneficios.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+         <td>6</td>
          <td>US15</td>
          <td>Visualización de la sección 'Acerca de' de la Landing Page</td>
          <td>Mostrar información detallada sobre la misión y visión de la aplicación móvil en la Landing Page.</td>
          <td>2</td>
-      </tr>
-      <tr>
-         <td>3</td>
+    </tr>
+    <tr>
+         <td>7</td>
          <td>US16</td>
          <td>Visualización de la sección 'Sobre Nosotros' de la Landing Page</td>
          <td>Proveer una sección que explique quiénes son los creadores de la aplicación y su historia.</td>
          <td>2</td>
-      </tr>
-      <tr>
-         <td>4</td>
+    </tr>
+    <tr>
+         <td>8</td>
          <td>US17</td>
          <td>Visualización de la sección 'Características' de la Landing Page</td>
          <td>Presentar las características principales de la aplicación de manera clara y atractiva.</td>
          <td>3</td>
-      </tr>
-      <tr>
-         <td>5</td>
+    </tr>
+    <tr>
+         <td>9</td>
          <td>US18</td>
          <td>Visualización de la sección 'Contacto' de la Landing Page</td>
          <td>Permitir a los usuarios potenciales ponerse en contacto con los desarrolladores o soporte técnico.</td>
          <td>2</td>
-      </tr>
-      <tr>
-         <td>6</td>
+    </tr>
+    <tr>
+         <td>10</td>
+         <td>TS01</td>
+         <td>Uso de una API para videollamadas</td>
+         <td>Integrar una API que permita realizar videollamadas dentro de la aplicación.</td>
+         <td>5</td>
+    </tr>
+    <tr>
+         <td>11</td>
+         <td>TS02</td>
+         <td>Uso de una API para alojar imágenes</td>
+         <td>Implementar una API que permita a los usuarios subir y almacenar imágenes de manera segura.</td>
+         <td>5</td>
+    </tr>
+    <tr>
+         <td>12</td>
          <td>US01</td>
          <td>Visualización del catálogo de asesores</td>
          <td>Permitir a los usuarios ver una lista completa de asesores disponibles.</td>
          <td>3</td>
-      </tr>
-      <tr>
-         <td>7</td>
+    </tr>
+    <tr>
+         <td>13</td>
          <td>US02</td>
          <td>Visualización de información de un asesor</td>
          <td>Mostrar detalles sobre un asesor específico, incluyendo su perfil, experiencia y áreas de especialización.</td>
          <td>3</td>
-      </tr>
-      <tr>
-         <td>8</td>
+    </tr>
+    <tr>
+         <td>14</td>
          <td>US03</td>
          <td>Visualización de horarios de asesores</td>
          <td>Permitir a los usuarios ver la disponibilidad de los asesores para programar citas.</td>
          <td>2</td>
-      </tr>
-      <tr>
-         <td>9</td>
+    </tr>
+    <tr>
+         <td>15</td>
          <td>US04</td>
          <td>Programación de citas con asesores</td>
          <td>Implementar la funcionalidad para que los usuarios puedan reservar citas con asesores.</td>
          <td>5</td>
-      </tr>
-      <tr>
-         <td>10</td>
+    </tr>
+    <tr>
+         <td>16</td>
          <td>US05</td>
          <td>Calificación del asesor luego de una cita</td>
          <td>Permitir a los usuarios calificar a los asesores después de una cita.</td>
          <td>3</td>
-      </tr>
-      <tr>
-         <td>11</td>
+    </tr>
+    <tr>
+         <td>17</td>
          <td>US06</td>
          <td>Separación de horarios de disponibilidad para asesorías</td>
          <td>Gestionar y separar los horarios de los asesores según su disponibilidad.</td>
          <td>5</td>
-      </tr>
-      <tr>
-         <td>12</td>
+    </tr>
+    <tr>
+         <td>18</td>
          <td>US19</td>
          <td>Recordatorio de Cita</td>
          <td>Enviar recordatorios automáticos a los usuarios sobre sus citas programadas.</td>
          <td>2</td>
-      </tr>
-      <tr>
-         <td>13</td>
+    </tr>
+    <tr>
+         <td>19</td>
          <td>US20</td>
          <td>Confirmación de Asistencia</td>
          <td>Implementar una funcionalidad que permita a los usuarios confirmar su asistencia a las citas programadas.</td>
          <td>2</td>
-      </tr>
-      <tr>
-         <td>14</td>
+    </tr>
+    <tr>
+         <td>20</td>
          <td>US21</td>
          <td>Visualización de Historial de Citas</td>
          <td>Permitir a los usuarios ver el historial de sus citas pasadas con asesores.</td>
          <td>3</td>
-      </tr>
-      <tr>
-         <td>15</td>
+    </tr>
+    <tr>
+         <td>21</td>
          <td>US22</td>
          <td>Reprogramación de Citas</td>
          <td>Permitir a los usuarios reprogramar sus citas con asesores.</td>
          <td>5</td>
-      </tr>
-      <tr>
-         <td>16</td>
+    </tr>
+    <tr>
+         <td>22</td>
          <td>US23</td>
          <td>Búsqueda y Filtrado de Citas</td>
          <td>Implementar funcionalidades de búsqueda y filtrado para que los usuarios puedan encontrar citas específicas fácilmente.</td>
          <td>3</td>
-      </tr>
-      <tr>
-         <td>17</td>
+    </tr>
+    <tr>
+         <td>23</td>
          <td>US07</td>
          <td>Gestión de publicaciones de asesores</td>
          <td>Permitir a los asesores crear y gestionar sus publicaciones.</td>
          <td>3</td>
-      </tr>
-      <tr>
-         <td>18</td>
+    </tr>
+    <tr>
+         <td>24</td>
          <td>US08</td>
          <td>Visualización de publicaciones de los asesores</td>
          <td>Permitir a los usuarios ver las publicaciones de los asesores.</td>
          <td>2</td>
-      </tr>
-      <tr>
-         <td>19</td>
+    </tr>
+    <tr>
+         <td>25</td>
          <td>US09</td>
          <td>Registro de un usuario nuevo</td>
          <td>Permitir a nuevos usuarios registrarse en la aplicación.</td>
          <td>3</td>
-      </tr>
-      <tr>
-         <td>20</td>
+    </tr>
+    <tr>
+         <td>26</td>
          <td>US10</td>
          <td>Inicio de sesión</td>
          <td>Implementar la funcionalidad de inicio de sesión para usuarios registrados.</td>
          <td>2</td>
-      </tr>
-      <tr>
-         <td>21</td>
+    </tr>
+    <tr>
+         <td>27</td>
          <td>US11</td>
          <td>Recuperación de contraseña</td>
          <td>Permitir a los usuarios recuperar su contraseña en caso de olvido.</td>
          <td>2</td>
-      </tr>
-      <tr>
-         <td>22</td>
+    </tr>
+    <tr>
+         <td>28</td>
          <td>US12</td>
          <td>Notificación al usuario</td>
          <td>Enviar notificaciones automáticas a los usuarios sobre actividades importantes.</td>
          <td>2</td>
-      </tr>
-      <tr>
-         <td>23</td>
+    </tr>
+    <tr>
+         <td>29</td>
          <td>US13</td>
          <td>Disponibilidad y confiabilidad</td>
          <td>Asegurar que el sistema sea accesible y confiable para todos los usuarios.</td>
          <td>8</td>
-      </tr>
-      <tr>
-         <td>24</td>
-         <td>US24</td>
-         <td>Uso de una API para videollamadas</td>
-         <td>Integrar una API que permita realizar videollamadas dentro de la aplicación.</td>
-         <td>8</td>
-      </tr>
-      <tr>
-         <td>25</td>
-         <td>US25</td>
-         <td>Uso de una API para alojar imágenes</td>
-         <td>Implementar una API que permita a los usuarios subir y almacenar imágenes de manera segura.</td>
-         <td>8</td>
-      </tr>
-      <tr>
-         <td>26</td>
-         <td>US26</td>
-         <td>Uso de nuestra API para gestionar perfiles</td>
-         <td>Desarrollar una API propia que gestione los perfiles de los usuarios, permitiendo actualizar información y configuraciones.</td>
-         <td>8</td>
-      </tr>
-      <tr>
-         <td>27</td>
-         <td>US27</td>
-         <td>Uso de nuestra API para gestionar citas de asesoría</td>
-         <td>Desarrollar y utilizar una API que gestione todas las funcionalidades relacionadas con la programación y manejo de citas de asesoría.</td>
-         <td>8</td>
-      </tr>
-      <tr>
-         <td>28</td>
-         <td>US28</td>
-         <td>Uso de nuestra API para gestionar notificaciones</td>
-         <td>Desarrollar y utilizar una API que gestione todas las funcionalidades relacionadas con el envío de notificaciones a los usuarios.</td>
-         <td>8</td>
-      </tr>
-      <tr>
-         <td>29</td>
-         <td>US29</td>
-         <td>Uso de nuestra API para gestionar autenticación</td>
-         <td>Desarrollar y utilizar una API que gestione la autenticación y autorización de usuarios en la aplicación.</td>
-         <td>8</td>
-      </tr>    
+    </tr>
+
+  </tbody>   
 </table>
 
 # Capítulo 3: Arquitectura
+## 3.1. Product design
+### 3.1.1. Style Guidelines
+El estilo de nuestro producto jugará un papel fundamental en brindar a nuestros usuarios una experiencia visual que sea tanto satisfactoria como atractiva. A continuación, se proporcionará una descripción detallada más detallada de las características de nuestro proyecto:
+
+El estilo de nuestro producto jugará un papel fundamental en brindar a nuestros usuarios una experiencia visual que sea tanto satisfactoria como atractiva. A continuación, se proporcionará una descripción detallada más detallada de las características de nuestro proyecto:
+#### 3.1.1.1. General Style Guidelines
+<strong>Consistencia Visual: </strong>Mantener una coherencia visual en todos los aspectos de la aplicación es clave para crear una experiencia intuitiva. Esto incluye el uso de una paleta de colores uniforme que refleje la naturaleza y la vida agrícola, una tipografía legible y tamaños de fuente adecuados para facilitar la lectura en diferentes condiciones de luz.
+
+<p align="center">
+  <img alt="Consistencia visual" src="img/consistencia-visual.jpg" width="600">
+</p>
+
+_Imagen 17. Imagen de consistencia visual_
+
+<strong>Simplicidad y Claridad: </strong>La interfaz debe ser sencilla y fácil de navegar, con un diseño limpio que evite la sobrecarga de información. El uso de un lenguaje claro y directo es fundamental para asegurar que los usuarios, independientemente de su nivel de experiencia con la tecnología, puedan entender rápidamente cómo utilizar la aplicación.
+
+<p align="center">
+  <img alt="Simplicidad y claridad" src="img/simplicidad-y-claridad.jpg" width="600">
+</p>
+
+_Imagen 18. Imagen de simplicidad y claridad_
+
+<strong>Accesibilidad: </strong>Diseñar la aplicación teniendo en cuenta las necesidades de accesibilidad, como texto ampliable, contraste de colores para personas con discapacidades visuales, y compatibilidad con tecnologías de asistencia como lectores de pantalla.
+
+<p align="center">
+  <img alt="necesidades de accesibilidad de usuarios" src="img/accesibilidad.png" width="600">
+</p>
+
+_Imagen 19. Imagen de necesidades de accesibilidad de usuarios_
+
+<strong>Logo: </strong>El logotipo de Agrosupport tiene un diseño circular, simbolizando la conexión y la unidad que queremos fomentar entre las comunidades agrícolas peruanas. En el corazón del círculo, se encuentra una zanahoria estilizada, un elemento visual que no solo representa la vitalidad y el crecimiento, sino también la agricultura sostenible y la importancia de la tierra en la cultura agrícola local.
+
+<p align="center">
+  <img alt="Logo" src="img/agrosupport-logo.png" width="600">
+</p>
+
+_Imagen 20. Imagen de logo de AgroSupport_
+
+<strong>Tipografía: </strong>La tipografía seleccionada para Agrosupport es "Roboto", una fuente sans-serif moderna y altamente legible. Roboto destaca por su estilo limpio y contemporáneo, transmitiendo profesionalismo y actualización. La elección de Roboto garantiza que el texto en las interfaces de usuario sea fácilmente legible y mantenga una apariencia moderna y uniforme. Además, Roboto es una fuente versátil que ofrece una amplia gama de pesos y estilos, permitiendo una adaptación flexible a diferentes contextos y tamaños de texto en la aplicación.
+
+<p align="center">
+  <img alt="Tipografía" src="img/typography.png" width="600">
+</p>
+
+_Imagen 21. Imagen de logo de AgroSupport_
+
+<strong>Colores: </strong>Agrosupport ha optado por una paleta de colores que proyecta confiabilidad y eficiencia, ideal para la contratación de asesores especializados y el uso de herramientas avanzadas. Los tonos predominantes, como el naranja, el verde y el marrón, evocan una sensación cálida que refleja la vitalidad y la energía de la naturaleza en las granjas peruanas. Esta selección de colores no solo subraya la conexión con la tierra y las raíces agrícolas, sino que también crea un ambiente acogedor y estimulante para los usuarios de la plataforma.
+
+<p align="center">
+  <img alt="Paleta de colores" src="img/colors.png" width="600">
+</p>
+
+_Imagen 22. Imagen de logo de AgroSupport_
+ 
+
+### 3.1.2. Information Architecture
+La arquitectura de información es esencial para organizar y estructurar el contenido en una aplicación móvil, garantizando su accesibilidad y comprensión por parte de los usuarios. A continuación, se describen los sistemas de organización, etiquetado, SEO, búsqueda y navegación específicos para Agrosupport.
+
+#### 3.1.2.1. Organization Systems
+En Agrosupport, utilizamos un sistema de jerarquía visual adaptado a la interfaz móvil para resaltar la información clave y permitir a los usuarios encontrar fácilmente lo que necesitan. La organización secuencial en la aplicación guía a los usuarios a través del proceso de búsqueda y contacto con asesores. La categorización del contenido se realiza en función de la audiencia principal: Granjeros y Asesores.
+
+#### 3.1.2.2. Labelling Systems
+
+Para Agrosupport, hemos desarrollado un sistema de etiquetado claro y conciso para facilitar la navegación en la aplicación móvil. Las etiquetas utilizadas son:
+
+**Vista de Granjero:**
+
+<table>
+  <tbody>
+  <tr>
+      <th>Advisors - Asesores</th>
+      <td>Se implementará un botón que permitirá a los usuarios contactar con asesores.</td>
+  </tr>
+  <tr>
+      <th>Appointments - Citas</th>
+      <td>Se implementará un botón que permitirá visualizar la información de las citas registradas.</td>
+  </tr>
+  <tr>
+      <th>Profile - Perfil</th>
+      <td>Se implementará un botón que permitirá al usuario visualizar y editar su perfil.</td>
+  </tr>
+  <tr>
+      <th>Logout</th>
+      <td>Se implementará un botón que permitirá al usuario desvincularse de su cuenta.</td>
+  </tr>
+  </tbody>
+</table>
+
+**Vista de Asesor:**
+
+<table>
+  <tbody>
+  <tr>
+      <th>Home - Inicio</th>
+      <td>Se implementará un botón que permitirá al usuario ver publicaciones de clientes y poder ofertar.</td>
+  </tr>
+  <tr>
+      <th>Appointments - Citas</th>
+      <td>Se implementará un botón que permitirá visualizar la información de las citas registradas.</td>
+  </tr>
+  <tr>
+      <th>My publications - Mis publicaciones</th>
+      <td>Se implementará un botón que permitirá al usuario ver el historial de sus publicaciones de ofertas de trabajo.</td>
+  </tr>
+  <tr>
+      <th>Profile - Perfil</th>
+      <td>Se implementará un botón que permitirá al usuario visualizar y editar su perfil.</td>
+  </tr>
+  <tr>
+      <th>Logout</th>
+      <td>Se implementará un botón que permitirá al usuario desvincularse de su cuenta.</td>
+  </tr>
+</table>
+
+#### 3.1.2.3. SEO Tags and Meta Tags
+Para mejorar la visibilidad y el rendimiento de Agrosupport en motores de búsqueda y en las tiendas de aplicaciones, se han implementado las siguientes etiquetas SEO y metaetiquetas:
+
+<strong>Metaetiqueta de Descripción: </strong>Proporciona una breve descripción del contenido y propósito de la aplicación, ayudando a los usuarios a entender de qué se trata la aplicación y a mejorar la tasa de clics.
+
+````
+<meta name="description" content="AgroSupport is a platform that provides farmers with the necessary information to improve their farming practices.">
+````
+
+
+<strong>Metaetiqueta de Autor: </strong>Especifica el autor de la aplicación, lo que ayuda a atribuir la propiedad intelectual y la fuente del contenido.
+
+````
+<meta name="author" content="AgroTech">
+````
+<strong>Metaetiqueta de Robots: </strong>Indica a los motores de búsqueda cómo deben indexar y rastrear la página, permitiendo que se indexe y que se sigan los enlaces en la aplicación.
+
+````
+<meta name="robots" content="index, follow">
+````
+
+
+<strong>Etiqueta de Título: </strong> Define el título de la aplicación que aparece en los resultados de búsqueda y en las pestañas del navegador.
+
+````
+<title>AgroSupport</title>
+````
+
+<strong>Etiqueta de Idioma: </strong> Especifica el idioma principal del contenido de la aplicación para ayudar a los motores de búsqueda a entender y clasificar el contenido adecuadamente.
+
+````
+<html lang="en">
+````
+
+<p align="center">
+  <img src="img/seoTAGS.png" alt="SEO tags" width="600">
+</p>
+
+_Imagen 23. Imagen de logo SEO TAGS_
+
+
+#### 3.1.2.4. Searching Systems
+
+La aplicación AgroSupport desarrollará un sistema de búsqueda intuitivo, diseñado para que los usuarios encuentren rápidamente la información que necesitan. Este sistema se basará en filtros inteligentes que simplificarán la búsqueda de asesores, evitando así que los usuarios se vean abrumados por la cantidad de información disponible. Con esta mejora, nuestra aplicación garantizará una experiencia de usuario más fluida y satisfactoria al buscar información relevante.
+
+<table>
+  <tbody>
+  <tr>
+      <th>Ubicación</th>
+      <td>Permite al usuario buscar asesores o recibir solicitudes de asesoramiento basadas en su ubicación actual o en una ubicación específica.</td>
+  </tr>
+  <tr>
+      <th>Nombre</th>
+      <td>Permite al usuario buscar según el nombre del asesor.</td>
+  </tr>
+  <tr>
+      <th>Experiencia</th>
+      <td>Permite al usuario buscar asesores con un nivel de experiencia específico.</td>
+  </tr>
+  <tr>
+      <th>Calificación</th>
+      <td>Permite al usuario buscar asesores según las calificaciones obtenidas.</td>
+  </tr> 
+  <tr>
+      <th>Palabras Clave</th>
+      <td>Proporciona un cuadro de búsqueda donde los usuarios pueden ingresar palabras clave específicas relacionadas con el tipo de asesoría que necesitan.</td>
+  </tr>
+  </tbody>
+</table>
+
+
+#### 3.1.2.5. Navigation Systems
+
+La interfaz móvil de Agrosupport está diseñada para una navegación eficiente, con características adaptadas a la usabilidad en pantallas táctiles:
+
+ - ***Menús de Navegación:*** Menús adaptados para dispositivos móviles, que pueden incluir menús desplegables, botones en la parte superior o inferior de la pantalla, y accesos directos en la barra lateral.
+
+ - ***Navegación por Pestañas:*** Utiliza pestañas en la parte superior o inferior de la pantalla para organizar el contenido en secciones o categorías, permitiendo a los usuarios cambiar entre diferentes secciones sin necesidad de cargar nuevas pantallas.
+
+### 3.1.3. Landing Page UI Design
+#### 3.1.3.1. Landing Page Wireframe
+
+Los wireframes son el esquema básico de la Landing page, mostrando la estructura principal y la disposición de los elementos. Aquí se detallan las secciones clave como el encabezado, el área de beneficios, las llamadas a la acción y la ubicación de imágenes, enfocándose en la usabilidad y el flujo de la página sin distracciones visuales.
+
+
+**Página de inicio**
+
+<img src="img/wireframe-inicio.png" alt="Wireframe - Inicio">
+
+_Imagen 24. Wireframe de la página de inicio_
+
+
+**Página de inicio (versión móvil)**
+
+<img src="img/wireframe-inicio-mobile.png" alt="Wireframe - Inicio (móvil)">
+
+_Imagen 25. Wireframe de la página de inicio (móvil)_
+
+
+**Página de Problemática**
+
+<img src="img/wireframe-problematica.png" alt="Wireframe - Problemática">
+
+_Imagen 26. Wireframe de la página de Problemática_
+
+
+**Página de Problemática (versión móvil)**
+
+<img src="img/wireframe-problematica-mobile.png" alt="Wireframe - Problemática (móvil)">
+
+_Imagen 27. Wireframe de la página de Problemática (móvil)_
+
+
+**Página de Características**
+
+<img src="img/wireframe-caracteristicas.png" alt="Wireframe - Características">
+
+_Imagen 28. Wireframe de la página de Características_
+
+
+**Página de Características (versión móvil)**
+
+<img src="img/wireframe-caracteristicas-mobile.png" alt="Wireframe - Características (móvil)">
+
+_Imagen 29. Wireframe de la página de Características (móvil)_
+
+
+**Página de Sobre Nosotros**
+
+<img src="img/wireframe-nosotros.png" alt="Wireframe - Nosotros">
+
+_Imagen 30. Wireframe de la página de Sobre Nosotros_
+
+
+**Página de Sobre Nosotros (versión móvil)**
+
+<img src="img/wireframe-nosotros-mobile.png" alt="Wireframe - Nosotros (móvil)">
+
+_Imagen 31. Wireframe de la página de Sobre Nosotros (móvil)_
+
+
+**Página de Contacto**
+
+<img src="img/wireframe-contacto.png" alt="Wireframe - Contacto">
+
+_Imagen 32. Wireframe de la página de Contacto_
+
+
+**Página de Contacto (versión móvil)**
+
+<img src="img/wireframe-contacto-mobile.png" alt="Wireframe - Contacto (móvil)">
+
+_Imagen 33. Wireframe de la página de Contacto (móvil)_
+
+
+#### 3.1.3.2. Landing Page Mock-up
+
+Los mockups añaden detalles visuales y de diseño a los wireframes, mostrando la paleta de colores, tipografía y estilo gráfico que tendrá la landing page. Representan cómo se verá la página final, integrando los elementos visuales que harán la experiencia más atractiva y coherente con la marca.
+
+**Página de inicio**
+
+<img src="img/mockup-inicio.png" alt="Mock-up - Inicio">
+
+_Imagen 34. Mock-up de la página de inicio_
+
+
+**Página de inicio (versión móvil)**
+
+<img src="img/mockup-inicio-mobile.png" alt="Mock-up - Inicio (móvil)">
+
+_Imagen 35. Mock-up de la página de inicio (móvil)_
+
+
+**Página de Problemática**
+
+<img src="img/mockup-problematica.png" alt="Mock-up - Problemática">
+
+_Imagen 36. Mock-up de la página de Problemática_
+
+
+**Página de Problemática (versión móvil)**
+
+<img src="img/mockup-problematica-mobile.png" alt="Mock-up - Problemática (móvil)">
+
+_Imagen 37. Mock-up de la página de Problemática (móvil)_
+
+
+**Página de Características**
+
+<img src="img/mockup-caracteristicas.png" alt="Mock-up - Características">
+
+_Imagen 38. Mock-up de la página de Características_
+
+
+**Página de Características (versión móvil)**
+
+<img src="img/mockup-caracteristicas-mobile.png" alt="Mock-up - Características (móvil)">
+
+_Imagen 39. Mock-up de la página de Características (móvil)_
+
+
+**Página de Sobre Nosotros**
+
+<img src="img/mockup-nosotros.png" alt="Mock-up - Nosotros">
+
+_Imagen 40. Mock-up de la página de Sobre Nosotros_
+
+
+**Página de Sobre Nosotros (versión móvil)**
+
+<img src="img/mockup-nosotros-mobile.png" alt="Mock-up - Nosotros (móvil)">
+
+_Imagen 41. Mock-up de la página de Sobre Nosotros (móvil)_
+
+
+**Página de Contacto**
+
+<img src="img/mockup-contacto.png" alt="Mock-up - Contacto">
+
+_Imagen 42. Mock-up de la página de Contacto_
+
+
+**Página de Contacto (versión móvil)**
+
+<img src="img/mockup-contacto-mobile.png" alt="Mock-up - Contacto (móvil)">
+
+_Imagen 43. Mock-up de la página de Contacto (móvil)_
+
+### 3.1.4. Mobile Applications UX/UI Design
+
+#### 3.1.4.1. Mobile Applications Wireframes
+
+Los wireframes de la app móvil muestran el diseño básico de cada pantalla, enfocándose en la organización de elementos y funciones clave, asegurando una navegación intuitiva y sencilla para el usuario.
+
+<a href="https://www.figma.com/design/28qWSJQGZxkutQKmfUcLb0/Moviles-TB2?node-id=1-2&node-type=CANVAS&t=wIJNUS0aMNwb6bGF-0">Enlace a Wireframes en Figma</a>
+
+**Para Granjeros Inexpertos**
+
+<img src="img/wireframe-bienvenida.png" alt="Wireframe de la aplicación bienvenida">
+
+_Imagen 44. Wireframe de bienvenida_
+
+<img src="img/wireframe-inicio-sesion.png" alt="Wireframe de inicio de sesión">
+
+_Imagen 45. Wireframe de inicio de sesión_
+
+<img src="img/wireframe-crear-cuenta.png" alt="Wireframe de creación de cuenta de granjeros">
+
+_Imagen 46. Wireframe de creación de cuenta de granjeros inexpertos_
+
+<img src="img/wireframe-cuenta-granjero.png" alt="Wireframe de creación de cuenta de granjeros">
+
+_Imagen 47. Wireframe de creación de cuenta de granjeros inexpertos_
+
+<img src="img/wireframe-cuenta-granjero-perfil.png" alt="Wireframe de crear cuenta de granjeros">
+
+_Imagen 48. Wireframe de creación de perfil de granjeros inexpertos_
+
+<img src="img/wireframe-cuenta-creada-granjero.png" alt="Wireframe de cuenta creada de granjeros inexpertos">
+
+_Imagen 49. Wireframe de cuenta creada de granjeros inexpertos_
+
+<img src="img/wireframe-olvidar-contraseña.png" alt="Wireframe de olvidar contraseña">
+
+_Imagen 50. Wireframe de olvidar contraseña_
+
+<img src="img/wireframe-restablecer-contraseña.png" alt="Wireframe de restablecer contraseña">
+
+_Imagen 51. Wireframe de restablecer contraseña_
+
+<img src="img/wireframe-contraseña-restablecida.png" alt="Wireframe de contraseña restablecida">
+
+_Imagen 52. Wireframe de contraseña restablecida_
+
+<img src="img/wireframe-home-granjeros.png" alt="Wireframe de inicio de granjeros inexpertos">
+
+_Imagen 53. Wireframe de inicio de granjeros inexpertos_
+
+<img src="img/wireframe-lista-asesores.png" alt="Wireframe de lista de asesores experimentados">
+
+_Imagen 54. Wireframe de lista de asesores experimentados_
+
+<img src="img/wireframe-perfil-asesor-granjero.png" alt="Wireframe del perfil del asesor experimentado">
+
+_Imagen 55. Wireframe del perfil del asesor experimentado_
+
+<img src="img/wireframe-calificacion-asesor.png" alt="Wireframe de reseñas del asesor">
+
+_Imagen 56. Wireframe de reseñas del asesor experimentado_
+
+<img src="img/wireframe-agendar-cita.png" alt="Wireframe de agendar cita con asesor experimentado">
+
+_Imagen 57. Wireframe de agendar cita con asesor experimentado_
+
+<img src="img/wireframe-cita-agendada.png" alt="Wireframe de cita agendada con asesor experimentado">
+
+_Imagen 58. Wireframe de cita agendada con asesor experimentado_
+
+<img src="img/wireframe-menu.png" alt="Wireframe de menú">
+
+_Imagen 59. Wireframe de menú_
+
+<img src="img/wireframe-perfil-granjeros.png" alt="Wireframe de perfil del granjero inexperto">
+
+_Imagen 60. Wireframe de perfil de granjeros inexpertos_
+
+<img src="img/wireframe-lista-citas-granjeros.png" alt="Wireframe de lista de citas de granjeros inexpertos">
+
+_Imagen 61. Wireframe de lista de citas de granjeros inexpertos_
+
+<img src="img/wireframe-historial-citas-granjeros.png" alt="Wireframe de historial de citas de granjeros inexpertos">
+
+_Imagen 62. Wireframe de historial de citas de granjeros inexpertos_
+
+<img src="img/wireframe-detalle-cita-granjeros.png" alt="Wireframe de detalles de la cita de granjeros inexpertos">
+
+_Imagen 63. Wireframe de detalles de la cita de granjeros inexpertos_
+
+<img src="img/wireframe-califcacion-granjero.png" alt="Wireframe de calificación de asesor de granjeros inexpertos">
+
+_Imagen 64. Wireframe de calificación de asesor de granjeros inexpertos_
+
+<img src="img/wireframe-cancelar-cita-granjero.png" alt="Wireframe de cancelación de cita de granjeros inexpertos">
+
+_Imagen 65. Wireframe de cancelación de cita de granjeros inexpertos_
+
+<img src="img/wireframe-cita-cancelada-granjero.png" alt="Wireframe de cita cancelada de granjeros inexpertos">
+
+_Imagen 66. Wireframe de cita cancelada de granjeros inexpertos_
+
+<img src="img/wireframe-publicaciones-granjero.png" alt="Wireframe de publicaciones de asesores de granjeros inexpertos">
+
+_Imagen 67. Wireframe de publicaciones de asesores de granjeros inexpertos_
+
+<img src="img/wireframe-publicacion-asesor-granjero.png" alt="Wireframe de publicación de un asesor de granjeros inexpertos">
+
+_Imagen 68. Wireframe de publicación de un asesor de granjeros inexpertos_
+
+
+**Para Asesores Experimentados**
+
+<img src="img/wireframe-crear-cuenta-asesor.png" alt="Wireframe de creación de cuenta de asesores">
+
+_Imagen 69. Wireframe de creación de cuenta de asesores experimentados_
+
+<img src="img/wireframe-cuenta-creada-asesor.png" alt="Wireframe de cuenta creada de asesor">
+
+_Imagen 70. Wireframe de cuenta creada de asesores experimentados_
+
+<img src="img/wireframe-home-asesores.png" alt="Wireframe de inicio de asesores">
+
+_Imagen 71. Wireframe de inicio de asesores experimentados_
+
+<img src="img/wireframe-publicaciones-asesores.png" alt="Wireframe de publicaciones de asesores">
+
+_Imagen 72. Wireframe de mis publicaciones de asesores experimentados_
+
+<img src="img/wireframe-crear-publicacion-asesor.png" alt="Wireframe de creación de publicación de asesores">
+
+_Imagen 73. Wireframe de creación de publicaciones de asesores experimentados_
+
+<img src="img/wireframe-editar-publicacion.png" alt="Wireframe de edición de publicación de asesores">
+
+_Imagen 74. Wireframe de edición de publicación de asesores experimentados_
+
+<img src="img/wireframe-menu-publicaciones.png" alt="Wireframe de menú de publicaciones">
+
+_Imagen 75. Wireframe de menú de publicaciones_
+
+<img src="img/wireframe-lista-citas-asesor.png" alt="Wireframe de lista de citas de asesores">
+
+_Imagen 76. Wireframe de lista de citas de asesores experimentados_
+
+<img src="img/wireframe-historial-citas-asesor.png" alt="Wireframe de historial de citas de asesores">
+
+_Imagen 77. Wireframe de historial de citas de asesores experimentados_
+
+<img src="img/wireframe-detalle-cita-asesor-asesor.png" alt="Wireframe de detalle de la cita de asesores">
+
+_Imagen 78. Wireframe de detalle de la cita de asesores experimentados_
+
+<img src="img/wireframe-detalle-cita-pasada-asesor.png" alt="Wireframe de cita pasada de asesores">
+
+_Imagen 79. Wireframe de cita pasada de asesores experimentados_
+
+<img src="img/wireframe-vista-publicacion-asesor.png" alt="Wireframe de vista de publicaciones pasada de asesores">
+
+_Imagen 80. Wireframe de vista de publicaciones pasada de asesores_
+
+<img src="img/wireframe-detalle-cita-asesor.png" alt="Wireframe de detalle de cita de asesores">
+
+_Imagen 81. WWireframe de detalle de cita de asesores experimentados_
+
+#### 3.1.4.2. Mobile Applications Wireflow Diagrams
+
+Los wireflow diagrams combinan los wireframes con el flujo de interacción entre pantallas, visualizando cómo los usuarios navegarán a través de la app y resaltando las decisiones y acciones posibles en cada paso.
+
+<a href="https://www.figma.com/design/28qWSJQGZxkutQKmfUcLb0/Moviles-TB2?node-id=1-4&node-type=CANVAS&t=wIJNUS0aMNwb6bGF-0">Enlace a Wireflow Diagrams en Figma</a>
+
+*Para Granjeros Inexpertos**
+
+<img src="img/wireflow-1.png" alt="Wireflow 1">
+
+_Imagen 82. Wireflow Goal 1 - Granjeros_
+
+<img src="img/wireflow-2.png" alt="Wireflow 2">
+
+_Imagen 83. Wireflow Goal 2 - Granjeros_
+
+<img src="img/wireflow-3.png" alt="Wireflow 3">
+
+_Imagen 84. Wireflow Goal 3 - Granjeros_
+
+<img src="img/wireflow-4.png" alt="Wireflow 4">
+
+_Imagen 85. Wireflow Goal 4 - Granjeros_
+
+<img src="img/wireflow-5.png" alt="Wireflow 5">
+
+_Imagen 86. Wireflow Goal 5 - Granjeros_
+
+<img src="img/wireflow-6.png" alt="Wireflow 6">
+
+_Imagen 87. Wireflow Goal 6 - Granjeros_
+
+<img src="img/wireflow-7.png" alt="Wireflow 7">
+
+_Imagen 88. Wireflow Goal 7 - Granjeros_
+
+<img src="img/wireflow-8.png" alt="Wireflow 8">
+
+_Imagen 89. Wireflow Goal 8 - Granjeros_
+
+<img src="img/wireflow-9.png" alt="Wireflow 9">
+
+_Imagen 90. Wireflow Goal 9 - Granjeros_
+
+<img src="img/wireflow-10.png" alt="Wireflow 10">
+
+_Imagen 91. Wireflow Goal 10 - Granjeros_
+
+<img src="img/wireflow-11.png" alt="Wireflow 11">
+
+_Imagen 92. Wireflow Goal 11 - Granjeros_
+
+**Para Asesores Experimentados**
+
+<img src="img/wireflow-12.png" alt="Wireflow 12">
+
+_Imagen 93. Wireflow Goal 12 - Asesores_
+
+<img src="img/wireflow-13.png" alt="Wireflow 13">
+
+_Imagen 94. Wireflow Goal 13 - Asesores_
+
+<img src="img/wireflow-14.png" alt="Wireflow 14">
+
+_Imagen 95. Wireflow Goal 14 - Asesores_
+
+<img src="img/wireflow-15.png" alt="Wireflow 15">
+
+_Imagen 96. Wireflow Goal 15 - Asesores_
+
+<img src="img/wireflow-16.png" alt="Wireflow 16">
+
+_Imagen 97. Wireflow Goal 16 - Asesores_
+
+<img src="img/wireflow-17.png" alt="Wireflow 17">
+
+_Imagen 98. Wireflow Goal 17 - Asesores_
+ 
+<img src="img/wireflow-18.png" alt="Wireflow 18">
+
+_Imagen 99. Wireflow Goal 18 - Asesores_
+
+<img src="img/wireflow-19.png" alt="Wireflow 19">
+
+_Imagen 100. Wireflow Goal 19 - Asesores_
+
+<img src="img/wireflow-20.png" alt="Wireflow 20">
+
+_Imagen 101. Wireflow Goal 20 - Asesores_
+
+#### 3.1.4.3. Mobile Applications Mock-ups
+
+Los mockups de la app aportan estilo visual y detalles gráficos, mostrando cómo lucirán las pantallas finales con colores, tipografías y elementos visuales que crean una experiencia atractiva y alineada con la identidad de la app.
+
+<a href="https://www.figma.com/design/28qWSJQGZxkutQKmfUcLb0/Moviles-TB2?node-id=1-3&node-type=CANVAS&t=wIJNUS0aMNwb6bGF-0">Enlace a Mock-ups en Figma</a>
+
+**Para Granjeros Inexpertos**
+
+<img src="img/mock-up-bienvenida.png" alt="Mock Up bienvenida">
+
+_Imagen 102. Mock Up de bienvenida_
+
+<img src="img/mock-up-olvidar-contraseña.png" alt="Mock Up olvidar contraseña">
+
+_Imagen 103. Mock Up de olvidar contraseña_
+
+<img src="img/mock-up-restablecer-contraseña.png" alt="Mock Up restablecer contraseña">
+
+_Imagen 104. Mock Up de restablecer contraseña_
+
+<img src="img/mock-up-contraseña-restablecida.png" alt="Mock Up contraseña restablecida">
+
+_Imagen 105. Mock Up de contraseña restablecida_
+
+<img src="img/mock-up-rol.png" alt="Mock Up selección de rol">
+
+_Imagen 106. Mock Up de selección de rol_
+
+<img src="img/mock-up-crear-cuenta-granjero.png" alt="Mock Up creación de cuenta de granjero">
+
+_Imagen 107. Mock Up de creación de cuenta de granjero_
+
+<img src="img/mock-up-crear-cuenta-granjero.png" alt="Mock Up creación de cuenta de granjero">
+
+_Imagen 108. Mock Up de creación de cuenta de granjero_
+
+<img src="img/mock-up-cuenta-creada-granjero.png" alt="Mock Up cuenta creada de granjero">
+
+_Imagen 109. Mock Up de cuenta creada de granjero_
+
+<img src="img/mock-up-home-granjero.png" alt="Mock Up inicio granjero">
+
+_Imagen 110. Mock Up de inicio de granjero_
+
+<img src="img/mock-up-lista-asesores-granjero.png" alt="Mock Up lista de asesores">
+
+_Imagen 111. Mock Up de lista de asesores_
+
+<img src="img/mock-up-perfil-asesor-granjero.png" alt="Mock Up perfil del asesor">
+
+_Imagen 112. Mock Up de perfil del asesor_
+
+<img src="img/mock-up-reseñas-asesor-granjero.png" alt="Mock Up reseñas del asesor">
+
+_Imagen 113. Mock Up de reseñas del asesor_
+
+<img src="img/mock-up-agendar-cita-granjero.png" alt="Mock Up agendar cita con asesor">
+
+_Imagen 114. Mock Up de agendar cita con asesor_
+
+<img src="img/mock-up-cita-agendada.png" alt="Mock Up cita agendada">
+
+_Imagen 115. Mock Up de cita agendada_
+
+<img src="img/mock-up-menu.png" alt="Mock Up menú principal">
+
+_Imagen 116. Mock Up de menú principal_
+
+<img src="img/mock-up-editar-perfil-granjero.png" alt="Mock Up editar perfil de granjero">
+
+_Imagen 117. Mock Up de editar perfil de granjero_
+
+<img src="img/mock-up-lista-citas-granjero.png" alt="Mock Up lista de citas de granjero">
+
+_Imagen 118. Mock Up de lista de citas de granjero_
+
+<img src="img/mock-up-historial-citas-granjero.png" alt="Mock Up historial de citas de granjero">
+
+_Imagen 119. Mock Up de historial de citas de granjero_
+
+<img src="img/mock-up-detalle-cita-granjero.png" alt="Mock Up detalle de la cita de granjero">
+
+_Imagen 120. Mock Up de detalle de la cita de granjero_
+
+<img src="img/mock-up-califcacion-granjero.png" alt="Mock Up calificación de asesor por granjero">
+
+_Imagen 121. Mock Up de calificación de asesor por granjero_
+
+<img src="img/mock-up-cancelar-cita-granjero.png" alt="Mock Up cancelación de cita de granjero">
+
+_Imagen 122. Mock Up de cancelación de cita de granjero_
+
+<img src="img/mock-up-cita-cancelada-granjero.png" alt="Mock Up cita cancelada de granjero">
+
+_Imagen 123. Mock Up de cita cancelada de granjero_
+
+<img src="img/mock-up-publicaciones-granjero.png" alt="Mock Up publicaciones de granjero">
+
+_Imagen 124. Mock Up de publicaciones de granjero_
+
+<img src="img/mock-up-publicaciones-asesor-granjero.png" alt="Mock Up publicaciones de asesor para granjero">
+
+_Imagen 125. Mock Up de publicaciones de asesor para granjero_
+
+**Para Asesores Experimentados**
+
+<img src="img/mock-up-crear-perfil-asesor.png" alt="Mock Up creación de perfil asesor">
+
+_Imagen 126. Mock Up de creación de perfil de asesor_
+
+<img src="img/mock-up-cuenta-creada-asesor.png" alt="Mock Up cuenta creada asesor">
+
+_Imagen 127. Mock Up de cuenta creada de asesor_
+
+<img src="img/mock-up-home-asesor.png" alt="Mock Up inicio asesor">
+
+_Imagen 128. Mock Up de inicio de asesor_
+
+<img src="img/mock-up-publicaciones-asesor.png" alt="Mock Up publicaciones asesor">
+
+_Imagen 129. Mock Up de publicaciones de asesor_
+
+<img src="img/mock-up-crear-publicacion-asesor.png" alt="Mock Up crear publicación asesor">
+
+_Imagen 130. Mock Up de crear publicación de asesor_
+
+<img src="img/mock-up-vista-publicacion-asesor.png" alt="Mock Up vista de publicación asesor">
+
+_Imagen 131. Mock Up de vista de publicación de asesor_
+
+<img src="img/mock-up-editar-publicacion.png" alt="Mock Up edición de publicación asesor">
+
+_Imagen 132. Mock Up de edición de publicación de asesor_
+
+<img src="img/mock-up-menu-publicaciones.png" alt="Mock Up menú de publicaciones asesor">
+
+_Imagen 133. Mock Up de menú de publicaciones de asesor_
+
+<img src="img/mock-up-notificaciones-asesor.png" alt="Mock Up notificaciones asesor">
+
+_Imagen 134. Mock Up de notificaciones de asesor_
+
+<img src="img/mock-up-lista-citas-asesor.png" alt="Mock Up lista de citas asesor">
+
+_Imagen 135. Mock Up de lista de citas de asesor_
+
+<img src="img/mock-up-historial-citas-asesor.png" alt="Mock Up historial de citas asesor">
+
+_Imagen 136. Mock Up de historial de citas de asesor_
+
+<img src="img/mock-up-detalle-cita-asesor.png" alt="Mock Up detalle de cita asesor">
+
+_Imagen 137. Mock Up de detalle de cita de asesor_
+
+<img src="img/mock-up-detalle-cita-pasada-asesor.png" alt="Mock Up detalle de cita pasada asesor">
+
+_Imagen 138. Mock Up de detalle de cita pasada de asesor_
+
+<img src="img/mock-up-detalle-cita-califcacion-asesor.png" alt="Mock Up detalle de cita con calificación asesor">
+
+_Imagen 139. Mock Up de detalle de cita con calificación de asesor_
+
+<img src="img/mock-up-editar-perfil-asesor.png" alt="Mock Up editar perfil asesor">
+
+_Imagen 140. Mock Up de editar perfil de asesor_
+
+#### 3.1.4.4. Mobile Applications User Flow Diagrams
+
+Los user flow diagrams ilustran el recorrido completo del usuario dentro de la app, desde el inicio hasta el logro de sus objetivos, ayudando a entender los pasos y decisiones clave que se tomarán en cada interacción.
+
+<a href="https://www.figma.com/design/28qWSJQGZxkutQKmfUcLb0/Moviles-TB2?node-id=1-5&node-type=CANVAS&t=wIJNUS0aMNwb6bGF-0">Enlace a User Flow Diagrams en Figma</a>
+
+**Para Granjeros Inexpertos**
+
+<img src="img/userflow-1.png" alt="UserFlow 1">
+
+_Imagen 141. UserFlow 1 - Granjeros_
+
+<img src="img/userflow-2.png" alt="UserFlow 2">
+
+_Imagen 142. UserFlow 2 - Granjeros_
+
+<img src="img/userflow-3.png" alt="UserFlow 3">
+
+_Imagen 143. UserFlow 3 - Granjeros_
+
+<img src="img/userflow-4.png" alt="UserFlow 4">
+
+_Imagen 144. UserFlow 4 - Granjeros_
+
+<img src="img/userflow-5.png" alt="UserFlow 5">
+
+_Imagen 145. UserFlow 5 - Granjeros_
+
+<img src="img/userflow-6.png" alt="UserFlow 6">
+
+_Imagen 146. UserFlow 6 - Granjeros_
+
+<img src="img/userflow-7.png" alt="UserFlow 7">
+
+_Imagen 147. UserFlow 7 - Granjeros_
+
+<img src="img/userflow-8.png" alt="UserFlow 8">
+
+_Imagen 148. UserFlow 8 - Granjeros_
+
+<img src="img/userflow-9.png" alt="UserFlow 9">
+
+_Imagen 149. UserFlow 9 - Granjeros_
+
+<img src="img/userflow-10.png" alt="UserFlow 10">
+
+_Imagen 150. UserFlow 10 - Granjeros_
+
+<img src="img/userflow-11.png" alt="UserFlow 11">
+
+_Imagen 151. UserFlow 11 - Granjeros_
+
+**Para Asesores Experimentados**
+
+<img src="img/userflow-12.png" alt="UserFlow 12">
+
+_Imagen 152. UserFlow 1 - Asesores_
+
+<img src="img/userflow-13.png" alt="UserFlow 13">
+
+_Imagen 153. UserFlow 2 - Asesores_
+
+<img src="img/userflow-14.png" alt="UserFlow 14">
+
+_Imagen 154. UserFlow 3 - Asesores_
+
+<img src="img/userflow-15.png" alt="UserFlow 15">
+
+_Imagen 155. UserFlow 4 - Asesores_
+
+<img src="img/userflow-16.png" alt="UserFlow 16">
+
+_Imagen 156. UserFlow 5 - Asesores_
+
+<img src="img/userflow-17.png" alt="UserFlow 17">
+
+_Imagen 157. UserFlow 6 - Asesores_
+
+<img src="img/userflow-18.png" alt="UserFlow 18">
+
+_Imagen 158. UserFlow 7 - Asesores_
+
+<img src="img/userflow-19.png" alt="UserFlow 19">
+
+_Imagen 159. UserFlow 8 - Asesores_
+
+<img src="img/userflow-20.png" alt="UserFlow 20">
+
+_Imagen 160. UserFlow 9 - Asesores_
+
+#### 3.1.4.5. Mobile Applications Prototyping
+
+El prototipo de interacción real permite simular la navegación y las funciones de la app tal como las experimentará el usuario final. Ofrece una representación interactiva del flujo entre pantallas, mostrando cómo responderán los elementos y mejorando la usabilidad antes de la fase de desarrollo.
+
+<a href="https://www.figma.com/proto/28qWSJQGZxkutQKmfUcLb0/Moviles-TB2?node-id=130-3269&node-type=CANVAS&t=yNMsjSd7gEHbZG3y-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A5">Enlace a Prototipo en Figma</a>
+
+Igualmente, se realizó un video de explicación mostrando la interacción con los elementos para mostrar como se comporta la aplicación en un dispositivo móvil.
+
+<a href="https://youtu.be/z36rb1-5HoQ">Enlace a video</a>
+
+<img src="img/prototyping.png" alt="Captura de video de prototipo">
+
+_Imagen 161. Captura de video de prototipo_
+
+
+## 3.2. Architecture Overview
+### 3.2.1. Domain-Driven Software Architecture
+#### 3.2.1.1. Software Architecture Context Level Diagram
+
+El diagrama de contexto representa la estructura y las principales interacciones de un sistema de software. En nuestro proyecto, este diagrama muestra las interacciones clave entre la aplicación, los usuarios (granjeros y asesores) y los sistemas externos (servicio de videoconferencias y servicio de almacenamiento).
+
+<img alt="Diagrama de Contexto - AgroSupport" src="img/C4-Contexto.png">
+
+_Imagen 162. Diagrama de Contexto de AgroSupport_
+
+#### 3.2.1.2. Software Architecture Container Level Diagram
+
+El diagrama de contenedores ofrece una visión detallada de la arquitectura del sistema, desglosandolo en sus principales contenedores y mostrando cómo interactúan entre sí. En el contexto de nuestro proyecto, este diagrama ilustra los diferentes componentes que componen la aplicación, tales como la aplicación móvil, la landing page, el API Rest y la base de datos.
+
+<img alt="Diagrama de Contenedores - AgroSupport" src="img/C4-Contenedor.png">
+
+_Imagen 163. Diagrama de Contexto de AgroSupport_
+
+#### 3.2.1.3. Software Architecture Components Diagram
+
+El diagrama de componentes detalla la arquitectura de los componentes del sistema. En nuestro caso, el componente principal es el API REST que se descompone en otros 3 componentes: Profile, Appointment y Publishing.
+
+<img alt="Diagrama de Componentes: API REST" src="img/C4-API_Rest_Component_Diagram.png">
+
+_Imagen 164. Diagrama de Componentes: API REST_
+
+<img alt="Diagrama de Componentes: Profile" src="img/C4-ProfileComponentDiagram.png">
+
+_Imagen 165. Diagrama de Componentes: Profile_
+
+<img alt="Diagrama de Componentes: Appointment" src="img/C4-AppointmentComponentDiagram.png">
+
+_Imagen 166. Diagrama de Componentes: Appointment_
+
+<img alt="Diagrama de Componentes: Publication" src="img/C4-PublicationComponentDiagram.png">
+
+_Imagen 167. Diagrama de Componentes: Publication_
+
+### 3.2.2. Software Object-Oriented Design
+#### 3.2.2.1. Class Diagrams
+
+Los diagramas de clase son herramientas cruciales en el diseño de sistemas orientados a objetos, ya que proporcionan una representación visual de las clases y sus relaciones dentro del sistema. En esta sección, se presentarán los diagramas de clase que detallan la estructura de cada bounded context: Profile, Appointment y Publication.
+
+
+<img alt="Diagrama de Clase: Profile" src="img/ClassDiagram_Profile.png">
+
+_Imagen 168. Diagrama de Clase: Profile_
+
+<img alt="Diagrama de Clase: Appointment" src="img/ClassDiagram_Appointment.png">
+
+_Imagen 169. Diagrama de Clase: Appointment_
+
+<img alt="Diagrama de Clase: Publication" src="img/ClassDiagram_Publication.png">
+
+_Imagen 170. Diagrama de Clase: Publication_
+
+#### 3.2.2.2. Class Dictionary
+
+En esta sección, se especificarán las características detalladas de cada clase del sistema mediante un diccionario de clases. A continuación se presenta una tabla con las clases y una descripción sobre sus atributos, métodos y una breve descripción de cada una.
+
+<table>
+    <thead>
+        <tr>
+            <th>Clase</th>
+            <th>Descripción</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>User</td>
+            <td>Representa un usuario del sistema. Incluye atributos como <em>id</em>, <em>username</em>, <em>password</em>, un <em>profile</em> asociado, un <em>role</em>, y una lista de <em>notifications</em>. Métodos principales: <em>getUser()</em>, <em>getNotifications()</em>.</td>
+        </tr>
+        <tr>
+            <td>Farmer</td>
+            <td>Representa a los usuarios del sector de granjero inexperto. Hereda de la clase <em>User</em>. Incluye un <em>user</em> asociado. Método principal: <em>getFarmer()</em>.</td>
+        </tr>
+        <tr>
+            <td>Advisor</td>
+            <td>Representa a los usuarios del sector de asesores especializados. Incluye atributos como <em>id</em>, <em>rating</em>, y un <em>user</em> asociado. Método principal: <em>getAdvisor()</em>.</td>
+        </tr>
+        <tr>
+            <td>Profile</td>
+            <td>Contiene la información detallada del usuario, incluyendo atributos como <em>firstname</em>, <em>lastname</em>, <em>city</em>, <em>country</em>, <em>birthdate</em>, <em>description</em>, <em>photo</em>, <em>occupation</em>, <em>experience</em>, y un <em>user</em> asociado. Método principal: <em>getProfile()</em>.</td>
+        </tr>
+        <tr>
+            <td>Notification</td>
+            <td>Representa una notificación que se enviará al usuario. Incluye atributos como <em>id</em>, <em>title</em>, <em>message</em>, y un <em>user</em> asociado. Método principal: <em>getNotification()</em>.</td>
+        </tr>
+        <tr>
+            <td>Role</td>
+            <td>Define el rol de un usuario dentro del sistema. Incluye atributos como <em>id</em> y <em>name</em>. Método principal: <em>getRole()</em>.</td>
+        </tr>
+        <tr>
+            <td>Appointment</td>
+            <td>Representa una cita programada entre un asesor y un granjero. Incluye atributos como <em>id</em>, <em>scheduled_date</em>, <em>start_time</em>, <em>end_time</em>, <em>status</em>, un <em>advisor</em>, y un <em>farmer</em>. Método principal: <em>getAppointment()</em>.</td>
+        </tr>
+        <tr>
+            <td>Review</td>
+            <td>Contiene la evaluación y comentario de una asesoría. Incluye atributos como <em>id</em>, <em>rating</em>, <em>comment</em>, y un <em>appointment</em> asociado. Método principal: <em>getReview()</em>.</td>
+        </tr>
+        <tr>
+            <td>AvailableDate</td>
+            <td>Representa los horarios cuando el asesor puede realizar una asesoría. Incluye atributos como <em>id</em>, <em>date</em>, <em>start_time</em>, <em>end_time</em>, y un <em>advisor</em> asociado. Método principal: <em>getAvailableDate()</em>.</td>
+        </tr>
+        <tr>
+            <td>Status</td>
+            <td>Representa los estados posibles de una cita: <em>PENDING</em>, <em>ONGOING</em>, <em>COMPLETED</em>, <em>REVIEWED</em>.</td>
+        </tr>
+        <tr>
+            <td>Publication</td>
+            <td>Representa una publicación hecha por un asesor. Incluye atributos como <em>id</em>, <em>title</em>, <em>description</em>, <em>image</em>, y un <em>advisor</em> asociado. Método principal: <em>getPublication()</em>.</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 3.2.2.3. Database Design
+
+El diseño de la base de datos es fundamental para garantizar una estructura sólida y eficiente en el almacenamiento y gestión de datos. En esta sección, se detalla el diseño de la base de datos para nuestro sistema, que está orientado a conectar granjeros con asesores especializados. La base de datos se compone de varias tablas, cada una de las cuales cumple con roles específicos en la organización de la información:
+
+<table>
+    <thead>
+        <tr>
+            <th>Tabla</th>
+            <th>Descripción</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Advisors</strong></td>
+            <td>Almacena la información sobre los asesores que abarca su id, el id de su usuario y su calificación promedio.</td>
+        </tr>
+        <tr>
+            <td><strong>Appointments</strong></td>
+            <td>Almacena la información de las citas programadas entre granjeros y asesores. La información incluye fecha, hora de inicio y fin, el estado de las cita y el enlace para la videollamada.</td>
+        </tr>
+        <tr>
+            <td><strong>Available Dates</strong></td>
+            <td>Contiene la información de los horarios disponibles de los asesores para realizar citas.</td>
+        </tr>
+        <tr>
+            <td><strong>Farmers</strong></td>
+            <td>Almacena la información sobre los granjeros que abarca su id y el id de su usuario respectivo.</td>
+        </tr>
+        <tr>
+            <td><strong>Notifications</strong></td>
+            <td>Gestiona la información de las notificaciones que se enviarán a los usuarios, incluyendo títulos, mensajes y fechas de envío.</td>
+        </tr>
+        <tr>
+            <td><strong>Profiles</strong></td>
+            <td>Guarda información detallada sobre los usuarios, como el nombre del usuario, su país de origen, la url de su foto de perfil, etc.</td>
+        </tr>
+        <tr>
+            <td><strong>Publications</strong></td>
+            <td>Almacena la información de las publicaciones de los asesores, incluyendo su título, descripción e imagen relacionada.</td>
+        </tr>
+        <tr>
+            <td><strong>Reviews</strong></td>
+            <td>Registra las opiniones y calificaciones asociadas a una cita.</td>
+        </tr>
+        <tr>
+            <td><strong>Roles</strong></td>
+            <td>Define los roles dentro del sistema.</td>
+        </tr>
+        <tr>
+            <td><strong>User_roles</strong></td>
+            <td>Relaciona usuarios con roles específicos.</td>
+        </tr>
+        <tr>
+            <td><strong>Users</strong></td>
+            <td>Contiene los datos básicos de autenticación de los usuarios, el nombre de usuario y la contraseña encriptada.</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 3.2.2.4. Database Diagram
+
+El diagrama de base de datos proporciona una representación visual de la estructura y las relaciones de las tablas dentro del sistema de gestión de base de datos.
+
+<img alt="Diagrama de Base de Datos" src="img/database2.png">
+
+_Imagen 171. Diagrama de base de datos_
 
 # Capítulo 4: Backend Product Implementation & Validation
+## 4.1. Software Configuration Management
+### 4.1.1. Software Development Environment Configuration
+
+**Project Management:**
+
+Para la gestión del proyecto, utilizamos como principal medio de comunicación WhatsApp, a través de un grupo en el cual compartimos nuestras ideas y opiniones sobre cada parte del trabajo. A esto se le suma el uso de la herramienta Google Meet, para realizar reuniones en videoconferencia y conversar de forma síncrona. Asimismo, utilizamos GitHub para el manejo de repositorios a través de una comunidad conformada por todos los integrantes del equipo. En esta comunidad, mantenemos el reporte y la aplicación.
+
+**Product UX/UI Design:**
+
+Se realizaron los productos de UX con la herramienta UXPressia, así como el User Persona, Empathy Mapping, Impact Mapping, entre otras. Gracias a esto pudimos modelar bien los diseños de la experiencia de usuario, lo cual nos sirve para poder ponernos en una mejor perspectiva para nuestros segmentos objetivo. Por otro lado, hicimos los prototipos de la aplicación móvil utilizando la herramienta Figma, la cual nos permitió crear los Wireframes y Mock-ups para tener un diseño previo al desarrollo de la aplicación.
+
+
+**Software Development:**
+
+Como principal IDE, utilizamos Android Studio, el cual es el entorno de desarrollo con el que estamos más familiarizados por ser de Jetbrains. Por otro lado, para el desarrollo usamos los lenguajes aprendidos previamente, como HTML, CSS y JavaScript para la landing page, y Kotlin para la aplicación móvil.
+
+
+**Software Testing:**
+
+Las pruebas de aceptación son importantes a realizar para comprobar que los criterios de aceptación planteados están favoreciendo a las necesidades del negocio y cumplir con los requerimientos, para lo cual utilizamos el lenguaje Gherkin. Este consiste en trabajar el escenario con Given When Then, y lograr identificar las variables de input y output, lo cual es sencillo de entender para todos ya que utiliza lenguaje natural. Gracias a este, es que se logra garantizar la calidad del software, por ello cumple un papel esencial en los proyectos de desarrollo.
+
+### 4.1.2. Source Code Management
+
+Usuarios de GitHub
+<table>
+  <thead>
+    <tr>
+        <th>Integrante</th>
+        <th>Usuario de GitHub</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Delgado Corrales, Piero Gonzalo</td>
+        <td>PieroD04</td>
+    </tr>
+    <tr>
+        <td>Paredes Puente, Sebastián Roberto</td>
+        <td>sebastian123gonzalo</td>
+    </tr>
+    <tr>
+        <td>Salinas Torres, Salvador Antonio</td>
+        <td>salvadoorssalinas</td>
+    </tr>
+    <tr>
+        <td>Matos Fernandez, Christian Andre</td>
+        <td>FerKlox</td>
+    </tr>
+  </tbody>
+</table>
+
+*URL de repositorio de Landing Page:* https://github.com/AgroSupport-UPC/Landing-Page
+
+*URL de repositorio de Web Services:* https://github.com/AgroSupport-UPC/Backend
+
+*URL de repositorio de Mobile Application:* https://github.com/AgroSupport-UPC/Frontend
+
+Para el desarrollo del trabajo se hará uso de GitFlow, el cual es un modelo de flujo de trabajo para la gestión de control de versiones Git. Está compuesta por ramas y cada una cumple un propósito distinto. Las ramas que utilizamos son: Feature, Develop, Release y Main. 
+
+### 4.1.3. Source Code Style Guide & Conventions
+
+En el desarrollo de este trabajo, se utilizará una gran variedad de lenguajes para trabajar en el Landing Page, Web Services y Mobile Application. Para ello, se utilizará la siguiente guía de estilos y convenciones.
+
+**HTML**
+
+Es el lenguaje utilizado para estructurar el contenido de una página web, brindando una variedad de elementos posibles como texto, imágenes, formularios, etc.
+https://www.w3schools.com/html/html5_syntax.asp
+
+- Declarar el tipo de documento en la primera línea con \<!DOCTYPE html>.
+- Respetar la estructura básica del HTML: \<html>, \<head>, \<body>.
+- Declarar el título de la página para dar a conocer al usuario en qué página se encuentra. (Usar el elemento \<title> en \<head>)
+- Se usará la indentación coherente para lograr una lectura sencilla del código, por lo que es importante tener la tabulación correcta para cada nivel de anidamiento.
+- Siempre cerrar los elementos que lo requieran, ya sea una división, párrafo, título. (Si se declara una \<div>, siempre cerrarlo con \</div>)
+- Declarar el atributo “alt” para las imágenes.
+
+
+**CSS**
+
+Es el lenguaje utilizado para definir el diseño de la página web, así como los estilos, fuentes, colores, contenedores, etc.
+https://google.github.io/styleguide/htmlcssguide.html
+- Usar indentación de forma correcta.
+- Los nombres para elementos deben ser cortos y en minúsculas.
+- Declarar los colores en código hexadecimal. (Ejemplo: #024A86)
+- Dejar comentarios para conocer el propósito del estilo y su uso.
+- El diseño debe ser responsive para que los usuarios lo puedan visualizar cómodamente desde el dispositivo en qué se encuentren.
+
+
+**JavaScript**
+
+Es el lenguaje de programación más utilizado para la programación web, ya que permite desarrollar páginas interactivas con animaciones agradables para los usuarios.
+https://www.w3schools.com/js/js_conventions.asp
+- Declarar nombres coherentes y cortos para las variables y funciones.
+- Dejar comentarios para dar a conocer que hace cada parte del código sobre la página web.
+- Siempre colocar un punto y coma al final de cada línea de código.
+- Declarar las constantes cuando sea necesario en lugar de variables que nunca cambiarán su valor.
+- Usar los operadores de comparación estricta en lugar de comparación regular cuando sea posible. (Ejemplo: Utilizar === en lugar de ==)
+
+**Java**
+
+Es un lenguaje de programación utilizado para la programación web, programación móvil, entre otros. Es capaz de adaptarse para funcionar en distintas plataformas. En nuestro caso, es utilizado para el desarrollo del Backend.
+https://google.github.io/styleguide/javaguide.html
+- Nombrar las variables, funciones y clases con CamelCase, además de ser significativos y cortos.
+- Utilizar HTTPS para establecer una conexión segura.
+- Usar indentación correctamente para un código coherente y ordenado.
+- Usar comillas dobles (“) para las cadenas de texto.
+- Dejar comentarios en cada bloque de código para explicar su funcionalidad.
+- Declarar constantes cuando sean variables que no cambiarán su valor a lo largo de todo el código.
+
+**Gherkin**
+
+Es el lenguaje para el diseño de casos de prueba en base a los requisitos establecidos por el negocio. Este se utiliza durante el proceso de testing.
+https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
+- Separar en bloques cada parte de Given When Then, para una mejor lectura y subdividirse adecuadamente.
+- Al mostrar las variables de input y output con sus ejemplos, se utilizan tablas para la representación de estos. Sin embargo, no es necesario utilizar tantas tablas para cada parte del código, sino una general al final del escenario.
+- Si hay más de un escenario en un archivo, hacer la separación adecuada entre estas para diferenciarlas y dar a conocer que son más de uno. Para ello, se puede dejar dos líneas en blanco para saber dónde es que un escenario termina y el otro comienza.
+- Agregar líneas en blanco dentro de cada Step para una mejor lectura y organización de la información.
+
+### 4.1.4. Software Deployment Configuration
+
+Para la configuración del despliegue de la aplicación, utilizaremos Git, un sistema de control de versiones distribuido que es bastante utilizado en proyectos de desarrollo de software. Es una herramienta esencial para trabajar colaborativamente y poder hacer el seguimiento de los cambios realizados por los miembros del grupo. Una de sus mejores ventajas es su capacidad para rastrear los cambios en los archivos de un proyecto a lo largo del tiempo. Con Git, es posible crear ramas, realizar cambios en ellas y fusionarlos eficientemente, permitiendo que varios desarrolladores trabajen en diferentes aspectos del proyecto simultáneamente sin interferencias.
+
+Por otro lado, tenemos a GitHub, el cual es la plataforma para poder alojar repositorios de Git. Es uno de los servicios más utilizados por desarrolladores de forma mundial, ya que permite manejar repositorios públicos y privados para almacenar el código en la nube. A parte de ello, maneja el historial de los repositorios, permitiendo a los usuarios acceder a todas las versiones trabajadas, permitiendo que puedan retornar a una versión anterior en caso lo deseen. Ofrece otras herramientas que son muy útiles como los pull requests, los cuales son solicitudes de revisiones de una rama y luego poder fusionarla con otra rama.
+
+Así es como con este, que cada miembro podrá trabajar de forma remota desde su IDE, teniendo una copia del repositorio Git a través del repositorio en línea almacenado en GitHub, así poder hacer commits para empujar los cambios que hayan realizado.
+
+## 4.2. Software Development & Implementation
+### 4.2.1. Sprint 1
+#### 4.2.1.1. Sprint Planning 1
+
+Se planeó el primer sprint a través de una reunión presencial. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
+
+|**Sprint #**|Sprint 1|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|2024-09-05|
+|Time|01:00 PM|
+|Location|Presencial (En la universidad)|
+|Prepared by|Paredes Puente, Sebastian Roberto|
+|Attendees (to planning meeting)|<p>Delgado Corrales, Piero Gonzalo</p><p>Matos Fernandez, Christian Andre</p><p>Paredes Puente, Sebastián Roberto</p><p>Salinas Torres, Salvador Antonio</p>|
+|Sprint n - 1 Review Summary|No hubo sprint anterior|
+|Sprint n - 1 Retrospective Summary|No hubo sprint anterior|
+|**Sprint Goal & User Stories**||
+|Sprint 1 Goal|Realizar el primer deployment del Backend.|
+|Sprint 1 Velocity|20|
+|Sum of Story Points|20|
+
+#### 4.2.1.2. Sprint Backlog 1
+
+El objetivo de este primer sprint es la implementación y despliegue del Backend.
+
+<table><tr><th colspan="1" valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 1</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top">Estimation </td><td colspan="1" valign="top">Assigned To</td><td colspan="1" valign="top">Status (To-Do / In-Process / Review / Done)</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">TS03</td><td colspan="1" rowspan="2" valign="top">Uso de nuestra API para gestionar perfiles</td><td colspan="1" valign="top">WI01</td><td colspan="1" valign="top">Implementación de protocolos HTTP para perfiles</td><td colspan="1" valign="top">Se implementan los protocolos HTTP para los perfiles de los usuarios (granjeros y asesores) dentro de nuestra API.</td><td colspan="1" rowspan="2" valign="top">5</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">WI02</td><td colspan="1" valign="top">Implementación de protocolos HTTP para notificaciones</td><td colspan="1" valign="top">Se implementan los protocolos HTTP para las notificaciones dentro de nuestra API.</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">TS04</td><td colspan="1" rowspan="3" valign="top">Uso de nuestra API para gestionar citas de asesoría</td><td colspan="1" valign="top">WI03</td><td colspan="1" valign="top">Implementación de protocolos HTTP para citas</td><td colspan="1" valign="top">Se implementan los protocolos HTTP para las citas de asesorías dentro de nuestra API.</td><td colspan="1" rowspan="3" valign="top">5</td><td colspan="1" valign="top">Christian Matos, Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">WI04</td><td colspan="1" valign="top">Implementación de protocolos HTTP para horarios disponibles</td><td colspan="1" valign="top">Se implementan los protocolos HTTP para los horarios disponibles de los asesores dentro de nuestra API.</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">WI05</td><td colspan="1" valign="top">Implementación de protocolos HTTP para reseñas</td><td colspan="1" valign="top">Se implementan los protocolos HTTP para las reseñas sobre los asesores dentro de nuestra API.</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">TS05</td><td colspan="1" valign="top">Uso de nuestra API para gestionar publicaciones</td><td colspan="1" valign="top">WI06</td><td colspan="1" valign="top">Implementación de protocolos HTTP para publicaciones</td><td colspan="1" valign="top">Se implementan los protocolos HTTP para las publicaciones dentro de nuestra API.</td><td colspan="1" valign="top">5</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">TS06</td><td colspan="1" rowspan="2" valign="top">Uso de nuestra API para gestionar autenticación	</td><td colspan="1" valign="top">WI07</td><td colspan="1" valign="top">Implementación de autenticación IAM</td><td colspan="1" valign="top">Se implementan los protocolos HTTP para la autenticación de los usuarios (granjeros y asesores) dentro de nuestra API.</td><td colspan="1" rowspan="2" valign="top">5</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+</table>
+
+
+#### 4.2.1.3. Development Evidence for Sprint Review
+
+A continuación, se detallan los commits realizados, los cuales se trabajaron a partir de las tareas asignadas a cada miembro como se muestra en el Sprint Backlog 1. De este modo, se trabajó mayormente en el Backend.
+
+Repositorio Backend: <https://github.com/AgroSupport-UPC/Backend>
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroSupport-UPC/Backend|main|95268d6|chore: base project|07/09/2024|
+|AgroSupport-UPC/Backend|main|d662f5e|docs: readme file|07/09/2024|
+|AgroSupport-UPC/Backend|feature/TS03|7e1e0be|feat: add profile, advisor and farmer components|10/09/2024|
+|AgroSupport-UPC/Backend|feature/TS03|c2eb875|feat: notification components + acl context facade|10/09/2024|
+|AgroSupport-UPC/Backend|feature/TS04|2617af0|feat: appointment bounded context added|10/09/2024|
+|AgroSupport-UPC/Backend|feature/TS05|b1b3b3b|feat: bounded context publication added|11/09/2024|
+|AgroSupport-UPC/Backend|develop|73bde39|fix: add missing attributes in aggregates|11/09/2024|
+|AgroSupport-UPC/Backend|develop|f28bcfd|feat: add farmer id to review|11/09/2024|
+|AgroSupport-UPC/Backend|release|d88cd4a|feat: connection to remote database|11/09/2024|
+|AgroSupport-UPC/Backend|release|8b33156|feat: dockerfile|11/09/2024|
+|AgroSupport-UPC/Backend|main|6eb4c51|Merge pull request #5 from AgroSupport-UPC/release|11/09/2024|
+
+#### 4.2.1.4. Testing Suite Evidence for Sprint Review
+
+Se realizaron las pruebas de aceptación para las historias de usuario trabajadas utilizando el lenguaje Gherkin en archivos feature. De esta manera, se registraron en el repositorio.
+
+Repositorio Acceptance Tests: <https://github.com/AgroSupport-UPC/Acceptance-Tests>
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroSupport-UPC/Acceptance-Tests|main|8d46c64 |<p>feat: TS01.feature added</p><p></p>|14/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|a2242cb |<p>feat: TS02.feature added</p><p></p>|14/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|4b2e274 |<p>feat: TS03.feature added</p><p></p>|14/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|53b75a5 |<p>feat: TS04.feature added</p><p></p>|14/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|5619d89 |<p>feat: TS05.feature added</p><p></p>|14/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|8bfbbe7 |<p>feat: TS06.feature added</p><p></p>|15/09/2024|
+
+
+#### 4.2.1.5. Execution Evidence for Sprint Review
+
+Durante el sprint backlog 1, se completaron todas las historias de usuario planificadas. Al final del sprint, se mostró un compromiso excepcional con el éxito del proyecto y la entrega de valor al cliente. Para demostrar la ejecución de las tareas realizadas, se grabó un video que presenta los procesos alcanzados.
+
+URL del video: [Video de ejecución de los Web Services](https://youtu.be/qCKmFRo37Wc)
+
+<img alt="Execution Evidence Sprint 1" src="img/execution-evidence-1.png">
+
+_Imagen 172. Captura del video de Execution Evidence_
+
+#### 4.2.1.6. Services Documentation Evidence for Sprint Review
+
+Para este sprint, hemos implementado una primera versión de la API con los endpoints necesarios para el funcionamiento de nuestro proyecto.
+
+Enlace al repositorio del API: https://github.com/AgroSupport-UPC/Backend
+
+|Método|Endpoint|Descripción|
+|--|--|--|
+|GET|/api/v1/users|Se obtiene la lista de usuarios|
+|POST|/api/v1/users|Se publica un nuevo usuario|
+|GET|/api/v1/users/{id}|Se obtiene un usuario por ID|
+|GET|/api/v1/users/{id}/notifications|Se obtiene la lista de notificaciones de un usuario por su ID|
+|GET|/api/v1/appointments|Se obtiene la lista de las citas|
+|POST|/api/v1/appointments|Se publica una nueva cita|
+|GET|/api/v1/appointments/{id}|Se obtiene una cita por ID|
+|PUT|/api/v1/appointments/{id}|Se modifica una cita por ID|
+|DELETE|/api/v1/appointments/{id}|Se elimina una cita por ID|
+|GET|/api/v1/available-dates|Se obtiene la lista de horarios disponibles|
+|POST|/api/v1/available-dates|Se publica un nuevo horario|
+|GET|/api/v1/available-dates/{id}|Se obtiene un horario por ID|
+|PUT|/api/v1/available-dates/{id}|Se modifica un horario por ID|
+|DELETE|/api/v1/available-dates/{id}|Se elimina un horario por ID|
+|GET|/api/v1/publications|Se obtiene la lista de publicaciones|
+|POST|/api/v1/publications|Se publica una nueva publicación|
+|GET|/api/v1/publications/{id}|Se obtiene una publicación por ID|
+|PUT|/api/v1/publications/{id}|Se modifica una publicación por ID|
+|DELETE|/api/v1/publications/{id}|Se elimina una publicación por ID|
+|GET|/api/v1/profiles|Se obtiene la lista de perfiles|
+|POST|/api/v1/profiles|Se publica un nuevo perfil|
+|GET|/api/v1/profiles/{id}|Se obtiene un perfil por ID|
+|PUT|/api/v1/profiles/{id}|Se modifica un perfil por ID|
+|DELETE|/api/v1/profiles/{id}|Se elimina un perfil por ID|
+|GET|/api/v1/advisors|Se obtiene la lista de asesores|
+|POST|/api/v1/advisors|Se publica un nuevo asesor|
+|GET|/api/v1/advisors/{id}|Se obtiene un asesor por ID|
+|PUT|/api/v1/advisors/{id}|Se modifica un asesor por ID|
+|DELETE|/api/v1/advisors/{id}|Se elimina un asesor por ID|
+|GET|/api/v1/farmers|Se obtiene la lista de granjeros|
+|POST|/api/v1/farmers|Se publica un nuevo granjero|
+|GET|/api/v1/farmers/{id}|Se obtiene un granjero por ID|
+|DELETE|/api/v1/farmers/{id}|Se elimina un granjero por ID|
+|GET|/api/v1/notifications|Se obtiene la lista de notificaciones|
+|POST|/api/v1/notifications|Se publica una nueva notificación|
+|GET|/api/v1/notifications/{id}|Se obtiene una notificación por ID|
+|DELETE|/api/v1/notifications/{id}|Se elimina una notificación por ID|
+|GET|/api/v1/reviews|Se obtiene la lista de reseñas|
+|POST|/api/v1/reviews|Se publica una nueva reseña|
+|GET|/api/v1/reviews/{id}|Se obtiene una reseña por ID|
+|PUT|/api/v1/reviews/{id}|Se modifica una reseña por ID|
+|DELETE|/api/v1/reviews/{id}|Se elimina una reseña por ID|
+
+Enlace al API deployado: http://agrosupport-ewdyg8e2hjbwdge7.eastus-01.azurewebsites.net/
+
+<img alt="Swagger" src="img/swagger.png">
+
+_Imagen 173. Swagger con endpoints del proyecto deployado_
+
+#### 4.2.1.7. Software Deployment Evidence for Sprint Review
+
+Para desplegar el Web Service se utilizó Docker para poner la aplicación en un contenedor, y Azure para alojar el contenedor.
+
+Primero, se generó la carpeta target con todos los archivos que conforman la aplicación.
+
+<img alt="Evidencia de deployment 1" src="img/backend_deployment1.png">
+
+_Imagen 174. Evidencia de deployment_
+
+Luego, se creó el dockerfile para la creación de la imagen.
+
+<img alt="Evidencia de deployment 2" src="img/backend_deployment2.png">
+
+_Imagen 175. Evidencia de deployment_
+
+Asimismo, se subió la imagen de la aplicación a Docker Hub.
+
+<img alt="Evidencia de deployment 3" src="img/backend_deployment3.png">
+
+_Imagen 176. Evidencia de deployment_
+
+Por otro lado, se creó el Web App en Azure con las configuraciones básicas.
+
+<img alt="Evidencia de deployment 4" src="img/backend_deployment4.png">
+
+_Imagen 177. Evidencia de deployment_
+
+Además, se utilizó la imagen subida a Docker Hub.
+
+<img alt="Evidencia de deployment 5" src="img/backend_deployment5.png">
+
+_Imagen 178. Evidencia de deployment_
+
+Finalmente, se inicializó el Web App.
+
+<img alt="Evidencia de deployment 6" src="img/backend_deployment6.png">
+
+_Imagen 179. Evidencia de deployment_
+
+Evidencia del funcionamiento del Backend deployado:
+
+<img alt="Evidencia de deployment 7" src="img/backend_deployment7.png">
+
+_Imagen 180. Evidencia de deployment_
+
+#### 4.2.1.8. Team Collaboration Insights during Sprint
+
+Durante el desarrollo del sprint, se realizaron reuniones diarias para revisar el avance de las tareas asignadas y resolver cualquier impedimento que pudiera surgir. Además, se mantuvo una comunicación constante a través de WhatsApp para coordinar las actividades y compartir información relevante. Gracias a esta colaboración, se logró cumplir con los objetivos establecidos para el sprint y se mantuvo un ambiente de trabajo armonioso y productivo.
+
+Cada integrante trabajó en ramas "feature" correspondientes a sus tareas asignadas. Posteriormente, realizamos los "merge" con la rama "develop", hicimos el "release" y finalmente integramos los cambios en la rama "main".
+
+<img src="img/team-collaboration-insights-backend-sprint-1.png" alt="Team Collaboration Insights - Backend Sprint 1">
+
+_Imagen 181. Insights en GitHub_
 
 # Capítulo 5: Product Implementation & Validation
 
