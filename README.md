@@ -3502,20 +3502,63 @@ Así es como con este, que cada miembro podrá trabajar de forma remota desde su
 
 Se planeó el primer sprint a través de una reunión presencial. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
 
-|**Sprint #**|Sprint 1|
-| :- | :- |
-|**Sprint Planning Background**||
-|Date|2024-09-05|
-|Time|01:00 PM|
-|Location|Presencial (En la universidad)|
-|Prepared by|Paredes Puente, Sebastian Roberto|
-|Attendees (to planning meeting)|<p>Delgado Corrales, Piero Gonzalo</p><p>Matos Fernandez, Christian Andre</p><p>Paredes Puente, Sebastián Roberto</p><p>Salinas Torres, Salvador Antonio</p>|
-|Sprint n - 1 Review Summary|No hubo sprint anterior|
-|Sprint n - 1 Retrospective Summary|No hubo sprint anterior|
-|**Sprint Goal & User Stories**||
-|Sprint 1 Goal|Realizar el primer deployment del Backend.|
-|Sprint 1 Velocity|20|
-|Sum of Story Points|20|
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 1</td>
+  </tr>
+  <tr>
+    <th colspan="2"><strong>Sprint Planning Background</strong></th>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>2024-09-05</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>01:00 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>Presencial (En la universidad)</td>
+  </tr>
+  <tr>
+    <th>Prepared by</th>
+    <td>Paredes Puente, Sebastian Roberto</td>
+  </tr>
+  <tr>
+    <th>Attendees (to planning meeting)</th>
+    <td>
+      <p>Delgado Corrales, Piero Gonzalo</p>
+      <p>Matos Fernandez, Christian Andre</p>
+      <p>Paredes Puente, Sebastián Roberto</p>
+      <p>Salinas Torres, Salvador Antonio</p>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint n - 1 Review Summary</th>
+    <td>No hubo sprint anterior</td>
+  </tr>
+  <tr>
+    <th>Sprint n - 1 Retrospective Summary</th>
+    <td>No hubo sprint anterior</td>
+  </tr>
+  <tr>
+    <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
+  </tr>
+  <tr>
+    <th>Sprint 1 Goal</th>
+    <td>Realizar el primer deployment del Backend.</td>
+  </tr>
+  <tr>
+    <th>Sprint 1 Velocity</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>20</td>
+  </tr>
+</table>
 
 #### 4.2.1.2. Sprint Backlog 1
 
@@ -3562,12 +3605,12 @@ Repositorio Acceptance Tests: <https://github.com/AgroSupport-UPC/Acceptance-Tes
 
 |**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
 | :- | :- | :- | :- | :- |
-|AgroSupport-UPC/Acceptance-Tests|main|8d46c64 |<p>feat: TS01.feature added</p><p></p>|14/09/2024|
-|AgroSupport-UPC/Acceptance-Tests|main|a2242cb |<p>feat: TS02.feature added</p><p></p>|14/09/2024|
-|AgroSupport-UPC/Acceptance-Tests|main|4b2e274 |<p>feat: TS03.feature added</p><p></p>|14/09/2024|
-|AgroSupport-UPC/Acceptance-Tests|main|53b75a5 |<p>feat: TS04.feature added</p><p></p>|14/09/2024|
-|AgroSupport-UPC/Acceptance-Tests|main|5619d89 |<p>feat: TS05.feature added</p><p></p>|14/09/2024|
-|AgroSupport-UPC/Acceptance-Tests|main|8bfbbe7 |<p>feat: TS06.feature added</p><p></p>|15/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|8d46c64 |feat: TS01.feature added|14/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|a2242cb |feat: TS02.feature added|14/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|4b2e274 |feat: TS03.feature added|14/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|53b75a5 |feat: TS04.feature added|14/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|5619d89 |feat: TS05.feature added|14/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|8bfbbe7 |feat: TS06.feature added|15/09/2024|
 
 
 #### 4.2.1.5. Execution Evidence for Sprint Review
