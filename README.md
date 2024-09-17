@@ -3412,14 +3412,9 @@ _Imagen 171. Diagrama de base de datos_
 
 Para la gestión del proyecto, utilizamos como principal medio de comunicación WhatsApp, a través de un grupo en el cual compartimos nuestras ideas y opiniones sobre cada parte del trabajo. A esto se le suma el uso de la herramienta Google Meet, para realizar reuniones en videoconferencia y conversar de forma síncrona. Asimismo, utilizamos GitHub para el manejo de repositorios a través de una comunidad conformada por todos los integrantes del equipo. En esta comunidad, mantenemos el reporte y la aplicación.
 
-**Product UX/UI Design:**
-
-Se realizaron los productos de UX con la herramienta UXPressia, así como el User Persona, Empathy Mapping, Impact Mapping, entre otras. Gracias a esto pudimos modelar bien los diseños de la experiencia de usuario, lo cual nos sirve para poder ponernos en una mejor perspectiva para nuestros segmentos objetivo. Por otro lado, hicimos los prototipos de la aplicación móvil utilizando la herramienta Figma, la cual nos permitió crear los Wireframes y Mock-ups para tener un diseño previo al desarrollo de la aplicación.
-
-
 **Software Development:**
 
-Como principal IDE, utilizamos Android Studio, el cual es el entorno de desarrollo con el que estamos más familiarizados por ser de Jetbrains. Por otro lado, para el desarrollo usamos los lenguajes aprendidos previamente, como HTML, CSS y JavaScript para la landing page, y Kotlin para la aplicación móvil.
+Como IDE para trabajar en el Backend, utilizamos IntelliJ Idea, el cual es el entorno de desarrollo con el que ya estamos familiarizados para el desarrollo de Web APIs, utilizando el framework de Spring Boot.
 
 
 **Software Testing:**
@@ -3456,51 +3451,14 @@ Usuarios de GitHub
   </tbody>
 </table>
 
-*URL de repositorio de Landing Page:* https://github.com/AgroSupport-UPC/Landing-Page
-
 *URL de repositorio de Web Services:* https://github.com/AgroSupport-UPC/Backend
-
-*URL de repositorio de Mobile Application:* https://github.com/AgroSupport-UPC/Frontend
 
 Para el desarrollo del trabajo se hará uso de GitFlow, el cual es un modelo de flujo de trabajo para la gestión de control de versiones Git. Está compuesta por ramas y cada una cumple un propósito distinto. Las ramas que utilizamos son: Feature, Develop, Release y Main. 
 
 ### 4.1.3. Source Code Style Guide & Conventions
 
-En el desarrollo de este trabajo, se utilizará una gran variedad de lenguajes para trabajar en el Landing Page, Web Services y Mobile Application. Para ello, se utilizará la siguiente guía de estilos y convenciones.
+En el desarrollo de este trabajo, se utilizará una gran variedad de lenguajes para trabajar en el Backend. Para ello, se utilizará la siguiente guía de estilos y convenciones.
 
-**HTML**
-
-Es el lenguaje utilizado para estructurar el contenido de una página web, brindando una variedad de elementos posibles como texto, imágenes, formularios, etc.
-https://www.w3schools.com/html/html5_syntax.asp
-
-- Declarar el tipo de documento en la primera línea con \<!DOCTYPE html>.
-- Respetar la estructura básica del HTML: \<html>, \<head>, \<body>.
-- Declarar el título de la página para dar a conocer al usuario en qué página se encuentra. (Usar el elemento \<title> en \<head>)
-- Se usará la indentación coherente para lograr una lectura sencilla del código, por lo que es importante tener la tabulación correcta para cada nivel de anidamiento.
-- Siempre cerrar los elementos que lo requieran, ya sea una división, párrafo, título. (Si se declara una \<div>, siempre cerrarlo con \</div>)
-- Declarar el atributo “alt” para las imágenes.
-
-
-**CSS**
-
-Es el lenguaje utilizado para definir el diseño de la página web, así como los estilos, fuentes, colores, contenedores, etc.
-https://google.github.io/styleguide/htmlcssguide.html
-- Usar indentación de forma correcta.
-- Los nombres para elementos deben ser cortos y en minúsculas.
-- Declarar los colores en código hexadecimal. (Ejemplo: #024A86)
-- Dejar comentarios para conocer el propósito del estilo y su uso.
-- El diseño debe ser responsive para que los usuarios lo puedan visualizar cómodamente desde el dispositivo en qué se encuentren.
-
-
-**JavaScript**
-
-Es el lenguaje de programación más utilizado para la programación web, ya que permite desarrollar páginas interactivas con animaciones agradables para los usuarios.
-https://www.w3schools.com/js/js_conventions.asp
-- Declarar nombres coherentes y cortos para las variables y funciones.
-- Dejar comentarios para dar a conocer que hace cada parte del código sobre la página web.
-- Siempre colocar un punto y coma al final de cada línea de código.
-- Declarar las constantes cuando sea necesario en lugar de variables que nunca cambiarán su valor.
-- Usar los operadores de comparación estricta en lugar de comparación regular cuando sea posible. (Ejemplo: Utilizar === en lugar de ==)
 
 **Java**
 
@@ -3776,11 +3734,109 @@ _Imagen 181. Insights en GitHub_
 
 ### 5.1.1. Software Development Environment Configuration
 
+**Product UX/UI Design:**
+
+Se realizaron los productos de UX con la herramienta UXPressia, así como el User Persona, Empathy Mapping, Impact Mapping, entre otras. Gracias a esto pudimos modelar bien los diseños de la experiencia de usuario, lo cual nos sirve para poder ponernos en una mejor perspectiva para nuestros segmentos objetivo. Por otro lado, hicimos los prototipos de la aplicación móvil utilizando la herramienta Figma, la cual nos permitió crear los Wireframes y Mock-ups para tener un diseño previo al desarrollo de la aplicación.
+
+
+**Software Development:**
+
+Como principal IDE, utilizamos Android Studio, el cual es el entorno de desarrollo con el que estamos más familiarizados por ser de Jetbrains. Por otro lado, para el desarrollo usamos los lenguajes aprendidos previamente, como HTML, CSS y JavaScript para la landing page, y Kotlin para la aplicación móvil.
+
+
+**Software Testing:**
+
+Las pruebas de aceptación son importantes a realizar para comprobar que los criterios de aceptación planteados están favoreciendo a las necesidades del negocio y cumplir con los requerimientos, para lo cual utilizamos el lenguaje Gherkin. Este consiste en trabajar el escenario con Given When Then, y lograr identificar las variables de input y output, lo cual es sencillo de entender para todos ya que utiliza lenguaje natural. Gracias a este, es que se logra garantizar la calidad del software, por ello cumple un papel esencial en los proyectos de desarrollo.
+
 ### 5.1.2. Source Code Management
+
+Usuarios de GitHub
+<table>
+  <thead>
+    <tr>
+        <th>Integrante</th>
+        <th>Usuario de GitHub</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Delgado Corrales, Piero Gonzalo</td>
+        <td>PieroD04</td>
+    </tr>
+    <tr>
+        <td>Paredes Puente, Sebastián Roberto</td>
+        <td>sebastian123gonzalo</td>
+    </tr>
+    <tr>
+        <td>Salinas Torres, Salvador Antonio</td>
+        <td>salvadoorssalinas</td>
+    </tr>
+    <tr>
+        <td>Matos Fernandez, Christian Andre</td>
+        <td>FerKlox</td>
+    </tr>
+  </tbody>
+</table>
+
+*URL de repositorio de Landing Page:* https://github.com/AgroSupport-UPC/Landing-Page
+
+*URL de repositorio de Mobile Application:* https://github.com/AgroSupport-UPC/Frontend
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
+En el desarrollo de este trabajo, se utilizará una gran variedad de lenguajes para trabajar en el Landing Page y Mobile Application. Para ello, se utilizará la siguiente guía de estilos y convenciones.
+
+**HTML**
+
+Es el lenguaje utilizado para estructurar el contenido de una página web, brindando una variedad de elementos posibles como texto, imágenes, formularios, etc.
+https://www.w3schools.com/html/html5_syntax.asp
+
+- Declarar el tipo de documento en la primera línea con \<!DOCTYPE html>.
+- Respetar la estructura básica del HTML: \<html>, \<head>, \<body>.
+- Declarar el título de la página para dar a conocer al usuario en qué página se encuentra. (Usar el elemento \<title> en \<head>)
+- Se usará la indentación coherente para lograr una lectura sencilla del código, por lo que es importante tener la tabulación correcta para cada nivel de anidamiento.
+- Siempre cerrar los elementos que lo requieran, ya sea una división, párrafo, título. (Si se declara una \<div>, siempre cerrarlo con \</div>)
+- Declarar el atributo “alt” para las imágenes.
+
+
+**CSS**
+
+Es el lenguaje utilizado para definir el diseño de la página web, así como los estilos, fuentes, colores, contenedores, etc.
+https://google.github.io/styleguide/htmlcssguide.html
+- Usar indentación de forma correcta.
+- Los nombres para elementos deben ser cortos y en minúsculas.
+- Declarar los colores en código hexadecimal. (Ejemplo: #024A86)
+- Dejar comentarios para conocer el propósito del estilo y su uso.
+- El diseño debe ser responsive para que los usuarios lo puedan visualizar cómodamente desde el dispositivo en qué se encuentren.
+
+
+**JavaScript**
+
+Es el lenguaje de programación más utilizado para la programación web, ya que permite desarrollar páginas interactivas con animaciones agradables para los usuarios.
+https://www.w3schools.com/js/js_conventions.asp
+- Declarar nombres coherentes y cortos para las variables y funciones.
+- Dejar comentarios para dar a conocer que hace cada parte del código sobre la página web.
+- Siempre colocar un punto y coma al final de cada línea de código.
+- Declarar las constantes cuando sea necesario en lugar de variables que nunca cambiarán su valor.
+- Usar los operadores de comparación estricta en lugar de comparación regular cuando sea posible. (Ejemplo: Utilizar === en lugar de ==)
+
+**Kotlin**
+
+Es un lenguaje de programación moderno que se utiliza para el desarrollo de aplicaciones móviles en Android.
+https://developer.android.com/kotlin/style-guide
+- Nombrar las variables, funciones y clases con CamelCase, además de ser significativos y cortos.
+- Utilizar HTTPS para establecer una conexión segura.
+- Usar indentación correctamente para un código coherente y ordenado.
+- Usar comillas dobles (“) para las cadenas de texto.
+- Dejar comentarios en cada bloque de código para explicar su funcionalidad.
+- Declarar constantes cuando sean variables que no cambiarán su valor a lo largo de todo el código.
+
 ### 5.1.4. Software Deployment Configuration
+
+Igualmente como se ha trabajado con el Backend, también utilizaremos el sistema de Git y repositorios en GitHub para el desarrollo de la Landing Page y la Mobile Application. De esta manera, cada miembro podrá trabajar de forma remota desde su IDE, teniendo una copia del repositorio Git a través del repositorio en línea almacenado en GitHub, así poder hacer commits para empujar los cambios que hayan realizado.
+
+Asimismo, utilizaremos el sistema de GitHub Pages para desplegar la Landing Page de nuestro proyecto. GitHub Pages es un servicio que ofrece GitHub para alojar sitios web estáticos de forma gratuita. Permite a los desarrolladores alojar un sitio web directamente desde un repositorio de GitHub, lo que facilita la publicación de sitios web sin tener que preocuparse por la infraestructura de alojamiento.
+
 
 ## 5.2. Software Development & Implementation
 
