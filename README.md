@@ -2178,7 +2178,7 @@ Este Product Backlog presenta una lista priorizada de las User Stories para el d
       <td>US14</td>
       <td>Visualización de la sección de inicio de la Landing Page</td>
       <td>Implementar la visualización de la sección de inicio que presenta la aplicación móvil y sus beneficios.</td>
-      <td>3</td>
+      <td>2</td>
     </tr>
     <tr>
          <td>6</td>
@@ -2199,7 +2199,7 @@ Este Product Backlog presenta una lista priorizada de las User Stories para el d
          <td>US17</td>
          <td>Visualización de la sección 'Características' de la Landing Page</td>
          <td>Presentar las características principales de la aplicación de manera clara y atractiva.</td>
-         <td>3</td>
+         <td>2</td>
     </tr>
     <tr>
          <td>9</td>
@@ -3457,7 +3457,7 @@ Para el desarrollo del trabajo se hará uso de GitFlow, el cual es un modelo de 
 
 ### 4.1.3. Source Code Style Guide & Conventions
 
-En el desarrollo de este trabajo, se utilizará una gran variedad de lenguajes para trabajar en el Backend. Para ello, se utilizará la siguiente guía de estilos y convenciones.
+En el desarrollo de este trabajo, se utilizará Java para trabajar en el Backend. Para ello, se utilizará la siguiente guía de estilos y convenciones.
 
 
 **Java**
@@ -3782,6 +3782,8 @@ Usuarios de GitHub
 
 *URL de repositorio de Mobile Application:* https://github.com/AgroSupport-UPC/Frontend
 
+Para el desarrollo del trabajo se hará uso de GitFlow, el cual es un modelo de flujo de trabajo para la gestión de control de versiones Git. Está compuesta por ramas y cada una cumple un propósito distinto. Las ramas que utilizamos son: Feature, Develop, Release y Main.
+
 ### 5.1.3. Source Code Style Guide & Conventions
 
 En el desarrollo de este trabajo, se utilizará una gran variedad de lenguajes para trabajar en el Landing Page y Mobile Application. Para ello, se utilizará la siguiente guía de estilos y convenciones.
@@ -3839,10 +3841,71 @@ Asimismo, utilizaremos el sistema de GitHub Pages para desplegar la Landing Page
 
 
 ## 5.2. Software Development & Implementation
-
 ### 5.2.1. Sprint 2
 #### 5.2.1.1. Sprint Planning 2
+
+Se planeó el segundo sprint a través de una reunión presencial. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 2</td>
+  </tr>
+  <tr>
+    <th colspan="2"><strong>Sprint Planning Background</strong></th>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>2024-09-16</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>03:00 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>Presencial (En la universidad)</td>
+  </tr>
+  <tr>
+    <th>Prepared by</th>
+    <td>Paredes Puente, Sebastian Roberto</td>
+  </tr>
+  <tr>
+    <th>Attendees (to planning meeting)</th>
+    <td>
+      <p>Delgado Corrales, Piero Gonzalo</p>
+      <p>Matos Fernandez, Christian Andre</p>
+      <p>Paredes Puente, Sebastián Roberto</p>
+      <p>Salinas Torres, Salvador Antonio</p>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint 1 Review Summary</th>
+    <td>Se trabajó y desplegó la primera versión del Backend a utilizar la aplicación móvil. Igualmente, faltó algunos detalles a ajustar y mejorar.</td>
+  </tr>
+  <tr>
+    <th>Sprint 1 Retrospective Summary</th>
+    <td>Se logró trabajar todas las historias de usuario planteadas en el sprint backlog 1. Sin embargo, se trabajó con los tiempos muy ajustados entre todos los miembros del equipo, por lo que se espera mejorar eso en este segundo sprint.</td>
+  </tr>
+  <tr>
+    <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
+  </tr>
+  <tr>
+    <th>Sprint 2 Goal</th>
+    <td>Realizar la Landing Page y el primer avance del Frontend de la aplicación móvil.</td>
+  </tr>
+  <tr>
+    <th>Sprint 2 Velocity</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>-</td>
+  </tr>
+</table>
+
 #### 5.2.1.2. Sprint Backlog 2
+
 #### 5.2.1.3. Development Evidence for Sprint Review
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
