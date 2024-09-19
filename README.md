@@ -3907,7 +3907,22 @@ Se planeó el segundo sprint a través de una reunión presencial. Para ello, se
 #### 5.2.1.2. Sprint Backlog 2
 
 #### 5.2.1.3. Development Evidence for Sprint Review
+
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+Se realizaron las pruebas de aceptación para las historias de usuario de la landing page y aplicacion movil, utilizando el lenguaje Gherkin en archivos feature. De esta manera, se registraron en el repositorio.
+
+Repositorio Acceptance Tests: <https://github.com/AgroSupport-UPC/Acceptance-Tests>
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- | 
+|AgroSupport-UPC/Acceptance-Tests|main|fca6834 |feat: US14.feature added|19/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|3e5702a |feat: US15.feature added|19/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|5357982 |feat: US16.feature added|19/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|97427f3 |feat: US17.feature added|19/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|edec1d0 |feat: US18.feature added|19/09/2024|
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
