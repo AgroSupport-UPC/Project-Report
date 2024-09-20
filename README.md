@@ -3932,9 +3932,16 @@ Repositorio Frontend: <https://github.com/AgroSupport-UPC/Frontend>
 | :- | :- | :- | :- | :- |
 |AgroSupport-UPC/Landing-Page|main|308a78d|chore: initial commit|19/09/2024|
 |AgroSupport-UPC/Landing-Page|feature/us14|df6454b|feat: home page|19/09/2024|
+|AgroSupport-UPC/Landing-Page|develop|e564bc9|Merge pull request #1 from AgroSupport-UPC/feature/us14|19/09/2024|
 |AgroSupport-UPC/Landing-Page|feature/us15|260ad85|feat: about app (problematic) page|19/09/2024|
 |AgroSupport-UPC/Landing-Page|feature/us16|dde2859|feat: about us section|19/09/2024|
+|AgroSupport-UPC/Landing-Page|develop|0b1d34b|Merge pull request #2 from AgroSupport-UPC/feature/us15|19/09/2024|
+|AgroSupport-UPC/Landing-Page|develop|58005a6|Merge pull request #3 from AgroSupport-UPC/feature/us16|19/09/2024|
 |AgroSupport-UPC/Landing-Page|feature/us17|210ee22|feat: feature section added|20/09/2024|
+|AgroSupport-UPC/Landing-Page|develop|5761273|Merge pull request #4 from AgroSupport-UPC/feature/us17|20/09/2024|
+|AgroSupport-UPC/Landing-Page|feature/us18|c628083|feat: contact section|20/09/2024|
+|AgroSupport-UPC/Landing-Page|develop|22d80b0|Merge pull request #5 from AgroSupport-UPC/feature/us18|20/09/2024|
+|AgroSupport-UPC/Landing-Page|main|d6a4808|Merge pull request #6 from AgroSupport-UPC/develop|20/09/2024|
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
