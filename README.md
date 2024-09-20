@@ -211,9 +211,9 @@
     - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
   - [5.2. Software Development & Implementation](#52-software-development--implementation)
-    - [5.2.1. Sprint 2](#521-sprint-2)
-      - [5.2.1.1. Sprint Planning 2](#5211-sprint-planning-2)
-      - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-2)
+    - [5.2.1. Sprint 1](#521-sprint-1)
+      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+      - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
       - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
       - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
       - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
@@ -2210,94 +2210,94 @@ Este Product Backlog presenta una lista priorizada de las User Stories para el d
     </tr>
     <tr>
          <td>10</td>
-         <td>TS01</td>
-         <td>Uso de una API para videollamadas</td>
-         <td>Integrar una API que permita realizar videollamadas dentro de la aplicación.</td>
-         <td>5</td>
-    </tr>
-    <tr>
-         <td>11</td>
-         <td>TS02</td>
-         <td>Uso de una API para alojar imágenes</td>
-         <td>Implementar una API que permita a los usuarios subir y almacenar imágenes de manera segura.</td>
-         <td>5</td>
-    </tr>
-    <tr>
-         <td>12</td>
          <td>US01</td>
          <td>Visualización del catálogo de asesores</td>
          <td>Permitir a los usuarios ver una lista completa de asesores disponibles.</td>
          <td>3</td>
     </tr>
     <tr>
-         <td>13</td>
+         <td>11</td>
          <td>US02</td>
          <td>Visualización de información de un asesor</td>
          <td>Mostrar detalles sobre un asesor específico, incluyendo su perfil, experiencia y áreas de especialización.</td>
          <td>3</td>
     </tr>
     <tr>
-         <td>14</td>
+         <td>12</td>
          <td>US03</td>
          <td>Visualización de horarios de asesores</td>
          <td>Permitir a los usuarios ver la disponibilidad de los asesores para programar citas.</td>
          <td>2</td>
     </tr>
     <tr>
-         <td>15</td>
+         <td>13</td>
          <td>US04</td>
          <td>Programación de citas con asesores</td>
          <td>Implementar la funcionalidad para que los usuarios puedan reservar citas con asesores.</td>
          <td>5</td>
     </tr>
     <tr>
-         <td>16</td>
+         <td>14</td>
          <td>US05</td>
          <td>Calificación del asesor luego de una cita</td>
          <td>Permitir a los usuarios calificar a los asesores después de una cita.</td>
          <td>3</td>
     </tr>
     <tr>
-         <td>17</td>
+         <td>15</td>
          <td>US06</td>
          <td>Separación de horarios de disponibilidad para asesorías</td>
          <td>Gestionar y separar los horarios de los asesores según su disponibilidad.</td>
          <td>5</td>
     </tr>
     <tr>
-         <td>18</td>
+         <td>16</td>
          <td>US19</td>
          <td>Recordatorio de Cita</td>
          <td>Enviar recordatorios automáticos a los usuarios sobre sus citas programadas.</td>
          <td>2</td>
     </tr>
     <tr>
-         <td>19</td>
+         <td>17</td>
          <td>US20</td>
          <td>Confirmación de Asistencia</td>
          <td>Implementar una funcionalidad que permita a los usuarios confirmar su asistencia a las citas programadas.</td>
          <td>2</td>
     </tr>
     <tr>
-         <td>20</td>
+         <td>18</td>
          <td>US21</td>
          <td>Visualización de Historial de Citas</td>
          <td>Permitir a los usuarios ver el historial de sus citas pasadas con asesores.</td>
          <td>3</td>
     </tr>
     <tr>
-         <td>21</td>
+         <td>19</td>
          <td>US22</td>
          <td>Reprogramación de Citas</td>
          <td>Permitir a los usuarios reprogramar sus citas con asesores.</td>
          <td>5</td>
     </tr>
     <tr>
-         <td>22</td>
+         <td>20</td>
          <td>US23</td>
          <td>Búsqueda y Filtrado de Citas</td>
          <td>Implementar funcionalidades de búsqueda y filtrado para que los usuarios puedan encontrar citas específicas fácilmente.</td>
          <td>3</td>
+    </tr>
+    <tr>
+         <td>21</td>
+         <td>TS01</td>
+         <td>Uso de una API para videollamadas</td>
+         <td>Integrar una API que permita realizar videollamadas dentro de la aplicación.</td>
+         <td>5</td>
+    </tr>
+    <tr>
+         <td>22</td>
+         <td>TS02</td>
+         <td>Uso de una API para alojar imágenes</td>
+         <td>Implementar una API que permita a los usuarios subir y almacenar imágenes de manera segura.</td>
+         <td>5</td>
     </tr>
     <tr>
          <td>23</td>
@@ -3841,15 +3841,15 @@ Asimismo, utilizaremos el sistema de GitHub Pages para desplegar la Landing Page
 
 
 ## 5.2. Software Development & Implementation
-### 5.2.1. Sprint 2
-#### 5.2.1.1. Sprint Planning 2
+### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint Planning 1
 
 Se planeó el segundo sprint a través de una reunión presencial. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
 
 <table>
   <tr>
     <th>Sprint #</th>
-    <td>Sprint 2</td>
+    <td>Sprint 1</td>
   </tr>
   <tr>
     <th colspan="2"><strong>Sprint Planning Background</strong></th>
@@ -3880,31 +3880,31 @@ Se planeó el segundo sprint a través de una reunión presencial. Para ello, se
     </td>
   </tr>
   <tr>
-    <th>Sprint 1 Review Summary</th>
+    <th>Sprint n - 1 Review Summary</th>
     <td>Se trabajó y desplegó la primera versión del Backend a utilizar la aplicación móvil. Igualmente, faltó algunos detalles a ajustar y mejorar.</td>
   </tr>
   <tr>
-    <th>Sprint 1 Retrospective Summary</th>
-    <td>Se logró trabajar todas las historias de usuario planteadas en el sprint backlog 1. Sin embargo, se trabajó con los tiempos muy ajustados entre todos los miembros del equipo, por lo que se espera mejorar eso en este segundo sprint.</td>
+    <th>Sprint n - 1 Retrospective Summary</th>
+    <td>Se logró trabajar todas las historias de usuario planteadas en el sprint backlog del Backend. Sin embargo, se trabajó con los tiempos muy ajustados entre todos los miembros del equipo, por lo que se espera mejorar eso en este segundo sprint.</td>
   </tr>
   <tr>
     <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
   </tr>
   <tr>
-    <th>Sprint 2 Goal</th>
+    <th>Sprint 1 Goal</th>
     <td>Realizar la Landing Page y el primer avance del Frontend de la aplicación móvil.</td>
   </tr>
   <tr>
-    <th>Sprint 2 Velocity</th>
-    <td>-</td>
+    <th>Sprint 1 Velocity</th>
+    <td>31</td>
   </tr>
   <tr>
     <th>Sum of Story Points</th>
-    <td>-</td>
+    <td>31</td>
   </tr>
 </table>
 
-#### 5.2.1.2. Sprint Backlog 2
+#### 5.2.1.2. Sprint Backlog 1
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
