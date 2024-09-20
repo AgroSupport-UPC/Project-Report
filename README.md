@@ -1468,7 +1468,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       </tr>
       <tr>
         <td>US20</td>
-        <td>Confirmación de Asistencia</td>
+        <td>Pantalla de inicio</td>
       </tr>
       <tr>
         <td>US21</td>
@@ -1476,7 +1476,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       </tr>
       <tr>
         <td>US22</td>
-        <td>Reprogramación de Citas</td>
+        <td>Cancelación de Citas</td>
       </tr>
       <tr>
         <td>US23</td>
@@ -1921,13 +1921,13 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
     </tr>
     <tr>
       <td>US20</td>
-      <td>Confirmación de Asistencia</td>
-      <td>Como usuario, quiero confirmar mi asistencia a las citas programadas para asegurarme de que la reunión se llevará a cabo.</td>
+      <td>Pantalla de inicio</td>
+      <td>Como usuario, quiero ver una pantalla de inicio sencilla para navegar y explorar las funcionalidades de la aplicación fácilmente.</td>
       <td>
-        <strong>Escenario 1: Confirmación de asistencia</strong><br>
-        <strong>Given</strong> el usuario tiene una cita programada.<br>
-        <strong>When</strong> recibe la invitación para la cita.<br>
-        <strong>Then</strong> podrá confirmar su asistencia a la cita a través de la aplicación, y el organizador recibirá una notificación de confirmación.
+        <strong>Escenario 1: Pantalla de inicio de la aplicación</strong><br>
+        <strong>Given</strong> el usuario ha ingresado a la aplicación.<br>
+        <strong>When</strong> inicie sesión correctamente.<br>
+        <strong>Then</strong> el sistema lo derivará a la pantalla de inicio y visualizará las opciones para navegar por la aplicación.
       </td>
       <td>1</td>
     </tr>
@@ -1945,13 +1945,14 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
     </tr>
     <tr>
       <td>US22</td>
-      <td>Reprogramación de Citas</td>
-      <td>Como usuario, quiero poder reprogramar mis citas existentes para ajustarlas a mis nuevas disponibilidades o necesidades.</td>
+      <td>Cancelación de Citas</td>
+      <td>Como usuario, quiero poder cancelar mis citas existentes para ajustarlas a mis nuevas disponibilidades o necesidades.</td>
       <td>
-        <strong>Escenario 1: Reprogramación de una cita</strong><br>
-        <strong>Given</strong> el usuario tiene una cita programada y desea cambiar la fecha o la hora.<br>
-        <strong>When</strong> selecciona la opción para reprogramar la cita y elige una nueva fecha y hora.<br>
-        <strong>Then</strong> el sistema actualizará la cita con la nueva información y notificará al usuario y al asesor sobre el cambio.
+        <strong>Escenario 1: Cancelación de una cita</strong><br>
+        <strong>Given</strong> el usuario tiene una cita programada y desea cancelarla.<br>
+        <strong>When</strong> selecciona la cita del listado de citas.<br>
+        <strong>And</strong> selecciona la opción para cancelar la cita.<br>
+        <strong>Then</strong> el sistema cancelará la cita y notificará al usuario y al asesor sobre el cambio.
       </td>
       <td>1</td>
     </tr>
@@ -2210,129 +2211,129 @@ Este Product Backlog presenta una lista priorizada de las User Stories para el d
     </tr>
     <tr>
          <td>10</td>
+         <td>US20</td>
+         <td>Pantalla de inicio</td>
+         <td>Implementar una pantalla de inicio que permita a los usuarios navegar por la aplicación con facilidad.</td>
+         <td>2</td>
+    </tr>
+    <tr>
+         <td>11</td>
          <td>US01</td>
          <td>Visualización del catálogo de asesores</td>
          <td>Permitir a los usuarios ver una lista completa de asesores disponibles.</td>
          <td>3</td>
     </tr>
     <tr>
-         <td>11</td>
+         <td>12</td>
          <td>US02</td>
          <td>Visualización de información de un asesor</td>
          <td>Mostrar detalles sobre un asesor específico, incluyendo su perfil, experiencia y áreas de especialización.</td>
          <td>3</td>
     </tr>
     <tr>
-         <td>12</td>
+         <td>13</td>
          <td>US03</td>
          <td>Visualización de horarios de asesores</td>
          <td>Permitir a los usuarios ver la disponibilidad de los asesores para programar citas.</td>
          <td>2</td>
     </tr>
     <tr>
-         <td>13</td>
+         <td>14</td>
          <td>US04</td>
          <td>Programación de citas con asesores</td>
          <td>Implementar la funcionalidad para que los usuarios puedan reservar citas con asesores.</td>
          <td>5</td>
     </tr>
     <tr>
-         <td>14</td>
+         <td>15</td>
          <td>US05</td>
          <td>Calificación del asesor luego de una cita</td>
          <td>Permitir a los usuarios calificar a los asesores después de una cita.</td>
          <td>3</td>
     </tr>
     <tr>
-         <td>15</td>
+         <td>16</td>
          <td>US06</td>
          <td>Separación de horarios de disponibilidad para asesorías</td>
          <td>Gestionar y separar los horarios de los asesores según su disponibilidad.</td>
          <td>5</td>
     </tr>
     <tr>
-         <td>16</td>
-         <td>US19</td>
-         <td>Recordatorio de Cita</td>
-         <td>Enviar recordatorios automáticos a los usuarios sobre sus citas programadas.</td>
-         <td>2</td>
-    </tr>
-    <tr>
          <td>17</td>
-         <td>US20</td>
-         <td>Confirmación de Asistencia</td>
-         <td>Implementar una funcionalidad que permita a los usuarios confirmar su asistencia a las citas programadas.</td>
-         <td>2</td>
-    </tr>
-    <tr>
-         <td>18</td>
-         <td>US21</td>
-         <td>Visualización de Historial de Citas</td>
-         <td>Permitir a los usuarios ver el historial de sus citas pasadas con asesores.</td>
-         <td>3</td>
-    </tr>
-    <tr>
-         <td>19</td>
-         <td>US22</td>
-         <td>Reprogramación de Citas</td>
-         <td>Permitir a los usuarios reprogramar sus citas con asesores.</td>
-         <td>5</td>
-    </tr>
-    <tr>
-         <td>20</td>
-         <td>US23</td>
-         <td>Búsqueda y Filtrado de Citas</td>
-         <td>Implementar funcionalidades de búsqueda y filtrado para que los usuarios puedan encontrar citas específicas fácilmente.</td>
-         <td>3</td>
-    </tr>
-    <tr>
-         <td>21</td>
-         <td>TS01</td>
-         <td>Uso de una API para videollamadas</td>
-         <td>Integrar una API que permita realizar videollamadas dentro de la aplicación.</td>
-         <td>5</td>
-    </tr>
-    <tr>
-         <td>22</td>
-         <td>TS02</td>
-         <td>Uso de una API para alojar imágenes</td>
-         <td>Implementar una API que permita a los usuarios subir y almacenar imágenes de manera segura.</td>
-         <td>5</td>
-    </tr>
-    <tr>
-         <td>23</td>
-         <td>US07</td>
-         <td>Gestión de publicaciones de asesores</td>
-         <td>Permitir a los asesores crear y gestionar sus publicaciones.</td>
-         <td>3</td>
-    </tr>
-    <tr>
-         <td>24</td>
-         <td>US08</td>
-         <td>Visualización de publicaciones de los asesores</td>
-         <td>Permitir a los usuarios ver las publicaciones de los asesores.</td>
-         <td>2</td>
-    </tr>
-    <tr>
-         <td>25</td>
-         <td>US09</td>
-         <td>Registro de un usuario nuevo</td>
-         <td>Permitir a nuevos usuarios registrarse en la aplicación.</td>
-         <td>3</td>
-    </tr>
-    <tr>
-         <td>26</td>
          <td>US10</td>
          <td>Inicio de sesión</td>
          <td>Implementar la funcionalidad de inicio de sesión para usuarios registrados.</td>
          <td>2</td>
     </tr>
     <tr>
-         <td>27</td>
+         <td>18</td>
          <td>US11</td>
          <td>Recuperación de contraseña</td>
          <td>Permitir a los usuarios recuperar su contraseña en caso de olvido.</td>
          <td>2</td>
+    </tr>
+    <tr>
+         <td>19</td>
+         <td>US19</td>
+         <td>Recordatorio de Cita</td>
+         <td>Enviar recordatorios automáticos a los usuarios sobre sus citas programadas.</td>
+         <td>2</td>
+    </tr>
+    <tr>
+         <td>20</td>
+         <td>US21</td>
+         <td>Visualización de Historial de Citas</td>
+         <td>Permitir a los usuarios ver el historial de sus citas pasadas con asesores.</td>
+         <td>3</td>
+    </tr>
+    <tr>
+         <td>21</td>
+         <td>US22</td>
+         <td>Cancelación de Citas</td>
+         <td>Permitir a los usuarios cancelar sus citas.</td>
+         <td>5</td>
+    </tr>
+    <tr>
+         <td>22</td>
+         <td>US23</td>
+         <td>Búsqueda y Filtrado de Citas</td>
+         <td>Implementar funcionalidades de búsqueda y filtrado para que los usuarios puedan encontrar citas específicas fácilmente.</td>
+         <td>3</td>
+    </tr>
+    <tr>
+         <td>23</td>
+         <td>TS01</td>
+         <td>Uso de una API para videollamadas</td>
+         <td>Integrar una API que permita realizar videollamadas dentro de la aplicación.</td>
+         <td>5</td>
+    </tr>
+    <tr>
+         <td>24</td>
+         <td>TS02</td>
+         <td>Uso de una API para alojar imágenes</td>
+         <td>Implementar una API que permita a los usuarios subir y almacenar imágenes de manera segura.</td>
+         <td>5</td>
+    </tr>
+    <tr>
+         <td>25</td>
+         <td>US07</td>
+         <td>Gestión de publicaciones de asesores</td>
+         <td>Permitir a los asesores crear y gestionar sus publicaciones.</td>
+         <td>3</td>
+    </tr>
+    <tr>
+         <td>26</td>
+         <td>US08</td>
+         <td>Visualización de publicaciones de los asesores</td>
+         <td>Permitir a los usuarios ver las publicaciones de los asesores.</td>
+         <td>2</td>
+    </tr>
+    <tr>
+         <td>27</td>
+         <td>US09</td>
+         <td>Registro de un usuario nuevo</td>
+         <td>Permitir a nuevos usuarios registrarse en la aplicación.</td>
+         <td>3</td>
     </tr>
     <tr>
          <td>28</td>
@@ -3906,8 +3907,34 @@ Se planeó el segundo sprint a través de una reunión presencial. Para ello, se
 
 #### 5.2.1.2. Sprint Backlog 1
 
+El objetivo de este primer sprint es la implementación y despliegue de la Landing Page y un primer avance del Frontend de la aplicación móvil.
+
+<table><tr><th colspan="1" valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 1</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top">Estimation </td><td colspan="1" valign="top">Assigned To</td><td colspan="1" valign="top">Status (To-Do / In-Process / Review / Done)</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US14</td><td colspan="1" rowspan="2" valign="top">Visualización de la sección de inicio de la Landing Page	</td><td colspan="1" valign="top">WI01</td><td colspan="1" valign="top">Implementación de navbar y footer</td><td colspan="1" valign="top">Se implementa el navbar para navegar por la Landing Page y el footer en la parte inferior.</td><td colspan="1" rowspan="2" valign="top">2</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">WI02</td><td colspan="1" valign="top">Implementación de página de inicio</td><td colspan="1" valign="top">Se implementa la página de inicio de forma responsive y con su archivo css correspondiente.	</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US15</td><td colspan="1" valign="top">Visualización de la sección 'Problemática' de la Landing Page</td><td colspan="1" valign="top">WI03</td><td colspan="1" valign="top">Implementación de página 'Problemática'</td><td colspan="1" valign="top">Se implementa la página sobre la Problemática, de forma responsive y con su archivo css correspondiente.	</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US16</td><td colspan="1" valign="top">Visualización de la sección 'Sobre Nosotros' de la Landing Page</td><td colspan="1" valign="top">WI04</td><td colspan="1" valign="top">Implementación de página 'Sobre Nosotros'</td><td colspan="1" valign="top">Se implementa la página Sobre Nosotros, de forma responsive y con su archivo css correspondiente.	</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US17</td><td colspan="1" valign="top">	Visualización de la sección 'Características' de la Landing Page</td><td colspan="1" valign="top">WI05</td><td colspan="1" valign="top">Implementación de página 'Características'</td><td colspan="1" valign="top">Se implementa la página Características, de forma responsive y con su archivo css correspondiente.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US18</td><td colspan="1" valign="top">Visualización de la sección 'Contacto' de la Landing Page</td><td colspan="1" valign="top">WI06</td><td colspan="1" valign="top">Implementación de página 'Contacto'</td><td colspan="1" valign="top">Se implementa la página Contacto, de forma responsive y con su archivo css correspondiente.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Sebastian Paredes</td><td colspan="1" valign="top">Done</td></tr>
+</table>
+
 #### 5.2.1.3. Development Evidence for Sprint Review
 
+A continuación, se detallan los commits realizados, los cuales se trabajaron a partir de las tareas asignadas a cada miembro como se muestra en el Sprint Backlog 1. De este modo, se trabajó en la Landing Page y Frontend.
+
+Repositorio Landing Page: <https://github.com/AgroSupport-UPC/Landing-Page>
+
+Repositorio Frontend: <https://github.com/AgroSupport-UPC/Frontend>
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroSupport-UPC/Landing-Page|main|308a78d|chore: initial commit|19/09/2024|
+|AgroSupport-UPC/Landing-Page|feature/us14|df6454b|feat: home page|19/09/2024|
+|AgroSupport-UPC/Landing-Page|feature/us15|260ad85|feat: about app (problematic) page|19/09/2024|
+|AgroSupport-UPC/Landing-Page|feature/us16|dde2859|feat: about us section|19/09/2024|
+|AgroSupport-UPC/Landing-Page|feature/us17|210ee22|feat: feature section added|20/09/2024|
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
