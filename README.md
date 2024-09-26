@@ -3919,10 +3919,11 @@ El objetivo de este primer sprint es la implementación y despliegue de la Landi
 <tr><td colspan="1" valign="top">US17</td><td colspan="1" valign="top">	Visualización de la sección 'Características' de la Landing Page</td><td colspan="1" valign="top">WI05</td><td colspan="1" valign="top">Implementación de página 'Características'</td><td colspan="1" valign="top">Se implementa la página Características, de forma responsive y con su archivo css correspondiente.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">Done</td></tr>
 <tr><td colspan="1" valign="top">US18</td><td colspan="1" valign="top">Visualización de la sección 'Contacto' de la Landing Page</td><td colspan="1" valign="top">WI06</td><td colspan="1" valign="top">Implementación de página 'Contacto'</td><td colspan="1" valign="top">Se implementa la página Contacto, de forma responsive y con su archivo css correspondiente.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Sebastian Paredes</td><td colspan="1" valign="top">Done</td></tr>
 <tr><td colspan="1" valign="top">US20</td><td colspan="1" valign="top">Pantalla de inicio</td><td colspan="1" valign="top">WI07</td><td colspan="1" valign="top">Implementación de pantalla de inicio</td><td colspan="1" valign="top">Se implementa la pantalla de inicio para que el usuario pueda navegar por la aplicación con facilidad.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
-<tr><td colspan="1" valign="top">US01</td><td colspan="1" valign="top">Visualización del catálogo de asesores</td><td colspan="1" valign="top">WI08</td><td colspan="1" valign="top">Implementación de listado de asesores</td><td colspan="1" valign="top">Se implementa la pantalla para visualizar el listado de asesores con los cuales poder programar citas-.</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
-<tr><td colspan="1" rowspan="2" valign="top">US02</td><td colspan="1" rowspan="2" valign="top">Visualización de información de un asesor</td><td colspan="1" valign="top">WI09</td><td colspan="1" valign="top">Implementación de vista de detalles de asesor</td><td colspan="1" valign="top">Se implementa la vista para visualizar la información esencial de un asesor específico, mostrando su descripción, ocupación y experiencia.</td><td colspan="1" rowspan="2" valign="top">3</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
-<tr><td colspan="1" valign="top">WI10</td><td colspan="1" valign="top">Implementación de listado de reseñas</td><td colspan="1" valign="top">Se implementa la pantalla que muestra el listado de las reseñas del asesor realizadas por otros granjeros en la aplicación.</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
-<tr><td colspan="1" valign="top">US21</td><td colspan="1" valign="top">Visualización de Historial de Citas</td><td colspan="1" valign="top">WI11</td><td colspan="1" valign="top">Implementación de listado de citas</td><td colspan="1" valign="top">Se implementa la pantalla para que el usuario pueda visualizar el listado de citas que ha tenido.</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US01</td><td colspan="1" rowspan="2" valign="top">Visualización del catálogo de asesores</td><td colspan="1" valign="top">WI08</td><td colspan="1" valign="top">Implementación de listado de asesores</td><td colspan="1" valign="top">Se implementa la pantalla para visualizar el listado de asesores con los cuales poder programar citas.</td><td colspan="1" rowspan="2" valign="top">3</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">WI09</td><td colspan="1" valign="top">Implementación de búsqueda y filtrado</td><td colspan="1" valign="top">Se implementa la funcionalidad para buscar y filtrar asesores.</td><td colspan="1" valign="top">Sebastian Paredes</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US02</td><td colspan="1" rowspan="2" valign="top">Visualización de información de un asesor</td><td colspan="1" valign="top">WI10</td><td colspan="1" valign="top">Implementación de vista de detalles de asesor</td><td colspan="1" valign="top">Se implementa la vista para visualizar la información esencial de un asesor específico, mostrando su descripción, ocupación y experiencia.</td><td colspan="1" rowspan="2" valign="top">3</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">WI11</td><td colspan="1" valign="top">Implementación de listado de reseñas</td><td colspan="1" valign="top">Se implementa la pantalla que muestra el listado de las reseñas del asesor realizadas por otros granjeros en la aplicación.</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US21</td><td colspan="1" valign="top">Visualización de Historial de Citas</td><td colspan="1" valign="top">WI12</td><td colspan="1" valign="top">Implementación de listado de citas</td><td colspan="1" valign="top">Se implementa la pantalla para que el usuario pueda visualizar el listado de citas que ha tenido.</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">Done</td></tr>
 </table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review
@@ -3964,6 +3965,9 @@ Repositorio Frontend: <https://github.com/AgroSupport-UPC/Frontend>
 |AgroSupport-UPC/Frontend|feature/us21|0e52ebc|feat: appointment list & history added|25/09/2024|
 |AgroSupport-UPC/Frontend|feature/us21|4345c63|feat: constants on view model Appointments updated|25/09/2024|
 |AgroSupport-UPC/Frontend|feature/us21|3939e05|feat: added folders & connection with backend|25/09/2024|
+|AgroSupport-UPC/Frontend|feature/us21|421075a|feat: advisor filter|25/09/2024|
+|AgroSupport-UPC/Frontend|feature/us21|e45b783|feat: logo & code optimization|25/09/2024|
+
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
@@ -3981,6 +3985,8 @@ Repositorio Acceptance Tests: <https://github.com/AgroSupport-UPC/Acceptance-Tes
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+En este caso, no se ha trabajado con ninguna API externa, ni se ha desarrollado la API propia, por lo que no se ha documentado ningún servicio.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 #### 5.2.1.8. Team Collaboration Insights during Sprint
     
