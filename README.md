@@ -3897,11 +3897,11 @@ Se planeó el segundo sprint a través de una reunión presencial. Para ello, se
   </tr>
   <tr>
     <th>Sprint 1 Velocity</th>
-    <td>21</td>
+    <td>28</td>
   </tr>
   <tr>
     <th>Sum of Story Points</th>
-    <td>21</td>
+    <td>28</td>
   </tr>
 </table>
 
@@ -3924,6 +3924,8 @@ El objetivo de este primer sprint es la implementación y despliegue de la Landi
 <tr><td colspan="1" rowspan="2" valign="top">US02</td><td colspan="1" rowspan="2" valign="top">Visualización de información de un asesor</td><td colspan="1" valign="top">WI10</td><td colspan="1" valign="top">Implementación de vista de detalles de asesor</td><td colspan="1" valign="top">Se implementa la vista para visualizar la información esencial de un asesor específico, mostrando su descripción, ocupación y experiencia.</td><td colspan="1" rowspan="2" valign="top">3</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
 <tr><td colspan="1" valign="top">WI11</td><td colspan="1" valign="top">Implementación de listado de reseñas</td><td colspan="1" valign="top">Se implementa la pantalla que muestra el listado de las reseñas del asesor realizadas por otros granjeros en la aplicación.</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
 <tr><td colspan="1" valign="top">US21</td><td colspan="1" valign="top">Visualización de Historial de Citas</td><td colspan="1" valign="top">WI12</td><td colspan="1" valign="top">Implementación de listado de citas</td><td colspan="1" valign="top">Se implementa la pantalla para que el usuario pueda visualizar el listado de citas que ha tenido.</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US03</td><td colspan="1" valign="top">Visualización de horarios de asesores</td><td colspan="1" valign="top">WI13</td><td colspan="1" valign="top">Implementación de visualización de horarios de un asesor</td><td colspan="1" valign="top">Se implementa la vista para que el granjero pueda visualizar los horarios de disponibilidad que tiene un asesor.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Sebastian Paredes</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US04</td><td colspan="1" valign="top">Programación de citas con asesores</td><td colspan="1" valign="top">WI14</td><td colspan="1" valign="top">Implementación de vista para programar una cita</td><td colspan="1" valign="top">Se implementa la pantalla para que el granjero pueda programar una cita con un asesor.</td><td colspan="1" valign="top">5</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
 </table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review
@@ -3967,6 +3969,7 @@ Repositorio Frontend: <https://github.com/AgroSupport-UPC/Frontend>
 |AgroSupport-UPC/Frontend|feature/us21|3939e05|feat: added folders & connection with backend|25/09/2024|
 |AgroSupport-UPC/Frontend|feature/us21|421075a|feat: advisor filter|25/09/2024|
 |AgroSupport-UPC/Frontend|feature/us21|e45b783|feat: logo & code optimization|25/09/2024|
+|AgroSupport-UPC/Frontend|feature/us21|bf9504b|feat: appointment creation|26/09/2024|
 
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
