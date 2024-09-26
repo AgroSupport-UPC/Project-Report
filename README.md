@@ -2455,7 +2455,7 @@ Para Agrosupport, hemos desarrollado un sistema de etiquetado claro y conciso pa
       <td>Se implementará un botón que permitirá visualizar la información de las citas registradas.</td>
   </tr>
   <tr>
-      <th>My publications - Mis publicaciones</th>
+      <th>My posts - Mis publicaciones</th>
       <td>Se implementará un botón que permitirá al usuario ver el historial de sus publicaciones de ofertas de trabajo.</td>
   </tr>
   <tr>
@@ -3257,14 +3257,14 @@ _Imagen 165. Diagrama de Componentes: Profile_
 
 _Imagen 166. Diagrama de Componentes: Appointment_
 
-<img alt="Diagrama de Componentes: Publication" src="img/C4-PublicationComponentDiagram.png">
+<img alt="Diagrama de Componentes: Post" src="img/C4-PublicationComponentDiagram.png">
 
-_Imagen 167. Diagrama de Componentes: Publication_
+_Imagen 167. Diagrama de Componentes: Post_
 
 ### 3.2.2. Software Object-Oriented Design
 #### 3.2.2.1. Class Diagrams
 
-Los diagramas de clase son herramientas cruciales en el diseño de sistemas orientados a objetos, ya que proporcionan una representación visual de las clases y sus relaciones dentro del sistema. En esta sección, se presentarán los diagramas de clase que detallan la estructura de cada bounded context: Profile, Appointment y Publication.
+Los diagramas de clase son herramientas cruciales en el diseño de sistemas orientados a objetos, ya que proporcionan una representación visual de las clases y sus relaciones dentro del sistema. En esta sección, se presentarán los diagramas de clase que detallan la estructura de cada bounded context: Profile, Appointment y Post.
 
 
 <img alt="Diagrama de Clase: Profile" src="img/ClassDiagram_Profile.png">
@@ -3275,9 +3275,9 @@ _Imagen 168. Diagrama de Clase: Profile_
 
 _Imagen 169. Diagrama de Clase: Appointment_
 
-<img alt="Diagrama de Clase: Publication" src="img/ClassDiagram_Publication.png">
+<img alt="Diagrama de Clase: Post" src="img/ClassDiagram_Publication.png">
 
-_Imagen 170. Diagrama de Clase: Publication_
+_Imagen 170. Diagrama de Clase: Post_
 
 #### 3.2.2.2. Class Dictionary
 
@@ -3332,8 +3332,8 @@ En esta sección, se especificarán las características detalladas de cada clas
             <td>Representa los estados posibles de una cita: <em>PENDING</em>, <em>ONGOING</em>, <em>COMPLETED</em>, <em>REVIEWED</em>.</td>
         </tr>
         <tr>
-            <td>Publication</td>
-            <td>Representa una publicación hecha por un asesor. Incluye atributos como <em>id</em>, <em>title</em>, <em>description</em>, <em>image</em>, y un <em>advisor</em> asociado. Método principal: <em>getPublication()</em>.</td>
+            <td>Post</td>
+            <td>Representa una publicación hecha por un asesor. Incluye atributos como <em>id</em>, <em>title</em>, <em>description</em>, <em>image</em>, y un <em>advisor</em> asociado. Método principal: <em>getPost()</em>.</td>
         </tr>
     </tbody>
 </table>
@@ -3375,7 +3375,7 @@ El diseño de la base de datos es fundamental para garantizar una estructura só
             <td>Guarda información detallada sobre los usuarios, como el nombre del usuario, su país de origen, la url de su foto de perfil, etc.</td>
         </tr>
         <tr>
-            <td><strong>Publications</strong></td>
+            <td><strong>Posts</strong></td>
             <td>Almacena la información de las publicaciones de los asesores, incluyendo su título, descripción e imagen relacionada.</td>
         </tr>
         <tr>
@@ -3401,7 +3401,7 @@ El diseño de la base de datos es fundamental para garantizar una estructura só
 
 El diagrama de base de datos proporciona una representación visual de la estructura y las relaciones de las tablas dentro del sistema de gestión de base de datos.
 
-<img alt="Diagrama de Base de Datos" src="img/database2.png">
+<img alt="Diagrama de Base de Datos" src="img/database.png">
 
 _Imagen 171. Diagrama de base de datos_
 
