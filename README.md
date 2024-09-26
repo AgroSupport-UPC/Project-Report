@@ -3728,6 +3728,79 @@ Cada integrante trabajó en ramas "feature" correspondientes a sus tareas asigna
 
 _Imagen 181. Insights en GitHub_
 
+#### 4.2.2.4. Testing Suite Evidence for Sprint Review
+
+#### 4.2.2.5. Execution Evidence for Sprint Review
+
+#### 4.2.1.6. Services Documentation Evidence for Sprint Review
+
+Para este sprint, hemos implementado nuevos endpoints que facilitan la recolección de información en la aplicación móvil.
+
+Los nuevos endpoints implementados son los siguientes:
+
+|Método|Endpoint|Descripción|
+|--|--|--|
+|GET|/api/v1/advisors/{userId}/user|Se obtiene el asesor por userId|
+|GET|/api/v1/farmers/{userId}/user|Se obtiene el granjero por userId|
+|GET|/api/v1/profiles/{userId}/user|Se obtiene el perfil por userId|
+|GET|/api/v1/profiles/advisors|Se obtiene los perfiles de asesores|
+|GET|/api/v1/reviews/{advisorId}/advisor|Se obtienen las reseñas por advisorId|
+|GET|/api/v1/appointments/{advisorId}/advisor|Se obtienen las asesorias por advisorId|
+|GET|/api/v1/appointments/{farmerId}/farmer|Se obtienen las asesorias por farmerId|
+|GET|/api/v1/appointments/{advisorId}/advisor/{farmerId}/farmer|Se obtienen las asesorias por farmerId y advisorId|
+
+Enlace al API deployado: http://agrosupport-ewdyg8e2hjbwdge7.eastus-01.azurewebsites.net/
+
+#### 4.2.1.7. Software Deployment Evidence for Sprint Review
+
+Para desplegar el Web Service se utilizó el mismo método que el sprint 1 con Docker para poner la aplicación en un contenedor, y Azure para alojar el contenedor.
+
+Primero, se actualizó la carpeta target con los archivos que conforman la aplicación.
+
+<img src="img/backend_sprint2_deployment1.png" alt="Backend Execution Evidence Sprint 2">
+
+_Imagen 18X. Evidencia de deployment_
+
+Además, se creó una nueva imagen de Docker de la aplicación.
+
+<img src="img/backend_sprint2_deployment2.png" alt="Backend Execution Evidence Sprint 2">
+
+_Imagen 18X. Evidencia de deployment_
+
+Luego, se subió una nueva imagen de la aplicación a Docker Hub.
+
+<img src="img/backend_sprint2_deployment3.png" alt="Backend Execution Evidence Sprint 2">
+
+_Imagen 18X. Evidencia de deployment_
+
+Por otro lado, se creó el Web App en Azure con las configuraciones básicas y la nueva imagen.
+
+<img src="img/backend_sprint2_deployment4.png" alt="Backend Execution Evidence Sprint 2">
+
+_Imagen 18X. Evidencia de deployment_
+
+<img src="img/backend_sprint2_deployment5.png" alt="Backend Execution Evidence Sprint 2">
+
+_Imagen 18X. Evidencia de deployment_
+
+Finalmente, se inicializó el Web App.
+
+<img src="img/backend_sprint2_deployment6.png" alt="Backend Execution Evidence Sprint 2">
+
+_Imagen 18X. Evidencia de deployment_
+
+Evidencia del funcionamiento:
+
+#### 4.2.1.8. Team Collaboration Insights during Sprint
+
+Durante el desarrollo del sprint, se realizaron reuniones diarias para revisar el avance de las tareas asignadas y resolver cualquier impedimento que pudiera surgir. Además, se mantuvo una comunicación constante a través de WhatsApp para coordinar las actividades y compartir información relevante. Gracias a esta colaboración, se logró cumplir con los objetivos establecidos para el sprint y se mantuvo un ambiente de trabajo armonioso y productivo.
+
+Cada integrante trabajó en ramas "feature" correspondientes a sus tareas asignadas. Posteriormente, realizamos los "merge" con la rama "develop", hicimos el "release" y finalmente integramos los cambios en la rama "main".
+
+<img src="img/team-collaboration-insights-backend-sprint-2.png" alt="Team Collaboration Insights - Backend Sprint 2">
+
+_Imagen 181. Insights en GitHub_
+
 # Capítulo 5: Product Implementation & Validation
 
 ## 5.1. Software Configuration Management
