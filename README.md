@@ -3985,6 +3985,10 @@ Repositorio Acceptance Tests: <https://github.com/AgroSupport-UPC/Acceptance-Tes
 |AgroSupport-UPC/Acceptance-Tests|main|5357982 |feat: US16.feature added|19/09/2024|
 |AgroSupport-UPC/Acceptance-Tests|main|97427f3 |feat: US17.feature added|19/09/2024|
 |AgroSupport-UPC/Acceptance-Tests|main|edec1d0 |feat: US18.feature added|19/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|0092f15 |feat: US01.feature added|26/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|b4e47ab |feat: US02.feature & US03.feature added|26/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|6e7d933 |feat: US04.feature added|26/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|9b2b1c5 |feat: US20.feature & US21.feature added|26/09/2024|
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
