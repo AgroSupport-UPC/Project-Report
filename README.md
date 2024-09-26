@@ -2232,59 +2232,59 @@ Este Product Backlog presenta una lista priorizada de las User Stories para el d
     </tr>
     <tr>
          <td>13</td>
+         <td>US21</td>
+         <td>Visualización de Historial de Citas</td>
+         <td>Permitir a los usuarios ver el historial de sus citas pasadas con asesores.</td>
+         <td>3</td>
+    </tr>
+    <tr>
+         <td>14</td>
          <td>US03</td>
          <td>Visualización de horarios de asesores</td>
          <td>Permitir a los usuarios ver la disponibilidad de los asesores para programar citas.</td>
          <td>2</td>
     </tr>
     <tr>
-         <td>14</td>
+         <td>15</td>
          <td>US04</td>
          <td>Programación de citas con asesores</td>
          <td>Implementar la funcionalidad para que los usuarios puedan reservar citas con asesores.</td>
          <td>5</td>
     </tr>
     <tr>
-         <td>15</td>
+         <td>16</td>
          <td>US05</td>
          <td>Calificación del asesor luego de una cita</td>
          <td>Permitir a los usuarios calificar a los asesores después de una cita.</td>
          <td>3</td>
     </tr>
     <tr>
-         <td>16</td>
+         <td>17</td>
          <td>US06</td>
          <td>Separación de horarios de disponibilidad para asesorías</td>
          <td>Gestionar y separar los horarios de los asesores según su disponibilidad.</td>
          <td>5</td>
     </tr>
     <tr>
-         <td>17</td>
+         <td>18</td>
          <td>US10</td>
          <td>Inicio de sesión</td>
          <td>Implementar la funcionalidad de inicio de sesión para usuarios registrados.</td>
          <td>2</td>
     </tr>
     <tr>
-         <td>18</td>
+         <td>19</td>
          <td>US11</td>
          <td>Recuperación de contraseña</td>
          <td>Permitir a los usuarios recuperar su contraseña en caso de olvido.</td>
          <td>2</td>
     </tr>
     <tr>
-         <td>19</td>
+         <td>20</td>
          <td>US19</td>
          <td>Recordatorio de Cita</td>
          <td>Enviar recordatorios automáticos a los usuarios sobre sus citas programadas.</td>
          <td>2</td>
-    </tr>
-    <tr>
-         <td>20</td>
-         <td>US21</td>
-         <td>Visualización de Historial de Citas</td>
-         <td>Permitir a los usuarios ver el historial de sus citas pasadas con asesores.</td>
-         <td>3</td>
     </tr>
     <tr>
          <td>21</td>
@@ -3882,11 +3882,11 @@ Se planeó el segundo sprint a través de una reunión presencial. Para ello, se
   </tr>
   <tr>
     <th>Sprint n - 1 Review Summary</th>
-    <td>Se trabajó y desplegó la primera versión del Backend a utilizar la aplicación móvil. Igualmente, faltó algunos detalles a ajustar y mejorar.</td>
+    <td>No se ha trabajado un sprint anterior de implementación del producto.</td>
   </tr>
   <tr>
     <th>Sprint n - 1 Retrospective Summary</th>
-    <td>Se logró trabajar todas las historias de usuario planteadas en el sprint backlog del Backend. Sin embargo, se trabajó con los tiempos muy ajustados entre todos los miembros del equipo, por lo que se espera mejorar eso en este segundo sprint.</td>
+    <td>No se ha trabajado un sprint anterior de implementación del producto.</td>
   </tr>
   <tr>
     <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
@@ -3897,11 +3897,11 @@ Se planeó el segundo sprint a través de una reunión presencial. Para ello, se
   </tr>
   <tr>
     <th>Sprint 1 Velocity</th>
-    <td>31</td>
+    <td>21</td>
   </tr>
   <tr>
     <th>Sum of Story Points</th>
-    <td>31</td>
+    <td>21</td>
   </tr>
 </table>
 
@@ -3918,6 +3918,11 @@ El objetivo de este primer sprint es la implementación y despliegue de la Landi
 <tr><td colspan="1" valign="top">US16</td><td colspan="1" valign="top">Visualización de la sección 'Sobre Nosotros' de la Landing Page</td><td colspan="1" valign="top">WI04</td><td colspan="1" valign="top">Implementación de página 'Sobre Nosotros'</td><td colspan="1" valign="top">Se implementa la página Sobre Nosotros, de forma responsive y con su archivo css correspondiente.	</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
 <tr><td colspan="1" valign="top">US17</td><td colspan="1" valign="top">	Visualización de la sección 'Características' de la Landing Page</td><td colspan="1" valign="top">WI05</td><td colspan="1" valign="top">Implementación de página 'Características'</td><td colspan="1" valign="top">Se implementa la página Características, de forma responsive y con su archivo css correspondiente.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">Done</td></tr>
 <tr><td colspan="1" valign="top">US18</td><td colspan="1" valign="top">Visualización de la sección 'Contacto' de la Landing Page</td><td colspan="1" valign="top">WI06</td><td colspan="1" valign="top">Implementación de página 'Contacto'</td><td colspan="1" valign="top">Se implementa la página Contacto, de forma responsive y con su archivo css correspondiente.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Sebastian Paredes</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US20</td><td colspan="1" valign="top">Pantalla de inicio</td><td colspan="1" valign="top">WI07</td><td colspan="1" valign="top">Implementación de pantalla de inicio</td><td colspan="1" valign="top">Se implementa la pantalla de inicio para que el usuario pueda navegar por la aplicación con facilidad.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US01</td><td colspan="1" valign="top">Visualización del catálogo de asesores</td><td colspan="1" valign="top">WI08</td><td colspan="1" valign="top">Implementación de listado de asesores</td><td colspan="1" valign="top">Se implementa la pantalla para visualizar el listado de asesores con los cuales poder programar citas-.</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US02</td><td colspan="1" rowspan="2" valign="top">Visualización de información de un asesor</td><td colspan="1" valign="top">WI09</td><td colspan="1" valign="top">Implementación de vista de detalles de asesor</td><td colspan="1" valign="top">Se implementa la vista para visualizar la información esencial de un asesor específico, mostrando su descripción, ocupación y experiencia.</td><td colspan="1" rowspan="2" valign="top">3</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">WI10</td><td colspan="1" valign="top">Implementación de listado de reseñas</td><td colspan="1" valign="top">Se implementa la pantalla que muestra el listado de las reseñas del asesor realizadas por otros granjeros en la aplicación.</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US21</td><td colspan="1" valign="top">Visualización de Historial de Citas</td><td colspan="1" valign="top">WI11</td><td colspan="1" valign="top">Implementación de listado de citas</td><td colspan="1" valign="top">Se implementa la pantalla para que el usuario pueda visualizar el listado de citas que ha tenido.</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">Done</td></tr>
 </table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review
@@ -3942,6 +3947,23 @@ Repositorio Frontend: <https://github.com/AgroSupport-UPC/Frontend>
 |AgroSupport-UPC/Landing-Page|feature/us18|c628083|feat: contact section|20/09/2024|
 |AgroSupport-UPC/Landing-Page|develop|22d80b0|Merge pull request #5 from AgroSupport-UPC/feature/us18|20/09/2024|
 |AgroSupport-UPC/Landing-Page|main|d6a4808|Merge pull request #6 from AgroSupport-UPC/develop|20/09/2024|
+|AgroSupport-UPC/Frontend|main|122b636|chore: initial commit (base project)|19/09/2024|
+|AgroSupport-UPC/Frontend|main|57fa08c|chore: add dependencies|19/09/2024|
+|AgroSupport-UPC/Frontend|main|a9b7013|chore: add picasso dependency|20/09/2024|
+|AgroSupport-UPC/Frontend|feature/us20|9d44345|feat: farmer home screen|20/09/2024|
+|AgroSupport-UPC/Frontend|develop|516ba6b|Merge pull request #1 from AgroSupport-UPC/feature/US20|20/09/2024|
+|AgroSupport-UPC/Frontend|feature/us01|081a074|feat: advisor catalogue|20/09/2024|
+|AgroSupport-UPC/Frontend|develop|92b1a72|Merge pull request #2 from AgroSupport-UPC/feature/US01|21/09/2024|
+|AgroSupport-UPC/Frontend|feature/us02|780dcd1|feat: advisor detail profile view|23/09/2024|
+|AgroSupport-UPC/Frontend|feature/us02|bbc71f8|feat: update advisor detail screen|24/09/2024|
+|AgroSupport-UPC/Frontend|feature/us02|7667b29|feat: add farmer and review components|24/09/2024|
+|AgroSupport-UPC/Frontend|feature/us02|25fe647|feat: review list of advisors|24/09/2024|
+|AgroSupport-UPC/Frontend|feature/us02|df0403b|fix: fixed bug when showing reviews for advisors|24/09/2024|
+|AgroSupport-UPC/Frontend|feature/us02|2e6df5a|feat: update advisor reviews endpoint|24/09/2024|
+|AgroSupport-UPC/Frontend|develop|84c297d|Merge pull request #3 from AgroSupport-UPC/feature/US02|25/09/2024|
+|AgroSupport-UPC/Frontend|feature/us21|0e52ebc|feat: appointment list & history added|25/09/2024|
+|AgroSupport-UPC/Frontend|feature/us21|4345c63|feat: constants on view model Appointments updated|25/09/2024|
+|AgroSupport-UPC/Frontend|feature/us21|3939e05|feat: added folders & connection with backend|25/09/2024|
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
