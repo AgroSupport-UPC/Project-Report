@@ -3729,6 +3729,147 @@ Cada integrante trabajó en ramas "feature" correspondientes a sus tareas asigna
 
 _Imagen 181. Insights en GitHub_
 
+### 4.2.2. Sprint 2
+#### 4.2.2.1. Sprint Planning 2
+
+Se planeó el primer sprint a través de una reunión presencial. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 2</td>
+  </tr>
+  <tr>
+    <th colspan="2"><strong>Sprint Planning Background</strong></th>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>2024-09-16</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>01:00 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>Presencial (En la universidad)</td>
+  </tr>
+  <tr>
+    <th>Prepared by</th>
+    <td>Paredes Puente, Sebastian Roberto</td>
+  </tr>
+  <tr>
+    <th>Attendees (to planning meeting)</th>
+    <td>
+      <p>Delgado Corrales, Piero Gonzalo</p>
+      <p>Matos Fernandez, Christian Andre</p>
+      <p>Paredes Puente, Sebastián Roberto</p>
+      <p>Salinas Torres, Salvador Antonio</p>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint 1 Review Summary</th>
+    <td>En el anterior sprint, se implementó la primera versión del Backend con los metodos HTTP básicos para el funcionamiento de la aplicación.</td>
+  </tr>
+  <tr>
+    <th>Sprint 1 Retrospective Summary</th>
+    <td>Se conversó sobre algunos percances en las fechas de entrega de las tareas de los miembros. Por lo que, se llego a un acuerdo de mejorar el cumplimiento de los plazos.</td>
+  </tr>
+  <tr>
+    <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
+  </tr>
+  <tr>
+    <th>Sprint 2 Goal</th>
+    <td>Realizar el segundo deployment del Backend con endpoints específicos.</td>
+  </tr>
+  <tr>
+    <th>Sprint 2 Velocity</th>
+    <td>10</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>10</td>
+  </tr>
+</table>
+
+#### 4.2.2.2. Sprint Backlog 2
+
+El objetivo de este segundo sprint fue el despliegue de las mejoras del Backend.
+
+<table>
+  <tr>
+    <th colspan="1" valign="top">Sprint #</th>
+    <th colspan="7" valign="top">Sprint 2</th>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">User Story</td>
+    <td colspan="6" valign="top">Work-Item / Task</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">Id</td>
+    <td colspan="1" valign="top">Title</td>
+    <td colspan="1" valign="top">Id</td>
+    <td colspan="1" valign="top">Title</td>
+    <td colspan="1" valign="top">Description</td>
+    <td colspan="1" valign="top">Estimation</td>
+    <td colspan="1" valign="top">Assigned To</td>
+    <td colspan="1" valign="top">Status (To-Do / In-Process / Review / Done)</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2" valign="top">TS03</td>
+    <td colspan="1" rowspan="2" valign="top">Uso de nuestra API para gestionar perfiles</td>
+    <td colspan="1" valign="top">WI01</td>
+    <td colspan="1" valign="top">Implementación de nuevos protocolos HTTP para perfiles</td>
+    <td colspan="1" valign="top">Se implementan protocolos HTTP que se usaran en la aplicacion para obtener informacion de perfiles de granjeros.</td>
+    <td colspan="1" rowspan="2" valign="top">6</td>
+    <td colspan="1" valign="top">Piero Delgado</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">WI01</td>
+    <td colspan="1" valign="top">Implementación de nuevos protocolos HTTP para perfiles</td>
+    <td colspan="1" valign="top">Se implementan protocolos HTTP que se usaran en la aplicacion para obtener informacion de perfiles de asesores.</td>
+    <td colspan="1" valign="top">Sebastian Paredes</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2" valign="top">TS04</td>
+    <td colspan="1" rowspan="2" valign="top">Uso de nuestra API para gestionar asesorías</td>
+    <td colspan="1" valign="top">WI02</td>
+    <td colspan="1" valign="top">Implementación de nuevos protocolos HTTP para citas</td>
+    <td colspan="1" valign="top">Se implementan protocolos HTTP que se usaran en la aplicacion para obtener informacion de asesorias de un granjero específico.</td>
+    <td colspan="1" rowspan="2" valign="top">6</td>
+    <td colspan="1" valign="top">Christian Matos</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">WI03</td>
+    <td colspan="1" valign="top">Implementación de protocolos HTTP para reseñas</td>
+    <td colspan="1" valign="top">Se implementan protocolos HTTP que se usaran en la aplicacion para obtener informacion de reseñas de un asesor específico.</td>
+    <td colspan="1" valign="top">Salvador Salinas</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+</table>
+
+#### 4.2.2.3. Development Evidence for Sprint Review
+
+A continuación, se detallan los commits realizados, los cuales se trabajaron a partir de las tareas asignadas a cada miembro como se muestra en el Sprint Backlog 2.
+
+Repositorio Backend: https://github.com/AgroSupport-UPC/Backend
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroSupport-UPC/Backend|feature/TS06|b13efec|feat: automatic advisor & farmer creation|20/09/2024|
+|AgroSupport-UPC/Backend|feature/TS06|18e5708|feat: change advisor command service|20/09/2024|
+|AgroSupport-UPC/Backend|feature/TS03|d64a08e|feat: new profile & advisor endpoints|20/09/2024|
+|AgroSupport-UPC/Backend|feature/TS06|76018f8|feat: add new endpoint farmer by userId|24/09/2024|
+|AgroSupport-UPC/Backend|feature/TS04|d8da834|feat: new endpoint for advisor reviews|24/09/2024|
+|AgroSupport-UPC/Backend|feature/TS04|b7f5be6|feat: update reviews advisor endpoint|24/09/2024|
+|AgroSupport-UPC/Backend|feature/TS04|6ee5b84|feat: endpoints appointments added|25/09/2024|
+|AgroSupport-UPC/Backend|feature/TS04|72e4d0d|feat: update endpoints|25/09/2024|
+|AgroSupport-UPC/Backend|release|37f08b4|feat: deployment changes|25/09/2024|
+|AgroSupport-UPC/Backend|main|e41fd73|Merge pull request #8 from AgroSupport-UPC/release|26/09/2024|
+
 # Capítulo 5: Product Implementation & Validation
 
 ## 5.1. Software Configuration Management
@@ -3992,7 +4133,7 @@ Repositorio Acceptance Tests: <https://github.com/AgroSupport-UPC/Acceptance-Tes
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
-En este caso, no se ha trabajado con ninguna API externa, ni se ha desarrollado la API propia, por lo que no se ha documentado ningún servicio.
+En este caso, la documentación del API se hizo en el capítulo 4.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 #### 5.2.1.8. Team Collaboration Insights during Sprint
