@@ -4003,7 +4003,18 @@ Repositorio Acceptance Tests: <https://github.com/AgroSupport-UPC/Acceptance-Tes
 |AgroSupport-UPC/Acceptance-Tests|main|edec1d0 |feat: US18.feature added|19/09/2024|
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+En esta sección, se detallará lo avanzado en el segundo sprint, el cual incluye el despliegue del servicio web en Swagger y la implementación de la aplicación móvil frontend de AgroSupport utilizando los servicios de algunos endpoints.
+
+**URL de video:**
+[Execution Evidence](https://youtu.be/v75W4XJ2dnE)
+
+<img src="img/execution-evidence-2.png" width="100%"> 
+
+_Imagen X. commits - landing-page_
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
