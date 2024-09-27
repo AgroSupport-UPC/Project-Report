@@ -203,6 +203,15 @@
       - [4.2.1.6. Services Documentation Evidence for Sprint Review](#4216-services-documentation-evidence-for-sprint-review)
       - [4.2.1.7. Software Deployment Evidence for Sprint Review](#4217-software-deployment-evidence-for-sprint-review)
       - [4.2.1.8. Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)
+    - [4.2.2. Sprint 2](#422-sprint-2)
+      - [4.2.2.1. Sprint Planning 2](#4221-sprint-planning-2)
+      - [4.2.2.2. Sprint Backlog 2](#4222-sprint-backlog-2)
+      - [4.2.2.3. Development Evidence for Sprint Review](#4223-development-evidence-for-sprint-review)
+      - [4.2.2.4. Testing Suite Evidence for Sprint Review](#4224-testing-suite-evidence-for-sprint-review)
+      - [4.2.2.5. Execution Evidence for Sprint Review](#4225-execution-evidence-for-sprint-review)
+      - [4.2.2.6. Services Documentation Evidence for Sprint Review](#4226-services-documentation-evidence-for-sprint-review)
+      - [4.2.2.7. Software Deployment Evidence for Sprint Review](#4227-software-deployment-evidence-for-sprint-review)
+      - [4.2.2.8. Team Collaboration Insights during Sprint](#4228-team-collaboration-insights-during-sprint)
 
 [Capítulo 5: Product Implementation & Validation](#Capítulo-5-Product-Implementation--Validation)
   - [5.1. Software Configuration Management](#51-software-configuration-management)
@@ -211,9 +220,9 @@
     - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
   - [5.2. Software Development & Implementation](#52-software-development--implementation)
-    - [5.2.1. Sprint 2](#521-sprint-2)
-      - [5.2.1.1. Sprint Planning 2](#5211-sprint-planning-2)
-      - [5.2.1.2. Sprint Backlog 2](#5212-sprint-backlog-2)
+    - [5.2.1. Sprint 1](#521-sprint-1)
+      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+      - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
       - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
       - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
       - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
@@ -1468,7 +1477,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       </tr>
       <tr>
         <td>US20</td>
-        <td>Confirmación de Asistencia</td>
+        <td>Pantalla de inicio</td>
       </tr>
       <tr>
         <td>US21</td>
@@ -1476,7 +1485,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       </tr>
       <tr>
         <td>US22</td>
-        <td>Reprogramación de Citas</td>
+        <td>Cancelación de Citas</td>
       </tr>
       <tr>
         <td>US23</td>
@@ -1921,13 +1930,13 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
     </tr>
     <tr>
       <td>US20</td>
-      <td>Confirmación de Asistencia</td>
-      <td>Como usuario, quiero confirmar mi asistencia a las citas programadas para asegurarme de que la reunión se llevará a cabo.</td>
+      <td>Pantalla de inicio</td>
+      <td>Como usuario, quiero ver una pantalla de inicio sencilla para navegar y explorar las funcionalidades de la aplicación fácilmente.</td>
       <td>
-        <strong>Escenario 1: Confirmación de asistencia</strong><br>
-        <strong>Given</strong> el usuario tiene una cita programada.<br>
-        <strong>When</strong> recibe la invitación para la cita.<br>
-        <strong>Then</strong> podrá confirmar su asistencia a la cita a través de la aplicación, y el organizador recibirá una notificación de confirmación.
+        <strong>Escenario 1: Pantalla de inicio de la aplicación</strong><br>
+        <strong>Given</strong> el usuario ha ingresado a la aplicación.<br>
+        <strong>When</strong> inicie sesión correctamente.<br>
+        <strong>Then</strong> el sistema lo derivará a la pantalla de inicio y visualizará las opciones para navegar por la aplicación.
       </td>
       <td>1</td>
     </tr>
@@ -1945,13 +1954,14 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
     </tr>
     <tr>
       <td>US22</td>
-      <td>Reprogramación de Citas</td>
-      <td>Como usuario, quiero poder reprogramar mis citas existentes para ajustarlas a mis nuevas disponibilidades o necesidades.</td>
+      <td>Cancelación de Citas</td>
+      <td>Como usuario, quiero poder cancelar mis citas existentes para ajustarlas a mis nuevas disponibilidades o necesidades.</td>
       <td>
-        <strong>Escenario 1: Reprogramación de una cita</strong><br>
-        <strong>Given</strong> el usuario tiene una cita programada y desea cambiar la fecha o la hora.<br>
-        <strong>When</strong> selecciona la opción para reprogramar la cita y elige una nueva fecha y hora.<br>
-        <strong>Then</strong> el sistema actualizará la cita con la nueva información y notificará al usuario y al asesor sobre el cambio.
+        <strong>Escenario 1: Cancelación de una cita</strong><br>
+        <strong>Given</strong> el usuario tiene una cita programada y desea cancelarla.<br>
+        <strong>When</strong> selecciona la cita del listado de citas.<br>
+        <strong>And</strong> selecciona la opción para cancelar la cita.<br>
+        <strong>Then</strong> el sistema cancelará la cita y notificará al usuario y al asesor sobre el cambio.
       </td>
       <td>1</td>
     </tr>
@@ -2210,30 +2220,30 @@ Este Product Backlog presenta una lista priorizada de las User Stories para el d
     </tr>
     <tr>
          <td>10</td>
-         <td>TS01</td>
-         <td>Uso de una API para videollamadas</td>
-         <td>Integrar una API que permita realizar videollamadas dentro de la aplicación.</td>
-         <td>5</td>
+         <td>US20</td>
+         <td>Pantalla de inicio</td>
+         <td>Implementar una pantalla de inicio que permita a los usuarios navegar por la aplicación con facilidad.</td>
+         <td>2</td>
     </tr>
     <tr>
          <td>11</td>
-         <td>TS02</td>
-         <td>Uso de una API para alojar imágenes</td>
-         <td>Implementar una API que permita a los usuarios subir y almacenar imágenes de manera segura.</td>
-         <td>5</td>
-    </tr>
-    <tr>
-         <td>12</td>
          <td>US01</td>
          <td>Visualización del catálogo de asesores</td>
          <td>Permitir a los usuarios ver una lista completa de asesores disponibles.</td>
          <td>3</td>
     </tr>
     <tr>
-         <td>13</td>
+         <td>12</td>
          <td>US02</td>
          <td>Visualización de información de un asesor</td>
          <td>Mostrar detalles sobre un asesor específico, incluyendo su perfil, experiencia y áreas de especialización.</td>
+         <td>3</td>
+    </tr>
+    <tr>
+         <td>13</td>
+         <td>US21</td>
+         <td>Visualización de Historial de Citas</td>
+         <td>Permitir a los usuarios ver el historial de sus citas pasadas con asesores.</td>
          <td>3</td>
     </tr>
     <tr>
@@ -2266,30 +2276,30 @@ Este Product Backlog presenta una lista priorizada de las User Stories para el d
     </tr>
     <tr>
          <td>18</td>
+         <td>US10</td>
+         <td>Inicio de sesión</td>
+         <td>Implementar la funcionalidad de inicio de sesión para usuarios registrados.</td>
+         <td>2</td>
+    </tr>
+    <tr>
+         <td>19</td>
+         <td>US11</td>
+         <td>Recuperación de contraseña</td>
+         <td>Permitir a los usuarios recuperar su contraseña en caso de olvido.</td>
+         <td>2</td>
+    </tr>
+    <tr>
+         <td>20</td>
          <td>US19</td>
          <td>Recordatorio de Cita</td>
          <td>Enviar recordatorios automáticos a los usuarios sobre sus citas programadas.</td>
          <td>2</td>
     </tr>
     <tr>
-         <td>19</td>
-         <td>US20</td>
-         <td>Confirmación de Asistencia</td>
-         <td>Implementar una funcionalidad que permita a los usuarios confirmar su asistencia a las citas programadas.</td>
-         <td>2</td>
-    </tr>
-    <tr>
-         <td>20</td>
-         <td>US21</td>
-         <td>Visualización de Historial de Citas</td>
-         <td>Permitir a los usuarios ver el historial de sus citas pasadas con asesores.</td>
-         <td>3</td>
-    </tr>
-    <tr>
          <td>21</td>
          <td>US22</td>
-         <td>Reprogramación de Citas</td>
-         <td>Permitir a los usuarios reprogramar sus citas con asesores.</td>
+         <td>Cancelación de Citas</td>
+         <td>Permitir a los usuarios cancelar sus citas.</td>
          <td>5</td>
     </tr>
     <tr>
@@ -2301,38 +2311,38 @@ Este Product Backlog presenta una lista priorizada de las User Stories para el d
     </tr>
     <tr>
          <td>23</td>
+         <td>TS01</td>
+         <td>Uso de una API para videollamadas</td>
+         <td>Integrar una API que permita realizar videollamadas dentro de la aplicación.</td>
+         <td>5</td>
+    </tr>
+    <tr>
+         <td>24</td>
+         <td>TS02</td>
+         <td>Uso de una API para alojar imágenes</td>
+         <td>Implementar una API que permita a los usuarios subir y almacenar imágenes de manera segura.</td>
+         <td>5</td>
+    </tr>
+    <tr>
+         <td>25</td>
          <td>US07</td>
          <td>Gestión de publicaciones de asesores</td>
          <td>Permitir a los asesores crear y gestionar sus publicaciones.</td>
          <td>3</td>
     </tr>
     <tr>
-         <td>24</td>
+         <td>26</td>
          <td>US08</td>
          <td>Visualización de publicaciones de los asesores</td>
          <td>Permitir a los usuarios ver las publicaciones de los asesores.</td>
          <td>2</td>
     </tr>
     <tr>
-         <td>25</td>
+         <td>27</td>
          <td>US09</td>
          <td>Registro de un usuario nuevo</td>
          <td>Permitir a nuevos usuarios registrarse en la aplicación.</td>
          <td>3</td>
-    </tr>
-    <tr>
-         <td>26</td>
-         <td>US10</td>
-         <td>Inicio de sesión</td>
-         <td>Implementar la funcionalidad de inicio de sesión para usuarios registrados.</td>
-         <td>2</td>
-    </tr>
-    <tr>
-         <td>27</td>
-         <td>US11</td>
-         <td>Recuperación de contraseña</td>
-         <td>Permitir a los usuarios recuperar su contraseña en caso de olvido.</td>
-         <td>2</td>
     </tr>
     <tr>
          <td>28</td>
@@ -3400,7 +3410,7 @@ El diseño de la base de datos es fundamental para garantizar una estructura só
 
 El diagrama de base de datos proporciona una representación visual de la estructura y las relaciones de las tablas dentro del sistema de gestión de base de datos.
 
-<img alt="Diagrama de Base de Datos" src="img/database2.png">
+<img alt="Diagrama de Base de Datos" src="img/database.png">
 
 _Imagen 171. Diagrama de base de datos_
 
@@ -3728,7 +3738,152 @@ Cada integrante trabajó en ramas "feature" correspondientes a sus tareas asigna
 
 _Imagen 181. Insights en GitHub_
 
+### 4.2.2. Sprint 2
+#### 4.2.2.1. Sprint Planning 2
+
+Se planeó el primer sprint a través de una reunión presencial. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 2</td>
+  </tr>
+  <tr>
+    <th colspan="2"><strong>Sprint Planning Background</strong></th>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>2024-09-16</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>01:00 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>Presencial (En la universidad)</td>
+  </tr>
+  <tr>
+    <th>Prepared by</th>
+    <td>Paredes Puente, Sebastian Roberto</td>
+  </tr>
+  <tr>
+    <th>Attendees (to planning meeting)</th>
+    <td>
+      <p>Delgado Corrales, Piero Gonzalo</p>
+      <p>Matos Fernandez, Christian Andre</p>
+      <p>Paredes Puente, Sebastián Roberto</p>
+      <p>Salinas Torres, Salvador Antonio</p>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint 1 Review Summary</th>
+    <td>En el anterior sprint, se implementó la primera versión del Backend con los metodos HTTP básicos para el funcionamiento de la aplicación.</td>
+  </tr>
+  <tr>
+    <th>Sprint 1 Retrospective Summary</th>
+    <td>Se conversó sobre algunos percances en las fechas de entrega de las tareas de los miembros. Por lo que, se llego a un acuerdo de mejorar el cumplimiento de los plazos.</td>
+  </tr>
+  <tr>
+    <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
+  </tr>
+  <tr>
+    <th>Sprint 2 Goal</th>
+    <td>Realizar el segundo deployment del Backend con endpoints específicos.</td>
+  </tr>
+  <tr>
+    <th>Sprint 2 Velocity</th>
+    <td>10</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>10</td>
+  </tr>
+</table>
+
+#### 4.2.2.2. Sprint Backlog 2
+
+El objetivo de este segundo sprint fue el despliegue de las mejoras del Backend.
+
+<table>
+  <tr>
+    <th colspan="1" valign="top">Sprint #</th>
+    <th colspan="7" valign="top">Sprint 2</th>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">User Story</td>
+    <td colspan="6" valign="top">Work-Item / Task</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">Id</td>
+    <td colspan="1" valign="top">Title</td>
+    <td colspan="1" valign="top">Id</td>
+    <td colspan="1" valign="top">Title</td>
+    <td colspan="1" valign="top">Description</td>
+    <td colspan="1" valign="top">Estimation</td>
+    <td colspan="1" valign="top">Assigned To</td>
+    <td colspan="1" valign="top">Status (To-Do / In-Process / Review / Done)</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2" valign="top">TS03</td>
+    <td colspan="1" rowspan="2" valign="top">Uso de nuestra API para gestionar perfiles</td>
+    <td colspan="1" valign="top">WI01</td>
+    <td colspan="1" valign="top">Implementación de nuevos protocolos HTTP para perfiles</td>
+    <td colspan="1" valign="top">Se implementan protocolos HTTP que se usaran en la aplicacion para obtener informacion de perfiles de granjeros.</td>
+    <td colspan="1" rowspan="2" valign="top">6</td>
+    <td colspan="1" valign="top">Piero Delgado</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">WI01</td>
+    <td colspan="1" valign="top">Implementación de nuevos protocolos HTTP para perfiles</td>
+    <td colspan="1" valign="top">Se implementan protocolos HTTP que se usaran en la aplicacion para obtener informacion de perfiles de asesores.</td>
+    <td colspan="1" valign="top">Sebastian Paredes</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2" valign="top">TS04</td>
+    <td colspan="1" rowspan="2" valign="top">Uso de nuestra API para gestionar asesorías</td>
+    <td colspan="1" valign="top">WI02</td>
+    <td colspan="1" valign="top">Implementación de nuevos protocolos HTTP para citas</td>
+    <td colspan="1" valign="top">Se implementan protocolos HTTP que se usaran en la aplicacion para obtener informacion de asesorias de un granjero específico.</td>
+    <td colspan="1" rowspan="2" valign="top">6</td>
+    <td colspan="1" valign="top">Christian Matos</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">WI03</td>
+    <td colspan="1" valign="top">Implementación de protocolos HTTP para reseñas</td>
+    <td colspan="1" valign="top">Se implementan protocolos HTTP que se usaran en la aplicacion para obtener informacion de reseñas de un asesor específico.</td>
+    <td colspan="1" valign="top">Salvador Salinas</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+</table>
+
+#### 4.2.2.3. Development Evidence for Sprint Review
+
+A continuación, se detallan los commits realizados, los cuales se trabajaron a partir de las tareas asignadas a cada miembro como se muestra en el Sprint Backlog 2.
+
+Repositorio Backend: https://github.com/AgroSupport-UPC/Backend
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroSupport-UPC/Backend|feature/TS06|b13efec|feat: automatic advisor & farmer creation|20/09/2024|
+|AgroSupport-UPC/Backend|feature/TS06|18e5708|feat: change advisor command service|20/09/2024|
+|AgroSupport-UPC/Backend|feature/TS03|d64a08e|feat: new profile & advisor endpoints|20/09/2024|
+|AgroSupport-UPC/Backend|feature/TS06|76018f8|feat: add new endpoint farmer by userId|24/09/2024|
+|AgroSupport-UPC/Backend|feature/TS04|d8da834|feat: new endpoint for advisor reviews|24/09/2024|
+|AgroSupport-UPC/Backend|feature/TS04|b7f5be6|feat: update reviews advisor endpoint|24/09/2024|
+|AgroSupport-UPC/Backend|feature/TS04|6ee5b84|feat: endpoints appointments added|25/09/2024|
+|AgroSupport-UPC/Backend|feature/TS04|72e4d0d|feat: update endpoints|25/09/2024|
+|AgroSupport-UPC/Backend|release|37f08b4|feat: deployment changes|25/09/2024|
+|AgroSupport-UPC/Backend|main|e41fd73|Merge pull request #8 from AgroSupport-UPC/release|26/09/2024|
+
 #### 4.2.2.4. Testing Suite Evidence for Sprint Review
+
+Anteriormente ya se realizaron las pruebas de aceptación para las historias de usuario trabajadas utilizando el lenguaje Gherkin en archivos feature. De esta manera, ya se encuentran registradas en el repositorio.
+
+Repositorio Acceptance Tests: <https://github.com/AgroSupport-UPC/Acceptance-Tests>
 
 #### 4.2.2.5. Execution Evidence for Sprint Review
 
@@ -3753,7 +3908,7 @@ Enlace al API deployado: http://agrosupport-ewdyg8e2hjbwdge7.eastus-01.azurewebs
 
 <img src="img/swagger_sprint2.png" alt="Backend Execution Evidence Sprint 2">
 
-_Imagen 18X. Evidencia de deployment_
+_Imagen 182. Evidencia de deployment_
 
 #### 4.2.2.7. Software Deployment Evidence for Sprint Review
 
@@ -3763,35 +3918,35 @@ Primero, se actualizó la carpeta target con los archivos que conforman la aplic
 
 <img src="img/backend_sprint2_deployment1.png" alt="Backend Execution Evidence Sprint 2">
 
-_Imagen 18X. Evidencia de deployment_
+_Imagen 183. Evidencia de deployment_
 
 Además, se creó una nueva imagen de Docker de la aplicación.
 
 <img src="img/backend_sprint2_deployment2.png" alt="Backend Execution Evidence Sprint 2">
 
-_Imagen 18X. Evidencia de deployment_
+_Imagen 184. Evidencia de deployment_
 
 Luego, se subió una nueva imagen de la aplicación a Docker Hub.
 
 <img src="img/backend_sprint2_deployment3.png" alt="Backend Execution Evidence Sprint 2">
 
-_Imagen 18X. Evidencia de deployment_
+_Imagen 185. Evidencia de deployment_
 
 Por otro lado, se creó el Web App en Azure con las configuraciones básicas y la nueva imagen.
 
 <img src="img/backend_sprint2_deployment4.png" alt="Backend Execution Evidence Sprint 2">
 
-_Imagen 18X. Evidencia de deployment_
+_Imagen 186. Evidencia de deployment_
 
 <img src="img/backend_sprint2_deployment5.png" alt="Backend Execution Evidence Sprint 2">
 
-_Imagen 18X. Evidencia de deployment_
+_Imagen 187. Evidencia de deployment_
 
 Finalmente, se inicializó el Web App.
 
 <img src="img/backend_sprint2_deployment6.png" alt="Backend Execution Evidence Sprint 2">
 
-_Imagen 18X. Evidencia de deployment_
+_Imagen 188. Evidencia de deployment_
 
 Evidencia del funcionamiento:
 
@@ -3804,7 +3959,7 @@ Cada integrante trabajó en ramas "feature" correspondientes a sus tareas asigna
 
 <img src="img/team-collaboration-insights-backend-sprint-2.png" alt="Team Collaboration Insights - Backend Sprint 2">
 
-_Imagen 181. Insights en GitHub_
+_Imagen 189. Insights en GitHub_
 
 # Capítulo 5: Product Implementation & Validation
 
@@ -3919,15 +4074,15 @@ Asimismo, utilizaremos el sistema de GitHub Pages para desplegar la Landing Page
 
 
 ## 5.2. Software Development & Implementation
-### 5.2.1. Sprint 2
-#### 5.2.1.1. Sprint Planning 2
+### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint Planning 1
 
 Se planeó el segundo sprint a través de una reunión presencial. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
 
 <table>
   <tr>
     <th>Sprint #</th>
-    <td>Sprint 2</td>
+    <td>Sprint 1</td>
   </tr>
   <tr>
     <th colspan="2"><strong>Sprint Planning Background</strong></th>
@@ -3958,34 +4113,95 @@ Se planeó el segundo sprint a través de una reunión presencial. Para ello, se
     </td>
   </tr>
   <tr>
-    <th>Sprint 1 Review Summary</th>
-    <td>Se trabajó y desplegó la primera versión del Backend a utilizar la aplicación móvil. Igualmente, faltó algunos detalles a ajustar y mejorar.</td>
+    <th>Sprint n - 1 Review Summary</th>
+    <td>No se ha trabajado un sprint anterior de implementación del producto.</td>
   </tr>
   <tr>
-    <th>Sprint 1 Retrospective Summary</th>
-    <td>Se logró trabajar todas las historias de usuario planteadas en el sprint backlog 1. Sin embargo, se trabajó con los tiempos muy ajustados entre todos los miembros del equipo, por lo que se espera mejorar eso en este segundo sprint.</td>
+    <th>Sprint n - 1 Retrospective Summary</th>
+    <td>No se ha trabajado un sprint anterior de implementación del producto.</td>
   </tr>
   <tr>
     <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
   </tr>
   <tr>
-    <th>Sprint 2 Goal</th>
+    <th>Sprint 1 Goal</th>
     <td>Realizar la Landing Page y el primer avance del Frontend de la aplicación móvil.</td>
   </tr>
   <tr>
-    <th>Sprint 2 Velocity</th>
-    <td>-</td>
+    <th>Sprint 1 Velocity</th>
+    <td>28</td>
   </tr>
   <tr>
     <th>Sum of Story Points</th>
-    <td>-</td>
+    <td>28</td>
   </tr>
 </table>
 
-#### 5.2.1.2. Sprint Backlog 2
+#### 5.2.1.2. Sprint Backlog 1
+
+El objetivo de este primer sprint es la implementación y despliegue de la Landing Page y un primer avance del Frontend de la aplicación móvil.
+
+<table><tr><th colspan="1" valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 1</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top">Estimation </td><td colspan="1" valign="top">Assigned To</td><td colspan="1" valign="top">Status (To-Do / In-Process / Review / Done)</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US14</td><td colspan="1" rowspan="2" valign="top">Visualización de la sección de inicio de la Landing Page	</td><td colspan="1" valign="top">WI01</td><td colspan="1" valign="top">Implementación de navbar y footer</td><td colspan="1" valign="top">Se implementa el navbar para navegar por la Landing Page y el footer en la parte inferior.</td><td colspan="1" rowspan="2" valign="top">2</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">WI02</td><td colspan="1" valign="top">Implementación de página de inicio</td><td colspan="1" valign="top">Se implementa la página de inicio de forma responsive y con su archivo css correspondiente.	</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US15</td><td colspan="1" valign="top">Visualización de la sección 'Problemática' de la Landing Page</td><td colspan="1" valign="top">WI03</td><td colspan="1" valign="top">Implementación de página 'Problemática'</td><td colspan="1" valign="top">Se implementa la página sobre la Problemática, de forma responsive y con su archivo css correspondiente.	</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US16</td><td colspan="1" valign="top">Visualización de la sección 'Sobre Nosotros' de la Landing Page</td><td colspan="1" valign="top">WI04</td><td colspan="1" valign="top">Implementación de página 'Sobre Nosotros'</td><td colspan="1" valign="top">Se implementa la página Sobre Nosotros, de forma responsive y con su archivo css correspondiente.	</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US17</td><td colspan="1" valign="top">	Visualización de la sección 'Características' de la Landing Page</td><td colspan="1" valign="top">WI05</td><td colspan="1" valign="top">Implementación de página 'Características'</td><td colspan="1" valign="top">Se implementa la página Características, de forma responsive y con su archivo css correspondiente.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US18</td><td colspan="1" valign="top">Visualización de la sección 'Contacto' de la Landing Page</td><td colspan="1" valign="top">WI06</td><td colspan="1" valign="top">Implementación de página 'Contacto'</td><td colspan="1" valign="top">Se implementa la página Contacto, de forma responsive y con su archivo css correspondiente.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Sebastian Paredes</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US20</td><td colspan="1" valign="top">Pantalla de inicio</td><td colspan="1" valign="top">WI07</td><td colspan="1" valign="top">Implementación de pantalla de inicio</td><td colspan="1" valign="top">Se implementa la pantalla de inicio para que el usuario pueda navegar por la aplicación con facilidad.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US01</td><td colspan="1" rowspan="2" valign="top">Visualización del catálogo de asesores</td><td colspan="1" valign="top">WI08</td><td colspan="1" valign="top">Implementación de listado de asesores</td><td colspan="1" valign="top">Se implementa la pantalla para visualizar el listado de asesores con los cuales poder programar citas.</td><td colspan="1" rowspan="2" valign="top">3</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">WI09</td><td colspan="1" valign="top">Implementación de búsqueda y filtrado</td><td colspan="1" valign="top">Se implementa la funcionalidad para buscar y filtrar asesores.</td><td colspan="1" valign="top">Sebastian Paredes</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US02</td><td colspan="1" rowspan="2" valign="top">Visualización de información de un asesor</td><td colspan="1" valign="top">WI10</td><td colspan="1" valign="top">Implementación de vista de detalles de asesor</td><td colspan="1" valign="top">Se implementa la vista para visualizar la información esencial de un asesor específico, mostrando su descripción, ocupación y experiencia.</td><td colspan="1" rowspan="2" valign="top">3</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">WI11</td><td colspan="1" valign="top">Implementación de listado de reseñas</td><td colspan="1" valign="top">Se implementa la pantalla que muestra el listado de las reseñas del asesor realizadas por otros granjeros en la aplicación.</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US21</td><td colspan="1" valign="top">Visualización de Historial de Citas</td><td colspan="1" valign="top">WI12</td><td colspan="1" valign="top">Implementación de listado de citas</td><td colspan="1" valign="top">Se implementa la pantalla para que el usuario pueda visualizar el listado de citas que ha tenido.</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US03</td><td colspan="1" valign="top">Visualización de horarios de asesores</td><td colspan="1" valign="top">WI13</td><td colspan="1" valign="top">Implementación de visualización de horarios de un asesor</td><td colspan="1" valign="top">Se implementa la vista para que el granjero pueda visualizar los horarios de disponibilidad que tiene un asesor.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Sebastian Paredes</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US04</td><td colspan="1" valign="top">Programación de citas con asesores</td><td colspan="1" valign="top">WI14</td><td colspan="1" valign="top">Implementación de vista para programar una cita</td><td colspan="1" valign="top">Se implementa la pantalla para que el granjero pueda programar una cita con un asesor.</td><td colspan="1" valign="top">5</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+</table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
+A continuación, se detallan los commits realizados, los cuales se trabajaron a partir de las tareas asignadas a cada miembro como se muestra en el Sprint Backlog 1. De este modo, se trabajó en la Landing Page y Frontend.
+
+Repositorio Landing Page: <https://github.com/AgroSupport-UPC/Landing-Page>
+
+Repositorio Frontend: <https://github.com/AgroSupport-UPC/Frontend>
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroSupport-UPC/Landing-Page|main|308a78d|chore: initial commit|19/09/2024|
+|AgroSupport-UPC/Landing-Page|feature/us14|df6454b|feat: home page|19/09/2024|
+|AgroSupport-UPC/Landing-Page|develop|e564bc9|Merge pull request #1 from AgroSupport-UPC/feature/us14|19/09/2024|
+|AgroSupport-UPC/Landing-Page|feature/us15|260ad85|feat: about app (problematic) page|19/09/2024|
+|AgroSupport-UPC/Landing-Page|feature/us16|dde2859|feat: about us section|19/09/2024|
+|AgroSupport-UPC/Landing-Page|develop|0b1d34b|Merge pull request #2 from AgroSupport-UPC/feature/us15|19/09/2024|
+|AgroSupport-UPC/Landing-Page|develop|58005a6|Merge pull request #3 from AgroSupport-UPC/feature/us16|19/09/2024|
+|AgroSupport-UPC/Landing-Page|feature/us17|210ee22|feat: feature section added|20/09/2024|
+|AgroSupport-UPC/Landing-Page|develop|5761273|Merge pull request #4 from AgroSupport-UPC/feature/us17|20/09/2024|
+|AgroSupport-UPC/Landing-Page|feature/us18|c628083|feat: contact section|20/09/2024|
+|AgroSupport-UPC/Landing-Page|develop|22d80b0|Merge pull request #5 from AgroSupport-UPC/feature/us18|20/09/2024|
+|AgroSupport-UPC/Landing-Page|main|d6a4808|Merge pull request #6 from AgroSupport-UPC/develop|20/09/2024|
+|AgroSupport-UPC/Frontend|main|122b636|chore: initial commit (base project)|19/09/2024|
+|AgroSupport-UPC/Frontend|main|57fa08c|chore: add dependencies|19/09/2024|
+|AgroSupport-UPC/Frontend|main|a9b7013|chore: add picasso dependency|20/09/2024|
+|AgroSupport-UPC/Frontend|feature/us20|9d44345|feat: farmer home screen|20/09/2024|
+|AgroSupport-UPC/Frontend|develop|516ba6b|Merge pull request #1 from AgroSupport-UPC/feature/US20|20/09/2024|
+|AgroSupport-UPC/Frontend|feature/us01|081a074|feat: advisor catalogue|20/09/2024|
+|AgroSupport-UPC/Frontend|develop|92b1a72|Merge pull request #2 from AgroSupport-UPC/feature/US01|21/09/2024|
+|AgroSupport-UPC/Frontend|feature/us02|780dcd1|feat: advisor detail profile view|23/09/2024|
+|AgroSupport-UPC/Frontend|feature/us02|bbc71f8|feat: update advisor detail screen|24/09/2024|
+|AgroSupport-UPC/Frontend|feature/us02|7667b29|feat: add farmer and review components|24/09/2024|
+|AgroSupport-UPC/Frontend|feature/us02|25fe647|feat: review list of advisors|24/09/2024|
+|AgroSupport-UPC/Frontend|feature/us02|df0403b|fix: fixed bug when showing reviews for advisors|24/09/2024|
+|AgroSupport-UPC/Frontend|feature/us02|2e6df5a|feat: update advisor reviews endpoint|24/09/2024|
+|AgroSupport-UPC/Frontend|develop|84c297d|Merge pull request #3 from AgroSupport-UPC/feature/US02|25/09/2024|
+|AgroSupport-UPC/Frontend|feature/us21|0e52ebc|feat: appointment list & history added|25/09/2024|
+|AgroSupport-UPC/Frontend|feature/us21|4345c63|feat: constants on view model Appointments updated|25/09/2024|
+|AgroSupport-UPC/Frontend|feature/us21|3939e05|feat: added folders & connection with backend|25/09/2024|
+|AgroSupport-UPC/Frontend|feature/us21|421075a|feat: advisor filter|25/09/2024|
+|AgroSupport-UPC/Frontend|feature/us21|e45b783|feat: logo & code optimization|25/09/2024|
+|AgroSupport-UPC/Frontend|feature/us21|bf9504b|feat: appointment creation|26/09/2024|
 
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
@@ -4001,57 +4217,78 @@ Repositorio Acceptance Tests: <https://github.com/AgroSupport-UPC/Acceptance-Tes
 |AgroSupport-UPC/Acceptance-Tests|main|5357982 |feat: US16.feature added|19/09/2024|
 |AgroSupport-UPC/Acceptance-Tests|main|97427f3 |feat: US17.feature added|19/09/2024|
 |AgroSupport-UPC/Acceptance-Tests|main|edec1d0 |feat: US18.feature added|19/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|0092f15 |feat: US01.feature added|26/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|b4e47ab |feat: US02.feature & US03.feature added|26/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|6e7d933 |feat: US04.feature added|26/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|9b2b1c5 |feat: US20.feature & US21.feature added|26/09/2024|
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
+En esta sección, se detallará lo avanzado en el segundo sprint, el cual incluye la implementación de la aplicación móvil frontend de AgroSupport utilizando los servicios de algunos endpoints.
+
+**URL de video:** [Execution Evidence](https://youtu.be/v75W4XJ2dnE)
+
+<img src="img/execution-evidence-2.png" width="100%">
+
+_Imagen 190. Captura de video Execution Evidence_
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
-
-En esta sección, se detallará lo avanzado en el segundo sprint, el cual incluye el despliegue del servicio web en Swagger y la implementación de la aplicación móvil frontend de AgroSupport utilizando los servicios de algunos endpoints.
-
-**URL de video:**
-[Execution Evidence](https://youtu.be/v75W4XJ2dnE)
-
-<img src="img/execution-evidence-2.png" width="100%"> 
-
-_Imagen X. commits - landing-page_
+En este caso, la documentación del API se hizo en el capítulo 4.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Para la implementación de la Landing Page, se realizó el deployment en GitHub Pages. A continuación, se muestra la evidencia de la implementación.
+
+Primero, nos vamos a la configuración del repositorio, en la sección "Pages", y escogemos la rama de la cual se hará el despliegue. En este caso, se escoge la rama "main".
+
+<img src="img/landing_deployment1.png" width="100%">
+
+_Imagen 191. Evidencia de deployment_
+
+Luego, simplemente esperamos a que se realice el deployment. Una vez que se haya completado, se mostrará un mensaje indicando que la página se ha desplegado correctamente, y nos brindará el enlace para acceder a ella.
+
+<img src="img/landing_deployment2.png" width="100%">
+
+_Imagen 192. Evidencia de deployment_
+
+Enlace a página desplegada: [Landing Page](https://agrosupport-upc.github.io/Landing-Page/)
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 En la elaboración de la landing page, todos los integrantes realizaron commits referentes al branch feature que les tocó trabajar. 
 
 <img src="img/commits-lading-page.png" width="100%"> 
 
-_Imagen X. commits - landing-page_
+_Imagen 193. commits - landing-page_
 
 La división de trabajo para lograr la implementación fue por secciones en las cuales cada miembro realizó una sección de la landing page:
 
--Piero Delgado: sección ‘sobre nosotros’
+- Piero Delgado: sección ‘sobre nosotros’
 
--Sebastían Paredes: sección ‘contacto’
+- Sebastían Paredes: sección ‘contacto’
 
--Christian Matos: sección ‘características’
+- Christian Matos: sección ‘características’
 
--Salvador Salinas: sección ‘inicio y problematica’
+- Salvador Salinas: sección ‘inicio’ y ‘problemática’
 
 Cada sección tuvo su rama con el formato ‘feature/sección’
 
 <img src="img/branches-landing-page.png" width="100%">
 
-_Imagen X. feature-seccion_
+_Imagen 194. feature-seccion_
 
 En la parte del Backend, se logró completar el desarrollo de las funcionalidades principales y se realizó el segundo deployment del Backend, incluyendo endpoints específicos. Estos endpoints fueron probados y validados para asegurar que cumplan con los requisitos del sistema, garantizando una integración fluida con el Frontend y otros servicios. 
 
 <img src="img/backend-commits.png" width="100%">
 
-_Imagen X. backend-commits_
+_Imagen 195. backend-commits_
  
 
 En la construcción del Frontend, dividimos las responsabilidades entre los integrantes, quienes trabajaron en sus respectivas ramas feature. A medida que se completaban las tareas, se realizaban merges con la rama develop. Al igual que en el Backend, llevamos a cabo reuniones por Google Meet para revisar en equipo los progresos y validar que los merges estuvieran funcionando correctamente.
 
 <img src="img/fronted-commits.png" width="100%">
 
-_Imagen X. frontend-commits_
+_Imagen 196. frontend-commits_
 
  
 # Conclusiones
