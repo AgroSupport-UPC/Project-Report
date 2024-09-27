@@ -3732,7 +3732,7 @@ _Imagen 181. Insights en GitHub_
 
 #### 4.2.2.5. Execution Evidence for Sprint Review
 
-#### 4.2.1.6. Services Documentation Evidence for Sprint Review
+#### 4.2.2.6. Services Documentation Evidence for Sprint Review
 
 Para este sprint, hemos implementado nuevos endpoints que facilitan la recolección de información en la aplicación móvil.
 
@@ -3751,7 +3751,11 @@ Los nuevos endpoints implementados son los siguientes:
 
 Enlace al API deployado: http://agrosupport-ewdyg8e2hjbwdge7.eastus-01.azurewebsites.net/
 
-#### 4.2.1.7. Software Deployment Evidence for Sprint Review
+<img src="img/swagger_sprint2.png" alt="Backend Execution Evidence Sprint 2">
+
+_Imagen 18X. Evidencia de deployment_
+
+#### 4.2.2.7. Software Deployment Evidence for Sprint Review
 
 Para desplegar el Web Service se utilizó el mismo método que el sprint 1 con Docker para poner la aplicación en un contenedor, y Azure para alojar el contenedor.
 
@@ -3791,7 +3795,8 @@ _Imagen 18X. Evidencia de deployment_
 
 Evidencia del funcionamiento:
 
-#### 4.2.1.8. Team Collaboration Insights during Sprint
+
+#### 4.2.2.8. Team Collaboration Insights during Sprint
 
 Durante el desarrollo del sprint, se realizaron reuniones diarias para revisar el avance de las tareas asignadas y resolver cualquier impedimento que pudiera surgir. Además, se mantuvo una comunicación constante a través de WhatsApp para coordinar las actividades y compartir información relevante. Gracias a esta colaboración, se logró cumplir con los objetivos establecidos para el sprint y se mantuvo un ambiente de trabajo armonioso y productivo.
 
