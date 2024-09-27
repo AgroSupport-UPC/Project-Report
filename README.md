@@ -97,7 +97,7 @@
   </tr>
   <tr>
       <td><strong>TP</strong></td>
-      <td>26 de setiembre</td>
+      <td>27 de setiembre</td>
       <td>
         <ul>
           <li>Paredes Puente, Sebastian Roberto</li>
@@ -109,7 +109,12 @@
       <td>
         Se ha incluido el avance de los siguientes capítulos:
         <ul>
-          <li>Capítulo V: Product Implementation & Validation</li>
+          <li>Capítulo 4: Backend Product Implementation & Validation</li>
+          <li>Capítulo 5: Product Implementation & Validation</li>
+        </ul>
+        Se ha mejorado:
+        <ul>
+          <li>Diseño de la base de datos</li>
         </ul>
       </td>
   </tr>
@@ -271,6 +276,7 @@
         <p><strong>Delgado Corrales, Piero Gonzalo</strong></p>
         <p><strong>TB1:</strong> Para esta entrega, se adquirieron nuevos conocimientos en la realización de entrevistas y su análisis ya que se pudo entender mejor las necesidades de los granjeros y asesores. Esto es fundamental para la creación de los User Personas, User Task Matrix, y realizar el User Journey Mapping y nos permitirá .realizar una mejor solución de software.</p>
         <p><strong>TB2:</strong> Para esta entrega, se ha avanzado la implementación del backend para la aplicación móvil. Para ello, se tuvo que recordar los temas aprendidas en cursos previos y adaptarlo al contexto de la aplicación. </p>
+        <p><strong>TP:</strong> Para esta entrega, se ha añadido nuevos endpoints del backend para facilitar su implementación en la aplicación móvil. Asimismo, se empezó con el desarrolló de la aplicación donde se tuvo que poner en práctica lo aprendido en clase.</p>
         <p></p>
         <p><strong>Matos Fernandez, Christian Andre</strong></p>
         <p><strong>TB1:</strong> Para esta entrega, investigamos a los competidores y desarrollamos estrategias para enfrentarlos. Además, realizamos entrevistas, de las cuales obtuvimos la información necesaria para crear las User Stories que serán útiles en el desarrollo de la aplicación.</p>
@@ -298,6 +304,7 @@
         <p><strong>Delgado Corrales, Piero Gonzalo</strong></p>
         <p><strong>TB1:</strong> Mediante las opiniones obtenidas de las entrevistas pudimos comprender la necesidad de un aprendizaje continuo porque gracias a estas pudimos diseñar las funcionalidades del producto delimitadas en las User Stories para que se alineen con las necesidades cambiantes de nuestros segmentos objetivos y tomando en cuenta las nuevas tecnologías.</p>
         <p><strong>TB2:</strong> A través de la documentación de Spring Boot pude aprender sobre el deployment del backend en un contenedor de Docker. Gracias a esto, se pudo desplegar el backend de forma eficaz y está solución nos permitirá seguir actualizando el backend de forma rapida con los nuevos conocimientos adquiridos.</p>
+        <p><strong>TP:</strong> Durante el desarrollo de la aplicación, se tuvo que investigar sobre distintos componentes que eran útiles pero que no utilizamos en clases. Para ello, se reviso documentación de Android Studio para aprender sobre los componentes que serían útiles para nuestra aplicación en Kotlin y aplicarlos correctamente.</p>
         <p></p>
         <p><strong>Matos Fernandez, Christian Andre</strong></p>
         <p><strong>TB1:</strong> A partir de las entrevistas y del análisis de los datos obtenidos, logramos identificar la importancia de integrar un enfoque de aprendizaje continuo. Esto nos permitió definir las User Stories del producto de manera que se adapten a las demandas reales y cambiantes de nuestros usuarios.</p>
