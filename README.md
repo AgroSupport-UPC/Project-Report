@@ -289,6 +289,7 @@
         <p><strong>TB1:</strong> En este entregable, definimos el problema inicial sobre el cual partirá nuestra aplicación móvil a realizar. Igualmente, tuvimos que actualizar conocimientos para determinar bien la problemática a través de una investigación sobre el tema y también sobre lo necesario para poder desarrollar la aplicación móvil.</p>
         <p></p>
         <p><strong>TB2:</strong> En este segundo entregable, se definió los estilos, tipografía y paleta de colores a utilizar para el producto. De esta forma, realizamos los prototipos utilizando la herramienta de Figma, la cual ya hemos utilizado anteriormente, pero ha recibido actualizaciones nuevas como la implementación de una nueva AI, por lo que actualizamos nuestros conocimientos para poder sacar provecho a estas nuevas funcionalidades que nos ofrece la aplicación.</p>
+        <p><strong>TP:</strong> Se actualizaron conceptos y conocimientos de la programación en Kotlin a lo largo de todas las sesiones de clase y los ejercicios de práctica que se fueron realizando. De esta forma, para el desarrollo del trabajo logré desarrollar mi parte asignada de la aplicación móvil sin mucha dificultad.</p>        
       </td>
       <td>
         <p><strong>TB1: </strong></p>
@@ -319,6 +320,7 @@
         <p><strong>TB1:</strong> Se realizó una investigación sobre el tema para verificar de forma clara la necesidad a resolver, así como con fuentes secundarias recuperadas de artículos y fuentes primarias como las entrevistas realizadas.</p>
         <p></p>
         <p><strong>TB2:</strong> A pesar de que para este entregable aún no se empieza con la implementación del Frontend para la aplicación móvil, igualmente se ha iniciado con el Backend y el primer despliegue de este. De esta forma, hemos logrado aprender una nueva forma para realizar el despliegue del Backend con Docker, que resultó ser mucho mejor al método que utilizábamos anteriormente.</p>
+        <p><strong>TP:</strong> Luego de haber estado practicando con ejercicios de programación en Kotlin, ha demostrado que es importante siempre estar practicando y aprendiendo de forma constante. De esta manera, el desarrollo de aplicaciones más complejas no será mucho problema al tener esta capacidad desarrollada.</p>
       </td>
       <td>
         <p><strong>TB1: </strong></p>
