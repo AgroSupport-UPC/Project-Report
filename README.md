@@ -95,6 +95,29 @@
         </ul>
       </td>
   </tr>
+  <tr>
+      <td><strong>TP</strong></td>
+      <td>27 de setiembre</td>
+      <td>
+        <ul>
+          <li>Paredes Puente, Sebastian Roberto</li>
+          <li>Delgado Corrales, Piero Gonzalo</li>
+          <li>Matos Fernandez, Christian Andre</li>
+          <li>Salinas Torres, Salvador Antonio</li>
+        </ul>
+      </td>
+      <td>
+        Se ha incluido el avance de los siguientes capítulos:
+        <ul>
+          <li>Capítulo 4: Backend Product Implementation & Validation</li>
+          <li>Capítulo 5: Product Implementation & Validation</li>
+        </ul>
+        Se ha mejorado:
+        <ul>
+          <li>Diseño de la base de datos</li>
+        </ul>
+      </td>
+  </tr>
   </tbody>
 </table>
 
@@ -185,8 +208,33 @@
       - [4.2.1.6. Services Documentation Evidence for Sprint Review](#4216-services-documentation-evidence-for-sprint-review)
       - [4.2.1.7. Software Deployment Evidence for Sprint Review](#4217-software-deployment-evidence-for-sprint-review)
       - [4.2.1.8. Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)
+    - [4.2.2. Sprint 2](#422-sprint-2)
+      - [4.2.2.1. Sprint Planning 2](#4221-sprint-planning-2)
+      - [4.2.2.2. Sprint Backlog 2](#4222-sprint-backlog-2)
+      - [4.2.2.3. Development Evidence for Sprint Review](#4223-development-evidence-for-sprint-review)
+      - [4.2.2.4. Testing Suite Evidence for Sprint Review](#4224-testing-suite-evidence-for-sprint-review)
+      - [4.2.2.5. Execution Evidence for Sprint Review](#4225-execution-evidence-for-sprint-review)
+      - [4.2.2.6. Services Documentation Evidence for Sprint Review](#4226-services-documentation-evidence-for-sprint-review)
+      - [4.2.2.7. Software Deployment Evidence for Sprint Review](#4227-software-deployment-evidence-for-sprint-review)
+      - [4.2.2.8. Team Collaboration Insights during Sprint](#4228-team-collaboration-insights-during-sprint)
 
 [Capítulo 5: Product Implementation & Validation](#Capítulo-5-Product-Implementation--Validation)
+  - [5.1. Software Configuration Management](#51-software-configuration-management)
+    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+    - [5.1.2. Source Code Management](#512-source-code-management)
+    - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+  - [5.2. Software Development & Implementation](#52-software-development--implementation)
+    - [5.2.1. Sprint 1](#521-sprint-1)
+      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+      - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
+      - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+      - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+
 
 [Conclusiones](#conclusiones)
 
@@ -224,25 +272,32 @@
         <p><strong>Paredes Puente, Sebastian Roberto</strong></p>
         <p><strong>TB1:</strong> En este primer avance, se identificó la problemática y se realizó la investigación necesaria para definir los requisitos que nuestra aplicación final debe cubrir. Para ello, llevé a cabo entrevistas con personas de nuestros segmentos objetivo para comprender mejor sus principales necesidades y adoptar su perspectiva, asegurándome de que las user stories que planteamos fueran las más adecuadas.</p>
         <p><strong>TB2:</strong> Para este segundo avance, se realizo la implementación del backend para la aplicación móvil, el cual ha requerido de los conocimientos adquiridos en cursos previos, demostrando la importancia de adaptar estos conceptos a las necesidades específicas del proyecto. Este proceso ha permitido reforzar habilidades técnicas y enfrentar los desafíos particulares del desarrollo, contribuyendo al progreso del proyecto y estableciendo una base sólida para las siguientes etapas.</p>
+        <p><strong>TP:</strong> En esta entrega, se han implementado funcionalidades como la pantalla de inicio de Granjero, sección donde el granjero puede navegar en el catalogo de asesores de Agrosupport para reservar una asesoria, y otra sección donde puede ver sus asesorias programadas.
+</p>
         <p></p>
         <p><strong>Delgado Corrales, Piero Gonzalo</strong></p>
         <p><strong>TB1:</strong> Para esta entrega, se adquirieron nuevos conocimientos en la realización de entrevistas y su análisis ya que se pudo entender mejor las necesidades de los granjeros y asesores. Esto es fundamental para la creación de los User Personas, User Task Matrix, y realizar el User Journey Mapping y nos permitirá .realizar una mejor solución de software.</p>
         <p><strong>TB2:</strong> Para esta entrega, se ha avanzado la implementación del backend para la aplicación móvil. Para ello, se tuvo que recordar los temas aprendidas en cursos previos y adaptarlo al contexto de la aplicación. </p>
+        <p><strong>TP:</strong> En esta entrega, se han incorporado nuevos endpoints al backend para facilitar su integración con la aplicación móvil. Además, se ha comenzado con el desarrollo de la app, aplicando los conocimientos adquiridos durante las clases.</p>
         <p></p>
         <p><strong>Matos Fernandez, Christian Andre</strong></p>
         <p><strong>TB1:</strong> Para esta entrega, investigamos a los competidores y desarrollamos estrategias para enfrentarlos. Además, realizamos entrevistas, de las cuales obtuvimos la información necesaria para crear las User Stories que serán útiles en el desarrollo de la aplicación.</p>
         <p><strong>TB2:</strong> En esta entrega, completé con éxito la implementación del backend, cumpliendo con las tareas que me asignaron, de lo cual tuve que repasar y aplicar los conocimientos adquiridos en cursos anteriores.</p>
+        <p><strong>TP: Para esta entrega, me encargué de realizar las tareas del sprint relacionadas con la creación y optimización de la landing page, así como con el desarrollo de las aplicaciones móviles. Para lograrlo, tuve que repasar y aplicar los conceptos vistos en clase, lo que incluyó mejorar la experiencia de usuario, optimizar el diseño responsivo, y asegurar la correcta integración con las funcionalidades de back-end que se han implementado hasta ahora. Esto me permitió consolidar el aprendizaje y avanzar en el proyecto de manera efectiva.</strong> </p>
         <p></p>
         <p><strong>Salinas Torres, Salvador Antonio</strong></p>
         <p><strong>TB1:</strong> En este entregable, definimos el problema inicial sobre el cual partirá nuestra aplicación móvil a realizar. Igualmente, tuvimos que actualizar conocimientos para determinar bien la problemática a través de una investigación sobre el tema y también sobre lo necesario para poder desarrollar la aplicación móvil.</p>
         <p></p>
         <p><strong>TB2:</strong> En este segundo entregable, se definió los estilos, tipografía y paleta de colores a utilizar para el producto. De esta forma, realizamos los prototipos utilizando la herramienta de Figma, la cual ya hemos utilizado anteriormente, pero ha recibido actualizaciones nuevas como la implementación de una nueva AI, por lo que actualizamos nuestros conocimientos para poder sacar provecho a estas nuevas funcionalidades que nos ofrece la aplicación.</p>
+        <p><strong>TP:</strong> Se actualizaron conceptos y conocimientos de la programación en Kotlin a lo largo de todas las sesiones de clase y los ejercicios de práctica que se fueron realizando. De esta forma, para el desarrollo del trabajo logré desarrollar mi parte asignada de la aplicación móvil sin mucha dificultad.</p>        
       </td>
       <td>
         <p><strong>TB1: </strong></p>
         <p>En este primer avance del proyecto, cada integrante del equipo ha actualizado y ampliado sus conocimientos esenciales para el desarrollo de soluciones de software, enfocándose en aspectos fundamentales como la investigación de necesidades, la realización y análisis de entrevistas, el estudio de la competencia, y la definición clara de problemáticas. Estos esfuerzos han permitido a todos mejorar su comprensión del mercado objetivo, garantizar que las User Stories y demás herramientas de diseño sean precisas y relevantes, y sentar las bases para el desarrollo de una aplicación móvil que responda adecuadamente a las necesidades identificadas.</p>
         <p><strong>TB2: </strong></p>
         <p>En este segundo avance, el equipo ha consolidado los conocimientos adquiridos previamente y los ha aplicado de manera efectiva en el desarrollo del projecto. En particular, se ha logrado implementar el backend de la aplicación móvil, un componente esencial que requirió la adaptación de habilidades técnicas adquiridas en cursos anteriores. Además, se realizaron mejoras en el diseño visual, aprovechando las nuevas funcionalidades de herramientas como Figma, lo que ha permitido optimizar los prototipos de la aplicación. Estos logros refuerzan la capacidad del equipo para enfrentar los desafíos del proyecto, estableciendo una base sólida para los siguientes avances y garantizando que la aplicación final esté alineada con las necesidades identificadas en fases previas.</p>
+        <p><strong>TP1: </strong></p>
+        <p>En este tercer avance, se han implementado funcionalidades clave en la aplicación móvil de Agrosupport, permitiendo a los granjeros navegar por el catálogo de asesores y reservar asesorías. Se añadieron nuevos endpoints al backend para facilitar esta integración, mientras que mi enfoque se centró en optimizar la landing page y desarrollar la aplicación móvil, aplicando conocimientos adquiridos en clase. Gracias a la revisión de conceptos de programación en Kotlin, pude realizar mis tareas con confianza y efectividad, consolidando así mi aprendizaje y avanzando de manera significativa en el proyecto.</p>
       </td>
     </tr>
     <tr>
@@ -251,25 +306,31 @@
         <p><strong>Paredes Puente, Sebastian Roberto</strong></p>
         <p><strong>TB1:</strong> A través de las opiniones recogidas en las entrevistas, entendimos la importancia de un aprendizaje continuo. Esto nos permitió diseñar las funcionalidades del producto definidas en las User Stories, de manera que vayan acorde a las necesidades de nuestros usuarios.</p>
         <p><strong>TB2:</strong> Gracias a la documentación de Spring Boot, se logro adquirir los conocimientos necesarios para desplegar el backend en un contenedor de Docker de manera efectiva. Esto ha permitido optimizar el proceso de despliegue, asegurando que futuras actualizaciones del backend se realicen de forma ágil y eficiente, lo que mejora la adaptabilidad del proyecto a medida que se incorporan nuevos aprendizajes.</p>
+        <p><strong>TP:</strong> En el proceso de desarrollo de la aplicación, surgió la necesidad de utilizar herramientas y bibliotecas adicionales que no habíamos visto en clase. Para resolver esto, investigamos en la documentación oficial de Android Studio y aprendimos sobre nuevas funcionalidades de Kotlin, las cuales implementamos de forma efectiva para mejorar el rendimiento y la experiencia de usuario.</p>
         <p></p>
         <p><strong>Delgado Corrales, Piero Gonzalo</strong></p>
         <p><strong>TB1:</strong> Mediante las opiniones obtenidas de las entrevistas pudimos comprender la necesidad de un aprendizaje continuo porque gracias a estas pudimos diseñar las funcionalidades del producto delimitadas en las User Stories para que se alineen con las necesidades cambiantes de nuestros segmentos objetivos y tomando en cuenta las nuevas tecnologías.</p>
         <p><strong>TB2:</strong> A través de la documentación de Spring Boot pude aprender sobre el deployment del backend en un contenedor de Docker. Gracias a esto, se pudo desplegar el backend de forma eficaz y está solución nos permitirá seguir actualizando el backend de forma rapida con los nuevos conocimientos adquiridos.</p>
+        <p><strong>TP:</strong> Durante el desarrollo de la aplicación, fue necesario investigar varios componentes que no habíamos utilizado en clase, pero que resultaron útiles para el proyecto. Para ello, consultamos la documentación de Android Studio, aprendiendo sobre los componentes relevantes para nuestra aplicación en Kotlin y aplicándolos de manera adecuada.</p>
         <p></p>
         <p><strong>Matos Fernandez, Christian Andre</strong></p>
         <p><strong>TB1:</strong> A partir de las entrevistas y del análisis de los datos obtenidos, logramos identificar la importancia de integrar un enfoque de aprendizaje continuo. Esto nos permitió definir las User Stories del producto de manera que se adapten a las demandas reales y cambiantes de nuestros usuarios.</p>
         <p><strong>TB2:</strong> Durante el repaso para la implementación del backend, también reforcé los conceptos de configuración de controladores y rutas en Spring Boot, lo cual facilita el manejo de solicitudes HTTP de manera eficiente. </p>
+        <p><strong>TP:</strong> Para esta entrega, revisé las clases anteriores impartidas por el profesor, lo que me permitió obtener una comprensión más clara para desarrollar el proyecto. Este repaso resultó muy beneficioso, ya que logré completar mis tareas con éxito. Además, a través del proceso de implementación en Android Studio, no solo consolidé mis conocimientos, sino que también aprendí nuevas habilidades que mejoraron mi manejo de la herramienta.</p>
         <p></p>
         <p><strong>Salinas Torres, Salvador Antonio</strong></p>
         <p><strong>TB1:</strong> Se realizó una investigación sobre el tema para verificar de forma clara la necesidad a resolver, así como con fuentes secundarias recuperadas de artículos y fuentes primarias como las entrevistas realizadas.</p>
         <p></p>
         <p><strong>TB2:</strong> A pesar de que para este entregable aún no se empieza con la implementación del Frontend para la aplicación móvil, igualmente se ha iniciado con el Backend y el primer despliegue de este. De esta forma, hemos logrado aprender una nueva forma para realizar el despliegue del Backend con Docker, que resultó ser mucho mejor al método que utilizábamos anteriormente.</p>
+        <p><strong>TP:</strong> Luego de haber estado practicando con ejercicios de programación en Kotlin, ha demostrado que es importante siempre estar practicando y aprendiendo de forma constante. De esta manera, el desarrollo de aplicaciones más complejas no será mucho problema al tener esta capacidad desarrollada.</p>
       </td>
       <td>
         <p><strong>TB1: </strong></p>
         <p>En este primer avance del proyecto, cada integrante del equipo ha reconocido la importancia del aprendizaje continuo en el desarrollo profesional y en la creación de soluciones de software. A través de la investigación, entrevistas y análisis de datos, todos comprendieron que mantenerse actualizados y abiertos a nuevos conocimientos es crucial para diseñar funcionalidades que se alineen con las necesidades cambiantes de los usuarios y con las nuevas tecnologías. Esta actitud proactiva hacia el aprendizaje permitirá al equipo desarrollar un producto que no solo resuelve las problemáticas actuales, sino que también se adapta a futuros desafíos.</p>
         <p><strong>TB2: </strong></p>
         <p>En este segundo avance, el equipo ha reafirmado la importancia del aprendizaje continuo para el éxito en el desarrollo de software. Cada miembro del equipo ha adquirido y aplicado nuevos conocimientos, como el despliegue del backend utilizando Docker y la configuración eficiente de controladores y rutas en Spring Boot. Este proceso ha permitido optimizar el flujo de trabajo y asegurar que futuras actualizaciones sean ágiles y adaptables. La disposición del equipo a aprender y a aplicar nuevas tecnologías no solo fortalece la solución actual, sino que también garantiza su capacidad para evolucionar con el tiempo, enfrentando futuros desafíos con una base técnica sólida y moderna.</p>
+        <p><strong>TP1: </strong></p>
+        <p>En este tercer avance, el equipo decidio investigar herramientas y bibliotecas adicionales que no habíamos abordado en clase, lo que nos llevó a consultar la documentación oficial de Android Studio. Aprendimos sobre nuevas funcionalidades de Kotlin y componentes relevantes, aplicándolos de manera efectiva para mejorar el rendimiento y la experiencia del usuario. Revisar las clases anteriores nos proporcionó una comprensión más clara del proyecto, facilitando la finalización exitosa de las tareas asignadas. Este proceso no solo consolidó mis conocimientos, sino que también me permitió adquirir nuevas habilidades en Android Studio. La práctica constante en programación con Kotlin ha demostrado ser importante para enfrentar desafíos en el desarrollo de aplicaciones más complejas.</p>
       </td>
     </tr>
   </tbody>
@@ -1434,7 +1495,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       </tr>
       <tr>
         <td>US20</td>
-        <td>Confirmación de Asistencia</td>
+        <td>Pantalla de inicio</td>
       </tr>
       <tr>
         <td>US21</td>
@@ -1442,7 +1503,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       </tr>
       <tr>
         <td>US22</td>
-        <td>Reprogramación de Citas</td>
+        <td>Cancelación de Citas</td>
       </tr>
       <tr>
         <td>US23</td>
@@ -1887,13 +1948,13 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
     </tr>
     <tr>
       <td>US20</td>
-      <td>Confirmación de Asistencia</td>
-      <td>Como usuario, quiero confirmar mi asistencia a las citas programadas para asegurarme de que la reunión se llevará a cabo.</td>
+      <td>Pantalla de inicio</td>
+      <td>Como usuario, quiero ver una pantalla de inicio sencilla para navegar y explorar las funcionalidades de la aplicación fácilmente.</td>
       <td>
-        <strong>Escenario 1: Confirmación de asistencia</strong><br>
-        <strong>Given</strong> el usuario tiene una cita programada.<br>
-        <strong>When</strong> recibe la invitación para la cita.<br>
-        <strong>Then</strong> podrá confirmar su asistencia a la cita a través de la aplicación, y el organizador recibirá una notificación de confirmación.
+        <strong>Escenario 1: Pantalla de inicio de la aplicación</strong><br>
+        <strong>Given</strong> el usuario ha ingresado a la aplicación.<br>
+        <strong>When</strong> inicie sesión correctamente.<br>
+        <strong>Then</strong> el sistema lo derivará a la pantalla de inicio y visualizará las opciones para navegar por la aplicación.
       </td>
       <td>1</td>
     </tr>
@@ -1911,13 +1972,14 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
     </tr>
     <tr>
       <td>US22</td>
-      <td>Reprogramación de Citas</td>
-      <td>Como usuario, quiero poder reprogramar mis citas existentes para ajustarlas a mis nuevas disponibilidades o necesidades.</td>
+      <td>Cancelación de Citas</td>
+      <td>Como usuario, quiero poder cancelar mis citas existentes para ajustarlas a mis nuevas disponibilidades o necesidades.</td>
       <td>
-        <strong>Escenario 1: Reprogramación de una cita</strong><br>
-        <strong>Given</strong> el usuario tiene una cita programada y desea cambiar la fecha o la hora.<br>
-        <strong>When</strong> selecciona la opción para reprogramar la cita y elige una nueva fecha y hora.<br>
-        <strong>Then</strong> el sistema actualizará la cita con la nueva información y notificará al usuario y al asesor sobre el cambio.
+        <strong>Escenario 1: Cancelación de una cita</strong><br>
+        <strong>Given</strong> el usuario tiene una cita programada y desea cancelarla.<br>
+        <strong>When</strong> selecciona la cita del listado de citas.<br>
+        <strong>And</strong> selecciona la opción para cancelar la cita.<br>
+        <strong>Then</strong> el sistema cancelará la cita y notificará al usuario y al asesor sobre el cambio.
       </td>
       <td>1</td>
     </tr>
@@ -2144,7 +2206,7 @@ Este Product Backlog presenta una lista priorizada de las User Stories para el d
       <td>US14</td>
       <td>Visualización de la sección de inicio de la Landing Page</td>
       <td>Implementar la visualización de la sección de inicio que presenta la aplicación móvil y sus beneficios.</td>
-      <td>3</td>
+      <td>2</td>
     </tr>
     <tr>
          <td>6</td>
@@ -2165,7 +2227,7 @@ Este Product Backlog presenta una lista priorizada de las User Stories para el d
          <td>US17</td>
          <td>Visualización de la sección 'Características' de la Landing Page</td>
          <td>Presentar las características principales de la aplicación de manera clara y atractiva.</td>
-         <td>3</td>
+         <td>2</td>
     </tr>
     <tr>
          <td>9</td>
@@ -2176,30 +2238,30 @@ Este Product Backlog presenta una lista priorizada de las User Stories para el d
     </tr>
     <tr>
          <td>10</td>
-         <td>TS01</td>
-         <td>Uso de una API para videollamadas</td>
-         <td>Integrar una API que permita realizar videollamadas dentro de la aplicación.</td>
-         <td>5</td>
+         <td>US20</td>
+         <td>Pantalla de inicio</td>
+         <td>Implementar una pantalla de inicio que permita a los usuarios navegar por la aplicación con facilidad.</td>
+         <td>2</td>
     </tr>
     <tr>
          <td>11</td>
-         <td>TS02</td>
-         <td>Uso de una API para alojar imágenes</td>
-         <td>Implementar una API que permita a los usuarios subir y almacenar imágenes de manera segura.</td>
-         <td>5</td>
-    </tr>
-    <tr>
-         <td>12</td>
          <td>US01</td>
          <td>Visualización del catálogo de asesores</td>
          <td>Permitir a los usuarios ver una lista completa de asesores disponibles.</td>
          <td>3</td>
     </tr>
     <tr>
-         <td>13</td>
+         <td>12</td>
          <td>US02</td>
          <td>Visualización de información de un asesor</td>
          <td>Mostrar detalles sobre un asesor específico, incluyendo su perfil, experiencia y áreas de especialización.</td>
+         <td>3</td>
+    </tr>
+    <tr>
+         <td>13</td>
+         <td>US21</td>
+         <td>Visualización de Historial de Citas</td>
+         <td>Permitir a los usuarios ver el historial de sus citas pasadas con asesores.</td>
          <td>3</td>
     </tr>
     <tr>
@@ -2232,30 +2294,30 @@ Este Product Backlog presenta una lista priorizada de las User Stories para el d
     </tr>
     <tr>
          <td>18</td>
+         <td>US10</td>
+         <td>Inicio de sesión</td>
+         <td>Implementar la funcionalidad de inicio de sesión para usuarios registrados.</td>
+         <td>2</td>
+    </tr>
+    <tr>
+         <td>19</td>
+         <td>US11</td>
+         <td>Recuperación de contraseña</td>
+         <td>Permitir a los usuarios recuperar su contraseña en caso de olvido.</td>
+         <td>2</td>
+    </tr>
+    <tr>
+         <td>20</td>
          <td>US19</td>
          <td>Recordatorio de Cita</td>
          <td>Enviar recordatorios automáticos a los usuarios sobre sus citas programadas.</td>
          <td>2</td>
     </tr>
     <tr>
-         <td>19</td>
-         <td>US20</td>
-         <td>Confirmación de Asistencia</td>
-         <td>Implementar una funcionalidad que permita a los usuarios confirmar su asistencia a las citas programadas.</td>
-         <td>2</td>
-    </tr>
-    <tr>
-         <td>20</td>
-         <td>US21</td>
-         <td>Visualización de Historial de Citas</td>
-         <td>Permitir a los usuarios ver el historial de sus citas pasadas con asesores.</td>
-         <td>3</td>
-    </tr>
-    <tr>
          <td>21</td>
          <td>US22</td>
-         <td>Reprogramación de Citas</td>
-         <td>Permitir a los usuarios reprogramar sus citas con asesores.</td>
+         <td>Cancelación de Citas</td>
+         <td>Permitir a los usuarios cancelar sus citas.</td>
          <td>5</td>
     </tr>
     <tr>
@@ -2267,38 +2329,38 @@ Este Product Backlog presenta una lista priorizada de las User Stories para el d
     </tr>
     <tr>
          <td>23</td>
+         <td>TS01</td>
+         <td>Uso de una API para videollamadas</td>
+         <td>Integrar una API que permita realizar videollamadas dentro de la aplicación.</td>
+         <td>5</td>
+    </tr>
+    <tr>
+         <td>24</td>
+         <td>TS02</td>
+         <td>Uso de una API para alojar imágenes</td>
+         <td>Implementar una API que permita a los usuarios subir y almacenar imágenes de manera segura.</td>
+         <td>5</td>
+    </tr>
+    <tr>
+         <td>25</td>
          <td>US07</td>
          <td>Gestión de publicaciones de asesores</td>
          <td>Permitir a los asesores crear y gestionar sus publicaciones.</td>
          <td>3</td>
     </tr>
     <tr>
-         <td>24</td>
+         <td>26</td>
          <td>US08</td>
          <td>Visualización de publicaciones de los asesores</td>
          <td>Permitir a los usuarios ver las publicaciones de los asesores.</td>
          <td>2</td>
     </tr>
     <tr>
-         <td>25</td>
+         <td>27</td>
          <td>US09</td>
          <td>Registro de un usuario nuevo</td>
          <td>Permitir a nuevos usuarios registrarse en la aplicación.</td>
          <td>3</td>
-    </tr>
-    <tr>
-         <td>26</td>
-         <td>US10</td>
-         <td>Inicio de sesión</td>
-         <td>Implementar la funcionalidad de inicio de sesión para usuarios registrados.</td>
-         <td>2</td>
-    </tr>
-    <tr>
-         <td>27</td>
-         <td>US11</td>
-         <td>Recuperación de contraseña</td>
-         <td>Permitir a los usuarios recuperar su contraseña en caso de olvido.</td>
-         <td>2</td>
     </tr>
     <tr>
          <td>28</td>
@@ -3366,7 +3428,7 @@ El diseño de la base de datos es fundamental para garantizar una estructura só
 
 El diagrama de base de datos proporciona una representación visual de la estructura y las relaciones de las tablas dentro del sistema de gestión de base de datos.
 
-<img alt="Diagrama de Base de Datos" src="img/database2.png">
+<img alt="Diagrama de Base de Datos" src="img/database.png">
 
 _Imagen 171. Diagrama de base de datos_
 
@@ -3378,14 +3440,9 @@ _Imagen 171. Diagrama de base de datos_
 
 Para la gestión del proyecto, utilizamos como principal medio de comunicación WhatsApp, a través de un grupo en el cual compartimos nuestras ideas y opiniones sobre cada parte del trabajo. A esto se le suma el uso de la herramienta Google Meet, para realizar reuniones en videoconferencia y conversar de forma síncrona. Asimismo, utilizamos GitHub para el manejo de repositorios a través de una comunidad conformada por todos los integrantes del equipo. En esta comunidad, mantenemos el reporte y la aplicación.
 
-**Product UX/UI Design:**
-
-Se realizaron los productos de UX con la herramienta UXPressia, así como el User Persona, Empathy Mapping, Impact Mapping, entre otras. Gracias a esto pudimos modelar bien los diseños de la experiencia de usuario, lo cual nos sirve para poder ponernos en una mejor perspectiva para nuestros segmentos objetivo. Por otro lado, hicimos los prototipos de la aplicación móvil utilizando la herramienta Figma, la cual nos permitió crear los Wireframes y Mock-ups para tener un diseño previo al desarrollo de la aplicación.
-
-
 **Software Development:**
 
-Como principal IDE, utilizamos Android Studio, el cual es el entorno de desarrollo con el que estamos más familiarizados por ser de Jetbrains. Por otro lado, para el desarrollo usamos los lenguajes aprendidos previamente, como HTML, CSS y JavaScript para la landing page, y Kotlin para la aplicación móvil.
+Como IDE para trabajar en el Backend, utilizamos IntelliJ Idea, el cual es el entorno de desarrollo con el que ya estamos familiarizados para el desarrollo de Web APIs, utilizando el framework de Spring Boot.
 
 
 **Software Testing:**
@@ -3422,51 +3479,14 @@ Usuarios de GitHub
   </tbody>
 </table>
 
-*URL de repositorio de Landing Page:* https://github.com/AgroSupport-UPC/Landing-Page
-
 *URL de repositorio de Web Services:* https://github.com/AgroSupport-UPC/Backend
-
-*URL de repositorio de Mobile Application:* https://github.com/AgroSupport-UPC/Frontend
 
 Para el desarrollo del trabajo se hará uso de GitFlow, el cual es un modelo de flujo de trabajo para la gestión de control de versiones Git. Está compuesta por ramas y cada una cumple un propósito distinto. Las ramas que utilizamos son: Feature, Develop, Release y Main. 
 
 ### 4.1.3. Source Code Style Guide & Conventions
 
-En el desarrollo de este trabajo, se utilizará una gran variedad de lenguajes para trabajar en el Landing Page, Web Services y Mobile Application. Para ello, se utilizará la siguiente guía de estilos y convenciones.
+En el desarrollo de este trabajo, se utilizará Java para trabajar en el Backend. Para ello, se utilizará la siguiente guía de estilos y convenciones.
 
-**HTML**
-
-Es el lenguaje utilizado para estructurar el contenido de una página web, brindando una variedad de elementos posibles como texto, imágenes, formularios, etc.
-https://www.w3schools.com/html/html5_syntax.asp
-
-- Declarar el tipo de documento en la primera línea con \<!DOCTYPE html>.
-- Respetar la estructura básica del HTML: \<html>, \<head>, \<body>.
-- Declarar el título de la página para dar a conocer al usuario en qué página se encuentra. (Usar el elemento \<title> en \<head>)
-- Se usará la indentación coherente para lograr una lectura sencilla del código, por lo que es importante tener la tabulación correcta para cada nivel de anidamiento.
-- Siempre cerrar los elementos que lo requieran, ya sea una división, párrafo, título. (Si se declara una \<div>, siempre cerrarlo con \</div>)
-- Declarar el atributo “alt” para las imágenes.
-
-
-**CSS**
-
-Es el lenguaje utilizado para definir el diseño de la página web, así como los estilos, fuentes, colores, contenedores, etc.
-https://google.github.io/styleguide/htmlcssguide.html
-- Usar indentación de forma correcta.
-- Los nombres para elementos deben ser cortos y en minúsculas.
-- Declarar los colores en código hexadecimal. (Ejemplo: #024A86)
-- Dejar comentarios para conocer el propósito del estilo y su uso.
-- El diseño debe ser responsive para que los usuarios lo puedan visualizar cómodamente desde el dispositivo en qué se encuentren.
-
-
-**JavaScript**
-
-Es el lenguaje de programación más utilizado para la programación web, ya que permite desarrollar páginas interactivas con animaciones agradables para los usuarios.
-https://www.w3schools.com/js/js_conventions.asp
-- Declarar nombres coherentes y cortos para las variables y funciones.
-- Dejar comentarios para dar a conocer que hace cada parte del código sobre la página web.
-- Siempre colocar un punto y coma al final de cada línea de código.
-- Declarar las constantes cuando sea necesario en lugar de variables que nunca cambiarán su valor.
-- Usar los operadores de comparación estricta en lugar de comparación regular cuando sea posible. (Ejemplo: Utilizar === en lugar de ==)
 
 **Java**
 
@@ -3736,8 +3756,567 @@ Cada integrante trabajó en ramas "feature" correspondientes a sus tareas asigna
 
 _Imagen 181. Insights en GitHub_
 
+### 4.2.2. Sprint 2
+#### 4.2.2.1. Sprint Planning 2
+
+Se planeó el primer sprint a través de una reunión presencial. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 2</td>
+  </tr>
+  <tr>
+    <th colspan="2"><strong>Sprint Planning Background</strong></th>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>2024-09-16</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>01:00 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>Presencial (En la universidad)</td>
+  </tr>
+  <tr>
+    <th>Prepared by</th>
+    <td>Paredes Puente, Sebastian Roberto</td>
+  </tr>
+  <tr>
+    <th>Attendees (to planning meeting)</th>
+    <td>
+      <p>Delgado Corrales, Piero Gonzalo</p>
+      <p>Matos Fernandez, Christian Andre</p>
+      <p>Paredes Puente, Sebastián Roberto</p>
+      <p>Salinas Torres, Salvador Antonio</p>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint 1 Review Summary</th>
+    <td>En el anterior sprint, se implementó la primera versión del Backend con los metodos HTTP básicos para el funcionamiento de la aplicación.</td>
+  </tr>
+  <tr>
+    <th>Sprint 1 Retrospective Summary</th>
+    <td>Se conversó sobre algunos percances en las fechas de entrega de las tareas de los miembros. Por lo que, se llego a un acuerdo de mejorar el cumplimiento de los plazos.</td>
+  </tr>
+  <tr>
+    <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
+  </tr>
+  <tr>
+    <th>Sprint 2 Goal</th>
+    <td>Realizar el segundo deployment del Backend con endpoints específicos.</td>
+  </tr>
+  <tr>
+    <th>Sprint 2 Velocity</th>
+    <td>10</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>10</td>
+  </tr>
+</table>
+
+#### 4.2.2.2. Sprint Backlog 2
+
+El objetivo de este segundo sprint fue el despliegue de las mejoras del Backend.
+
+<table>
+  <tr>
+    <th colspan="1" valign="top">Sprint #</th>
+    <th colspan="7" valign="top">Sprint 2</th>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">User Story</td>
+    <td colspan="6" valign="top">Work-Item / Task</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">Id</td>
+    <td colspan="1" valign="top">Title</td>
+    <td colspan="1" valign="top">Id</td>
+    <td colspan="1" valign="top">Title</td>
+    <td colspan="1" valign="top">Description</td>
+    <td colspan="1" valign="top">Estimation</td>
+    <td colspan="1" valign="top">Assigned To</td>
+    <td colspan="1" valign="top">Status (To-Do / In-Process / Review / Done)</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2" valign="top">TS03</td>
+    <td colspan="1" rowspan="2" valign="top">Uso de nuestra API para gestionar perfiles</td>
+    <td colspan="1" valign="top">WI01</td>
+    <td colspan="1" valign="top">Implementación de nuevos protocolos HTTP para perfiles</td>
+    <td colspan="1" valign="top">Se implementan protocolos HTTP que se usaran en la aplicacion para obtener informacion de perfiles de granjeros.</td>
+    <td colspan="1" rowspan="2" valign="top">6</td>
+    <td colspan="1" valign="top">Piero Delgado</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">WI01</td>
+    <td colspan="1" valign="top">Implementación de nuevos protocolos HTTP para perfiles</td>
+    <td colspan="1" valign="top">Se implementan protocolos HTTP que se usaran en la aplicacion para obtener informacion de perfiles de asesores.</td>
+    <td colspan="1" valign="top">Sebastian Paredes</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2" valign="top">TS04</td>
+    <td colspan="1" rowspan="2" valign="top">Uso de nuestra API para gestionar asesorías</td>
+    <td colspan="1" valign="top">WI02</td>
+    <td colspan="1" valign="top">Implementación de nuevos protocolos HTTP para citas</td>
+    <td colspan="1" valign="top">Se implementan protocolos HTTP que se usaran en la aplicacion para obtener informacion de asesorias de un granjero específico.</td>
+    <td colspan="1" rowspan="2" valign="top">6</td>
+    <td colspan="1" valign="top">Christian Matos</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">WI03</td>
+    <td colspan="1" valign="top">Implementación de protocolos HTTP para reseñas</td>
+    <td colspan="1" valign="top">Se implementan protocolos HTTP que se usaran en la aplicacion para obtener informacion de reseñas de un asesor específico.</td>
+    <td colspan="1" valign="top">Salvador Salinas</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+</table>
+
+#### 4.2.2.3. Development Evidence for Sprint Review
+
+A continuación, se detallan los commits realizados, los cuales se trabajaron a partir de las tareas asignadas a cada miembro como se muestra en el Sprint Backlog 2.
+
+Repositorio Backend: https://github.com/AgroSupport-UPC/Backend
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroSupport-UPC/Backend|feature/TS06|b13efec|feat: automatic advisor & farmer creation|20/09/2024|
+|AgroSupport-UPC/Backend|feature/TS06|18e5708|feat: change advisor command service|20/09/2024|
+|AgroSupport-UPC/Backend|feature/TS03|d64a08e|feat: new profile & advisor endpoints|20/09/2024|
+|AgroSupport-UPC/Backend|feature/TS06|76018f8|feat: add new endpoint farmer by userId|24/09/2024|
+|AgroSupport-UPC/Backend|feature/TS04|d8da834|feat: new endpoint for advisor reviews|24/09/2024|
+|AgroSupport-UPC/Backend|feature/TS04|b7f5be6|feat: update reviews advisor endpoint|24/09/2024|
+|AgroSupport-UPC/Backend|feature/TS04|6ee5b84|feat: endpoints appointments added|25/09/2024|
+|AgroSupport-UPC/Backend|feature/TS04|72e4d0d|feat: update endpoints|25/09/2024|
+|AgroSupport-UPC/Backend|release|37f08b4|feat: deployment changes|25/09/2024|
+|AgroSupport-UPC/Backend|main|e41fd73|Merge pull request #8 from AgroSupport-UPC/release|26/09/2024|
+
+#### 4.2.2.4. Testing Suite Evidence for Sprint Review
+
+Anteriormente ya se realizaron las pruebas de aceptación para las historias de usuario trabajadas utilizando el lenguaje Gherkin en archivos feature. De esta manera, ya se encuentran registradas en el repositorio.
+
+Repositorio Acceptance Tests: <https://github.com/AgroSupport-UPC/Acceptance-Tests>
+
+#### 4.2.2.5. Execution Evidence for Sprint Review
+
+Durante el desarrollo del sprint, el equipo se percato de que necesitaria nuevos endpoints para realizar. Para demostrar la ejecución de las tareas realizadas, se grabó un video que presenta los procesos alcanzados.
+
+URL del video: [Video de ejecución de los Web Services](https://youtu.be/2kLLDGZj9vQ)
+
+<img alt="Execution Evidence Sprint 2" src="img/execution-sprint-evidence-2.png">
+
+_Imagen 182. Captura del video de Execution Evidence_
+
+#### 4.2.2.6. Services Documentation Evidence for Sprint Review
+
+Para este sprint, hemos implementado nuevos endpoints que facilitan la recolección de información en la aplicación móvil.
+
+Los nuevos endpoints implementados son los siguientes:
+
+|Método|Endpoint|Descripción|
+|--|--|--|
+|GET|/api/v1/advisors/{userId}/user|Se obtiene el asesor por userId|
+|GET|/api/v1/farmers/{userId}/user|Se obtiene el granjero por userId|
+|GET|/api/v1/profiles/{userId}/user|Se obtiene el perfil por userId|
+|GET|/api/v1/profiles/advisors|Se obtiene los perfiles de asesores|
+|GET|/api/v1/reviews/{advisorId}/advisor|Se obtienen las reseñas por advisorId|
+|GET|/api/v1/appointments/{advisorId}/advisor|Se obtienen las asesorias por advisorId|
+|GET|/api/v1/appointments/{farmerId}/farmer|Se obtienen las asesorias por farmerId|
+|GET|/api/v1/appointments/{advisorId}/advisor/{farmerId}/farmer|Se obtienen las asesorias por farmerId y advisorId|
+
+Enlace al API deployado: http://agrosupport-ewdyg8e2hjbwdge7.eastus-01.azurewebsites.net/
+
+<img src="img/swagger_sprint2.png" alt="Backend Execution Evidence Sprint 2">
+
+_Imagen 183. Evidencia de deployment_
+
+#### 4.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para desplegar el Web Service se utilizó el mismo método que el sprint 1 con Docker para poner la aplicación en un contenedor, y Azure para alojar el contenedor.
+
+Primero, se actualizó la carpeta target con los archivos que conforman la aplicación.
+
+<img src="img/backend_sprint2_deployment1.png" alt="Backend Execution Evidence Sprint 2">
+
+_Imagen 184. Evidencia de deployment_
+
+Además, se creó una nueva imagen de Docker de la aplicación.
+
+<img src="img/backend_sprint2_deployment2.png" alt="Backend Execution Evidence Sprint 2">
+
+_Imagen 185. Evidencia de deployment_
+
+Luego, se subió una nueva imagen de la aplicación a Docker Hub.
+
+<img src="img/backend_sprint2_deployment3.png" alt="Backend Execution Evidence Sprint 2">
+
+_Imagen 186. Evidencia de deployment_
+
+Por otro lado, se creó el Web App en Azure con las configuraciones básicas y la nueva imagen.
+
+<img src="img/backend_sprint2_deployment4.png" alt="Backend Execution Evidence Sprint 2">
+
+_Imagen 187. Evidencia de deployment_
+
+<img src="img/backend_sprint2_deployment5.png" alt="Backend Execution Evidence Sprint 2">
+
+_Imagen 188. Evidencia de deployment_
+
+Finalmente, se inicializó el Web App.
+
+<img src="img/backend_sprint2_deployment6.png" alt="Backend Execution Evidence Sprint 2">
+
+_Imagen 189. Evidencia de deployment_
+
+Evidencia del funcionamiento:
+
+
+#### 4.2.2.8. Team Collaboration Insights during Sprint
+
+Durante el desarrollo del sprint, se realizaron reuniones diarias para revisar el avance de las tareas asignadas y resolver cualquier impedimento que pudiera surgir. Además, se mantuvo una comunicación constante a través de WhatsApp para coordinar las actividades y compartir información relevante. Gracias a esta colaboración, se logró cumplir con los objetivos establecidos para el sprint y se mantuvo un ambiente de trabajo armonioso y productivo.
+
+Cada integrante trabajó en ramas "feature" correspondientes a sus tareas asignadas. Posteriormente, realizamos los "merge" con la rama "develop", hicimos el "release" y finalmente integramos los cambios en la rama "main".
+
+<img src="img/team-collaboration-insights-backend-sprint-2.png" alt="Team Collaboration Insights - Backend Sprint 2">
+
+_Imagen 190. Insights en GitHub_
+
 # Capítulo 5: Product Implementation & Validation
 
+## 5.1. Software Configuration Management
+
+### 5.1.1. Software Development Environment Configuration
+
+**Product UX/UI Design:**
+
+Se realizaron los productos de UX con la herramienta UXPressia, así como el User Persona, Empathy Mapping, Impact Mapping, entre otras. Gracias a esto pudimos modelar bien los diseños de la experiencia de usuario, lo cual nos sirve para poder ponernos en una mejor perspectiva para nuestros segmentos objetivo. Por otro lado, hicimos los prototipos de la aplicación móvil utilizando la herramienta Figma, la cual nos permitió crear los Wireframes y Mock-ups para tener un diseño previo al desarrollo de la aplicación.
+
+
+**Software Development:**
+
+Como principal IDE, utilizamos Android Studio, el cual es el entorno de desarrollo con el que estamos más familiarizados por ser de Jetbrains. Por otro lado, para el desarrollo usamos los lenguajes aprendidos previamente, como HTML, CSS y JavaScript para la landing page, y Kotlin para la aplicación móvil.
+
+
+**Software Testing:**
+
+Las pruebas de aceptación son importantes a realizar para comprobar que los criterios de aceptación planteados están favoreciendo a las necesidades del negocio y cumplir con los requerimientos, para lo cual utilizamos el lenguaje Gherkin. Este consiste en trabajar el escenario con Given When Then, y lograr identificar las variables de input y output, lo cual es sencillo de entender para todos ya que utiliza lenguaje natural. Gracias a este, es que se logra garantizar la calidad del software, por ello cumple un papel esencial en los proyectos de desarrollo.
+
+### 5.1.2. Source Code Management
+
+Usuarios de GitHub
+<table>
+  <thead>
+    <tr>
+        <th>Integrante</th>
+        <th>Usuario de GitHub</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Delgado Corrales, Piero Gonzalo</td>
+        <td>PieroD04</td>
+    </tr>
+    <tr>
+        <td>Paredes Puente, Sebastián Roberto</td>
+        <td>sebastian123gonzalo</td>
+    </tr>
+    <tr>
+        <td>Salinas Torres, Salvador Antonio</td>
+        <td>salvadoorssalinas</td>
+    </tr>
+    <tr>
+        <td>Matos Fernandez, Christian Andre</td>
+        <td>FerKlox</td>
+    </tr>
+  </tbody>
+</table>
+
+*URL de repositorio de Landing Page:* https://github.com/AgroSupport-UPC/Landing-Page
+
+*URL de repositorio de Mobile Application:* https://github.com/AgroSupport-UPC/Frontend
+
+Para el desarrollo del trabajo se hará uso de GitFlow, el cual es un modelo de flujo de trabajo para la gestión de control de versiones Git. Está compuesta por ramas y cada una cumple un propósito distinto. Las ramas que utilizamos son: Feature, Develop, Release y Main.
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+En el desarrollo de este trabajo, se utilizará una gran variedad de lenguajes para trabajar en el Landing Page y Mobile Application. Para ello, se utilizará la siguiente guía de estilos y convenciones.
+
+**HTML**
+
+Es el lenguaje utilizado para estructurar el contenido de una página web, brindando una variedad de elementos posibles como texto, imágenes, formularios, etc.
+https://www.w3schools.com/html/html5_syntax.asp
+
+- Declarar el tipo de documento en la primera línea con \<!DOCTYPE html>.
+- Respetar la estructura básica del HTML: \<html>, \<head>, \<body>.
+- Declarar el título de la página para dar a conocer al usuario en qué página se encuentra. (Usar el elemento \<title> en \<head>)
+- Se usará la indentación coherente para lograr una lectura sencilla del código, por lo que es importante tener la tabulación correcta para cada nivel de anidamiento.
+- Siempre cerrar los elementos que lo requieran, ya sea una división, párrafo, título. (Si se declara una \<div>, siempre cerrarlo con \</div>)
+- Declarar el atributo “alt” para las imágenes.
+
+
+**CSS**
+
+Es el lenguaje utilizado para definir el diseño de la página web, así como los estilos, fuentes, colores, contenedores, etc.
+https://google.github.io/styleguide/htmlcssguide.html
+- Usar indentación de forma correcta.
+- Los nombres para elementos deben ser cortos y en minúsculas.
+- Declarar los colores en código hexadecimal. (Ejemplo: #024A86)
+- Dejar comentarios para conocer el propósito del estilo y su uso.
+- El diseño debe ser responsive para que los usuarios lo puedan visualizar cómodamente desde el dispositivo en qué se encuentren.
+
+
+**JavaScript**
+
+Es el lenguaje de programación más utilizado para la programación web, ya que permite desarrollar páginas interactivas con animaciones agradables para los usuarios.
+https://www.w3schools.com/js/js_conventions.asp
+- Declarar nombres coherentes y cortos para las variables y funciones.
+- Dejar comentarios para dar a conocer que hace cada parte del código sobre la página web.
+- Siempre colocar un punto y coma al final de cada línea de código.
+- Declarar las constantes cuando sea necesario en lugar de variables que nunca cambiarán su valor.
+- Usar los operadores de comparación estricta en lugar de comparación regular cuando sea posible. (Ejemplo: Utilizar === en lugar de ==)
+
+**Kotlin**
+
+Es un lenguaje de programación moderno que se utiliza para el desarrollo de aplicaciones móviles en Android.
+https://developer.android.com/kotlin/style-guide
+- Nombrar las variables, funciones y clases con CamelCase, además de ser significativos y cortos.
+- Utilizar HTTPS para establecer una conexión segura.
+- Usar indentación correctamente para un código coherente y ordenado.
+- Usar comillas dobles (“) para las cadenas de texto.
+- Dejar comentarios en cada bloque de código para explicar su funcionalidad.
+- Declarar constantes cuando sean variables que no cambiarán su valor a lo largo de todo el código.
+
+### 5.1.4. Software Deployment Configuration
+
+Igualmente como se ha trabajado con el Backend, también utilizaremos el sistema de Git y repositorios en GitHub para el desarrollo de la Landing Page y la Mobile Application. De esta manera, cada miembro podrá trabajar de forma remota desde su IDE, teniendo una copia del repositorio Git a través del repositorio en línea almacenado en GitHub, así poder hacer commits para empujar los cambios que hayan realizado.
+
+Asimismo, utilizaremos el sistema de GitHub Pages para desplegar la Landing Page de nuestro proyecto. GitHub Pages es un servicio que ofrece GitHub para alojar sitios web estáticos de forma gratuita. Permite a los desarrolladores alojar un sitio web directamente desde un repositorio de GitHub, lo que facilita la publicación de sitios web sin tener que preocuparse por la infraestructura de alojamiento.
+
+
+## 5.2. Software Development & Implementation
+### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint Planning 1
+
+Se planeó el segundo sprint a través de una reunión presencial. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 1</td>
+  </tr>
+  <tr>
+    <th colspan="2"><strong>Sprint Planning Background</strong></th>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>2024-09-16</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>03:00 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>Presencial (En la universidad)</td>
+  </tr>
+  <tr>
+    <th>Prepared by</th>
+    <td>Paredes Puente, Sebastian Roberto</td>
+  </tr>
+  <tr>
+    <th>Attendees (to planning meeting)</th>
+    <td>
+      <p>Delgado Corrales, Piero Gonzalo</p>
+      <p>Matos Fernandez, Christian Andre</p>
+      <p>Paredes Puente, Sebastián Roberto</p>
+      <p>Salinas Torres, Salvador Antonio</p>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint n - 1 Review Summary</th>
+    <td>No se ha trabajado un sprint anterior de implementación del producto.</td>
+  </tr>
+  <tr>
+    <th>Sprint n - 1 Retrospective Summary</th>
+    <td>No se ha trabajado un sprint anterior de implementación del producto.</td>
+  </tr>
+  <tr>
+    <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
+  </tr>
+  <tr>
+    <th>Sprint 1 Goal</th>
+    <td>Realizar la Landing Page y el primer avance del Frontend de la aplicación móvil.</td>
+  </tr>
+  <tr>
+    <th>Sprint 1 Velocity</th>
+    <td>28</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>28</td>
+  </tr>
+</table>
+
+#### 5.2.1.2. Sprint Backlog 1
+
+El objetivo de este primer sprint es la implementación y despliegue de la Landing Page y un primer avance del Frontend de la aplicación móvil.
+
+<table><tr><th colspan="1" valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 1</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top">Estimation </td><td colspan="1" valign="top">Assigned To</td><td colspan="1" valign="top">Status (To-Do / In-Process / Review / Done)</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US14</td><td colspan="1" rowspan="2" valign="top">Visualización de la sección de inicio de la Landing Page	</td><td colspan="1" valign="top">WI01</td><td colspan="1" valign="top">Implementación de navbar y footer</td><td colspan="1" valign="top">Se implementa el navbar para navegar por la Landing Page y el footer en la parte inferior.</td><td colspan="1" rowspan="2" valign="top">2</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">WI02</td><td colspan="1" valign="top">Implementación de página de inicio</td><td colspan="1" valign="top">Se implementa la página de inicio de forma responsive y con su archivo css correspondiente.	</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US15</td><td colspan="1" valign="top">Visualización de la sección 'Problemática' de la Landing Page</td><td colspan="1" valign="top">WI03</td><td colspan="1" valign="top">Implementación de página 'Problemática'</td><td colspan="1" valign="top">Se implementa la página sobre la Problemática, de forma responsive y con su archivo css correspondiente.	</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US16</td><td colspan="1" valign="top">Visualización de la sección 'Sobre Nosotros' de la Landing Page</td><td colspan="1" valign="top">WI04</td><td colspan="1" valign="top">Implementación de página 'Sobre Nosotros'</td><td colspan="1" valign="top">Se implementa la página Sobre Nosotros, de forma responsive y con su archivo css correspondiente.	</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US17</td><td colspan="1" valign="top">	Visualización de la sección 'Características' de la Landing Page</td><td colspan="1" valign="top">WI05</td><td colspan="1" valign="top">Implementación de página 'Características'</td><td colspan="1" valign="top">Se implementa la página Características, de forma responsive y con su archivo css correspondiente.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US18</td><td colspan="1" valign="top">Visualización de la sección 'Contacto' de la Landing Page</td><td colspan="1" valign="top">WI06</td><td colspan="1" valign="top">Implementación de página 'Contacto'</td><td colspan="1" valign="top">Se implementa la página Contacto, de forma responsive y con su archivo css correspondiente.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Sebastian Paredes</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US20</td><td colspan="1" valign="top">Pantalla de inicio</td><td colspan="1" valign="top">WI07</td><td colspan="1" valign="top">Implementación de pantalla de inicio</td><td colspan="1" valign="top">Se implementa la pantalla de inicio para que el usuario pueda navegar por la aplicación con facilidad.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US01</td><td colspan="1" rowspan="2" valign="top">Visualización del catálogo de asesores</td><td colspan="1" valign="top">WI08</td><td colspan="1" valign="top">Implementación de listado de asesores</td><td colspan="1" valign="top">Se implementa la pantalla para visualizar el listado de asesores con los cuales poder programar citas.</td><td colspan="1" rowspan="2" valign="top">3</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">WI09</td><td colspan="1" valign="top">Implementación de búsqueda y filtrado</td><td colspan="1" valign="top">Se implementa la funcionalidad para buscar y filtrar asesores.</td><td colspan="1" valign="top">Sebastian Paredes</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US02</td><td colspan="1" rowspan="2" valign="top">Visualización de información de un asesor</td><td colspan="1" valign="top">WI10</td><td colspan="1" valign="top">Implementación de vista de detalles de asesor</td><td colspan="1" valign="top">Se implementa la vista para visualizar la información esencial de un asesor específico, mostrando su descripción, ocupación y experiencia.</td><td colspan="1" rowspan="2" valign="top">3</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">WI11</td><td colspan="1" valign="top">Implementación de listado de reseñas</td><td colspan="1" valign="top">Se implementa la pantalla que muestra el listado de las reseñas del asesor realizadas por otros granjeros en la aplicación.</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US21</td><td colspan="1" valign="top">Visualización de Historial de Citas</td><td colspan="1" valign="top">WI12</td><td colspan="1" valign="top">Implementación de listado de citas</td><td colspan="1" valign="top">Se implementa la pantalla para que el usuario pueda visualizar el listado de citas que ha tenido.</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US03</td><td colspan="1" valign="top">Visualización de horarios de asesores</td><td colspan="1" valign="top">WI13</td><td colspan="1" valign="top">Implementación de visualización de horarios de un asesor</td><td colspan="1" valign="top">Se implementa la vista para que el granjero pueda visualizar los horarios de disponibilidad que tiene un asesor.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Sebastian Paredes</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US04</td><td colspan="1" valign="top">Programación de citas con asesores</td><td colspan="1" valign="top">WI14</td><td colspan="1" valign="top">Implementación de vista para programar una cita</td><td colspan="1" valign="top">Se implementa la pantalla para que el granjero pueda programar una cita con un asesor.</td><td colspan="1" valign="top">5</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+</table>
+
+#### 5.2.1.3. Development Evidence for Sprint Review
+
+A continuación, se detallan los commits realizados, los cuales se trabajaron a partir de las tareas asignadas a cada miembro como se muestra en el Sprint Backlog 1. De este modo, se trabajó en la Landing Page y Frontend.
+
+Repositorio Landing Page: <https://github.com/AgroSupport-UPC/Landing-Page>
+
+Repositorio Frontend: <https://github.com/AgroSupport-UPC/Frontend>
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroSupport-UPC/Landing-Page|main|308a78d|chore: initial commit|19/09/2024|
+|AgroSupport-UPC/Landing-Page|feature/us14|df6454b|feat: home page|19/09/2024|
+|AgroSupport-UPC/Landing-Page|develop|e564bc9|Merge pull request #1 from AgroSupport-UPC/feature/us14|19/09/2024|
+|AgroSupport-UPC/Landing-Page|feature/us15|260ad85|feat: about app (problematic) page|19/09/2024|
+|AgroSupport-UPC/Landing-Page|feature/us16|dde2859|feat: about us section|19/09/2024|
+|AgroSupport-UPC/Landing-Page|develop|0b1d34b|Merge pull request #2 from AgroSupport-UPC/feature/us15|19/09/2024|
+|AgroSupport-UPC/Landing-Page|develop|58005a6|Merge pull request #3 from AgroSupport-UPC/feature/us16|19/09/2024|
+|AgroSupport-UPC/Landing-Page|feature/us17|210ee22|feat: feature section added|20/09/2024|
+|AgroSupport-UPC/Landing-Page|develop|5761273|Merge pull request #4 from AgroSupport-UPC/feature/us17|20/09/2024|
+|AgroSupport-UPC/Landing-Page|feature/us18|c628083|feat: contact section|20/09/2024|
+|AgroSupport-UPC/Landing-Page|develop|22d80b0|Merge pull request #5 from AgroSupport-UPC/feature/us18|20/09/2024|
+|AgroSupport-UPC/Landing-Page|main|d6a4808|Merge pull request #6 from AgroSupport-UPC/develop|20/09/2024|
+|AgroSupport-UPC/Frontend|main|122b636|chore: initial commit (base project)|19/09/2024|
+|AgroSupport-UPC/Frontend|main|57fa08c|chore: add dependencies|19/09/2024|
+|AgroSupport-UPC/Frontend|main|a9b7013|chore: add picasso dependency|20/09/2024|
+|AgroSupport-UPC/Frontend|feature/us20|9d44345|feat: farmer home screen|20/09/2024|
+|AgroSupport-UPC/Frontend|develop|516ba6b|Merge pull request #1 from AgroSupport-UPC/feature/US20|20/09/2024|
+|AgroSupport-UPC/Frontend|feature/us01|081a074|feat: advisor catalogue|20/09/2024|
+|AgroSupport-UPC/Frontend|develop|92b1a72|Merge pull request #2 from AgroSupport-UPC/feature/US01|21/09/2024|
+|AgroSupport-UPC/Frontend|feature/us02|780dcd1|feat: advisor detail profile view|23/09/2024|
+|AgroSupport-UPC/Frontend|feature/us02|bbc71f8|feat: update advisor detail screen|24/09/2024|
+|AgroSupport-UPC/Frontend|feature/us02|7667b29|feat: add farmer and review components|24/09/2024|
+|AgroSupport-UPC/Frontend|feature/us02|25fe647|feat: review list of advisors|24/09/2024|
+|AgroSupport-UPC/Frontend|feature/us02|df0403b|fix: fixed bug when showing reviews for advisors|24/09/2024|
+|AgroSupport-UPC/Frontend|feature/us02|2e6df5a|feat: update advisor reviews endpoint|24/09/2024|
+|AgroSupport-UPC/Frontend|develop|84c297d|Merge pull request #3 from AgroSupport-UPC/feature/US02|25/09/2024|
+|AgroSupport-UPC/Frontend|feature/us21|0e52ebc|feat: appointment list & history added|25/09/2024|
+|AgroSupport-UPC/Frontend|feature/us21|4345c63|feat: constants on view model Appointments updated|25/09/2024|
+|AgroSupport-UPC/Frontend|feature/us21|3939e05|feat: added folders & connection with backend|25/09/2024|
+|AgroSupport-UPC/Frontend|feature/us21|421075a|feat: advisor filter|25/09/2024|
+|AgroSupport-UPC/Frontend|feature/us21|e45b783|feat: logo & code optimization|25/09/2024|
+|AgroSupport-UPC/Frontend|feature/us21|bf9504b|feat: appointment creation|26/09/2024|
+
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+Se realizaron las pruebas de aceptación para las historias de usuario de la landing page y aplicacion movil, utilizando el lenguaje Gherkin en archivos feature. De esta manera, se registraron en el repositorio.
+
+Repositorio Acceptance Tests: <https://github.com/AgroSupport-UPC/Acceptance-Tests>
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- | 
+|AgroSupport-UPC/Acceptance-Tests|main|fca6834 |feat: US14.feature added|19/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|3e5702a |feat: US15.feature added|19/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|5357982 |feat: US16.feature added|19/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|97427f3 |feat: US17.feature added|19/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|edec1d0 |feat: US18.feature added|19/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|0092f15 |feat: US01.feature added|26/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|b4e47ab |feat: US02.feature & US03.feature added|26/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|6e7d933 |feat: US04.feature added|26/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|9b2b1c5 |feat: US20.feature & US21.feature added|26/09/2024|
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+En esta sección, se detallará lo avanzado en el segundo sprint, el cual incluye la implementación de la aplicación móvil frontend de AgroSupport utilizando los servicios de algunos endpoints.
+
+**URL de video:** [Execution Evidence](https://youtu.be/v75W4XJ2dnE)
+
+<img src="img/execution-evidence-2.png" width="100%">
+
+_Imagen 191. Captura de video Execution Evidence_
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+En este caso, la documentación del API se hizo en el capítulo 4.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Para la implementación de la Landing Page, se realizó el deployment en GitHub Pages. A continuación, se muestra la evidencia de la implementación.
+
+Primero, nos vamos a la configuración del repositorio, en la sección "Pages", y escogemos la rama de la cual se hará el despliegue. En este caso, se escoge la rama "main".
+
+<img src="img/landing_deployment1.png" width="100%">
+
+_Imagen 192. Evidencia de deployment_
+
+Luego, simplemente esperamos a que se realice el deployment. Una vez que se haya completado, se mostrará un mensaje indicando que la página se ha desplegado correctamente, y nos brindará el enlace para acceder a ella.
+
+<img src="img/landing_deployment2.png" width="100%">
+
+_Imagen 193. Evidencia de deployment_
+
+Enlace a página desplegada: [Landing Page](https://agrosupport-upc.github.io/Landing-Page/)
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+En la elaboración de la landing page, todos los integrantes realizaron commits referentes al branch feature que les tocó trabajar. 
+
+<img src="img/commits-lading-page.png" width="100%"> 
+
+_Imagen 194. commits - landing-page_
+
+La división de trabajo para lograr la implementación fue por secciones en las cuales cada miembro realizó una sección de la landing page:
+
+- Piero Delgado: sección ‘sobre nosotros’
+
+- Sebastían Paredes: sección ‘contacto’
+
+- Christian Matos: sección ‘características’
+
+- Salvador Salinas: sección ‘inicio’ y ‘problemática’
+
+Cada sección tuvo su rama con el formato ‘feature/sección’
+
+<img src="img/branches-landing-page.png" width="100%">
+
+_Imagen 195. feature-seccion_
+
+En la parte del Backend, se logró completar el desarrollo de las funcionalidades principales y se realizó el segundo deployment del Backend, incluyendo endpoints específicos. Estos endpoints fueron probados y validados para asegurar que cumplan con los requisitos del sistema, garantizando una integración fluida con el Frontend y otros servicios. 
+
+<img src="img/backend-commits.png" width="100%">
+
+_Imagen 196. backend-commits_
+ 
+
+En la construcción del Frontend, dividimos las responsabilidades entre los integrantes, quienes trabajaron en sus respectivas ramas feature. A medida que se completaban las tareas, se realizaban merges con la rama develop. Al igual que en el Backend, llevamos a cabo reuniones por Google Meet para revisar en equipo los progresos y validar que los merges estuvieran funcionando correctamente.
+
+<img src="img/fronted-commits.png" width="100%">
+
+_Imagen 197. frontend-commits_
+
+ 
 # Conclusiones
 
 # Recomendaciones
