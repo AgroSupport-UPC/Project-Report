@@ -118,6 +118,25 @@
         </ul>
       </td>
   </tr>
+  <tr>
+      <td><strong>TB3</strong></td>
+      <td>24 de octubre</td>
+      <td>
+        <ul>
+          <li>Paredes Puente, Sebastian Roberto</li>
+          <li>Delgado Corrales, Piero Gonzalo</li>
+          <li>Matos Fernandez, Christian Andre</li>
+          <li>Salinas Torres, Salvador Antonio</li>
+        </ul>
+      </td>
+      <td>
+        Se ha incluido el avance de los siguientes capítulos:
+        <ul>
+          <li>Capítulo 4: Backend Product Implementation & Validation</li>
+          <li>Capítulo 5: Product Implementation & Validation</li>
+        </ul>
+      </td>
+  </tr>
   </tbody>
 </table>
 
@@ -234,17 +253,27 @@
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 1](#5221-sprint-planning-2)
+      - [5.2.2.2. Sprint Backlog 1](#5222-sprint-backlog-2)
+      - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+      - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+  - [5.3. Validation Interviews](#53-validation-interviews)
+    - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
+    - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+  - [5.4. Video About the Product](#54-video-about-the-product)
 
 
 [Conclusiones](#conclusiones)
-
-[Recomendaciones](#recomendaciones)
-
-[Video App Validation](#video-app-validation)
-
-[Video About the Product](#video-about-the-product)
-
-[Video About the Team](#video-about-the-team)
+  - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
+  - [Video App Validation](#video-app-validation)
+  - [Video About the Product](#video-about-the-product)
+  - [Video About the Team](#video-about-the-team)
 
 [Glosario](#glosario)
 
@@ -4316,6 +4345,15 @@ En la construcción del Frontend, dividimos las responsabilidades entre los inte
 
 _Imagen 197. frontend-commits_
 
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+#### 5.2.2.2. Sprint Backlog 2
+#### 5.2.2.3. Development Evidence for Sprint Review
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+#### 5.2.2.5. Execution Evidence for Sprint Review
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+#### 5.2.2.8. Team Collaboration Insights during Sprint
  
 # Conclusiones
 
