@@ -1564,11 +1564,11 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       </tr>
       <tr>
         <td>US12</td>
-        <td>Notificación al usuario</td>
+        <td>Visualización de notificaciones del usuario</td>
       </tr>
       <tr>
         <td>US13</td>
-        <td>Disponibilidad y confiabilidad</td>
+        <td>Modificar perfil de usuario</td>
       </tr>
       <tr>
         <td rowspan="5">4</td>
@@ -1721,7 +1721,7 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
         <td>
             <strong>Escenario 1: Calificar al asesor</strong><br>
             <strong>Given</strong> el granjero con poca experiencia desea hacer un feedback referente al servicio del asesor.<br>
-            <strong>And</strong> se encuentra en la vista de historial de asesorías.
+            <strong>And</strong> se encuentra en la vista de historial de asesorías.<br>
             <strong>And</strong> selecciona una asesoría sin reseña.
             <br>
             <strong>When</strong> haga clic en el botón “Calificar Servicio” en la interfaz.<br>
@@ -1729,8 +1729,8 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
             <br><br>
             <strong>Escenario 2: Omitir Calificación</strong><br>
             <strong>Given</strong> el granjero con poca experiencia no desea dar feedback al asesor referente al servicio.<br>
-            <strong>And</strong> se encuentra en la vista de historial de asesorías.
-            <strong>And</strong> selecciona una asesoría sin reseña.
+            <strong>And</strong> se encuentra en la vista de historial de asesorías.<br>
+            <strong>And</strong> selecciona una asesoría sin reseña.<br>
             <strong>When</strong> haga clic en el botón “Omitir Calificación” en la interfaz.<br>
             <strong>Then</strong> el sistema le permitirá omitir la reseña.
         </td>
@@ -1867,35 +1867,39 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
     </tr>
     <tr>
       <td>US12</td>
-      <td>Notificación al usuario</td>
-      <td>Como usuario de la aplicación, quiero recibir notificaciones referentes al estado de las asesorias u otra información relevante para mantenerme informado.</td>
+      <td>Visualización de notificaciones del usuario</td>
+      <td>Como usuario de la aplicación, quiero poder visualizar notificaciones referentes al estado de las asesorias u otra información relevante para mantenerme informado.</td>
       <td>
-        <strong>Escenario 1: Recibir notificaciones de asesorías programadas</strong><br>
+        <strong>Escenario 1: Visualizar notificaciones</strong><br>
         <strong>Given</strong> el usuario está registrado en la aplicación.<br>
-        <strong>When</strong> se aproxime la fecha de una asesoría.<br>
-        <strong>Then</strong> el sistema le enviará una notificación a su dispositivo indicando la proximidad de la asesoría.
+        <strong>When</strong> ingrese a la sección de Notificaciones.<br>
+        <strong>Then</strong> el sistema mostrará el listado de las notificaciones.
         <br><br>
-        <strong>Escenario 2: Recibir notificaciones de información relevante</strong><br>
-        <strong>Given</strong> el usuario está registrado en la aplicación.<br>
-        <strong>When</strong> se genere información relevante para el usuario, como cambios en la política de privacidad, actualizaciones importantes, o nuevas funcionalidades.<br>
-        <strong>Then</strong> el sistema le enviará una notificación a su dispositivo indicando la relevancia de dicha información.
+        <strong>Escenario 2: El usuario elimina una notificación</strong><br>
+        <strong>Given</strong> el usuario se encuentra en la sección de Notificaciones.<br>
+        <strong>When</strong> presione el botón para eliminar la notificación.<br>
+        <strong>Then</strong> el sistema eliminará la notificación y desaparecerá del listado de notificaciones.
       </td>
       <td>3</td>
     </tr>
     <tr>
       <td>US13</td>
-      <td>Disponibilidad y confiabilidad</td>
-      <td>Como usuario, quiero que la aplicación esté disponible siempre para acceder a ella en cualquier momento y sin interrupciones.</td>
+      <td>Modificar perfil de usuario</td>
+      <td>Como usuario, quiero poder modificar mi perfil para actualizar los datos que desee.</td>
       <td>
-        <strong>Escenario 1: Acceso a la aplicación en todo momento</strong><br>
-        <strong>Given</strong> el usuario desea usar la aplicación en cualquier instante.<br>
-        <strong>When</strong> ingresa a la aplicación.<br>
-        <strong>Then</strong> la aplicación debe estar disponible y funcional, sin caídas ni errores que impidan el acceso.
+        <strong>Escenario 1: Modificación de datos de perfil exitosa</strong><br>
+        <strong>Given</strong> el usuario desea modificar los datos de su perfil.<br>
+        <strong>When</strong> ingrese a la sección de Perfil del menú.<br>
+        <strong>And</strong> llene los campos sobre los que desea modificar.<br>
+        <strong>Then</strong> se verificará los datos ingresados.<br>
+        <strong>And</strong> el sistema actualizará los datos del perfil.
         <br><br>
-        <strong>Escenario 2: Acceso a la aplicación sin interrupciones</strong><br>
-        <strong>Given</strong> el usuario desea usar la aplicación en cualquier instante.<br>
-        <strong>When</strong> ingresa a la aplicación.<br>
-        <strong>Then</strong> la aplicación debe cargar rápidamente y gestionar el tráfico de manera eficiente para asegurar una experiencia de usuario fluida, evitando tiempos de carga prolongados o interrupciones en el servicio.
+        <strong>Escenario 2: Modificación de datos de perfil fallida</strong><br>
+        <strong>Given</strong> el usuario desea modificar los datos de su perfil.<br>
+        <strong>When</strong> ingrese a la sección de Perfil del menú.<br>
+        <strong>And</strong> llene los campos sobre los que desea modificar.<br>
+        <strong>Then</strong> se verificará los datos ingresados.<br>
+        <strong>And</strong> el sistema mostrará un mensaje de error indicando el dato erróneo.
       </td>
       <td>3</td>
     </tr>
@@ -1969,9 +1973,9 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
       <td>Como usuario, quiero recibir un recordatorio de la cita programada para asegurarme de no olvidarla y estar preparado para la reunión.</td>
       <td>
         <strong>Escenario 1: Envío de recordatorio</strong><br>
-        <strong>Given</strong> el usuario tiene una cita programada.<br>
-        <strong>When</strong> la cita está próxima (por ejemplo, 24 horas antes).<br>
-        <strong>Then</strong> el sistema enviará un recordatorio por notificación en la aplicación y/o por correo electrónico.
+        <strong>Given</strong> el usuario quiere programar una cita.<br>
+        <strong>When</strong> se haya registrado la cita exitosamewnte.<br>
+        <strong>Then</strong> el sistema enviará un recordatorio por notificación en la aplicación.
       </td>
       <td>1</td>
     </tr>
@@ -2015,16 +2019,16 @@ El To-Be Scenario Mapping es una herramienta que describe cómo los procesos y e
     <tr>
       <td>US23</td>
       <td>Búsqueda y Filtrado de Citas</td>
-      <td>Como usuario, quiero buscar y filtrar mis citas programadas para encontrar fácilmente una cita específica o consultar citas en un rango de fechas determinado.</td>
+      <td>Como usuario, quiero buscar y filtrar mis citas programadas para encontrar fácilmente una cita específica o consultar citas en una fecha determinada.</td>
       <td>
         <strong>Escenario 1: Búsqueda de citas</strong><br>
         <strong>Given</strong> el usuario está en la sección de citas de la aplicación.<br>
-        <strong>When</strong> ingresa un término de búsqueda o selecciona filtros (por ejemplo, fecha, tipo de cita).<br>
-        <strong>Then</strong> el sistema mostrará una lista de citas que coincidan con los criterios de búsqueda y filtrado.
+        <strong>When</strong> se elija la fecha a filtrar para la cita<br>
+        <strong>Then</strong> el sistema mostrará una lista de citas que coincidan con la fecha elegida.
       </td>
       <td>1</td>
     </tr>
-        <tr>
+    <tr>
       <td>TS01</td>
       <td>Uso de una API para videollamadas</td>
       <td>Como desarrollador quiero integrar la creación de videollamadas utilizando la API de Jitsi Meet para facilitar las asesorías en la aplicación.</td>
@@ -2314,12 +2318,12 @@ Este Product Backlog presenta una lista priorizada de las User Stories para el d
          <td>Permitir a los usuarios calificar a los asesores después de una cita.</td>
          <td>3</td>
     </tr>
-    <tr>
+        <tr>
          <td>17</td>
-         <td>US06</td>
-         <td>Separación de horarios de disponibilidad para asesorías</td>
-         <td>Gestionar y separar los horarios de los asesores según su disponibilidad.</td>
-         <td>5</td>
+         <td>US23</td>
+         <td>Búsqueda y Filtrado de Citas</td>
+         <td>Implementar funcionalidades de búsqueda y filtrado para que los usuarios puedan encontrar citas específicas fácilmente.</td>
+         <td>3</td>
     </tr>
     <tr>
          <td>18</td>
@@ -2328,53 +2332,53 @@ Este Product Backlog presenta una lista priorizada de las User Stories para el d
          <td>Implementar la funcionalidad de inicio de sesión para usuarios registrados.</td>
          <td>2</td>
     </tr>
-    <tr>
+        <tr>
          <td>19</td>
+         <td>US09</td>
+         <td>Registro de un usuario nuevo</td>
+         <td>Permitir a nuevos usuarios registrarse en la aplicación.</td>
+         <td>3</td>
+    </tr>
+    <tr>
+         <td>20</td>
          <td>US11</td>
          <td>Recuperación de contraseña</td>
          <td>Permitir a los usuarios recuperar su contraseña en caso de olvido.</td>
          <td>2</td>
     </tr>
     <tr>
-         <td>20</td>
+         <td>21</td>
          <td>US19</td>
          <td>Recordatorio de Cita</td>
          <td>Enviar recordatorios automáticos a los usuarios sobre sus citas programadas.</td>
          <td>2</td>
     </tr>
     <tr>
-         <td>21</td>
-         <td>US22</td>
-         <td>Cancelación de Citas</td>
-         <td>Permitir a los usuarios cancelar sus citas.</td>
-         <td>5</td>
-    </tr>
-    <tr>
          <td>22</td>
-         <td>US23</td>
-         <td>Búsqueda y Filtrado de Citas</td>
-         <td>Implementar funcionalidades de búsqueda y filtrado para que los usuarios puedan encontrar citas específicas fácilmente.</td>
-         <td>3</td>
+         <td>US12</td>
+         <td>Visualización de notificaciones del usuario</td>
+         <td>Permitir al usuario visualizar el listado de notificaciones.</td>
+         <td>2</td>
     </tr>
     <tr>
          <td>23</td>
-         <td>TS01</td>
-         <td>Uso de una API para videollamadas</td>
-         <td>Integrar una API que permita realizar videollamadas dentro de la aplicación.</td>
-         <td>5</td>
+         <td>US13</td>
+         <td>Modificar perfil de usuario</td>
+         <td>Permitir a los usuarios modificar los datos de su perfil cuando deseen.</td>
+         <td>3</td>
     </tr>
     <tr>
          <td>24</td>
-         <td>TS02</td>
-         <td>Uso de una API para alojar imágenes</td>
-         <td>Implementar una API que permita a los usuarios subir y almacenar imágenes de manera segura.</td>
-         <td>5</td>
+         <td>US22</td>
+         <td>Cancelación de Citas</td>
+         <td>Permitir a los usuarios cancelar sus citas.</td>
+         <td>2</td>
     </tr>
     <tr>
          <td>25</td>
-         <td>US07</td>
-         <td>Gestión de publicaciones de asesores</td>
-         <td>Permitir a los asesores crear y gestionar sus publicaciones.</td>
+         <td>TS01</td>
+         <td>Uso de una API para videollamadas</td>
+         <td>Integrar una API que permita realizar videollamadas dentro de la aplicación.</td>
          <td>3</td>
     </tr>
     <tr>
@@ -2386,26 +2390,25 @@ Este Product Backlog presenta una lista priorizada de las User Stories para el d
     </tr>
     <tr>
          <td>27</td>
-         <td>US09</td>
-         <td>Registro de un usuario nuevo</td>
-         <td>Permitir a nuevos usuarios registrarse en la aplicación.</td>
+         <td>TS02</td>
+         <td>Uso de una API para alojar imágenes</td>
+         <td>Implementar una API que permita a los usuarios subir y almacenar imágenes de manera segura.</td>
          <td>3</td>
     </tr>
     <tr>
          <td>28</td>
-         <td>US12</td>
-         <td>Notificación al usuario</td>
-         <td>Enviar notificaciones automáticas a los usuarios sobre actividades importantes.</td>
-         <td>2</td>
+         <td>US07</td>
+         <td>Gestión de publicaciones de asesores</td>
+         <td>Permitir a los asesores crear y gestionar sus publicaciones.</td>
+         <td>3</td>
     </tr>
     <tr>
          <td>29</td>
-         <td>US13</td>
-         <td>Disponibilidad y confiabilidad</td>
-         <td>Asegurar que el sistema sea accesible y confiable para todos los usuarios.</td>
-         <td>8</td>
+         <td>US06</td>
+         <td>Separación de horarios de disponibilidad para asesorías</td>
+         <td>Gestionar y separar los horarios de los asesores según su disponibilidad.</td>
+         <td>3</td>
     </tr>
-
   </tbody>   
 </table>
 
