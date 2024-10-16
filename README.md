@@ -4135,7 +4135,7 @@ Asimismo, utilizaremos el sistema de GitHub Pages para desplegar la Landing Page
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
 
-Se planeó el segundo sprint a través de una reunión presencial. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
+Se planeó el primer sprint a través de una reunión presencial. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
 
 <table>
   <tr>
@@ -4350,7 +4350,86 @@ _Imagen 197. frontend-commits_
 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2
+
+Se planeó el segundo sprint a través de una reunión virtual. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 2</td>
+  </tr>
+  <tr>
+    <th colspan="2"><strong>Sprint Planning Background</strong></th>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>2024-10-08</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>01:00 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>Virtual (Google Meet)</td>
+  </tr>
+  <tr>
+    <th>Prepared by</th>
+    <td>Paredes Puente, Sebastian Roberto</td>
+  </tr>
+  <tr>
+    <th>Attendees (to planning meeting)</th>
+    <td>
+      <p>Delgado Corrales, Piero Gonzalo</p>
+      <p>Matos Fernandez, Christian Andre</p>
+      <p>Paredes Puente, Sebastián Roberto</p>
+      <p>Salinas Torres, Salvador Antonio</p>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint 1 Review Summary</th>
+    <td>En el anterior sprint, se desplegó la Landing Page y se empezó a desarrollar la aplicación móvil en Kotlin, iniciando con las funcionalidades básicas como la pantalla de inicio, vista del catálogo de asesores y agendar una cita con un asesor.</td>
+  </tr>
+  <tr>
+    <th>Sprint 1 Retrospective Summary</th>
+    <td>Se logró completar todas las tareas que se planearon en un inicio, por lo que hubo un buen desarrollo y organización del trabajo.</td>
+  </tr>
+  <tr>
+    <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
+  </tr>
+  <tr>
+    <th>Sprint 2 Goal</th>
+    <td>Desarrollar todas las funcionalidades para la vista de Granjero de la aplicación móvil en Kotlin.</td>
+  </tr>
+  <tr>
+    <th>Sprint 2 Velocity</th>
+    <td>24</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>24</td>
+  </tr>
+</table>
+
 #### 5.2.2.2. Sprint Backlog 2
+
+El objetivo de este segundo sprint es seguir con la implementación de la vista de Granjero en el Frontend de la aplicación móvil.
+
+<table><tr><th colspan="1" valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 2</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top">Estimation </td><td colspan="1" valign="top">Assigned To</td><td colspan="1" valign="top">Status (To-Do / In-Process / Review / Done)</td></tr>
+<tr><td colspan="1" valign="top">US05</td><td colspan="1" valign="top">Calificación del asesor luego de una cita</td><td colspan="1" valign="top">WI01</td><td colspan="1" valign="top">Implementación de calificación del asesor</td><td colspan="1" valign="top">Se implementa la vista para que el granjero pueda dejar una calificación al asesor luego de haber llevado al menos una cita con este.</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US23</td><td colspan="1" valign="top">Búsqueda y Filtrado de Citas</td><td colspan="1" valign="top">WI02</td><td colspan="1" valign="top">Implementación de búsqueda y filtrado de citas</td><td colspan="1" valign="top">Se implementa la funcionalidad de búsqueda para filtrar el listado de citas por una fecha específica.</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US10</td><td colspan="1" valign="top">Inicio de sesión</td><td colspan="1" valign="top">WI03</td><td colspan="1" valign="top">Implementación de inicio de sesión</td><td colspan="1" valign="top">Se implementa la vista para que el usuario pueda iniciar sesión.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Sebastian Paredes</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US09</td><td colspan="1" valign="top">Registro de un usuario nuevo</td><td colspan="1" valign="top">WI04</td><td colspan="1" valign="top">Implementación de registro de usuario Granjero</td><td colspan="1" valign="top">Se implementa la vista para que un granjero pueda crear su nueva cuenta.</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Sebastian Paredes</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US11</td><td colspan="1" valign="top">Recuperación de contraseña</td><td colspan="1" valign="top">WI05</td><td colspan="1" valign="top">Implementación de recuperación de contraseña</td><td colspan="1" valign="top">Se implementa la vista para que el usuario pueda recuperar su contraseña en caso la haya olvidado.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Sebastian Paredes</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US19</td><td colspan="1" valign="top">Recordatorio de cita</td><td colspan="1" valign="top">WI06</td><td colspan="1" valign="top">Implementación de notificación automática de cita</td><td colspan="1" valign="top">Se implementa la funcionalidad automática que crea notificaciones una vez se haya registrado una nueva cita.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US12</td><td colspan="1" valign="top">Visualización de notificaciones del usuario</td><td colspan="1" valign="top">WI07</td><td colspan="1" valign="top">Implementación de vista de notificaciones</td><td colspan="1" valign="top">Se implementa la vista que muestra el listado de las notificaciones del usuario.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US13</td><td colspan="1" valign="top">Modificar perfil de usuario</td><td colspan="1" valign="top">WI08</td><td colspan="1" valign="top">Implementación de vista para modificar perfil de granjero</td><td colspan="1" valign="top">Se implementa la vista que permite al usuario granjero modificar los datos de su perfil.</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US22</td><td colspan="1" valign="top">Cancelación de citas</td><td colspan="1" valign="top">WI09</td><td colspan="1" valign="top">Implementación de funcionalidad para cancelar citas</td><td colspan="1" valign="top">Se implementa la funcionalidad que permite al usuario cancelar su cita antes de tiempo.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US08</td><td colspan="1" valign="top">Visualización de publicaciones de los asesores</td><td colspan="1" valign="top">WI10</td><td colspan="1" valign="top">Implementación de vista para explorar publicaciones de los asesores</td><td colspan="1" valign="top">Se implementa la vista para que los granjeros puedan ver las publicaciones de los asesores.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+</table>
+
 #### 5.2.2.3. Development Evidence for Sprint Review
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 #### 5.2.2.5. Execution Evidence for Sprint Review
