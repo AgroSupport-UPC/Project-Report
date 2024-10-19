@@ -3885,7 +3885,7 @@ El objetivo de este segundo sprint fue el despliegue de las mejoras del Backend.
     <td colspan="1" valign="top">Done</td>
   </tr>
   <tr>
-    <td colspan="1" valign="top">WI01</td>
+    <td colspan="1" valign="top">WI02</td>
     <td colspan="1" valign="top">Implementación de nuevos protocolos HTTP para perfiles</td>
     <td colspan="1" valign="top">Se implementan protocolos HTTP que se usaran en la aplicacion para obtener informacion de perfiles de asesores.</td>
     <td colspan="1" valign="top">Sebastian Paredes</td>
@@ -3894,7 +3894,7 @@ El objetivo de este segundo sprint fue el despliegue de las mejoras del Backend.
   <tr>
     <td colspan="1" rowspan="2" valign="top">TS04</td>
     <td colspan="1" rowspan="2" valign="top">Uso de nuestra API para gestionar asesorías</td>
-    <td colspan="1" valign="top">WI02</td>
+    <td colspan="1" valign="top">WI03</td>
     <td colspan="1" valign="top">Implementación de nuevos protocolos HTTP para citas</td>
     <td colspan="1" valign="top">Se implementan protocolos HTTP que se usaran en la aplicacion para obtener informacion de asesorias de un granjero específico.</td>
     <td colspan="1" rowspan="2" valign="top">6</td>
@@ -3902,7 +3902,7 @@ El objetivo de este segundo sprint fue el despliegue de las mejoras del Backend.
     <td colspan="1" valign="top">Done</td>
   </tr>
   <tr>
-    <td colspan="1" valign="top">WI03</td>
+    <td colspan="1" valign="top">WI04</td>
     <td colspan="1" valign="top">Implementación de protocolos HTTP para reseñas</td>
     <td colspan="1" valign="top">Se implementan protocolos HTTP que se usaran en la aplicacion para obtener informacion de reseñas de un asesor específico.</td>
     <td colspan="1" valign="top">Salvador Salinas</td>
@@ -4018,6 +4018,201 @@ Cada integrante trabajó en ramas "feature" correspondientes a sus tareas asigna
 <img src="img/team-collaboration-insights-backend-sprint-2.png" alt="Team Collaboration Insights - Backend Sprint 2">
 
 _Imagen 190. Insights en GitHub_
+
+### 4.2.3. Sprint 3
+#### 4.2.3.1. Sprint Planning 3
+
+Se planeó el segundo sprint a través de una reunión virtual. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 3</td>
+  </tr>
+  <tr>
+    <th colspan="2"><strong>Sprint Planning Background</strong></th>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>2024-10-08</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>01:00 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>Virtual (Google Meet)</td>
+  </tr>
+  <tr>
+    <th>Prepared by</th>
+    <td>Paredes Puente, Sebastian Roberto</td>
+  </tr>
+  <tr>
+    <th>Attendees (to planning meeting)</th>
+    <td>
+      <p>Delgado Corrales, Piero Gonzalo</p>
+      <p>Matos Fernandez, Christian Andre</p>
+      <p>Paredes Puente, Sebastián Roberto</p>
+      <p>Salinas Torres, Salvador Antonio</p>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint 2 Review Summary</th>
+    <td>En el anterior sprint, se implementó una segunda versión del Backend con métodos HTTP específicos para facilitar su implementación con el Frontend,</td>
+  </tr>
+  <tr>
+    <th>Sprint 2 Retrospective Summary</th>
+    <td>Se logró completar todas las tareas que se planearon en un inicio, por lo que hubo un buen desarrollo y organización del trabajo.</td>
+  </tr>
+  <tr>
+    <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
+  </tr>
+  <tr>
+    <th>Sprint 3 Goal</th>
+    <td>Mejorar métodos HTTPs con queries y implementar algunos nuevos.</td>
+  </tr>
+  <tr>
+    <th>Sprint 3 Velocity</th>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>20</td>
+  </tr>
+</table>
+
+#### 4.2.3.2. Sprint Backlog 3
+
+El objetivo de este tercer sprint es mejorar metodos HTTPs con queries y añadir algunos endpoints necesarios para la implementación de nuevos funcionalidades de la aplicación.
+
+<table>
+  <tr>
+    <th colspan="1" valign="top">Sprint #</th>
+    <th colspan="7" valign="top">Sprint 3</th>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">User Story</td>
+    <td colspan="6" valign="top">Work-Item / Task</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">Id</td>
+    <td colspan="1" valign="top">Title</td>
+    <td colspan="1" valign="top">Id</td>
+    <td colspan="1" valign="top">Title</td>
+    <td colspan="1" valign="top">Description</td>
+    <td colspan="1" valign="top">Estimation</td>
+    <td colspan="1" valign="top">Assigned To</td>
+    <td colspan="1" valign="top">Status (To-Do / In-Process / Review / Done)</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="1" valign="top">TS04</td>
+    <td colspan="1" rowspan="1" valign="top">Uso de nuestra API para gestionar asesorías</td>
+    <td colspan="1" valign="top">WI01</td>
+    <td colspan="1" valign="top">Implementación de query params</td>
+    <td colspan="1" valign="top">Se implementaron query params para obtener asesorías de asesores y granjeros específicos.</td>
+    <td colspan="1" rowspan="1" valign="top">1</td>
+    <td colspan="1" valign="top">Piero Delgado</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="4" valign="top">TS05</td>
+    <td colspan="1" rowspan="4" valign="top">Uso de nuestra API para gestionar publicaciones</td>
+    <td colspan="1" valign="top">WI02</td>
+    <td colspan="1" valign="top">Cambio de nombre de tabla publications</td>
+    <td colspan="1" valign="top">Se cambió el nombre de la tabla publications a posts.</td>
+    <td colspan="1" rowspan="4" valign="top">8</td>
+    <td colspan="1" valign="top">Piero Delgado</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">WI03</td>
+    <td colspan="1" valign="top">Organización de posts</td>
+    <td colspan="1" valign="top">Se implementó la lógica para que al recibir los posts del endpoint de forma ordenada por más reciente.</td>
+    <td colspan="1" valign="top">Piero Delgado</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">WI04</td>
+    <td colspan="1" valign="top">Implementación de nuevo endpoint para posts</td>
+    <td colspan="1" valign="top">Se implementó un protocolo HTTP que se usara en la aplicación para obtener publicaciones de un asesor específico.</td>
+    <td colspan="1" valign="top">Salvador Salinas</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">WI05</td>
+    <td colspan="1" valign="top">Implementación de query params</td>
+    <td colspan="1" valign="top">Se implementaron query params para obtener publicaciones de asesores específicos.</td>
+    <td colspan="1" valign="top">Piero Delgado</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="1" valign="top">TS06</td>
+    <td colspan="1" rowspan="1" valign="top">Uso de nuestra API para gestionar autenticación</td>
+    <td colspan="1" valign="top">WI06</td>
+    <td colspan="1" valign="top">Implementación de protocolo HTTP para notificaciones</td>
+    <td colspan="1" valign="top">Se implementó un protocolo HTTP para obtener todas las notificaciones de un usuario específico</td>
+    <td colspan="1" rowspan="1" valign="top">1</td>
+    <td colspan="1" valign="top">Salvador Salinas</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+</table>
+
+#### 4.2.3.3. Development Evidence for Sprint Review
+
+A continuación, se detallan los commits realizados, los cuales se trabajaron a partir de las tareas asignadas a cada miembro como se muestra en el Sprint Backlog 3.
+
+Repositorio Backend: https://github.com/AgroSupport-UPC/Backend
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroSupport-UPC/Backend|feature/TS05|c89b12c|refactor: change publications to posts|08/10/2024|
+|AgroSupport-UPC/Backend|feature/TS05|b516cb5|feat: posts shown by most recent updated|08/10/2024|
+|AgroSupport-UPC/Backend|feature/TS05|d2d412e|feat: posts by advisorId query|13/10/2024|
+|AgroSupport-UPC/Backend|feature/TS04|57f2398|refactor: change some endpoints to query params|13/10/2024|
+|AgroSupport-UPC/Backend|feature/TS03|d441a45|fix: set rating to decimal|13/10/2024|
+|AgroSupport-UPC/Backend|feature/TS04|586ca2c|feat: add farmerId query for GET reviews|14/10/2024|
+|AgroSupport-UPC/Backend|feature/TS06|6ee5b84|feat: notifications by userId query|14/10/2024|
+
+#### 4.2.3.4. Testing Suite Evidence for Sprint Review
+
+Anteriormente ya se realizaron las pruebas de aceptación para las historias de usuario trabajadas utilizando el lenguaje Gherkin en archivos feature. De esta manera, ya se encuentran registradas en el repositorio.
+
+Repositorio Acceptance Tests: <https://github.com/AgroSupport-UPC/Acceptance-Tests>
+
+#### 4.2.3.5. Execution Evidence for Sprint Review
+
+Durante el desarrollo del sprint, el equipo se percato de que necesitaria nuevos endpoints para realizar. Para demostrar la ejecución de las tareas realizadas, se grabó un video que presenta los procesos alcanzados.
+
+URL del video: [Video de ejecución de los Web Services](link.com)
+
+<img alt="Execution Evidence Sprint 3" src="img/execution-sprint-evidence-3.png">
+
+_Imagen 1XX. Captura del video de Execution Evidence_
+
+#### 4.2.3.6. Services Documentation Evidence for Sprint Review
+
+Para este sprint, hemos implementado y actualizado endpoints que facilitan la recolección de información en la aplicación móvil.
+
+Los endpoints creados y/o modificados son los siguientes:
+
+|Método|Endpoint|Descripción|
+|--|--|--|
+|GET|/api/v1/appointments|Se obtienen las asesorias, opcionalmente se puede incluir query params (advisorId o farmerId) para una búsqueda concreta|
+|GET|/api/v1/available_dates|Se obtienen los horarios de disponibilidad de los asesores, opcionalmente se puede incluir query params (advisorId) para una búsqueda concreta|
+|GET|/api/v1/notifications/{userId}/user|Se obtienen las notificaciones por un usuario específico mediante su userId|
+|GET|/api/v1/posts/|Se obtienen las publicaciones, opcionalmente se puede incluir query params (advisorId) para una búsqueda concreta|
+|GET|/api/v1/reviews/|Se obtienen las reseñas, opcionalmente se puede incluir query params (advisorId o farmerId) para una búsqueda concreta|
+
+Enlace al API deployado: http://agrosupport-ewdyg8e2hjbwdge7.eastus-01.azurewebsites.net/
+
+#### 4.2.3.7. Software Deployment Evidence for Sprint Review
+
+
+
+#### 4.2.3.8. Team Collaboration Insights during Sprint
+
+
 
 # Capítulo 5: Product Implementation & Validation
 
