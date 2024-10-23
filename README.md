@@ -308,11 +308,12 @@
         <p><strong>TB1:</strong> Para esta entrega, se adquirieron nuevos conocimientos en la realización de entrevistas y su análisis ya que se pudo entender mejor las necesidades de los granjeros y asesores. Esto es fundamental para la creación de los User Personas, User Task Matrix, y realizar el User Journey Mapping y nos permitirá .realizar una mejor solución de software.</p>
         <p><strong>TB2:</strong> Para esta entrega, se ha avanzado la implementación del backend para la aplicación móvil. Para ello, se tuvo que recordar los temas aprendidas en cursos previos y adaptarlo al contexto de la aplicación. </p>
         <p><strong>TP:</strong> En esta entrega, se han incorporado nuevos endpoints al backend para facilitar su integración con la aplicación móvil. Además, se ha comenzado con el desarrollo de la app, aplicando los conocimientos adquiridos durante las clases.</p>
+        <p><strong>TB3:</strong> Para esta entrega, se ha mejorado endpoints del backend para la aplicación móvil. Para ello, se tuvo que reconocieron ciertos endpoints que se podían implementar como queries y se busco información de como implementarlo con Spring Boot.</p>
         <p></p>
         <p><strong>Matos Fernandez, Christian Andre</strong></p>
         <p><strong>TB1:</strong> Para esta entrega, investigamos a los competidores y desarrollamos estrategias para enfrentarlos. Además, realizamos entrevistas, de las cuales obtuvimos la información necesaria para crear las User Stories que serán útiles en el desarrollo de la aplicación.</p>
         <p><strong>TB2:</strong> En esta entrega, completé con éxito la implementación del backend, cumpliendo con las tareas que me asignaron, de lo cual tuve que repasar y aplicar los conocimientos adquiridos en cursos anteriores.</p>
-        <p><strong>TP: Para esta entrega, me encargué de realizar las tareas del sprint relacionadas con la creación y optimización de la landing page, así como con el desarrollo de las aplicaciones móviles. Para lograrlo, tuve que repasar y aplicar los conceptos vistos en clase, lo que incluyó mejorar la experiencia de usuario, optimizar el diseño responsivo, y asegurar la correcta integración con las funcionalidades de back-end que se han implementado hasta ahora. Esto me permitió consolidar el aprendizaje y avanzar en el proyecto de manera efectiva.</strong> </p>
+        <p><strong>TP:</strong> Para esta entrega, me encargué de realizar las tareas del sprint relacionadas con la creación y optimización de la landing page, así como con el desarrollo de las aplicaciones móviles. Para lograrlo, tuve que repasar y aplicar los conceptos vistos en clase, lo que incluyó mejorar la experiencia de usuario, optimizar el diseño responsivo, y asegurar la correcta integración con las funcionalidades de back-end que se han implementado hasta ahora. Esto me permitió consolidar el aprendizaje y avanzar en el proyecto de manera efectiva.</p>
         <p></p>
         <p><strong>Salinas Torres, Salvador Antonio</strong></p>
         <p><strong>TB1:</strong> En este entregable, definimos el problema inicial sobre el cual partirá nuestra aplicación móvil a realizar. Igualmente, tuvimos que actualizar conocimientos para determinar bien la problemática a través de una investigación sobre el tema y también sobre lo necesario para poder desarrollar la aplicación móvil.</p>
@@ -341,6 +342,7 @@
         <p><strong>TB1:</strong> Mediante las opiniones obtenidas de las entrevistas pudimos comprender la necesidad de un aprendizaje continuo porque gracias a estas pudimos diseñar las funcionalidades del producto delimitadas en las User Stories para que se alineen con las necesidades cambiantes de nuestros segmentos objetivos y tomando en cuenta las nuevas tecnologías.</p>
         <p><strong>TB2:</strong> A través de la documentación de Spring Boot pude aprender sobre el deployment del backend en un contenedor de Docker. Gracias a esto, se pudo desplegar el backend de forma eficaz y está solución nos permitirá seguir actualizando el backend de forma rapida con los nuevos conocimientos adquiridos.</p>
         <p><strong>TP:</strong> Durante el desarrollo de la aplicación, fue necesario investigar varios componentes que no habíamos utilizado en clase, pero que resultaron útiles para el proyecto. Para ello, consultamos la documentación de Android Studio, aprendiendo sobre los componentes relevantes para nuestra aplicación en Kotlin y aplicándolos de manera adecuada.</p>
+        <p><strong>TB3:</strong> Para realizar las mejoras de los endpoints del Backend, se tuvo que buscar información sobre una funcionalidad que no nos habían enseñado en cursos anteriores, los queries. A partir de la documentación de Spring Boot lo pudimos implementar con facilidad, lo que facilitó la implementación del Backend en la aplicación móvil.</p>
         <p></p>
         <p><strong>Matos Fernandez, Christian Andre</strong></p>
         <p><strong>TB1:</strong> A partir de las entrevistas y del análisis de los datos obtenidos, logramos identificar la importancia de integrar un enfoque de aprendizaje continuo. Esto nos permitió definir las User Stories del producto de manera que se adapten a las demandas reales y cambiantes de nuestros usuarios.</p>
@@ -4022,7 +4024,7 @@ _Imagen 190. Insights en GitHub_
 ### 4.2.3. Sprint 3
 #### 4.2.3.1. Sprint Planning 3
 
-Se planeó el segundo sprint a través de una reunión virtual. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
+Se planeó el tercer sprint a través de una reunión virtual. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
 
 <table>
   <tr>
@@ -4169,10 +4171,15 @@ Repositorio Backend: https://github.com/AgroSupport-UPC/Backend
 |AgroSupport-UPC/Backend|feature/TS05|c89b12c|refactor: change publications to posts|08/10/2024|
 |AgroSupport-UPC/Backend|feature/TS05|b516cb5|feat: posts shown by most recent updated|08/10/2024|
 |AgroSupport-UPC/Backend|feature/TS05|d2d412e|feat: posts by advisorId query|13/10/2024|
+|AgroSupport-UPC/Backend|develop|e82ed05|Merge pull request #11 from AgroSupport-UPC/feature/TS05|13/10/2024|
 |AgroSupport-UPC/Backend|feature/TS04|57f2398|refactor: change some endpoints to query params|13/10/2024|
 |AgroSupport-UPC/Backend|feature/TS03|d441a45|fix: set rating to decimal|13/10/2024|
+|AgroSupport-UPC/Backend|develop|c12a1cd|Merge pull request #12 from AgroSupport-UPC/feature/TS03|13/10/2024|
 |AgroSupport-UPC/Backend|feature/TS04|586ca2c|feat: add farmerId query for GET reviews|14/10/2024|
 |AgroSupport-UPC/Backend|feature/TS06|6ee5b84|feat: notifications by userId query|14/10/2024|
+|AgroSupport-UPC/Backend|feature/TS04|7bbfece|fix: appointment date can be in the past|21/10/2024|
+|AgroSupport-UPC/Backend|release|a59c472|Merge pull request #13 from AgroSupport-UPC/develop|23/10/2024|
+|AgroSupport-UPC/Backend|main|fd524bd|Merge pull request #14 from AgroSupport-UPC/release|23/10/2024|
 
 #### 4.2.3.4. Testing Suite Evidence for Sprint Review
 
@@ -4204,15 +4211,55 @@ Los endpoints creados y/o modificados son los siguientes:
 |GET|/api/v1/posts/|Se obtienen las publicaciones, opcionalmente se puede incluir query params (advisorId) para una búsqueda concreta|
 |GET|/api/v1/reviews/|Se obtienen las reseñas, opcionalmente se puede incluir query params (advisorId o farmerId) para una búsqueda concreta|
 
-Enlace al API deployado: http://agrosupport-ewdyg8e2hjbwdge7.eastus-01.azurewebsites.net/
+Enlace al API deployado: https://agrosupport.onrender.com/swagger-ui/index.html
+
+<img alt="Swagger del Backend Sprint 3" src="img/swagger-sprint3.png">
+
+_Imagen 173. Swagger con endpoints del proyecto deployado_
 
 #### 4.2.3.7. Software Deployment Evidence for Sprint Review
 
+Para este sprint, tuvimos que cambiar de deployment service porque se nos acabaron los créditos de Microsoft Azure. Por ello, optamos por usar Render que permite deployar el backend de igual forma que MS Azure. Por lo que, primero actualizamos la carpeta target del proyecto, y creamos la imágen de Docker.
 
+<img alt="Deployment Evidence Sprint 3" src="img/backend_sprint3_deployment1.png">
+
+_Imagen 1XX. Evidencia de Deployment_
+
+Luego, subimos la imagen a Docker como 'pierod0411/backend-tb3:latest'.
+
+<img alt="Deployment Evidence Sprint 3" src="img/backend_sprint3_deployment2.png">
+
+_Imagen 1XX. Evidencia de Deployment_
+
+Con esto hecho, ingresamos a Render y empezamos con la creación del web service deployado.
+
+<img alt="Deployment Evidence Sprint 3" src="img/backend_sprint3_deployment3.png">
+
+_Imagen 1XX. Evidencia de Deployment_
+
+<img alt="Deployment Evidence Sprint 3" src="img/backend_sprint3_deployment4.png">
+
+_Imagen 1XX. Evidencia de Deployment_
+
+Finalmente, se inicializó el Web Service. 
+
+<img alt="Deployment Evidence Sprint 3" src="img/backend_sprint3_deployment5.png">
+
+_Imagen 1XX. Evidencia de Deployment_
+
+Evidencia del Backend deployado:
+
+<img alt="Deployment Evidence Sprint 3" src="img/backend_sprint3_deployment6.png">
+
+_Imagen 1XX. Evidencia de Deployment_
 
 #### 4.2.3.8. Team Collaboration Insights during Sprint
 
+Durante el desarrollo del sprint, se realizaron principalmente coordinaciones por WhatsApp para organizar la división de tareas, y resolver dudas o realizar revisiones. Asimismo, se mantuvo la forma de trabajo por ramas feature.
 
+<img alt="Team Collaboration Insights Sprint 3" src="img/team-collaboration-insights-backend-sprint-3.png">
+
+_Imagen 1XX. Insights en GitHub_
 
 # Capítulo 5: Product Implementation & Validation
 
