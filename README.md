@@ -4626,6 +4626,75 @@ El objetivo de este segundo sprint es seguir con la implementación de la vista 
 </table>
 
 #### 5.2.2.3. Development Evidence for Sprint Review
+
+A continuación, se detallan los commits realizados, los cuales se trabajaron a partir de las tareas asignadas a cada miembro como se muestra en el Sprint Backlog 2. De este modo, se trabajó en el Frontend.
+
+Repositorio Frontend: <https://github.com/AgroSupport-UPC/Frontend>
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- | 
+|AgroSupport-UPC/Frontend|feature/us10|ae8eaae|feat: login functionality added|9/10/2024| 
+|AgroSupport-UPC/Frontend|feature/us10|aa24f7a|feat: GlobalVariables object added|9/10/2024| 
+|AgroSupport-UPC/Frontend|develop|1fc0467|Merge pull request #6 from AgroSupport-UPC/feature/US10|9/10/2024| 
+|AgroSupport-UPC/Frontend|feature/us10|6268a12|feat: variables from GlobalVariables object renamed|10/10/2024| 
+|AgroSupport-UPC/Frontend|feature/us10|6289694|feat: CircularProgressIndicator added in LoginScreen|10/10/2024| 
+|AgroSupport-UPC/Frontend|feature/us10|c41b415|feat: icons for PasswordTextField changed|10/10/2024| 
+|AgroSupport-UPC/Frontend|feature/us10|8c75b4c|feat: ForgotPassword screen added|10/10/2024| 
+|AgroSupport-UPC/Frontend|feature/us10|54df4bd|feat: ForgotPassword screen updated|10/10/2024| 
+|AgroSupport-UPC/Frontend|feature/us10|3b10ef2|feat: RestorePassword section added|10/10/2024|  
+|AgroSupport-UPC/Frontend|feature/us21|42d0b16|feat: calendary filter on FarmerAppointemntList added|12/10/2024|  
+|AgroSupport-UPC/Frontend|feature/us10|e84b4a6|refactor: improve login functionality|12/10/2024|  
+|AgroSupport-UPC/Frontend|feature/us10|bbf6376|feat: add user automatic authentication|12/10/2024|  
+|AgroSupport-UPC/Frontend|feature/us21|22a6e1c|feat: appointment detail added|12/10/2024| 
+|AgroSupport-UPC/Frontend|feature/US21|1bb017e|Merge branch 'feature/US21' into develop|12/10/2024|
+|AgroSupport-UPC/Frontend|develop|4f8359a|Merge branch 'develop' into feature/US10|12/10/2024|
+|AgroSupport-UPC/Frontend|feature/US10|0584b35|Merge pull request #9 from AgroSupport-UPC/feature/US10|12/10/2024|
+|AgroSupport-UPC/Frontend|feature/US21|dac5c8d|Merge pull request #10 from AgroSupport-UPC/develop|12/10/2024|
+|AgroSupport-UPC/Frontend|feature/US21|dac5c8d|feat: constants to global on appointments updated|12/10/2024|
+|AgroSupport-UPC/Frontend|develop|0584b35|Merge pull request #11 from AgroSupport-UPC/feature/US21|12/10/2024|
+|AgroSupport-UPC/Frontend|feature/us22|311402c|Merge pull request #11 from AgroSupport-UPC/feature/US21|12/10/2024|
+|AgroSupport-UPC/Frontend|feature/us22|e9f2552|feat: cancel appointment added|12/10/2024|
+|AgroSupport-UPC/Frontend|develop|1ad2541|Merge pull request #12 from AgroSupport-UPC/feature/US22|12/10/2024|
+|AgroSupport-UPC/Frontend|feature/us05|1ad2541|FerKlox created feature/US05|12/10/2024|
+|AgroSupport-UPC/Frontend|feature/us09|1ad2541|sebastian123gonzalo created feature/US09|13/10/2024|
+|AgroSupport-UPC/Frontend|feature/us09|d559d1d|feat: Create account farmer screen added|13/10/2024|
+|AgroSupport-UPC/Frontend|feature/us09|cf3106a|feat: Create Profile Farmer section added|14/10/2024|
+|AgroSupport-UPC/Frontend|feature/us09|03878e8|feat: functionality sign up added|14/10/2024|
+|AgroSupport-UPC/Frontend|develop|b42254c|Merge pull request #13 from AgroSupport-UPC/feature/US09|14/10/2024|
+|AgroSupport-UPC/Frontend|feature/us20|c9ba51e|Merge pull request #14 from AgroSupport-UPC/develop|15/10/2024|
+|AgroSupport-UPC/Frontend|feature/us05|856c952|feat: review advisors added|15/10/2024|
+|AgroSupport-UPC/Frontend|feature/us05|58f336f|feat: constants updated|15/10/2024|
+|AgroSupport-UPC/Frontend|feature/us20|44245b7|feat: update farmer home screen|15/10/2024|
+|AgroSupport-UPC/Frontend|feature/us20|031526f|refactor: improve readability & farmer interface|15/10/2024|
+|AgroSupport-UPC/Frontend|develop|c43d12b|Merge pull request #16 from AgroSupport-UPC/feature/US20|15/10/2024|
+|AgroSupport-UPC/Frontend|feature/US05|48f93fb|feat: snackbar message added|15/10/2024|
+|AgroSupport-UPC/Frontend|feature/US05|da243bc|Merge branch 'develop' into feature/US05|15/10/2024|
+|AgroSupport-UPC/Frontend|develop|dab0bb7|Merge pull request #17 from AgroSupport-UPC/feature/US05|15/10/2024|
+|AgroSupport-UPC/Frontend|develop|dab0bb7|Merge pull request #17 from AgroSupport-UPC/feature/US05|15/10/2024| 
+|AgroSupport-UPC/Frontend|feature/US19|65d1d7b|feat: notifications screen|15/10/2024|
+|AgroSupport-UPC/Frontend|feature/US19|c3ea0da|Merge pull request #18 from AgroSupport-UPC/feature/US19|15/10/2024| 
+|AgroSupport-UPC/Frontend|feature/US08|0cc2708|feat: explore (posts) screen|17/10/2024|
+|AgroSupport-UPC/Frontend|feature/US13|a75967f|feat: edit profile added|17/10/2024|
+|AgroSupport-UPC/Frontend|feature/US13|9360f3c|feat: cloud storage firebase service added|19/10/2024|
+|AgroSupport-UPC/Frontend|feature/US08|a22cb5c|feat: update explore screen|21/10/2024|
+|AgroSupport-UPC/Frontend|feature/US08|26b6d41|feat: update new appointment and cancel methods|21/10/2024|
+|AgroSupport-UPC/Frontend|feature/US13|bd2a029|feat: upload image on CreateProfileFarmer added|21/10/2024|
+|AgroSupport-UPC/Frontend|develop|cae8ca6|Merge pull request #19 from AgroSupport-UPC/feature/US13|21/10/2024|
+|AgroSupport-UPC/Frontend|develop|ec450dd|Merge branch 'develop' into feature/US08|21/10/2024|
+|AgroSupport-UPC/Frontend|develop|b88486b|Merge pull request #20 from AgroSupport-UPC/feature/US08|22/10/2024|
+|AgroSupport-UPC/Frontend|develop|6432156|Merge pull request #21 from AgroSupport-UPC/develop|22/10/2024|
+|AgroSupport-UPC/Frontend|develop|3e6a30a|feat: add advisor details on review list screen|23/10/2024|
+|AgroSupport-UPC/Frontend|develop|3d69443|Merge pull request #22 from AgroSupport-UPC/feature/US02|23/10/2024|
+
+
+
+
+
+
+
+
+
+
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 #### 5.2.2.5. Execution Evidence for Sprint Review
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
