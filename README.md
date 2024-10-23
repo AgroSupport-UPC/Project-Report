@@ -4686,16 +4686,21 @@ Repositorio Frontend: <https://github.com/AgroSupport-UPC/Frontend>
 |AgroSupport-UPC/Frontend|develop|3e6a30a|feat: add advisor details on review list screen|23/10/2024|
 |AgroSupport-UPC/Frontend|develop|3d69443|Merge pull request #22 from AgroSupport-UPC/feature/US02|23/10/2024|
 
-
-
-
-
-
-
-
-
-
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
+Se realizaron las pruebas de aceptación para las historias de usuario trabajadas utilizando el lenguaje Gherkin en archivos feature para registrar funcionalidades de user stories tanto anteriores como nuevas.
+
+Repositorio Acceptance Tests: https://github.com/AgroSupport-UPC/Acceptance-Tests
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroSupport-UPC/Acceptance-Tests|main|3b48a19|feat: US08.feature added|23/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|3dc3123|feat: US09.feature added|23/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|20ba349|feat: US10.feature added|23/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|bc71ed3|feat: US11.feature added|23/09/2024|
+|AgroSupport-UPC/Acceptance-Tests|main|af3b0c1|feat: US12.feature added|23/09/2024|
+
+
+
 #### 5.2.2.5. Execution Evidence for Sprint Review
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
