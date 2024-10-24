@@ -236,6 +236,15 @@
       - [4.2.2.6. Services Documentation Evidence for Sprint Review](#4226-services-documentation-evidence-for-sprint-review)
       - [4.2.2.7. Software Deployment Evidence for Sprint Review](#4227-software-deployment-evidence-for-sprint-review)
       - [4.2.2.8. Team Collaboration Insights during Sprint](#4228-team-collaboration-insights-during-sprint)
+    - [4.2.3. Sprint 3](#423-sprint-3)
+      - [4.2.3.1. Sprint Planning 3](#4231-sprint-planning-3)
+      - [4.2.3.2. Sprint Backlog 3](#4232-sprint-backlog-3)
+      - [4.2.3.3. Development Evidence for Sprint Review](#4233-development-evidence-for-sprint-review)
+      - [4.2.3.4. Testing Suite Evidence for Sprint Review](#4234-testing-suite-evidence-for-sprint-review)
+      - [4.2.3.5. Execution Evidence for Sprint Review](#4235-execution-evidence-for-sprint-review)
+      - [4.2.3.6. Services Documentation Evidence for Sprint Review](#4236-services-documentation-evidence-for-sprint-review)
+      - [4.2.3.7. Software Deployment Evidence for Sprint Review](#4237-software-deployment-evidence-for-sprint-review)
+      - [4.2.3.8. Team Collaboration Insights during Sprint](#4238-team-collaboration-insights-during-sprint)
 
 [Capítulo 5: Product Implementation & Validation](#Capítulo-5-Product-Implementation--Validation)
   - [5.1. Software Configuration Management](#51-software-configuration-management)
@@ -4191,7 +4200,7 @@ Repositorio Acceptance Tests: <https://github.com/AgroSupport-UPC/Acceptance-Tes
 
 Durante el desarrollo del sprint, el equipo se percato de que necesitaria nuevos endpoints para realizar. Para demostrar la ejecución de las tareas realizadas, se grabó un video que presenta los procesos alcanzados.
 
-URL del video: [Video de ejecución de los Web Services](link.com)
+URL del video: [Video de ejecución de los Web Services](https://youtu.be/cfxofo_DrT8)
 
 <img alt="Execution Evidence Sprint 3" src="img/execution-sprint-evidence-3.png">
 
@@ -4746,10 +4755,12 @@ Repositorio Acceptance Tests: https://github.com/AgroSupport-UPC/Acceptance-Test
 |AgroSupport-UPC/Acceptance-Tests|main|bc71ed3|feat: US11.feature added|23/09/2024|
 |AgroSupport-UPC/Acceptance-Tests|main|af3b0c1|feat: US12.feature added|23/09/2024|
 
-
-
 #### 5.2.2.5. Execution Evidence for Sprint Review
+
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 #### 5.2.2.8. Team Collaboration Insights during Sprint
  
