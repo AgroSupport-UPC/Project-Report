@@ -4777,15 +4777,6 @@ En este sprint, no se llevó a cabo ningún despliegue; sin embargo, sí se real
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
-En el Backend, se completaron las funcionalidades para la gestión de nuevos 
-datos y se realizó el tercer despliegue, en el que se añadieron endpoints 
-específicos solicitados por la aplicación. Se aseguró que estos 
-fueran probados y cumplieran con los requisitos establecidos, 
-garantizando una integración fluida con el Frontend y otros servicios.
-
-
-<img src="img/team_collaboration_backend_sprint_2.png" width="100%">
-
 Durante el desarrollo del Frontend, asignamos responsabilidades entre los 
 miembros del equipo, quienes trabajaron en sus propias ramas feature. 
 A medida que se completaban las tareas, antes de realizar el merge en la 
