@@ -4206,7 +4206,7 @@ URL del video: [Video de ejecución de los Web Services](https://youtu.be/cfxofo
 
 <img alt="Execution Evidence Sprint 3" src="img/execution-sprint-evidence-3.png">
 
-_Imagen 1XX. Captura del video de Execution Evidence_
+_Imagen 191. Captura del video de Execution Evidence_
 
 #### 4.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -4226,7 +4226,7 @@ Enlace al API deployado: https://agrosupport.onrender.com/swagger-ui/index.html
 
 <img alt="Swagger del Backend Sprint 3" src="img/swagger-sprint3.png">
 
-_Imagen 173. Swagger con endpoints del proyecto deployado_
+_Imagen 192. Swagger con endpoints del proyecto deployado_
 
 #### 4.2.3.7. Software Deployment Evidence for Sprint Review
 
@@ -4234,35 +4234,35 @@ Para este sprint, tuvimos que cambiar de deployment service porque se nos acabar
 
 <img alt="Deployment Evidence Sprint 3" src="img/backend_sprint3_deployment1.png">
 
-_Imagen 1XX. Evidencia de Deployment_
+_Imagen 193. Evidencia de Deployment_
 
 Luego, subimos la imagen a Docker como 'pierod0411/backend-tb3:latest'.
 
 <img alt="Deployment Evidence Sprint 3" src="img/backend_sprint3_deployment2.png">
 
-_Imagen 1XX. Evidencia de Deployment_
+_Imagen 194. Evidencia de Deployment_
 
 Con esto hecho, ingresamos a Render y empezamos con la creación del web service deployado.
 
 <img alt="Deployment Evidence Sprint 3" src="img/backend_sprint3_deployment3.png">
 
-_Imagen 1XX. Evidencia de Deployment_
+_Imagen 195. Evidencia de Deployment_
 
 <img alt="Deployment Evidence Sprint 3" src="img/backend_sprint3_deployment4.png">
 
-_Imagen 1XX. Evidencia de Deployment_
+_Imagen 196. Evidencia de Deployment_
 
 Finalmente, se inicializó el Web Service. 
 
 <img alt="Deployment Evidence Sprint 3" src="img/backend_sprint3_deployment5.png">
 
-_Imagen 1XX. Evidencia de Deployment_
+_Imagen 197. Evidencia de Deployment_
 
 Evidencia del Backend deployado:
 
 <img alt="Deployment Evidence Sprint 3" src="img/backend_sprint3_deployment6.png">
 
-_Imagen 1XX. Evidencia de Deployment_
+_Imagen 198. Evidencia de Deployment_
 
 #### 4.2.3.8. Team Collaboration Insights during Sprint
 
@@ -4270,7 +4270,7 @@ Durante el desarrollo del sprint, se realizaron principalmente coordinaciones po
 
 <img alt="Team Collaboration Insights Sprint 3" src="img/team-collaboration-insights-backend-sprint-3.png">
 
-_Imagen 1XX. Insights en GitHub_
+_Imagen 199. Insights en GitHub_
 
 # Capítulo 5: Product Implementation & Validation
 
@@ -4541,7 +4541,7 @@ En esta sección, se detallará lo avanzado en el segundo sprint, el cual incluy
 
 <img src="img/execution-evidence-2.png" width="100%">
 
-_Imagen 191. Captura de video Execution Evidence_
+_Imagen 200. Captura de video Execution Evidence_
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 En este caso, la documentación del API se hizo en el capítulo 4.
@@ -4554,13 +4554,13 @@ Primero, nos vamos a la configuración del repositorio, en la sección "Pages", 
 
 <img src="img/landing_deployment1.png" width="100%">
 
-_Imagen 192. Evidencia de deployment_
+_Imagen 201. Evidencia de deployment_
 
 Luego, simplemente esperamos a que se realice el deployment. Una vez que se haya completado, se mostrará un mensaje indicando que la página se ha desplegado correctamente, y nos brindará el enlace para acceder a ella.
 
 <img src="img/landing_deployment2.png" width="100%">
 
-_Imagen 193. Evidencia de deployment_
+_Imagen 202. Evidencia de deployment_
 
 Enlace a página desplegada: [Landing Page](https://agrosupport-upc.github.io/Landing-Page/)
 
@@ -4570,7 +4570,7 @@ En la elaboración de la landing page, todos los integrantes realizaron commits 
 
 <img src="img/commits-lading-page.png" width="100%"> 
 
-_Imagen 194. commits - landing-page_
+_Imagen 203. commits - landing-page_
 
 La división de trabajo para lograr la implementación fue por secciones en las cuales cada miembro realizó una sección de la landing page:
 
@@ -4586,20 +4586,20 @@ Cada sección tuvo su rama con el formato ‘feature/sección’
 
 <img src="img/branches-landing-page.png" width="100%">
 
-_Imagen 195. feature-seccion_
+_Imagen 204. feature-seccion_
 
 En la parte del Backend, se logró completar el desarrollo de las funcionalidades principales y se realizó el segundo deployment del Backend, incluyendo endpoints específicos. Estos endpoints fueron probados y validados para asegurar que cumplan con los requisitos del sistema, garantizando una integración fluida con el Frontend y otros servicios. 
 
 <img src="img/backend-commits.png" width="100%">
 
-_Imagen 196. backend-commits_
+_Imagen 205. backend-commits_
  
 
 En la construcción del Frontend, dividimos las responsabilidades entre los integrantes, quienes trabajaron en sus respectivas ramas feature. A medida que se completaban las tareas, se realizaban merges con la rama develop. Al igual que en el Backend, llevamos a cabo reuniones por Google Meet para revisar en equipo los progresos y validar que los merges estuvieran funcionando correctamente.
 
 <img src="img/fronted-commits.png" width="100%">
 
-_Imagen 197. frontend-commits_
+_Imagen 206. frontend-commits_
 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2
