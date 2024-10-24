@@ -324,6 +324,7 @@
         <p><strong>TB1:</strong> Para esta entrega, investigamos a los competidores y desarrollamos estrategias para enfrentarlos. Además, realizamos entrevistas, de las cuales obtuvimos la información necesaria para crear las User Stories que serán útiles en el desarrollo de la aplicación.</p>
         <p><strong>TB2:</strong> En esta entrega, completé con éxito la implementación del backend, cumpliendo con las tareas que me asignaron, de lo cual tuve que repasar y aplicar los conocimientos adquiridos en cursos anteriores.</p>
         <p><strong>TP:</strong> Para esta entrega, me encargué de realizar las tareas del sprint relacionadas con la creación y optimización de la landing page, así como con el desarrollo de las aplicaciones móviles. Para lograrlo, tuve que repasar y aplicar los conceptos vistos en clase, lo que incluyó mejorar la experiencia de usuario, optimizar el diseño responsivo, y asegurar la correcta integración con las funcionalidades de back-end que se han implementado hasta ahora. Esto me permitió consolidar el aprendizaje y avanzar en el proyecto de manera efectiva.</p>
+        <p><strong>TB3:</strong> Para esta entrega, completé con éxito nuevamente las tareas asignadas por mi líder de grupo. Me encargué de desarrollar las funcionalidades para ver una cita en una fecha específica o ver todas las citas, mostrar el detalle de una cita, cancelar una cita y permitir que el usuario vea y edite su perfil. Además, integré el servicio de almacenamiento en la nube de Firebase para que cuando el usuario suba una imagen, esta se almacene allí y se devuelva la URL correspondiente.</p>
         <p></p>
         <p><strong>Salinas Torres, Salvador Antonio</strong></p>
         <p><strong>TB1:</strong> En este entregable, definimos el problema inicial sobre el cual partirá nuestra aplicación móvil a realizar. Igualmente, tuvimos que actualizar conocimientos para determinar bien la problemática a través de una investigación sobre el tema y también sobre lo necesario para poder desarrollar la aplicación móvil.</p>
@@ -359,6 +360,7 @@
         <p><strong>TB1:</strong> A partir de las entrevistas y del análisis de los datos obtenidos, logramos identificar la importancia de integrar un enfoque de aprendizaje continuo. Esto nos permitió definir las User Stories del producto de manera que se adapten a las demandas reales y cambiantes de nuestros usuarios.</p>
         <p><strong>TB2:</strong> Durante el repaso para la implementación del backend, también reforcé los conceptos de configuración de controladores y rutas en Spring Boot, lo cual facilita el manejo de solicitudes HTTP de manera eficiente. </p>
         <p><strong>TP:</strong> Para esta entrega, revisé las clases anteriores impartidas por el profesor, lo que me permitió obtener una comprensión más clara para desarrollar el proyecto. Este repaso resultó muy beneficioso, ya que logré completar mis tareas con éxito. Además, a través del proceso de implementación en Android Studio, no solo consolidé mis conocimientos, sino que también aprendí nuevas habilidades que mejoraron mi manejo de la herramienta.</p>
+        <p><strong>TB3:</strong> Para completar con éxito esta entrega, tuve que repasar las clases grabadas por mi profesor para tener una mayor comprensión al desarrollar las funcionalidades. Además, para integrar el servicio de Firebase, revisé videos y documentación sobre su implementación para asegurarme de hacerlo correctamente.</p>
         <p></p>
         <p><strong>Salinas Torres, Salvador Antonio</strong></p>
         <p><strong>TB1:</strong> Se realizó una investigación sobre el tema para verificar de forma clara la necesidad a resolver, así como con fuentes secundarias recuperadas de artículos y fuentes primarias como las entrevistas realizadas.</p>
@@ -4577,7 +4579,6 @@ La división de trabajo para lograr la implementación fue por secciones en las 
 - Piero Delgado: sección ‘sobre nosotros’
 
 - Sebastían Paredes: sección ‘contacto’
-
 - Christian Matos: sección ‘características’
 
 - Salvador Salinas: sección ‘inicio’ y ‘problemática’
@@ -4762,6 +4763,7 @@ Repositorio Acceptance Tests: https://github.com/AgroSupport-UPC/Acceptance-Test
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
+En este caso, la documentación del API se hizo en el capítulo 4. 
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 #### 5.2.2.8. Team Collaboration Insights during Sprint
