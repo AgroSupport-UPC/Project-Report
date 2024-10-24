@@ -4760,13 +4760,39 @@ Repositorio Acceptance Tests: https://github.com/AgroSupport-UPC/Acceptance-Test
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
+En esta sección, se describirá el progreso realizado en el tercer sprint, que abarca la implementación del frontend de la aplicación móvil AgroSupport, utilizando varios servicios de endpoints.
+
+URL de video: [Execution Evidence](https://www.youtube.com/watch?v=7zu4onEB0c0)
+
+
+<img src="img/execution_evidence_sprint_2.png" width="100%">
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 En este caso, la documentación del API se hizo en el capítulo 4. 
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+En este sprint, no se llevó a cabo ningún despliegue; sin embargo, sí se realizó el despliegue del Backend, que corresponde al capítulo 4.
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint
+
+En el Backend, se completaron las funcionalidades para la gestión de nuevos 
+datos y se realizó el tercer despliegue, en el que se añadieron endpoints 
+específicos solicitados por la aplicación. Se aseguró que estos 
+fueran probados y cumplieran con los requisitos establecidos, 
+garantizando una integración fluida con el Frontend y otros servicios.
+
+
+<img src="img/team_collaboration_backend_sprint_2.png" width="100%">
+
+Durante el desarrollo del Frontend, asignamos responsabilidades entre los 
+miembros del equipo, quienes trabajaron en sus propias ramas feature. 
+A medida que se completaban las tareas, antes de realizar el merge en la 
+rama develop, se solicitaba a alguien del equipo que probara los cambios
+
+
+<img src="img/team_collaboration_insigths_frontend.png" width="100%">
  
 # Conclusiones
 
