@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-<p align="center"><b>Agosto 2024</b></p>
+<p align="center"><b>Octubre 2024</b></p>
 
 # Registro de versiones
 
@@ -4772,7 +4772,7 @@ URL de video: [Execution Evidence](https://www.youtube.com/watch?v=7zu4onEB0c0)
 
 <img src="img/execution_evidence_sprint_2.png" width="100%">
 
-_Imagen 207. execution-evidence-sprint-2_
+_Imagen 207. Captura del Execution Evidence_
 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
@@ -4793,7 +4793,7 @@ rama develop, se solicitaba a alguien del equipo que probara los cambios
 
 <img src="img/team_collaboration_insigths_frontend.png" width="100%">.
 
-_Imagen 208. team-collaboration-frontend_
+_Imagen 208. Insights del repositorio del Frontend_
 
  
 # Conclusiones
