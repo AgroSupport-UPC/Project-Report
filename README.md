@@ -311,7 +311,8 @@
         <p><strong>TB1:</strong> En este primer avance, se identificó la problemática y se realizó la investigación necesaria para definir los requisitos que nuestra aplicación final debe cubrir. Para ello, llevé a cabo entrevistas con personas de nuestros segmentos objetivo para comprender mejor sus principales necesidades y adoptar su perspectiva, asegurándome de que las user stories que planteamos fueran las más adecuadas.</p>
         <p><strong>TB2:</strong> Para este segundo avance, se realizo la implementación del backend para la aplicación móvil, el cual ha requerido de los conocimientos adquiridos en cursos previos, demostrando la importancia de adaptar estos conceptos a las necesidades específicas del proyecto. Este proceso ha permitido reforzar habilidades técnicas y enfrentar los desafíos particulares del desarrollo, contribuyendo al progreso del proyecto y estableciendo una base sólida para las siguientes etapas.</p>
         <p><strong>TP:</strong> En esta entrega, se han implementado funcionalidades como la pantalla de inicio de Granjero, sección donde el granjero puede navegar en el catalogo de asesores de Agrosupport para reservar una asesoria, y otra sección donde puede ver sus asesorias programadas.
-        <p><strong>TB3:</strong> En esta entrega, se realizaron mejoras en los endpoints del backend de la aplicación móvil mediante la adición de queries en determinados endpoints</p>
+        <p><strong>TB3:</strong> En esta entrega, se realizó la parte de iniciar sesión y crear cuenta para nuestra aplicación móvil, aplicando los conocimientos adquiridos en clase y actualizando conceptos y habilidades necesarios para el desarrollo profesional, especialmente en el ámbito de soluciones de software para nuestro proyecto.</p>
+
 </p>
         <p></p>
         <p><strong>Delgado Corrales, Piero Gonzalo</strong></p>
@@ -4771,6 +4772,9 @@ URL de video: [Execution Evidence](https://www.youtube.com/watch?v=7zu4onEB0c0)
 
 <img src="img/execution_evidence_sprint_2.png" width="100%">
 
+_Imagen 207. execution-evidence-sprint-2_
+
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 En este caso, la documentación del API se hizo en el capítulo 4. 
@@ -4787,7 +4791,10 @@ A medida que se completaban las tareas, antes de realizar el merge en la
 rama develop, se solicitaba a alguien del equipo que probara los cambios
 
 
-<img src="img/team_collaboration_insigths_frontend.png" width="100%">
+<img src="img/team_collaboration_insigths_frontend.png" width="100%">.
+
+_Imagen 208. team-collaboration-frontend_
+
  
 # Conclusiones
 
