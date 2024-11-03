@@ -4795,7 +4795,44 @@ rama develop, se solicitaba a alguien del equipo que probara los cambios
 
 _Imagen 208. Insights del repositorio del Frontend_
 
- 
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de entrevistas
+
+Dado que se ha trabajado la vista de Granjero para la aplicación móvil, se realizarán entrevistas
+a los usuarios finales para validar la funcionalidad de la aplicación. Se realizarán entrevistas
+a granjeros que tengan problemas para obtener información útil de confianza y que son altamente
+beneficiados con nuestra solución.
+
+Para estas entrevistas de validación, se mostrará la Landing Page desarrollada y la aplicación móvil.
+
+**Preguntas sobre Landing Page**
+
+1. ¿Encuentras útil la información presentada en la landing page?
+2. ¿La información en la sección "Sobre Nosotros" te ayuda a confiar en la plataforma?
+3. ¿Consideras que la información proporcionada es clara y concisa, o percibes que hay demasiada o muy poca?
+4. ¿Qué opinas sobre la organización y disposición de los elementos en la página?
+5. ¿Los elementos visuales, como imágenes y colores, son atractivos y relevantes?
+6. ¿Es fácil comprender la naturaleza de nuestro producto al revisar la página?
+
+**Preguntas sobre la Aplicación Móvil**
+
+1. ¿Qué opinas de la forma de ver las calificaciones y opiniones sobre un asesor?
+2. ¿Te resulta fácil utilizar la opción de búsqueda de asesores en la plataforma?
+3. ¿Te parece que la funcionalidad para agendar una cita con un asesor es intuitiva y fácil de usar?
+4. ¿Te parece ordenada la forma en la que puedes revisar tus citas de la plataforma?
+5. ¿Encuentras útil la opción de calificar a un asesor después de una cita?
+6. ¿Qué opinas de la opción de cancelar una cita en la aplicación?
+7. ¿Te resulta fácil modificar tu perfil de usuario en la aplicación?
+8. ¿Te parece que la organización de la aplicación móvil se entiende y comprende fácilmente?
+
+### 5.3.2. Registro de entrevistas
+
+### 5.3.3. Evaluaciones según heurísticas
+
+## 5.4. Video About the Product
+
+
 # Conclusiones
 
 # Recomendaciones
