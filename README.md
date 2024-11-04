@@ -4828,6 +4828,21 @@ Para estas entrevistas de validación, se mostrará la Landing Page desarrollada
 
 ### 5.3.2. Registro de entrevistas
 
+**Segmento: Granjero con poca experiencia**
+
+**Entrevista 1**
+
+**Entrevistador:** Sebastian Paredes
+
+**Entrevistado:** Marcelo Neyra
+
+**Enlace a entrevista:** https://youtu.be/EP88Jk11Hlk
+
+<img alt="Entrevista con Marcelo Neyra" src="img/entrevista-validacion-granjero-1.png">
+
+_Imagen 3. Entrevista de validación con Marcelo Neyra_
+
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 ## 5.4. Video About the Product
