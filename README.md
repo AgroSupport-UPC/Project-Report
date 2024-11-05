@@ -4840,8 +4840,19 @@ Para estas entrevistas de validación, se mostrará la Landing Page desarrollada
 
 <img alt="Entrevista con Marcelo Neyra" src="img/entrevista-validacion-granjero-1.png">
 
-_Imagen 3. Entrevista de validación con Marcelo Neyra_
+_Imagen 209. Entrevista de validación con Marcelo Neyra_
 
+**Entrevista 2**
+
+**Entrevistador:** Christian Matos
+
+**Entrevistado:** Johan Quiñones
+
+**Enlace a entrevista:** https://youtu.be/kN_09Kcdn5Y
+
+<img alt="Entrevista con Marcelo Neyra" src="img/entrevista-validacion-granjero-2.png">
+
+_Imagen 210. Entrevista de validación con Johan Quiñones_
 
 ### 5.3.3. Evaluaciones según heurísticas
 
