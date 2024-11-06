@@ -137,6 +137,28 @@
         </ul>
       </td>
   </tr>
+  <tr>
+      <td><strong>TB4</strong></td>
+      <td>7 de noviembre</td>
+      <td>
+        <ul>
+          <li>Paredes Puente, Sebastian Roberto</li>
+          <li>Delgado Corrales, Piero Gonzalo</li>
+          <li>Matos Fernandez, Christian Andre</li>
+          <li>Salinas Torres, Salvador Antonio</li>
+        </ul>
+      </td>
+      <td>
+        Se ha incluido el avance de los siguientes capítulos:
+        <ul>
+          <li>Capítulo 4: Backend Product Implementation & Validation</li>
+          <li>Capítulo 5: Product Implementation & Validation</li>
+          <li>Conclusiones</li>
+          <li>Video About The Product</li>
+          <li>Video About The Team</li>
+        </ul>
+      </td>
+  </tr>
   </tbody>
 </table>
 
@@ -245,6 +267,15 @@
       - [4.2.3.6. Services Documentation Evidence for Sprint Review](#4236-services-documentation-evidence-for-sprint-review)
       - [4.2.3.7. Software Deployment Evidence for Sprint Review](#4237-software-deployment-evidence-for-sprint-review)
       - [4.2.3.8. Team Collaboration Insights during Sprint](#4238-team-collaboration-insights-during-sprint)
+    - [4.2.4. Sprint 4](#424-sprint-4)
+      - [4.2.4.1. Sprint Planning 4](#4241-sprint-planning-4)
+      - [4.2.4.2. Sprint Backlog 4](#4242-sprint-backlog-4)
+      - [4.2.4.3. Development Evidence for Sprint Review](#4243-development-evidence-for-sprint-review)
+      - [4.2.4.4. Testing Suite Evidence for Sprint Review](#4244-testing-suite-evidence-for-sprint-review)
+      - [4.2.4.5. Execution Evidence for Sprint Review](#4245-execution-evidence-for-sprint-review)
+      - [4.2.4.6. Services Documentation Evidence for Sprint Review](#4246-services-documentation-evidence-for-sprint-review)
+      - [4.2.4.7. Software Deployment Evidence for Sprint Review](#4247-software-deployment-evidence-for-sprint-review)
+      - [4.2.4.8. Team Collaboration Insights during Sprint](#4248-team-collaboration-insights-during-sprint)
 
 [Capítulo 5: Product Implementation & Validation](#Capítulo-5-Product-Implementation--Validation)
   - [5.1. Software Configuration Management](#51-software-configuration-management)
@@ -271,6 +302,15 @@
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+      - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+      - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
@@ -4333,7 +4373,7 @@ Se planeó el cuarto sprint a través de una reunión virtual. Para ello, se hiz
     <td>Mejorar métodos HTTPs con actualizaciones de estados, y actualizar las credenciales de la base de datos.</td>
   </tr>
   <tr>
-    <th>Sprint 3 Velocity</th>
+    <th>Sprint 4 Velocity</th>
     <td>5</td>
   </tr>
   <tr>
@@ -4342,14 +4382,14 @@ Se planeó el cuarto sprint a través de una reunión virtual. Para ello, se hiz
   </tr>
 </table>
 
-#### 4.2.4.2. Sprint Backlog 3
+#### 4.2.4.2. Sprint Backlog 4
 
 El objetivo de este cuarto sprint es mejorar metodos HTTPs con verificación de estados y actualizar las credenciales de la base de datos.
 
 <table>
   <tr>
     <th colspan="1" valign="top">Sprint #</th>
-    <th colspan="7" valign="top">Sprint 3</th>
+    <th colspan="7" valign="top">Sprint 4</th>
   </tr>
   <tr>
     <td colspan="2" valign="top">User Story</td>
@@ -4401,13 +4441,13 @@ Repositorio Backend: https://github.com/AgroSupport-UPC/Backend
 |AgroSupport-UPC/Backend|release|70e074e|Merge pull request #17 from AgroSupport-UPC/develop|5/11/2024|
 |AgroSupport-UPC/Backend|main|70e8432|Release V4.0.0|5/11/2024|
 
-#### 4.2.3.4. Testing Suite Evidence for Sprint Review
+#### 4.2.4.4. Testing Suite Evidence for Sprint Review
 
 Anteriormente ya se realizaron las pruebas de aceptación para las historias de usuario trabajadas utilizando el lenguaje Gherkin en archivos feature. De esta manera, ya se encuentran registradas en el repositorio.
 
 Repositorio Acceptance Tests: <https://github.com/AgroSupport-UPC/Acceptance-Tests>
 
-#### 4.2.3.5. Execution Evidence for Sprint Review
+#### 4.2.4.5. Execution Evidence for Sprint Review
 
 Para demostrar la ejecución de las tareas realizadas, se grabó un video que presenta los procesos alcanzados.
 
@@ -4417,7 +4457,7 @@ URL del video: [Video de ejecución de los Web Services]()
 
 _Imagen 200. Captura del video de Execution Evidence_
 
-#### 4.2.3.6. Services Documentation Evidence for Sprint Review
+#### 4.2.4.6. Services Documentation Evidence for Sprint Review
 
 Para este sprint, hemos implementado y actualizado endpoints que facilitan la recolección de información en la aplicación móvil.
 
@@ -4434,7 +4474,7 @@ Enlace al API deployado: https://agrosupport.onrender.com/swagger-ui/index.html
 
 _Imagen 201. Swagger con endpoints del proyecto deployado_
 
-#### 4.2.3.7. Software Deployment Evidence for Sprint Review
+#### 4.2.4.7. Software Deployment Evidence for Sprint Review
 
 Para este sprint, se volvió a usar Render para deployar el backend. Por lo que, primero se actualizó la carpeta target del proyecto, y se creó la imágen de Docker.
 
@@ -4466,7 +4506,7 @@ Evidencia del Backend deployado:
 
 _Imagen 206. Evidencia de Deployment_
 
-#### 4.2.3.8. Team Collaboration Insights during Sprint
+#### 4.2.4.8. Team Collaboration Insights during Sprint
 
 Durante el desarrollo del sprint, se realizaron principalmente coordinaciones por WhatsApp para organizar la división de tareas, y resolver dudas o realizar revisiones. Asimismo, se mantuvo la forma de trabajo por ramas feature.
 
@@ -4960,7 +5000,7 @@ Repositorio Acceptance Tests: https://github.com/AgroSupport-UPC/Acceptance-Test
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
-En esta sección, se describirá el progreso realizado en el tercer sprint, que abarca la implementación del frontend de la aplicación móvil AgroSupport, utilizando varios servicios de endpoints.
+En esta sección, se describirá el progreso realizado en el segundo sprint, que abarca la implementación del frontend de la aplicación móvil AgroSupport, utilizando varios servicios de endpoints.
 
 URL de video: [Execution Evidence](https://www.youtube.com/watch?v=7zu4onEB0c0)
 
@@ -4989,6 +5029,146 @@ rama develop, se solicitaba a alguien del equipo que probara los cambios
 <img src="img/team_collaboration_insigths_frontend.png" width="100%">.
 
 _Imagen 208. Insights del repositorio del Frontend_
+
+
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+
+Se planeó el tercer sprint a través de una reunión presencial. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 3</td>
+  </tr>
+  <tr>
+    <th colspan="2"><strong>Sprint Planning Background</strong></th>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>2024-10-29</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>07:00 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>Presencial (En la universidad)</td>
+  </tr>
+  <tr>
+    <th>Prepared by</th>
+    <td>Paredes Puente, Sebastian Roberto</td>
+  </tr>
+  <tr>
+    <th>Attendees (to planning meeting)</th>
+    <td>
+      <p>Delgado Corrales, Piero Gonzalo</p>
+      <p>Matos Fernandez, Christian Andre</p>
+      <p>Paredes Puente, Sebastián Roberto</p>
+      <p>Salinas Torres, Salvador Antonio</p>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint 2 Review Summary</th>
+    <td>En el anterior sprint, se terminar de desarrollar todas las funcionalidades para la vista de Granjero de la aplicación móvil.</td>
+  </tr>
+  <tr>
+    <th>Sprint 2 Retrospective Summary</th>
+    <td>Se logró completar todas las tareas planeadas al inicio del sprint gracias a una buena organización y compromiso por parte de todo el equipo.</td>
+  </tr>
+  <tr>
+    <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
+  </tr>
+  <tr>
+    <th>Sprint 3 Goal</th>
+    <td>Mejorar el diseño de la vista de granjero.</td>
+  </tr>
+  <tr>
+    <th>Sprint 3 Velocity</th>
+    <td>10</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>10</td>
+  </tr>
+</table>
+
+#### 5.2.3.2. Sprint Backlog 3
+
+El objetivo de este segundo sprint es seguir con la implementación de la vista de Granjero en el Frontend de la aplicación móvil.
+
+<table><tr><th colspan="1" valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 2</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top">Estimation </td><td colspan="1" valign="top">Assigned To</td><td colspan="1" valign="top">Status (To-Do / In-Process / Review / Done)</td></tr>
+<tr><td colspan="1" valign="top">US23</td><td colspan="1" valign="top">Búsqueda y Filtrado de Citas</td><td colspan="1" valign="top">WI01</td><td colspan="1" valign="top">Modificación de botones de filtrado</td><td colspan="1" valign="top">Se modifica el estilo de los botones para la búsqueda y filtrado para una mejor visualización.</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US12</td><td colspan="1" valign="top">Visualización de notificaciones del usuario</td><td colspan="1" valign="top">WI02</td><td colspan="1" valign="top">Implementación de contador de notificaciones</td><td colspan="1" valign="top">Se implementa una etiqueta que muestra la cantidad de notificaciones recibidas en el ícono de la sección de notificaciones.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US22</td><td colspan="1" valign="top">Cancelación de citas</td><td colspan="1" valign="top">WI03</td><td colspan="1" valign="top">Implementación de notificación de cancelación de cita</td><td colspan="1" valign="top">Se implementa el evento para crear una notificación en caso el granjero cancela la cita.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US02</td><td colspan="1" rowspan="2" valign="top">Visualización de información de un asesor</td><td colspan="1" valign="top">WI04</td><td colspan="1" valign="top">Modificación de estilos en la vista del asesor</td><td colspan="1" valign="top">Se modifica el estilo y colores para una mejor visualización de la información de los asesores.</td><td colspan="1" rowspan="2" valign="top">3</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+</table>
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+
+A continuación, se detallan los commits realizados, los cuales se trabajaron a partir de las tareas asignadas a cada miembro como se muestra en el Sprint Backlog 2. De este modo, se trabajó en el Frontend.
+
+Repositorio Frontend: <https://github.com/AgroSupport-UPC/Frontend>
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- | 
+|AgroSupport-UPC/Frontend|feature/23|526fa3b|feat: added interface changes for appointments|29/10/2024| 
+|AgroSupport-UPC/Frontend|feature/us12|3bb3aa6|feat: add badge notification indicator for notification count in FarmerHomeScreen|31/10/2024| 
+|AgroSupport-UPC/Frontend|feature/us02|e5aa045|feat: styles in advisor detail and farmer profile|3/11/2024|
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+En este sprint, no se trabajaron pruebas de aceptación, ya que se enfocó en la mejora del diseño de la vista de Granjero.
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+En esta sección, se mostrará la evidencia de la ejecución del sprint 3, que abarca la mejora del diseño de la vista de Granjero en el Frontend de la aplicación móvil.
+
+Ahora se muestra una etiqueta con un contador de notificaciones en el ícono de notificaciones.
+
+<img src="img/sprint3-execution1.png" width="80%">
+
+_Imagen 209. Nueva etiqueta de notificaciones_
+
+Para la vista de información de un asesor, se modificaron los estilos y colores para una mejor visualización.
+
+<img src="img/sprint3-execution2.png" width="50%">
+
+_Imagen 210. Nueva vista de información de asesor_
+
+Se modificaron los botones de búsqueda y filtrado para citas.
+
+<img src="img/sprint3-execution3.png" width="50%">
+
+_Imagen 211. Nuevos botones de búsqueda y filtrado para citas_
+
+Se implementó la creación de notificación en caso el granjero cancele una cita.
+
+<img src="img/sprint3-execution4.png" width="80%">
+
+_Imagen 212. Nueva notificación de cancelación de citas_
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+En este caso, la documentación del API se hizo en el capítulo 4. 
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+En este sprint, no se llevó a cabo ningún despliegue; sin embargo, sí se realizó el despliegue del Backend, que corresponde al capítulo 4.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Durante el desarrollo del Frontend, asignamos responsabilidades entre los 
+miembros del equipo, quienes trabajaron en sus propias ramas feature. 
+A medida que se completaban las tareas, antes de realizar el merge en la 
+rama develop, se solicitaba a alguien del equipo que probara los cambios
+
+
+<img src="img/insights_sprint3_frontend.png" width="100%">
+
+_Imagen 213. Insights del repositorio del Frontend_
 
 ## 5.3. Validation Interviews
 
@@ -5035,7 +5215,7 @@ Para estas entrevistas de validación, se mostrará la Landing Page desarrollada
 
 <img alt="Entrevista con Marcelo Neyra" src="img/entrevista-validacion-granjero-1.png">
 
-_Imagen 209. Entrevista de validación con Marcelo Neyra_
+_Imagen 214. Entrevista de validación con Marcelo Neyra_
 
 **Resumen:**
 Marcelo Neyra comentó que encontró la información presentada en la landing page útil, especialmente en la sección "Sobre Nosotros," lo cual le inspiró confianza en la plataforma. Sin embargo, sugirió que el contenido podría ser más breve para facilitar la lectura. También mencionó que la barra de navegación y el pie de página le parecieron demasiado grandes, lo cual afectaba la estética.
@@ -5051,7 +5231,7 @@ En cuanto a la aplicación móvil, Marcelo consideró interesante la forma de ve
 
 <img alt="Entrevista con Marcelo Neyra" src="img/entrevista-validacion-granjero-2.png">
 
-_Imagen 210. Entrevista de validación con Johan Quiñones_
+_Imagen 215. Entrevista de validación con Johan Quiñones_
 
 ### 5.3.3. Evaluaciones según heurísticas
 
@@ -5070,10 +5250,8 @@ El alcance de esta evaluación incluye la revisión de usabilidad de las siguien
 5. Reserva de citas
 6. Visualización y creación de reseñas
 7. Visualización de notificaciones
-8. Visualización de calendario
-9. Gestión de publicaciones
-10. Visualización de información de clientes
-11. Gestión de horarios disponibles
+8. Visualización de publicaciones
+9. Visualización de historial de citas
 
 No están incluidas en esta versión de la evaluación las siguientes tareas:
 1. Landing Page
@@ -5111,7 +5289,7 @@ Problema: Si el usuario está en la sección de "Crear Cuenta" y decide volver a
 
 <img src="img/heuristicas1.png" width="60%">
 
-_Imagen 21X. Heuristica 1_
+_Imagen 217. Heuristica 1_
 
 
 **Recomendación:**  Agregar un botón de retroceso visible en la interfaz, preferiblemente en la esquina superior izquierda, siguiendo los estándares de navegación en aplicaciones móviles. Esto facilitará al usuario regresar a la pantalla anterior de manera intuitiva y sin interrupciones.
@@ -5130,7 +5308,7 @@ _Imagen 21X. Heuristica 1_
 
 <img src="img/heuristicas2.png" width="70%">
 
-_Imagen 21X. Heuristica 2_
+_Imagen 218. Heuristica 2_
 
 **Recomendación:** Reemplazar el campo de texto por un selector de fecha para mejorar la precisión y consistencia en la experiencia del usuario.
 
@@ -5148,7 +5326,7 @@ _Imagen 21X. Heuristica 2_
 
 <img src="img/heuristicas3.png" width="60%">
 
-_Imagen 21X. Heuristica 3_
+_Imagen 219. Heuristica 3_
 
 **Recomendación:** Centrar los elementos para mejorar la estética y proporcionar una apariencia más profesional y ordenada, lo cual facilita la lectura y navegación en la sección.
 
@@ -5166,7 +5344,7 @@ _Imagen 21X. Heuristica 3_
 
 <img src="img/heuristicas4.png" width="60%">
 
-_Imagen 21X. Heuristica 4_
+_Imagen 220. Heuristica 4_
 
 
 **Recomendación:** Implementar un mensaje de confirmación en un snackbar para informar al usuario sobre la creación exitosa de la cuenta, mejorando la claridad y la experiencia del usuario.
@@ -5180,7 +5358,7 @@ En el vídeo se proporciona información sobre el producto AgroSupport. Se menci
 
 Enlace al vídeo de YouTube: [Video About The Product](https://youtu.be/SUYp8wP7V-4)
 
-_Imagen 21X. Screenshoot del vídeo About the Product_
+_Imagen 221. Screenshoot del vídeo About the Product_
 
 # Conclusiones
 
@@ -5195,9 +5373,6 @@ Enlace al vídeo de YouTube: [Video About The Product](https://youtu.be/SUYp8wP7
 
 # Video About the Team
 Enlace al vídeo de YouTube: [Video About The Team](https://youtu.be/2MSs_6ZS5h8)
-
-
-
 
 
 # Glosario
