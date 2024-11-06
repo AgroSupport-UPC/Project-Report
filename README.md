@@ -5037,6 +5037,10 @@ Para estas entrevistas de validación, se mostrará la Landing Page desarrollada
 
 _Imagen 209. Entrevista de validación con Marcelo Neyra_
 
+**Resumen:**
+Marcelo Neyra comentó que encontró la información presentada en la landing page útil, especialmente en la sección "Sobre Nosotros," lo cual le inspiró confianza en la plataforma. Sin embargo, sugirió que el contenido podría ser más breve para facilitar la lectura. También mencionó que la barra de navegación y el pie de página le parecieron demasiado grandes, lo cual afectaba la estética.
+En cuanto a la aplicación móvil, Marcelo consideró interesante la forma de ver las calificaciones y opiniones de los asesores y le resultó fácil utilizar la opción de búsqueda. Opinó que la funcionalidad para agendar citas es intuitiva y que la organización para revisar citas es adecuada. Además, destacó la utilidad de la opción de calificar a un asesor después de una cita y calificó positivamente la opción de cancelar citas. Afirmó que le resulta sencillo modificar su perfil y percibe que la organización general de la aplicación es fácil de comprender.
+
 **Entrevista 2**
 
 **Entrevistador:** Christian Matos
@@ -5107,6 +5111,9 @@ Problema: Si el usuario está en la sección de "Crear Cuenta" y decide volver a
 
 <img src="img/heuristicas1.png" width="60%">
 
+_Imagen 21X. Heuristica 1_
+
+
 **Recomendación:**  Agregar un botón de retroceso visible en la interfaz, preferiblemente en la esquina superior izquierda, siguiendo los estándares de navegación en aplicaciones móviles. Esto facilitará al usuario regresar a la pantalla anterior de manera intuitiva y sin interrupciones.
 
 -----
@@ -5122,6 +5129,8 @@ Problema: Si el usuario está en la sección de "Crear Cuenta" y decide volver a
 **Imagen:**
 
 <img src="img/heuristicas2.png" width="70%">
+
+_Imagen 21X. Heuristica 2_
 
 **Recomendación:** Reemplazar el campo de texto por un selector de fecha para mejorar la precisión y consistencia en la experiencia del usuario.
 
@@ -5139,6 +5148,8 @@ Problema: Si el usuario está en la sección de "Crear Cuenta" y decide volver a
 
 <img src="img/heuristicas3.png" width="60%">
 
+_Imagen 21X. Heuristica 3_
+
 **Recomendación:** Centrar los elementos para mejorar la estética y proporcionar una apariencia más profesional y ordenada, lo cual facilita la lectura y navegación en la sección.
 
 -----
@@ -5155,6 +5166,9 @@ Problema: Si el usuario está en la sección de "Crear Cuenta" y decide volver a
 
 <img src="img/heuristicas4.png" width="60%">
 
+_Imagen 21X. Heuristica 4_
+
+
 **Recomendación:** Implementar un mensaje de confirmación en un snackbar para informar al usuario sobre la creación exitosa de la cuenta, mejorando la claridad y la experiencia del usuario.
  
 
@@ -5166,7 +5180,7 @@ En el vídeo se proporciona información sobre el producto AgroSupport. Se menci
 
 Enlace al vídeo de YouTube: [Video About The Product](https://youtu.be/SUYp8wP7V-4)
 
-_Imagen 211. Screenshoot del vídeo About the Product_
+_Imagen 21X. Screenshoot del vídeo About the Product_
 
 # Conclusiones
 
@@ -5176,9 +5190,13 @@ _Imagen 211. Screenshoot del vídeo About the Product_
 
 # Video About the Product
 
+
 Enlace al vídeo de YouTube: [Video About The Product](https://youtu.be/SUYp8wP7V-4)
 
 # Video About the Team
+Enlace al vídeo de YouTube: [Video About The Team](https://youtu.be/2MSs_6ZS5h8)
+
+
 
 
 
