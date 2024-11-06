@@ -4279,6 +4279,201 @@ Durante el desarrollo del sprint, se realizaron principalmente coordinaciones po
 
 _Imagen 199. Insights en GitHub_
 
+### 4.2.4. Sprint 4
+#### 4.2.4.1. Sprint Planning 4
+
+Se planeó el cuarto sprint a través de una reunión virtual. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 4</td>
+  </tr>
+  <tr>
+    <th colspan="2"><strong>Sprint Planning Background</strong></th>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>2024-10-24</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>01:00 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>Virtual (Google Meet)</td>
+  </tr>
+  <tr>
+    <th>Prepared by</th>
+    <td>Paredes Puente, Sebastian Roberto</td>
+  </tr>
+  <tr>
+    <th>Attendees (to planning meeting)</th>
+    <td>
+      <p>Delgado Corrales, Piero Gonzalo</p>
+      <p>Matos Fernandez, Christian Andre</p>
+      <p>Paredes Puente, Sebastián Roberto</p>
+      <p>Salinas Torres, Salvador Antonio</p>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint 3 Review Summary</th>
+    <td>En el anterior sprint, se implementó una tercera versión del Backend con implementación de queries para algunos endpoints.</td>
+  </tr>
+  <tr>
+    <th>Sprint 3 Retrospective Summary</th>
+    <td>Se logró completar todas las tareas que se planearon en un inicio, por lo que hubo un buen desarrollo y organización del trabajo.</td>
+  </tr>
+  <tr>
+    <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
+  </tr>
+  <tr>
+    <th>Sprint 4 Goal</th>
+    <td>Mejorar métodos HTTPs con actualizaciones de estados, y actualizar las credenciales de la base de datos.</td>
+  </tr>
+  <tr>
+    <th>Sprint 3 Velocity</th>
+    <td>5</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>5</td>
+  </tr>
+</table>
+
+#### 4.2.4.2. Sprint Backlog 3
+
+El objetivo de este cuarto sprint es mejorar metodos HTTPs con verificación de estados y actualizar las credenciales de la base de datos.
+
+<table>
+  <tr>
+    <th colspan="1" valign="top">Sprint #</th>
+    <th colspan="7" valign="top">Sprint 3</th>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">User Story</td>
+    <td colspan="6" valign="top">Work-Item / Task</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">Id</td>
+    <td colspan="1" valign="top">Title</td>
+    <td colspan="1" valign="top">Id</td>
+    <td colspan="1" valign="top">Title</td>
+    <td colspan="1" valign="top">Description</td>
+    <td colspan="1" valign="top">Estimation</td>
+    <td colspan="1" valign="top">Assigned To</td>
+    <td colspan="1" valign="top">Status (To-Do / In-Process / Review / Done)</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2" valign="top">TS04</td>
+    <td colspan="1" rowspan="2" valign="top">Uso de nuestra API para gestionar asesorías</td>
+        <td colspan="1" valign="top">WI01</td>
+    <td colspan="1" valign="top">Implementación de actualización de estados</td>
+    <td colspan="1" valign="top">Se implementaron actualizacions de estado de asesorías al realizar una petición GET.</td>
+    <td colspan="1" rowspan="1" valign="top">2</td>
+    <td colspan="1" valign="top">Sebastian Paredes y Salvador Salinas</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1" valign="top">WI02</td>
+    <td colspan="1" valign="top">Actualización de credenciales</td>
+    <td colspan="1" valign="top">Se actualizaron las credenciales para acceder a la base de datos al utilizar una nueva.</td>
+    <td colspan="1" rowspan="1" valign="top">1</td>
+    <td colspan="1" valign="top">Piero Delgado</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+</table>
+
+#### 4.2.4.3. Development Evidence for Sprint Review
+
+A continuación, se detallan los commits realizados, los cuales se trabajaron a partir de las tareas asignadas a cada miembro como se muestra en el Sprint Backlog 4.
+
+Repositorio Backend: https://github.com/AgroSupport-UPC/Backend
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroSupport-UPC/Backend|feature/TS04|e4028b4|feat: update database credentials|29/10/2024|
+|AgroSupport-UPC/Backend|feature/TS04|114b7c6|feat: update status according to appointment date|4/11/2024|
+|AgroSupport-UPC/Backend|feature/TS04|b8fba69|feat: update AppointmentQueryServiceImpl|4/11/2024|
+|AgroSupport-UPC/Backend|feature/TS04|1e851bc|feat(appointment): added status validation|4/11/2024|
+|AgroSupport-UPC/Backend|develop|d543952|Merge pull request #16 from AgroSupport-UPC/feature/TS04|5/11/2024|
+|AgroSupport-UPC/Backend|release|70e074e|Merge pull request #17 from AgroSupport-UPC/develop|5/11/2024|
+|AgroSupport-UPC/Backend|main|70e8432|Release V4.0.0|5/11/2024|
+
+#### 4.2.3.4. Testing Suite Evidence for Sprint Review
+
+Anteriormente ya se realizaron las pruebas de aceptación para las historias de usuario trabajadas utilizando el lenguaje Gherkin en archivos feature. De esta manera, ya se encuentran registradas en el repositorio.
+
+Repositorio Acceptance Tests: <https://github.com/AgroSupport-UPC/Acceptance-Tests>
+
+#### 4.2.3.5. Execution Evidence for Sprint Review
+
+Para demostrar la ejecución de las tareas realizadas, se grabó un video que presenta los procesos alcanzados.
+
+URL del video: [Video de ejecución de los Web Services]()
+
+<img alt="Execution Evidence Sprint 4" src="img/execution-sprint-evidence-4.png">
+
+_Imagen 200. Captura del video de Execution Evidence_
+
+#### 4.2.3.6. Services Documentation Evidence for Sprint Review
+
+Para este sprint, hemos implementado y actualizado endpoints que facilitan la recolección de información en la aplicación móvil.
+
+Los endpoints creados y/o modificados son los siguientes:
+
+|Método|Endpoint|Descripción|
+|--|--|--|
+|GET|/api/v1/appointments|Se obtienen las asesorias, opcionalmente se puede incluir query params (advisorId o farmerId) para una búsqueda concreta|
+|GET|/api/v1/appointments/{id}|Se obtienen las asesorias por id de asesoria, opcionalmente se puede incluir query params (advisorId o farmerId) para una búsqueda concreta|
+
+Enlace al API deployado: https://agrosupport.onrender.com/swagger-ui/index.html
+
+<img alt="Swagger del Backend Sprint 4" src="img/swagger-sprint4.png">
+
+_Imagen 201. Swagger con endpoints del proyecto deployado_
+
+#### 4.2.3.7. Software Deployment Evidence for Sprint Review
+
+Para este sprint, se volvió a usar Render para deployar el backend. Por lo que, primero se actualizó la carpeta target del proyecto, y se creó la imágen de Docker.
+
+<img alt="Deployment Evidence Sprint 4" src="img/backend_sprint4_deployment1.png">
+
+_Imagen 202. Evidencia de Deployment_
+
+Luego, subimos la imagen a Docker como 'pierod0411/backend-tb4:latest'.
+
+<img alt="Deployment Evidence Sprint 4" src="img/backend_sprint4_deployment2.png">
+
+_Imagen 203. Evidencia de Deployment_
+
+Con esto hecho, ingresamos a Render y configuramos el Web Service para que considere la nueva imagen.
+
+<img alt="Deployment Evidence Sprint 4" src="img/backend_sprint4_deployment3.png">
+
+_Imagen 204. Evidencia de Deployment_
+
+Finalmente, se inicializó el Web Service. 
+
+<img alt="Deployment Evidence Sprint 4" src="img/backend_sprint4_deployment4.png">
+
+_Imagen 205. Evidencia de Deployment_
+
+Evidencia del Backend deployado:
+
+<img alt="Deployment Evidence Sprint 4" src="img/backend_sprint4_deployment5.png">
+
+_Imagen 206. Evidencia de Deployment_
+
+#### 4.2.3.8. Team Collaboration Insights during Sprint
+
+Durante el desarrollo del sprint, se realizaron principalmente coordinaciones por WhatsApp para organizar la división de tareas, y resolver dudas o realizar revisiones. Asimismo, se mantuvo la forma de trabajo por ramas feature.
+
+<img alt="Team Collaboration Insights Sprint 4" src="img/team-collaboration-insights-backend-sprint-4.png">
+
+_Imagen 207. Insights en GitHub_
+
 # Capítulo 5: Product Implementation & Validation
 
 ## 5.1. Software Configuration Management
@@ -4858,6 +5053,13 @@ _Imagen 210. Entrevista de validación con Johan Quiñones_
 
 ## 5.4. Video About the Product
 
+En el vídeo se proporciona información sobre el producto AgroSupport. Se mencionan las diferentes funcionalidades de la aplicación como son la visualización del catálogo de asesores, la gestión de citas, visualización de publicaciones, etc.
+
+<img alt="Screenshoot del vídeo About the Product" src="img/about-the-product.png">
+
+Enlace al vídeo de YouTube: [Video About The Product](https://youtu.be/SUYp8wP7V-4)
+
+_Imagen 211. Screenshoot del vídeo About the Product_
 
 # Conclusiones
 
@@ -4867,7 +5069,11 @@ _Imagen 210. Entrevista de validación con Johan Quiñones_
 
 # Video About the Product
 
+Enlace al vídeo de YouTube: [Video About The Product](https://youtu.be/SUYp8wP7V-4)
+
 # Video About the Team
+
+
 
 # Glosario
 
