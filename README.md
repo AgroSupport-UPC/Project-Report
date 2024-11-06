@@ -5051,6 +5051,113 @@ _Imagen 210. Entrevista de validación con Johan Quiñones_
 
 ### 5.3.3. Evaluaciones según heurísticas
 
+
+**Site o App a Evaluar:**
+
+AgroSupport
+
+**Tareas a evaluar:**
+
+El alcance de esta evaluación incluye la revisión de usabilidad de las siguientes tareas:
+1. Crear cuenta
+2. Inicio de sesión 
+3. Visualización de catálogo de asesores
+4. Búsqueda de asesores en el catálogo
+5. Reserva de citas
+6. Visualización y creación de reseñas
+7. Visualización de notificaciones
+8. Visualización de calendario
+9. Gestión de publicaciones
+10. Visualización de información de clientes
+11. Gestión de horarios disponibles
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. Landing Page
+2. Recuperación de cuenta
+
+**ESCALA DE SEVERIDAD:**
+*Los errores serán puntuados tomando en cuenta la siguiente escala de severidad*
+|***Nivel***|***Descripción***|
+| :-: | :-: |
+|*1*|*Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.*|
+|*2*|*Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase*|
+|*3*|*Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.*|
+|*4*|*Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.*|
+
+**TABLA DE RESUMEN:**
+
+|**#**|**Problema**|**Escala de severidad**|**Heurística/principio violada(o)**|
+| :- | :- | :- | :- |
+|1|No hay botón de retroceso en la sección de crear cuenta en la app|3|Usability: Control y libertad del usuario|
+|2|El campo de Fecha de Nacimiento está para ingresarlo en texto, pero debe tener un selector de fecha|3|Usability: Consistencia y estándares|
+|3|Centrar elementos en la sección de perfil|2|Usability: Consistencia y diseño estético|
+|4|Modificar snackbar para mostrar mensaje al momento de crear cuenta|2|Visibility of system status: Visibilidad del estado del sistema| 
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**PROBLEMA #1:** No hay botón de retroceso en la sección de crear cuenta en la app
+
+**Severidad:** 3
+
+**Heurística violada:** Usability: Control y libertad del usuario
+
+Problema: Si el usuario está en la sección de "Crear Cuenta" y decide volver a la pantalla anterior, no tiene un botón claro de retroceso, lo que puede dificultar la navegación y generar confusión, especialmente si ingresó a esta sección por error o desea corregir datos en la pantalla previa.
+
+**Imagen:**
+
+<img src="img/heuristicas1.png" width="60%">
+
+**Recomendación:**  Agregar un botón de retroceso visible en la interfaz, preferiblemente en la esquina superior izquierda, siguiendo los estándares de navegación en aplicaciones móviles. Esto facilitará al usuario regresar a la pantalla anterior de manera intuitiva y sin interrupciones.
+
+-----
+
+**PROBLEMA #2:** El campo de Fecha de Nacimiento está para ingresarlo en texto, pero debe tener un selector de fecha
+
+**Severidad:** 3
+
+**Heurística violada:** Usability: Consistencia y estándares
+
+**Problema:** Permitir ingreso manual de texto en el campo de "Fecha de Nacimiento" puede causar errores de formato y no es consistente con las prácticas estándar en móviles.
+
+**Imagen:**
+
+<img src="img/heuristicas2.png" width="70%">
+
+**Recomendación:** Reemplazar el campo de texto por un selector de fecha para mejorar la precisión y consistencia en la experiencia del usuario.
+
+-----
+
+**PROBLEMA #3:** Centrar elementos en la sección de perfil
+
+**Severidad:** 2
+
+**Heurística violada:** Usability: Consistencia y diseño estético
+
+**Problema:** La disposición de los elementos en la sección de perfil está desalineada, lo que afecta la presentación visual y puede dar una impresión de desorganización.
+
+**Imagen:**
+
+<img src="img/heuristicas3.png" width="60%">
+
+**Recomendación:** Centrar los elementos para mejorar la estética y proporcionar una apariencia más profesional y ordenada, lo cual facilita la lectura y navegación en la sección.
+
+-----
+
+**PROBLEMA #4:** Modificar snackbar para mostrar mensaje al momento de crear cuenta
+
+**Severidad:** 2
+
+**Heurística violada:** Visibility of system status: Visibilidad del estado del sistema
+
+**Problema:** Actualmente, al crear una cuenta, el usuario no recibe una confirmación visual inmediata, lo que puede generar incertidumbre sobre el éxito de la acción.
+
+**Imagen:**
+
+<img src="img/heuristicas4.png" width="60%">
+
+**Recomendación:** Implementar un mensaje de confirmación en un snackbar para informar al usuario sobre la creación exitosa de la cuenta, mejorando la claridad y la experiencia del usuario.
+ 
+
 ## 5.4. Video About the Product
 
 En el vídeo se proporciona información sobre el producto AgroSupport. Se mencionan las diferentes funcionalidades de la aplicación como son la visualización del catálogo de asesores, la gestión de citas, visualización de publicaciones, etc.
