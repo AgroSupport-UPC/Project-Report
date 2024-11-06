@@ -5233,6 +5233,13 @@ En cuanto a la aplicación móvil, Marcelo consideró interesante la forma de ve
 
 _Imagen 215. Entrevista de validación con Johan Quiñones_
 
+**Resumen:**
+La entrevista con Johan Quiñones muestra una evaluación positiva de la landing page y la aplicación de AgroSupport. Johan encuentra la información de la 
+página clara y útil, destacando la sección "Sobre Nosotros" por inspirar confianza mediante la presentación de la misión y valores de la plataforma. 
+Sugiere, sin embargo, que ejemplos de casos de éxito enriquecerían el contenido. En la aplicación, Johan aprecia la organización y facilidad de uso, 
+especialmente en la búsqueda y selección de asesores, el agendamiento de citas y la opción de calificar a los asesores, lo que le permite una experiencia 
+intuitiva y satisfactoria.
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 
