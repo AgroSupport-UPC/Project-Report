@@ -352,7 +352,7 @@
         <p><strong>TB2:</strong> Para este segundo avance, se realizo la implementación del backend para la aplicación móvil, el cual ha requerido de los conocimientos adquiridos en cursos previos, demostrando la importancia de adaptar estos conceptos a las necesidades específicas del proyecto. Este proceso ha permitido reforzar habilidades técnicas y enfrentar los desafíos particulares del desarrollo, contribuyendo al progreso del proyecto y estableciendo una base sólida para las siguientes etapas.</p>
         <p><strong>TP:</strong> En esta entrega, se han implementado funcionalidades como la pantalla de inicio de Granjero, sección donde el granjero puede navegar en el catalogo de asesores de Agrosupport para reservar una asesoria, y otra sección donde puede ver sus asesorias programadas.
         <p><strong>TB3:</strong> En esta entrega, se realizó la parte de iniciar sesión y crear cuenta para nuestra aplicación móvil, aplicando los conocimientos adquiridos en clase y actualizando conceptos y habilidades necesarios para el desarrollo profesional, especialmente en el ámbito de soluciones de software para nuestro proyecto.</p>
-
+        <p><strong>TB4:</strong> Para esta entrega, entendimos la importancia del aprendizaje continuo para mejorar nuestro producto. A través de entrevistas de validación, identificamos áreas clave para fortalecer y actualizar, lo que nos permitió implementar mejoras en el diseño y funcionalidad de nuestra solución.</p>
 </p>
         <p></p>
         <p><strong>Delgado Corrales, Piero Gonzalo</strong></p>
@@ -392,6 +392,7 @@
         <p><strong>TB2:</strong> Gracias a la documentación de Spring Boot, se logro adquirir los conocimientos necesarios para desplegar el backend en un contenedor de Docker de manera efectiva. Esto ha permitido optimizar el proceso de despliegue, asegurando que futuras actualizaciones del backend se realicen de forma ágil y eficiente, lo que mejora la adaptabilidad del proyecto a medida que se incorporan nuevos aprendizajes.</p>
         <p><strong>TP:</strong> En el proceso de desarrollo de la aplicación, surgió la necesidad de utilizar herramientas y bibliotecas adicionales que no habíamos visto en clase. Para resolver esto, investigamos en la documentación oficial de Android Studio y aprendimos sobre nuevas funcionalidades de Kotlin, las cuales implementamos de forma efectiva para mejorar el rendimiento y la experiencia de usuario.</p>
         <p><strong>TB3:</strong> Se logro los implementar los queries en los endpoints necesarios gracias a información consultada en fuentes en linea.</p>
+        <p><strong>TB4:</strong> Con base en la retroalimentación obtenida en las entrevistas de validación, logramos obtener información para actualizar y mejorar nuestro proyecto. De esta manera, se puede optimizar nuestro producto, garantizando que se ajustara mejor a las necesidades de los usuarios y aplicando nuevos conocimientos adquiridos.</p>
         <p></p>
         <p><strong>Delgado Corrales, Piero Gonzalo</strong></p>
         <p><strong>TB1:</strong> Mediante las opiniones obtenidas de las entrevistas pudimos comprender la necesidad de un aprendizaje continuo porque gracias a estas pudimos diseñar las funcionalidades del producto delimitadas en las User Stories para que se alineen con las necesidades cambiantes de nuestros segmentos objetivos y tomando en cuenta las nuevas tecnologías.</p>
@@ -5400,3 +5401,6 @@ Ames, A. (2022) EVIDENCIA para una Nueva Gestión Pública. Escuela de Gestión 
 Carhuavilca, D., Sánchez, A., Montoya, L., Cueto, M. & Baldeón, M. (2021) Informe Técnico - Producción Nacional. INEI. https://www.inei.gob.pe/media/MenuRecursivo/boletines/10-informe-tecnico-produccion-nacional-ago-2021.pdf
 
 Problemas Tipo de la Agricultura Peruana (s.f.) Ministerio de Desarrollo Agrario y Riego. https://www.midagri.gob.pe/portal/22-sector-agrario/vision-general/190-problemas-en-la-agricultura-peruana
+
+ 
+
