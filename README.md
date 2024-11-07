@@ -360,6 +360,7 @@
         <p><strong>TB2:</strong> Para esta entrega, se ha avanzado la implementación del backend para la aplicación móvil. Para ello, se tuvo que recordar los temas aprendidas en cursos previos y adaptarlo al contexto de la aplicación. </p>
         <p><strong>TP:</strong> En esta entrega, se han incorporado nuevos endpoints al backend para facilitar su integración con la aplicación móvil. Además, se ha comenzado con el desarrollo de la app, aplicando los conocimientos adquiridos durante las clases.</p>
         <p><strong>TB3:</strong> Para esta entrega, se ha mejorado endpoints del backend para la aplicación móvil. Para ello, se tuvo que reconocieron ciertos endpoints que se podían implementar como queries y se busco información de como implementarlo con Spring Boot.</p>
+        <p><strong>TB4:</strong> En esta entrega, se han realizado modificaciones en el backend para cambiar el estado de las asesorías de manera automática. Además, se llevaron a cabo entrevistas de validación con usuarios para asegurar que las funcionalidades implementadas respondieran a las necesidades reales de los granjeros. Estos avances refuerzan el aprendizaje en la creación de soluciones de software prácticas y efectivas, mejorando la experiencia de usuario.</p>
         <p></p>
         <p><strong>Matos Fernandez, Christian Andre</strong></p>
         <p><strong>TB1:</strong> Para esta entrega, investigamos a los competidores y desarrollamos estrategias para enfrentarlos. Además, realizamos entrevistas, de las cuales obtuvimos la información necesaria para crear las User Stories que serán útiles en el desarrollo de la aplicación.</p>
@@ -399,6 +400,7 @@
         <p><strong>TB2:</strong> A través de la documentación de Spring Boot pude aprender sobre el deployment del backend en un contenedor de Docker. Gracias a esto, se pudo desplegar el backend de forma eficaz y está solución nos permitirá seguir actualizando el backend de forma rapida con los nuevos conocimientos adquiridos.</p>
         <p><strong>TP:</strong> Durante el desarrollo de la aplicación, fue necesario investigar varios componentes que no habíamos utilizado en clase, pero que resultaron útiles para el proyecto. Para ello, consultamos la documentación de Android Studio, aprendiendo sobre los componentes relevantes para nuestra aplicación en Kotlin y aplicándolos de manera adecuada.</p>
         <p><strong>TB3:</strong> Para realizar las mejoras de los endpoints del Backend, se tuvo que buscar información sobre una funcionalidad que no nos habían enseñado en cursos anteriores, los queries. A partir de la documentación de Spring Boot lo pudimos implementar con facilidad, lo que facilitó la implementación del Backend en la aplicación móvil.</p>
+        <p><strong>TB4:</strong> Las entrevistas de validación con usuarios permitieron identificar áreas de mejora y confirmar la efectividad de las funcionalidades implementadas en el frontend, destacando la importancia de iterar y aprender continuamente. Asimismo, se hicieron los videos "About the Product" y "About the Team", los cuales reforzaron el aprendizaje en comunicación y presentación efectiva del proyecto.</p>
         <p></p>
         <p><strong>Matos Fernandez, Christian Andre</strong></p>
         <p><strong>TB1:</strong> A partir de las entrevistas y del análisis de los datos obtenidos, logramos identificar la importancia de integrar un enfoque de aprendizaje continuo. Esto nos permitió definir las User Stories del producto de manera que se adapten a las demandas reales y cambiantes de nuestros usuarios.</p>
@@ -4411,7 +4413,7 @@ El objetivo de este cuarto sprint es mejorar metodos HTTPs con verificación de 
     <td colspan="1" rowspan="2" valign="top">Uso de nuestra API para gestionar asesorías</td>
         <td colspan="1" valign="top">WI01</td>
     <td colspan="1" valign="top">Implementación de actualización de estados</td>
-    <td colspan="1" valign="top">Se implementaron actualizacions de estado de asesorías al realizar una petición GET.</td>
+    <td colspan="1" valign="top">Se implementaron actualizaciones de estado de asesorías al realizar una petición GET.</td>
     <td colspan="1" rowspan="1" valign="top">2</td>
     <td colspan="1" valign="top">Sebastian Paredes y Salvador Salinas</td>
     <td colspan="1" valign="top">Done</td>
