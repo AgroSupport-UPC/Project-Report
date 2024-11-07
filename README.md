@@ -4452,13 +4452,15 @@ Repositorio Acceptance Tests: <https://github.com/AgroSupport-UPC/Acceptance-Tes
 
 #### 4.2.4.5. Execution Evidence for Sprint Review
 
-Para demostrar la ejecución de las tareas realizadas, se grabó un video que presenta los procesos alcanzados.
+Dentro de las principales funcionalidades que se ha implementado en este sprint se encuentra:
 
-URL del video: [Video de ejecución de los Web Services]()
+- Actualización de estados de las asesorías: Se ha implementado la actualización de estados de las asesorías al realizar una petición GET. De esta forma, si se detecta que una asesoría ya inició, se actualiza su estado a "On Going", o si ya finalizó, se actualiza a "Completed".
+
+- Eliminación automática de fechas disponibles pasadas: Se ha implementado la eliminación automática de fechas disponibles pasadas al realizar una petición GET. De esta forma, si se detecta que una fecha disponible ya pasó, se elimina automáticamente de la lista de fechas disponibles.
 
 <img alt="Execution Evidence Sprint 4" src="img/execution-sprint-evidence-4.png">
 
-_Imagen 200. Captura del video de Execution Evidence_
+_Imagen 200. Captura de Endpoints para Execution Evidence_
 
 #### 4.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -4470,6 +4472,8 @@ Los endpoints creados y/o modificados son los siguientes:
 |--|--|--|
 |GET|/api/v1/appointments|Se obtienen las asesorias, opcionalmente se puede incluir query params (advisorId o farmerId) para una búsqueda concreta|
 |GET|/api/v1/appointments/{id}|Se obtienen las asesorias por id de asesoria, opcionalmente se puede incluir query params (advisorId o farmerId) para una búsqueda concreta|
+|GET|/api/v1/available_dates|Se obtienen los horarios de disponibilidad de los asesores, opcionalmente se puede incluir query params (advisorId) para una búsqueda concreta|
+|GET|/api/v1/available_dates/{id}|Se obtienen el horario de disponibilidad de asesore específico mediante su id|
 
 Enlace al API deployado: https://agrosupport.onrender.com/swagger-ui/index.html
 
