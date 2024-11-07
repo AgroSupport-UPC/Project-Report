@@ -5224,6 +5224,8 @@ _Imagen 214. Entrevista de validación con Marcelo Neyra_
 Marcelo Neyra comentó que encontró la información presentada en la landing page útil, especialmente en la sección "Sobre Nosotros," lo cual le inspiró confianza en la plataforma. Sin embargo, sugirió que el contenido podría ser más breve para facilitar la lectura. También mencionó que la barra de navegación y el pie de página le parecieron demasiado grandes, lo cual afectaba la estética.
 En cuanto a la aplicación móvil, Marcelo consideró interesante la forma de ver las calificaciones y opiniones de los asesores y le resultó fácil utilizar la opción de búsqueda. Opinó que la funcionalidad para agendar citas es intuitiva y que la organización para revisar citas es adecuada. Además, destacó la utilidad de la opción de calificar a un asesor después de una cita y calificó positivamente la opción de cancelar citas. Afirmó que le resulta sencillo modificar su perfil y percibe que la organización general de la aplicación es fácil de comprender.
 
+----
+
 **Entrevista 2**
 
 **Entrevistador:** Christian Matos
@@ -5242,6 +5244,24 @@ página clara y útil, destacando la sección "Sobre Nosotros" por inspirar conf
 Sugiere, sin embargo, que ejemplos de casos de éxito enriquecerían el contenido. En la aplicación, Johan aprecia la organización y facilidad de uso, 
 especialmente en la búsqueda y selección de asesores, el agendamiento de citas y la opción de calificar a los asesores, lo que le permite una experiencia 
 intuitiva y satisfactoria.
+
+----
+
+**Entrevista 3**
+
+**Entrevistador:** Salvador Salinas
+
+**Entrevistado:** Anderson Gonza
+
+**Enlace a entrevista:** https://youtu.be/qie9o2Rvn4Y
+
+<img alt="Entrevista con Anderson Gonza" src="img/entrevista-validacion-granjero-3.png">
+
+_Imagen 216. Entrevista de validación con Anderson Gonza_
+
+**Resumen:**
+En esta entrevista con Anderson, se le presentó la landing page y la aplicación móvil de AgroSupport. Anderson consideró que la información de la landing page es útil y clara para que cualquier persona pueda entender rápidamente sobre de lo que trata la aplicación. En la aplicación móvil, Anderson encontró útil la forma de ver las calificaciones y opiniones de los asesores, así como la opción de búsqueda. Consideró que la funcionalidad para agendar citas es intuitiva y que la organización de la aplicación es fácil de comprender. Opinó que la opción de calificar a un asesor después de una cita es útil y que la opción de cancelar citas es sencilla de utilizar. En general, percibió la aplicación está bien organizada y es fácil de usar.
+
 
 ### 5.3.3. Evaluaciones según heurísticas
 
@@ -5368,13 +5388,18 @@ En el vídeo se proporciona información sobre el producto AgroSupport. Se menci
 
 Enlace al vídeo de YouTube: [Video About The Product](https://youtu.be/SUYp8wP7V-4)
 
-_Imagen 221. Screenshoot del vídeo About the Product_
+_Imagen 221. Screenshot del vídeo About the Product_
 
 # Conclusiones
 
 # Recomendaciones
 
 # Video App Validation
+
+Enlace a vídeos de entrevistas de validación en YouTube:
+[Entrevista 1](https://youtu.be/EP88Jk11Hlk)
+[Entrevista 2](https://youtu.be/kN_09Kcdn5Y)
+[Entrevista 3](https://youtu.be/qie9o2Rvn4Y)
 
 # Video About the Product
 
