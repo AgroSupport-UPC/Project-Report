@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-<p align="center"><b>Octubre 2024</b></p>
+<p align="center"><b>Noviembre 2024</b></p>
 
 # Registro de versiones
 
@@ -373,6 +373,7 @@
         <p><strong>TB2:</strong> En este segundo entregable, se definió los estilos, tipografía y paleta de colores a utilizar para el producto. De esta forma, realizamos los prototipos utilizando la herramienta de Figma, la cual ya hemos utilizado anteriormente, pero ha recibido actualizaciones nuevas como la implementación de una nueva AI, por lo que actualizamos nuestros conocimientos para poder sacar provecho a estas nuevas funcionalidades que nos ofrece la aplicación.</p>
         <p><strong>TP:</strong> Se actualizaron conceptos y conocimientos de la programación en Kotlin a lo largo de todas las sesiones de clase y los ejercicios de práctica que se fueron realizando. De esta forma, para el desarrollo del trabajo logré desarrollar mi parte asignada de la aplicación móvil sin mucha dificultad.</p>
         <p><strong>TB3:</strong> Se implementaron nuevas funcionalidades en el Frontend para la vista de granjero. Para ello, se actualizaron algunos conocimientos para poder consumir endpoints de forma correcta con variables a través de los Queries de Retrofit.</p>
+        <p><strong>TB4:</strong> Se ha enfocado en seguir mejorando y actualizando conocimientos necesarios, en este caso, respecto al diseño de nuestra aplicación para una mejor visualización y comprensión de la interfaz para los usuarios. Así, realizamos las entrevistas de validación para obtener una retroalimentación útil para seguir mejorando y entregar la mejor experiencia de usuario.</p>
       </td>
       <td>
         <p><strong>TB1: </strong></p>
@@ -413,6 +414,7 @@
         <p><strong>TB2:</strong> A pesar de que para este entregable aún no se empieza con la implementación del Frontend para la aplicación móvil, igualmente se ha iniciado con el Backend y el primer despliegue de este. De esta forma, hemos logrado aprender una nueva forma para realizar el despliegue del Backend con Docker, que resultó ser mucho mejor al método que utilizábamos anteriormente.</p>
         <p><strong>TP:</strong> Luego de haber estado practicando con ejercicios de programación en Kotlin, ha demostrado que es importante siempre estar practicando y aprendiendo de forma constante. De esta manera, el desarrollo de aplicaciones más complejas no será mucho problema al tener esta capacidad desarrollada.</p>
         <p><strong>TB3:</strong> Fue necesario la práctica constante en Kotlin para trabajar de forma correcta en el Frontend de la aplicación. Así, se utilizó la gestión de memoria para trabajar de forma correcta el inicio de sesión y el uso del Token personal que es esencial para el Backend.</p>
+        <p><strong>TB4:</strong> A pesar de que ya lo habíamos visto anteriormente, igualmente se hizo un repaso al estudio de las heurísticas que existen para la interfaz de usuario. Esto es de mucha utilidad ya que nosotros como desarrolladores siempre debemos seguir aprendiendo para hacer un buen trabajo durante el desarrollo de cualquier proyecto.</p>
       </td>
       <td>
         <p><strong>TB1: </strong></p>
