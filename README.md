@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-<p align="center"><b>Agosto 2024</b></p>
+<p align="center"><b>Noviembre 2024</b></p>
 
 # Registro de versiones
 
@@ -134,6 +134,28 @@
         <ul>
           <li>Capítulo 4: Backend Product Implementation & Validation</li>
           <li>Capítulo 5: Product Implementation & Validation</li>
+        </ul>
+      </td>
+  </tr>
+  <tr>
+      <td><strong>TB4</strong></td>
+      <td>7 de noviembre</td>
+      <td>
+        <ul>
+          <li>Paredes Puente, Sebastian Roberto</li>
+          <li>Delgado Corrales, Piero Gonzalo</li>
+          <li>Matos Fernandez, Christian Andre</li>
+          <li>Salinas Torres, Salvador Antonio</li>
+        </ul>
+      </td>
+      <td>
+        Se ha incluido el avance de los siguientes capítulos:
+        <ul>
+          <li>Capítulo 4: Backend Product Implementation & Validation</li>
+          <li>Capítulo 5: Product Implementation & Validation</li>
+          <li>Conclusiones</li>
+          <li>Video About The Product</li>
+          <li>Video About The Team</li>
         </ul>
       </td>
   </tr>
@@ -245,6 +267,15 @@
       - [4.2.3.6. Services Documentation Evidence for Sprint Review](#4236-services-documentation-evidence-for-sprint-review)
       - [4.2.3.7. Software Deployment Evidence for Sprint Review](#4237-software-deployment-evidence-for-sprint-review)
       - [4.2.3.8. Team Collaboration Insights during Sprint](#4238-team-collaboration-insights-during-sprint)
+    - [4.2.4. Sprint 4](#424-sprint-4)
+      - [4.2.4.1. Sprint Planning 4](#4241-sprint-planning-4)
+      - [4.2.4.2. Sprint Backlog 4](#4242-sprint-backlog-4)
+      - [4.2.4.3. Development Evidence for Sprint Review](#4243-development-evidence-for-sprint-review)
+      - [4.2.4.4. Testing Suite Evidence for Sprint Review](#4244-testing-suite-evidence-for-sprint-review)
+      - [4.2.4.5. Execution Evidence for Sprint Review](#4245-execution-evidence-for-sprint-review)
+      - [4.2.4.6. Services Documentation Evidence for Sprint Review](#4246-services-documentation-evidence-for-sprint-review)
+      - [4.2.4.7. Software Deployment Evidence for Sprint Review](#4247-software-deployment-evidence-for-sprint-review)
+      - [4.2.4.8. Team Collaboration Insights during Sprint](#4248-team-collaboration-insights-during-sprint)
 
 [Capítulo 5: Product Implementation & Validation](#Capítulo-5-Product-Implementation--Validation)
   - [5.1. Software Configuration Management](#51-software-configuration-management)
@@ -271,6 +302,15 @@
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+      - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+      - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
@@ -311,7 +351,8 @@
         <p><strong>TB1:</strong> En este primer avance, se identificó la problemática y se realizó la investigación necesaria para definir los requisitos que nuestra aplicación final debe cubrir. Para ello, llevé a cabo entrevistas con personas de nuestros segmentos objetivo para comprender mejor sus principales necesidades y adoptar su perspectiva, asegurándome de que las user stories que planteamos fueran las más adecuadas.</p>
         <p><strong>TB2:</strong> Para este segundo avance, se realizo la implementación del backend para la aplicación móvil, el cual ha requerido de los conocimientos adquiridos en cursos previos, demostrando la importancia de adaptar estos conceptos a las necesidades específicas del proyecto. Este proceso ha permitido reforzar habilidades técnicas y enfrentar los desafíos particulares del desarrollo, contribuyendo al progreso del proyecto y estableciendo una base sólida para las siguientes etapas.</p>
         <p><strong>TP:</strong> En esta entrega, se han implementado funcionalidades como la pantalla de inicio de Granjero, sección donde el granjero puede navegar en el catalogo de asesores de Agrosupport para reservar una asesoria, y otra sección donde puede ver sus asesorias programadas.
-        <p><strong>TB3:</strong> En esta entrega, se realizaron mejoras en los endpoints del backend de la aplicación móvil mediante la adición de queries en determinados endpoints</p>
+        <p><strong>TB3:</strong> En esta entrega, se realizó la parte de iniciar sesión y crear cuenta para nuestra aplicación móvil, aplicando los conocimientos adquiridos en clase y actualizando conceptos y habilidades necesarios para el desarrollo profesional, especialmente en el ámbito de soluciones de software para nuestro proyecto.</p>
+        <p><strong>TB4:</strong> Para esta entrega, entendimos la importancia del aprendizaje continuo para mejorar nuestro producto. A través de entrevistas de validación, identificamos áreas clave para fortalecer y actualizar, lo que nos permitió implementar mejoras en el diseño y funcionalidad de nuestra solución.</p>
 </p>
         <p></p>
         <p><strong>Delgado Corrales, Piero Gonzalo</strong></p>
@@ -319,18 +360,21 @@
         <p><strong>TB2:</strong> Para esta entrega, se ha avanzado la implementación del backend para la aplicación móvil. Para ello, se tuvo que recordar los temas aprendidas en cursos previos y adaptarlo al contexto de la aplicación. </p>
         <p><strong>TP:</strong> En esta entrega, se han incorporado nuevos endpoints al backend para facilitar su integración con la aplicación móvil. Además, se ha comenzado con el desarrollo de la app, aplicando los conocimientos adquiridos durante las clases.</p>
         <p><strong>TB3:</strong> Para esta entrega, se ha mejorado endpoints del backend para la aplicación móvil. Para ello, se tuvo que reconocieron ciertos endpoints que se podían implementar como queries y se busco información de como implementarlo con Spring Boot.</p>
+        <p><strong>TB4:</strong> En esta entrega, se han realizado modificaciones en el backend para cambiar el estado de las asesorías de manera automática. Además, se llevaron a cabo entrevistas de validación con usuarios para asegurar que las funcionalidades implementadas respondieran a las necesidades reales de los granjeros. Estos avances refuerzan el aprendizaje en la creación de soluciones de software prácticas y efectivas, mejorando la experiencia de usuario.</p>
         <p></p>
         <p><strong>Matos Fernandez, Christian Andre</strong></p>
         <p><strong>TB1:</strong> Para esta entrega, investigamos a los competidores y desarrollamos estrategias para enfrentarlos. Además, realizamos entrevistas, de las cuales obtuvimos la información necesaria para crear las User Stories que serán útiles en el desarrollo de la aplicación.</p>
         <p><strong>TB2:</strong> En esta entrega, completé con éxito la implementación del backend, cumpliendo con las tareas que me asignaron, de lo cual tuve que repasar y aplicar los conocimientos adquiridos en cursos anteriores.</p>
         <p><strong>TP:</strong> Para esta entrega, me encargué de realizar las tareas del sprint relacionadas con la creación y optimización de la landing page, así como con el desarrollo de las aplicaciones móviles. Para lograrlo, tuve que repasar y aplicar los conceptos vistos en clase, lo que incluyó mejorar la experiencia de usuario, optimizar el diseño responsivo, y asegurar la correcta integración con las funcionalidades de back-end que se han implementado hasta ahora. Esto me permitió consolidar el aprendizaje y avanzar en el proyecto de manera efectiva.</p>
         <p><strong>TB3:</strong> Para esta entrega, completé con éxito nuevamente las tareas asignadas por mi líder de grupo. Me encargué de desarrollar las funcionalidades para ver una cita en una fecha específica o ver todas las citas, mostrar el detalle de una cita, cancelar una cita y permitir que el usuario vea y edite su perfil. Además, integré el servicio de almacenamiento en la nube de Firebase para que cuando el usuario suba una imagen, esta se almacene allí y se devuelva la URL correspondiente.</p>
+        <p><strong>TB4:</strong> Para esta entrega, hice algunos ajustes para mejorar lo que desarrollé en la entrega anterior de la aplicación, incluyendo mejoras estéticas en la sección donde se selecciona el filtro para ver todas las citas o filtrarlas por fecha.</p>
         <p></p>
         <p><strong>Salinas Torres, Salvador Antonio</strong></p>
         <p><strong>TB1:</strong> En este entregable, definimos el problema inicial sobre el cual partirá nuestra aplicación móvil a realizar. Igualmente, tuvimos que actualizar conocimientos para determinar bien la problemática a través de una investigación sobre el tema y también sobre lo necesario para poder desarrollar la aplicación móvil.</p>
         <p><strong>TB2:</strong> En este segundo entregable, se definió los estilos, tipografía y paleta de colores a utilizar para el producto. De esta forma, realizamos los prototipos utilizando la herramienta de Figma, la cual ya hemos utilizado anteriormente, pero ha recibido actualizaciones nuevas como la implementación de una nueva AI, por lo que actualizamos nuestros conocimientos para poder sacar provecho a estas nuevas funcionalidades que nos ofrece la aplicación.</p>
         <p><strong>TP:</strong> Se actualizaron conceptos y conocimientos de la programación en Kotlin a lo largo de todas las sesiones de clase y los ejercicios de práctica que se fueron realizando. De esta forma, para el desarrollo del trabajo logré desarrollar mi parte asignada de la aplicación móvil sin mucha dificultad.</p>
         <p><strong>TB3:</strong> Se implementaron nuevas funcionalidades en el Frontend para la vista de granjero. Para ello, se actualizaron algunos conocimientos para poder consumir endpoints de forma correcta con variables a través de los Queries de Retrofit.</p>
+        <p><strong>TB4:</strong> Se ha enfocado en seguir mejorando y actualizando conocimientos necesarios, en este caso, respecto al diseño de nuestra aplicación para una mejor visualización y comprensión de la interfaz para los usuarios. Así, realizamos las entrevistas de validación para obtener una retroalimentación útil para seguir mejorando y entregar la mejor experiencia de usuario.</p>
       </td>
       <td>
         <p><strong>TB1: </strong></p>
@@ -341,6 +385,8 @@
         <p>En este tercer avance, se han implementado funcionalidades clave en la aplicación móvil de Agrosupport, permitiendo a los granjeros navegar por el catálogo de asesores y reservar asesorías. Se añadieron nuevos endpoints al backend para facilitar esta integración, mientras que mi enfoque se centró en optimizar la landing page y desarrollar la aplicación móvil, aplicando conocimientos adquiridos en clase. Gracias a la revisión de conceptos de programación en Kotlin, pude realizar mis tareas con confianza y efectividad, consolidando así mi aprendizaje y avanzando de manera significativa en el proyecto.</p>
         <p><strong>TB3: </strong></p>
         <p>En este cuarto avance, se implementaron y optimizaron funcionalidades clave en el desarrollo de la aplicación móvil, tanto en el frontend como en el backend, asegurando una experiencia más completa para el usuario. Se trabajó en la visualización y gestión de citas, edición de perfil, y en la integración de Firebase para almacenar imágenes de usuario. Para el backend, se mejoraron endpoints mediante la incorporación de queries en Spring Boot, optimizando el manejo de datos. Además, el equipo actualizó y fortaleció conocimientos en el consumo de endpoints y en herramientas modernas, demostrando un compromiso continuo con el desarrollo profesional y la mejora de soluciones de software.</p>
+        <p><strong>TB4: </strong></p>
+        <p>En esta entrega, se demuestra un compromiso constante con la actualización y mejora de conocimientos necesarios para el desarrollo de soluciones de software de calidad. A través de entrevistas de validación con usuarios y ajustes en el diseño y funcionalidad, el equipo ha identificado áreas clave para fortalecer, lo cual ha resultado en implementaciones que mejoran la experiencia del usuario y la eficiencia del producto. Estos esfuerzos reflejan la importancia del aprendizaje continuo en la creación de aplicaciones prácticas y efectivas.</p>
       </td>
     </tr>
     <tr>
@@ -351,24 +397,28 @@
         <p><strong>TB2:</strong> Gracias a la documentación de Spring Boot, se logro adquirir los conocimientos necesarios para desplegar el backend en un contenedor de Docker de manera efectiva. Esto ha permitido optimizar el proceso de despliegue, asegurando que futuras actualizaciones del backend se realicen de forma ágil y eficiente, lo que mejora la adaptabilidad del proyecto a medida que se incorporan nuevos aprendizajes.</p>
         <p><strong>TP:</strong> En el proceso de desarrollo de la aplicación, surgió la necesidad de utilizar herramientas y bibliotecas adicionales que no habíamos visto en clase. Para resolver esto, investigamos en la documentación oficial de Android Studio y aprendimos sobre nuevas funcionalidades de Kotlin, las cuales implementamos de forma efectiva para mejorar el rendimiento y la experiencia de usuario.</p>
         <p><strong>TB3:</strong> Se logro los implementar los queries en los endpoints necesarios gracias a información consultada en fuentes en linea.</p>
+        <p><strong>TB4:</strong> Con base en la retroalimentación obtenida en las entrevistas de validación, logramos obtener información para actualizar y mejorar nuestro proyecto. De esta manera, se puede optimizar nuestro producto, garantizando que se ajustara mejor a las necesidades de los usuarios y aplicando nuevos conocimientos adquiridos.</p>
         <p></p>
         <p><strong>Delgado Corrales, Piero Gonzalo</strong></p>
         <p><strong>TB1:</strong> Mediante las opiniones obtenidas de las entrevistas pudimos comprender la necesidad de un aprendizaje continuo porque gracias a estas pudimos diseñar las funcionalidades del producto delimitadas en las User Stories para que se alineen con las necesidades cambiantes de nuestros segmentos objetivos y tomando en cuenta las nuevas tecnologías.</p>
         <p><strong>TB2:</strong> A través de la documentación de Spring Boot pude aprender sobre el deployment del backend en un contenedor de Docker. Gracias a esto, se pudo desplegar el backend de forma eficaz y está solución nos permitirá seguir actualizando el backend de forma rapida con los nuevos conocimientos adquiridos.</p>
         <p><strong>TP:</strong> Durante el desarrollo de la aplicación, fue necesario investigar varios componentes que no habíamos utilizado en clase, pero que resultaron útiles para el proyecto. Para ello, consultamos la documentación de Android Studio, aprendiendo sobre los componentes relevantes para nuestra aplicación en Kotlin y aplicándolos de manera adecuada.</p>
         <p><strong>TB3:</strong> Para realizar las mejoras de los endpoints del Backend, se tuvo que buscar información sobre una funcionalidad que no nos habían enseñado en cursos anteriores, los queries. A partir de la documentación de Spring Boot lo pudimos implementar con facilidad, lo que facilitó la implementación del Backend en la aplicación móvil.</p>
+        <p><strong>TB4:</strong> Las entrevistas de validación con usuarios permitieron identificar áreas de mejora y confirmar la efectividad de las funcionalidades implementadas en el frontend, destacando la importancia de iterar y aprender continuamente. Asimismo, se hicieron los videos "About the Product" y "About the Team", los cuales reforzaron el aprendizaje en comunicación y presentación efectiva del proyecto.</p>
         <p></p>
         <p><strong>Matos Fernandez, Christian Andre</strong></p>
         <p><strong>TB1:</strong> A partir de las entrevistas y del análisis de los datos obtenidos, logramos identificar la importancia de integrar un enfoque de aprendizaje continuo. Esto nos permitió definir las User Stories del producto de manera que se adapten a las demandas reales y cambiantes de nuestros usuarios.</p>
         <p><strong>TB2:</strong> Durante el repaso para la implementación del backend, también reforcé los conceptos de configuración de controladores y rutas en Spring Boot, lo cual facilita el manejo de solicitudes HTTP de manera eficiente. </p>
         <p><strong>TP:</strong> Para esta entrega, revisé las clases anteriores impartidas por el profesor, lo que me permitió obtener una comprensión más clara para desarrollar el proyecto. Este repaso resultó muy beneficioso, ya que logré completar mis tareas con éxito. Además, a través del proceso de implementación en Android Studio, no solo consolidé mis conocimientos, sino que también aprendí nuevas habilidades que mejoraron mi manejo de la herramienta.</p>
         <p><strong>TB3:</strong> Para completar con éxito esta entrega, tuve que repasar las clases grabadas por mi profesor para tener una mayor comprensión al desarrollar las funcionalidades. Además, para integrar el servicio de Firebase, revisé videos y documentación sobre su implementación para asegurarme de hacerlo correctamente.</p>
+        <p><strong>TB4:</strong> En esta entrega, continué ampliando mis conocimientos en el desarrollo del estilo de la aplicación, para lo cual recurrí a videos de YouTube sobre diseño de estilos.</p>
         <p></p>
         <p><strong>Salinas Torres, Salvador Antonio</strong></p>
         <p><strong>TB1:</strong> Se realizó una investigación sobre el tema para verificar de forma clara la necesidad a resolver, así como con fuentes secundarias recuperadas de artículos y fuentes primarias como las entrevistas realizadas.</p>
         <p><strong>TB2:</strong> A pesar de que para este entregable aún no se empieza con la implementación del Frontend para la aplicación móvil, igualmente se ha iniciado con el Backend y el primer despliegue de este. De esta forma, hemos logrado aprender una nueva forma para realizar el despliegue del Backend con Docker, que resultó ser mucho mejor al método que utilizábamos anteriormente.</p>
         <p><strong>TP:</strong> Luego de haber estado practicando con ejercicios de programación en Kotlin, ha demostrado que es importante siempre estar practicando y aprendiendo de forma constante. De esta manera, el desarrollo de aplicaciones más complejas no será mucho problema al tener esta capacidad desarrollada.</p>
         <p><strong>TB3:</strong> Fue necesario la práctica constante en Kotlin para trabajar de forma correcta en el Frontend de la aplicación. Así, se utilizó la gestión de memoria para trabajar de forma correcta el inicio de sesión y el uso del Token personal que es esencial para el Backend.</p>
+        <p><strong>TB4:</strong> A pesar de que ya lo habíamos visto anteriormente, igualmente se hizo un repaso al estudio de las heurísticas que existen para la interfaz de usuario. Esto es de mucha utilidad ya que nosotros como desarrolladores siempre debemos seguir aprendiendo para hacer un buen trabajo durante el desarrollo de cualquier proyecto.</p>
       </td>
       <td>
         <p><strong>TB1: </strong></p>
@@ -379,6 +429,8 @@
         <p>En este tercer avance, el equipo decidio investigar herramientas y bibliotecas adicionales que no habíamos abordado en clase, lo que nos llevó a consultar la documentación oficial de Android Studio. Aprendimos sobre nuevas funcionalidades de Kotlin y componentes relevantes, aplicándolos de manera efectiva para mejorar el rendimiento y la experiencia del usuario. Revisar las clases anteriores nos proporcionó una comprensión más clara del proyecto, facilitando la finalización exitosa de las tareas asignadas. Este proceso no solo consolidó mis conocimientos, sino que también me permitió adquirir nuevas habilidades en Android Studio. La práctica constante en programación con Kotlin ha demostrado ser importante para enfrentar desafíos en el desarrollo de aplicaciones más complejas.</p>
         <p><strong>TB3: </strong></p>
         <p>En este cuarto avance, el equipo avanzó significativamente en la aplicación móvil al integrar queries en los endpoints necesarios del backend, gracias a una investigación exhaustiva en fuentes en línea y en la documentación de Spring Boot, abordando así conceptos nuevos no cubiertos en cursos previos. También se fortalecieron conocimientos en Kotlin y Firebase, esenciales para implementar correctamente la autenticación y el manejo seguro de datos en el frontend. Este proceso evidenció la importancia del aprendizaje permanente, que resultó fundamental para enfrentar los desafíos técnicos del proyecto y continuar desarrollándose profesionalmente en soluciones de software.</p>
+        <p><strong>TB4: </strong></p>
+        <p>En esta entrega, se refleja la importancia de continuar aprendiendo y repasando conceptos clave, como las heurísticas de diseño de interfaces, para garantizar un desarrollo de calidad. Las entrevistas de validación proporcionaron información valiosa para mejorar el proyecto, mientras que los videos y recursos adicionales reforzaron el aprendizaje en áreas como el estilo y la presentación. Este enfoque continuo en la actualización de conocimientos asegura que el producto final esté alineado con las necesidades de los usuarios y las mejores prácticas del desarrollo de software.</p>
       </td>
     </tr>
   </tbody>
@@ -4278,6 +4330,205 @@ Durante el desarrollo del sprint, se realizaron principalmente coordinaciones po
 
 _Imagen 199. Insights en GitHub_
 
+### 4.2.4. Sprint 4
+#### 4.2.4.1. Sprint Planning 4
+
+Se planeó el cuarto sprint a través de una reunión virtual. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 4</td>
+  </tr>
+  <tr>
+    <th colspan="2"><strong>Sprint Planning Background</strong></th>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>2024-10-24</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>01:00 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>Virtual (Google Meet)</td>
+  </tr>
+  <tr>
+    <th>Prepared by</th>
+    <td>Paredes Puente, Sebastian Roberto</td>
+  </tr>
+  <tr>
+    <th>Attendees (to planning meeting)</th>
+    <td>
+      <p>Delgado Corrales, Piero Gonzalo</p>
+      <p>Matos Fernandez, Christian Andre</p>
+      <p>Paredes Puente, Sebastián Roberto</p>
+      <p>Salinas Torres, Salvador Antonio</p>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint 3 Review Summary</th>
+    <td>En el anterior sprint, se implementó una tercera versión del Backend con implementación de queries para algunos endpoints.</td>
+  </tr>
+  <tr>
+    <th>Sprint 3 Retrospective Summary</th>
+    <td>Se logró completar todas las tareas que se planearon en un inicio, por lo que hubo un buen desarrollo y organización del trabajo.</td>
+  </tr>
+  <tr>
+    <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
+  </tr>
+  <tr>
+    <th>Sprint 4 Goal</th>
+    <td>Mejorar métodos HTTPs con actualizaciones de estados, y actualizar las credenciales de la base de datos.</td>
+  </tr>
+  <tr>
+    <th>Sprint 4 Velocity</th>
+    <td>5</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>5</td>
+  </tr>
+</table>
+
+#### 4.2.4.2. Sprint Backlog 4
+
+El objetivo de este cuarto sprint es mejorar metodos HTTPs con verificación de estados y actualizar las credenciales de la base de datos.
+
+<table>
+  <tr>
+    <th colspan="1" valign="top">Sprint #</th>
+    <th colspan="7" valign="top">Sprint 4</th>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">User Story</td>
+    <td colspan="6" valign="top">Work-Item / Task</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">Id</td>
+    <td colspan="1" valign="top">Title</td>
+    <td colspan="1" valign="top">Id</td>
+    <td colspan="1" valign="top">Title</td>
+    <td colspan="1" valign="top">Description</td>
+    <td colspan="1" valign="top">Estimation</td>
+    <td colspan="1" valign="top">Assigned To</td>
+    <td colspan="1" valign="top">Status (To-Do / In-Process / Review / Done)</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2" valign="top">TS04</td>
+    <td colspan="1" rowspan="2" valign="top">Uso de nuestra API para gestionar asesorías</td>
+        <td colspan="1" valign="top">WI01</td>
+    <td colspan="1" valign="top">Implementación de actualización de estados</td>
+    <td colspan="1" valign="top">Se implementaron actualizaciones de estado de asesorías al realizar una petición GET.</td>
+    <td colspan="1" rowspan="1" valign="top">2</td>
+    <td colspan="1" valign="top">Sebastian Paredes y Salvador Salinas</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+    <tr>
+    <td colspan="1" valign="top">WI02</td>
+    <td colspan="1" valign="top">Actualización de credenciales</td>
+    <td colspan="1" valign="top">Se actualizaron las credenciales para acceder a la base de datos al utilizar una nueva.</td>
+    <td colspan="1" rowspan="1" valign="top">1</td>
+    <td colspan="1" valign="top">Piero Delgado</td>
+    <td colspan="1" valign="top">Done</td>
+  </tr>
+</table>
+
+#### 4.2.4.3. Development Evidence for Sprint Review
+
+A continuación, se detallan los commits realizados, los cuales se trabajaron a partir de las tareas asignadas a cada miembro como se muestra en el Sprint Backlog 4.
+
+Repositorio Backend: https://github.com/AgroSupport-UPC/Backend
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- |
+|AgroSupport-UPC/Backend|feature/TS04|e4028b4|feat: update database credentials|29/10/2024|
+|AgroSupport-UPC/Backend|feature/TS04|114b7c6|feat: update status according to appointment date|4/11/2024|
+|AgroSupport-UPC/Backend|feature/TS04|b8fba69|feat: update AppointmentQueryServiceImpl|4/11/2024|
+|AgroSupport-UPC/Backend|feature/TS04|1e851bc|feat(appointment): added status validation|4/11/2024|
+|AgroSupport-UPC/Backend|develop|d543952|Merge pull request #16 from AgroSupport-UPC/feature/TS04|5/11/2024|
+|AgroSupport-UPC/Backend|release|70e074e|Merge pull request #17 from AgroSupport-UPC/develop|5/11/2024|
+|AgroSupport-UPC/Backend|main|70e8432|Release V4.0.0|5/11/2024|
+
+#### 4.2.4.4. Testing Suite Evidence for Sprint Review
+
+Anteriormente ya se realizaron las pruebas de aceptación para las historias de usuario trabajadas utilizando el lenguaje Gherkin en archivos feature. De esta manera, ya se encuentran registradas en el repositorio.
+
+Repositorio Acceptance Tests: <https://github.com/AgroSupport-UPC/Acceptance-Tests>
+
+#### 4.2.4.5. Execution Evidence for Sprint Review
+
+Dentro de las principales funcionalidades que se ha implementado en este sprint se encuentra:
+
+- Actualización de estados de las asesorías: Se ha implementado la actualización de estados de las asesorías al realizar una petición GET. De esta forma, si se detecta que una asesoría ya inició, se actualiza su estado a "On Going", o si ya finalizó, se actualiza a "Completed".
+
+- Eliminación automática de fechas disponibles pasadas: Se ha implementado la eliminación automática de fechas disponibles pasadas al realizar una petición GET. De esta forma, si se detecta que una fecha disponible ya pasó, se elimina automáticamente de la lista de fechas disponibles.
+
+<img alt="Execution Evidence Sprint 4" src="img/execution-sprint-evidence-4.png">
+
+_Imagen 200. Captura de Endpoints para Execution Evidence_
+
+#### 4.2.4.6. Services Documentation Evidence for Sprint Review
+
+Para este sprint, hemos implementado y actualizado endpoints que facilitan la recolección de información en la aplicación móvil.
+
+Los endpoints creados y/o modificados son los siguientes:
+
+|Método|Endpoint|Descripción|
+|--|--|--|
+|GET|/api/v1/appointments|Se obtienen las asesorias, opcionalmente se puede incluir query params (advisorId o farmerId) para una búsqueda concreta|
+|GET|/api/v1/appointments/{id}|Se obtienen las asesorias por id de asesoria, opcionalmente se puede incluir query params (advisorId o farmerId) para una búsqueda concreta|
+|GET|/api/v1/available_dates|Se obtienen los horarios de disponibilidad de los asesores, opcionalmente se puede incluir query params (advisorId) para una búsqueda concreta|
+|GET|/api/v1/available_dates/{id}|Se obtienen el horario de disponibilidad de asesore específico mediante su id|
+
+Enlace al API deployado: https://agrosupport.onrender.com/swagger-ui/index.html
+
+<img alt="Swagger del Backend Sprint 4" src="img/swagger-sprint4.png">
+
+_Imagen 201. Swagger con endpoints del proyecto deployado_
+
+#### 4.2.4.7. Software Deployment Evidence for Sprint Review
+
+Para este sprint, se volvió a usar Render para deployar el backend. Por lo que, primero se actualizó la carpeta target del proyecto, y se creó la imágen de Docker.
+
+<img alt="Deployment Evidence Sprint 4" src="img/backend_sprint4_deployment1.png">
+
+_Imagen 202. Evidencia de Deployment_
+
+Luego, subimos la imagen a Docker como 'pierod0411/backend-tb4:latest'.
+
+<img alt="Deployment Evidence Sprint 4" src="img/backend_sprint4_deployment2.png">
+
+_Imagen 203. Evidencia de Deployment_
+
+Con esto hecho, ingresamos a Render y configuramos el Web Service para que considere la nueva imagen.
+
+<img alt="Deployment Evidence Sprint 4" src="img/backend_sprint4_deployment3.png">
+
+_Imagen 204. Evidencia de Deployment_
+
+Finalmente, se inicializó el Web Service. 
+
+<img alt="Deployment Evidence Sprint 4" src="img/backend_sprint4_deployment4.png">
+
+_Imagen 205. Evidencia de Deployment_
+
+Evidencia del Backend deployado:
+
+<img alt="Deployment Evidence Sprint 4" src="img/backend_sprint4_deployment5.png">
+
+_Imagen 206. Evidencia de Deployment_
+
+#### 4.2.4.8. Team Collaboration Insights during Sprint
+
+Durante el desarrollo del sprint, se realizaron principalmente coordinaciones por WhatsApp para organizar la división de tareas, y resolver dudas o realizar revisiones. Asimismo, se mantuvo la forma de trabajo por ramas feature.
+
+<img alt="Team Collaboration Insights Sprint 4" src="img/team-collaboration-insights-backend-sprint-4.png">
+
+_Imagen 207. Insights en GitHub_
+
 # Capítulo 5: Product Implementation & Validation
 
 ## 5.1. Software Configuration Management
@@ -4764,12 +5015,15 @@ Repositorio Acceptance Tests: https://github.com/AgroSupport-UPC/Acceptance-Test
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
-En esta sección, se describirá el progreso realizado en el tercer sprint, que abarca la implementación del frontend de la aplicación móvil AgroSupport, utilizando varios servicios de endpoints.
+En esta sección, se describirá el progreso realizado en el segundo sprint, que abarca la implementación del frontend de la aplicación móvil AgroSupport, utilizando varios servicios de endpoints.
 
 URL de video: [Execution Evidence](https://www.youtube.com/watch?v=7zu4onEB0c0)
 
 
 <img src="img/execution_evidence_sprint_2.png" width="100%">
+
+_Imagen 207. Captura del Execution Evidence_
+
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -4787,17 +5041,386 @@ A medida que se completaban las tareas, antes de realizar el merge en la
 rama develop, se solicitaba a alguien del equipo que probara los cambios
 
 
-<img src="img/team_collaboration_insigths_frontend.png" width="100%">
+<img src="img/team_collaboration_insigths_frontend.png" width="100%">.
+
+_Imagen 208. Insights del repositorio del Frontend_
+
+
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+
+Se planeó el tercer sprint a través de una reunión presencial. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 3</td>
+  </tr>
+  <tr>
+    <th colspan="2"><strong>Sprint Planning Background</strong></th>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>2024-10-29</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>07:00 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>Presencial (En la universidad)</td>
+  </tr>
+  <tr>
+    <th>Prepared by</th>
+    <td>Paredes Puente, Sebastian Roberto</td>
+  </tr>
+  <tr>
+    <th>Attendees (to planning meeting)</th>
+    <td>
+      <p>Delgado Corrales, Piero Gonzalo</p>
+      <p>Matos Fernandez, Christian Andre</p>
+      <p>Paredes Puente, Sebastián Roberto</p>
+      <p>Salinas Torres, Salvador Antonio</p>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint 2 Review Summary</th>
+    <td>En el anterior sprint, se terminar de desarrollar todas las funcionalidades para la vista de Granjero de la aplicación móvil.</td>
+  </tr>
+  <tr>
+    <th>Sprint 2 Retrospective Summary</th>
+    <td>Se logró completar todas las tareas planeadas al inicio del sprint gracias a una buena organización y compromiso por parte de todo el equipo.</td>
+  </tr>
+  <tr>
+    <th colspan="2"><strong>Sprint Goal & User Stories</strong></th>
+  </tr>
+  <tr>
+    <th>Sprint 3 Goal</th>
+    <td>Mejorar el diseño de la vista de granjero.</td>
+  </tr>
+  <tr>
+    <th>Sprint 3 Velocity</th>
+    <td>10</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>10</td>
+  </tr>
+</table>
+
+#### 5.2.3.2. Sprint Backlog 3
+
+El objetivo de este segundo sprint es seguir con la implementación de la vista de Granjero en el Frontend de la aplicación móvil.
+
+<table><tr><th colspan="1" valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 3</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top">Estimation </td><td colspan="1" valign="top">Assigned To</td><td colspan="1" valign="top">Status (To-Do / In-Process / Review / Done)</td></tr>
+<tr><td colspan="1" valign="top">US23</td><td colspan="1" valign="top">Búsqueda y Filtrado de Citas</td><td colspan="1" valign="top">WI01</td><td colspan="1" valign="top">Modificación de botones de filtrado</td><td colspan="1" valign="top">Se modifica el estilo de los botones para la búsqueda y filtrado para una mejor visualización.</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US12</td><td colspan="1" valign="top">Visualización de notificaciones del usuario</td><td colspan="1" valign="top">WI02</td><td colspan="1" valign="top">Implementación de contador de notificaciones</td><td colspan="1" valign="top">Se implementa una etiqueta que muestra la cantidad de notificaciones recibidas en el ícono de la sección de notificaciones.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">US22</td><td colspan="1" valign="top">Cancelación de citas</td><td colspan="1" valign="top">WI03</td><td colspan="1" valign="top">Implementación de notificación de cancelación de cita</td><td colspan="1" valign="top">Se implementa el evento para crear una notificación en caso el granjero cancela la cita.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Piero Delgado</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US02</td><td colspan="1" rowspan="2" valign="top">Visualización de información de un asesor</td><td colspan="1" valign="top">WI04</td><td colspan="1" valign="top">Modificación de estilos en la vista del asesor</td><td colspan="1" valign="top">Se modifica el estilo y colores para una mejor visualización de la información de los asesores.</td><td colspan="1" rowspan="2" valign="top">3</td><td colspan="1" valign="top">Salvador Salinas</td><td colspan="1" valign="top">Done</td></tr>
+</table>
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+
+A continuación, se detallan los commits realizados, los cuales se trabajaron a partir de las tareas asignadas a cada miembro como se muestra en el Sprint Backlog 3. De este modo, se trabajó en el Frontend.
+
+Repositorio Frontend: <https://github.com/AgroSupport-UPC/Frontend>
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- | 
+|AgroSupport-UPC/Frontend|feature/23|526fa3b|feat: added interface changes for appointments|29/10/2024| 
+|AgroSupport-UPC/Frontend|feature/us12|3bb3aa6|feat: add badge notification indicator for notification count in FarmerHomeScreen|31/10/2024| 
+|AgroSupport-UPC/Frontend|feature/us02|e5aa045|feat: styles in advisor detail and farmer profile|3/11/2024|
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+En este sprint, no se trabajaron pruebas de aceptación, ya que se enfocó en la mejora del diseño de la vista de Granjero.
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+En esta sección, se mostrará la evidencia de la ejecución del sprint 3, que abarca la mejora del diseño de la vista de Granjero en el Frontend de la aplicación móvil.
+
+Ahora se muestra una etiqueta con un contador de notificaciones en el ícono de notificaciones.
+
+<img src="img/sprint3-execution1.png" width="80%">
+
+_Imagen 209. Nueva etiqueta de notificaciones_
+
+Para la vista de información de un asesor, se modificaron los estilos y colores para una mejor visualización.
+
+<img src="img/sprint3-execution2.png" width="50%">
+
+_Imagen 210. Nueva vista de información de asesor_
+
+Se modificaron los botones de búsqueda y filtrado para citas.
+
+<img src="img/sprint3-execution3.png" width="50%">
+
+_Imagen 211. Nuevos botones de búsqueda y filtrado para citas_
+
+Se implementó la creación de notificación en caso el granjero cancele una cita.
+
+<img src="img/sprint3-execution4.png" width="80%">
+
+_Imagen 212. Nueva notificación de cancelación de citas_
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+En este caso, la documentación del API se hizo en el capítulo 4. 
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+En este sprint, no se llevó a cabo ningún despliegue; sin embargo, sí se realizó el despliegue del Backend, que corresponde al capítulo 4.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Durante el desarrollo del Frontend, asignamos responsabilidades entre los 
+miembros del equipo, quienes trabajaron en sus propias ramas feature. 
+A medida que se completaban las tareas, antes de realizar el merge en la 
+rama develop, se solicitaba a alguien del equipo que probara los cambios
+
+
+<img src="img/insights_sprint3_frontend.png" width="100%">
+
+_Imagen 213. Insights del repositorio del Frontend_
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de entrevistas
+
+Dado que se ha trabajado la vista de Granjero para la aplicación móvil, se realizarán entrevistas
+a los usuarios finales para validar la funcionalidad de la aplicación. Se realizarán entrevistas
+a granjeros que tengan problemas para obtener información útil de confianza y que son altamente
+beneficiados con nuestra solución.
+
+Para estas entrevistas de validación, se mostrará la Landing Page desarrollada y la aplicación móvil.
+
+**Preguntas sobre Landing Page**
+
+1. ¿Encuentras útil la información presentada en la landing page?
+2. ¿La información en la sección "Sobre Nosotros" te ayuda a confiar en la plataforma?
+3. ¿Consideras que la información proporcionada es clara y concisa, o percibes que hay demasiada o muy poca?
+4. ¿Qué opinas sobre la organización y disposición de los elementos en la página?
+5. ¿Los elementos visuales, como imágenes y colores, son atractivos y relevantes?
+6. ¿Es fácil comprender la naturaleza de nuestro producto al revisar la página?
+
+**Preguntas sobre la Aplicación Móvil**
+
+1. ¿Qué opinas de la forma de ver las calificaciones y opiniones sobre un asesor?
+2. ¿Te resulta fácil utilizar la opción de búsqueda de asesores en la plataforma?
+3. ¿Te parece que la funcionalidad para agendar una cita con un asesor es intuitiva y fácil de usar?
+4. ¿Te parece ordenada la forma en la que puedes revisar tus citas de la plataforma?
+5. ¿Encuentras útil la opción de calificar a un asesor después de una cita?
+6. ¿Qué opinas de la opción de cancelar una cita en la aplicación?
+7. ¿Te resulta fácil modificar tu perfil de usuario en la aplicación?
+8. ¿Te parece que la organización de la aplicación móvil se entiende y comprende fácilmente?
+
+### 5.3.2. Registro de entrevistas
+
+**Segmento: Granjero con poca experiencia**
+
+**Entrevista 1**
+
+**Entrevistador:** Sebastian Paredes
+
+**Entrevistado:** Marcelo Neyra
+
+**Enlace a entrevista:** https://youtu.be/EP88Jk11Hlk
+
+<img alt="Entrevista con Marcelo Neyra" src="img/entrevista-validacion-granjero-1.png">
+
+_Imagen 214. Entrevista de validación con Marcelo Neyra_
+
+**Resumen:**
+Marcelo Neyra comentó que encontró la información presentada en la landing page útil, especialmente en la sección "Sobre Nosotros," lo cual le inspiró confianza en la plataforma. Sin embargo, sugirió que el contenido podría ser más breve para facilitar la lectura. También mencionó que la barra de navegación y el pie de página le parecieron demasiado grandes, lo cual afectaba la estética.
+En cuanto a la aplicación móvil, Marcelo consideró interesante la forma de ver las calificaciones y opiniones de los asesores y le resultó fácil utilizar la opción de búsqueda. Opinó que la funcionalidad para agendar citas es intuitiva y que la organización para revisar citas es adecuada. Además, destacó la utilidad de la opción de calificar a un asesor después de una cita y calificó positivamente la opción de cancelar citas. Afirmó que le resulta sencillo modificar su perfil y percibe que la organización general de la aplicación es fácil de comprender.
+
+----
+
+**Entrevista 2**
+
+**Entrevistador:** Christian Matos
+
+**Entrevistado:** Johan Quiñones
+
+**Enlace a entrevista:** https://youtu.be/kN_09Kcdn5Y
+
+<img alt="Entrevista con Marcelo Neyra" src="img/entrevista-validacion-granjero-2.png">
+
+_Imagen 215. Entrevista de validación con Johan Quiñones_
+
+**Resumen:**
+La entrevista con Johan Quiñones muestra una evaluación positiva de la landing page y la aplicación de AgroSupport. Johan encuentra la información de la 
+página clara y útil, destacando la sección "Sobre Nosotros" por inspirar confianza mediante la presentación de la misión y valores de la plataforma. 
+Sugiere, sin embargo, que ejemplos de casos de éxito enriquecerían el contenido. En la aplicación, Johan aprecia la organización y facilidad de uso, 
+especialmente en la búsqueda y selección de asesores, el agendamiento de citas y la opción de calificar a los asesores, lo que le permite una experiencia 
+intuitiva y satisfactoria.
+
+----
+
+**Entrevista 3**
+
+**Entrevistador:** Salvador Salinas
+
+**Entrevistado:** Anderson Gonza
+
+**Enlace a entrevista:** https://youtu.be/qie9o2Rvn4Y
+
+<img alt="Entrevista con Anderson Gonza" src="img/entrevista-validacion-granjero-3.png">
+
+_Imagen 216. Entrevista de validación con Anderson Gonza_
+
+**Resumen:**
+En esta entrevista con Anderson, se le presentó la landing page y la aplicación móvil de AgroSupport. Anderson consideró que la información de la landing page es útil y clara para que cualquier persona pueda entender rápidamente sobre de lo que trata la aplicación. En la aplicación móvil, Anderson encontró útil la forma de ver las calificaciones y opiniones de los asesores, así como la opción de búsqueda. Consideró que la funcionalidad para agendar citas es intuitiva y que la organización de la aplicación es fácil de comprender. Opinó que la opción de calificar a un asesor después de una cita es útil y que la opción de cancelar citas es sencilla de utilizar. En general, percibió la aplicación está bien organizada y es fácil de usar.
+
+
+### 5.3.3. Evaluaciones según heurísticas
+
+
+**Site o App a Evaluar:**
+
+AgroSupport
+
+**Tareas a evaluar:**
+
+El alcance de esta evaluación incluye la revisión de usabilidad de las siguientes tareas:
+1. Crear cuenta
+2. Inicio de sesión 
+3. Visualización de catálogo de asesores
+4. Búsqueda de asesores en el catálogo
+5. Reserva de citas
+6. Visualización y creación de reseñas
+7. Visualización de notificaciones
+8. Visualización de publicaciones
+9. Visualización de historial de citas
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. Landing Page
+2. Recuperación de cuenta
+
+**ESCALA DE SEVERIDAD:**
+*Los errores serán puntuados tomando en cuenta la siguiente escala de severidad*
+|***Nivel***|***Descripción***|
+| :-: | :-: |
+|*1*|*Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.*|
+|*2*|*Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase*|
+|*3*|*Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.*|
+|*4*|*Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.*|
+
+**TABLA DE RESUMEN:**
+
+|**#**|**Problema**|**Escala de severidad**|**Heurística/principio violada(o)**|
+| :- | :- | :- | :- |
+|1|No hay botón de retroceso en la sección de crear cuenta en la app|3|Usability: Control y libertad del usuario|
+|2|El campo de Fecha de Nacimiento está para ingresarlo en texto, pero debe tener un selector de fecha|3|Usability: Consistencia y estándares|
+|3|Centrar elementos en la sección de perfil|2|Usability: Consistencia y diseño estético|
+|4|Modificar snackbar para mostrar mensaje al momento de crear cuenta|2|Visibility of system status: Visibilidad del estado del sistema| 
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**PROBLEMA #1:** No hay botón de retroceso en la sección de crear cuenta en la app
+
+**Severidad:** 3
+
+**Heurística violada:** Usability: Control y libertad del usuario
+
+Problema: Si el usuario está en la sección de "Crear Cuenta" y decide volver a la pantalla anterior, no tiene un botón claro de retroceso, lo que puede dificultar la navegación y generar confusión, especialmente si ingresó a esta sección por error o desea corregir datos en la pantalla previa.
+
+**Imagen:**
+
+<img src="img/heuristicas1.png" width="60%">
+
+_Imagen 217. Heuristica 1_
+
+
+**Recomendación:**  Agregar un botón de retroceso visible en la interfaz, preferiblemente en la esquina superior izquierda, siguiendo los estándares de navegación en aplicaciones móviles. Esto facilitará al usuario regresar a la pantalla anterior de manera intuitiva y sin interrupciones.
+
+-----
+
+**PROBLEMA #2:** El campo de Fecha de Nacimiento está para ingresarlo en texto, pero debe tener un selector de fecha
+
+**Severidad:** 3
+
+**Heurística violada:** Usability: Consistencia y estándares
+
+**Problema:** Permitir ingreso manual de texto en el campo de "Fecha de Nacimiento" puede causar errores de formato y no es consistente con las prácticas estándar en móviles.
+
+**Imagen:**
+
+<img src="img/heuristicas2.png" width="70%">
+
+_Imagen 218. Heuristica 2_
+
+**Recomendación:** Reemplazar el campo de texto por un selector de fecha para mejorar la precisión y consistencia en la experiencia del usuario.
+
+-----
+
+**PROBLEMA #3:** Centrar elementos en la sección de perfil
+
+**Severidad:** 2
+
+**Heurística violada:** Usability: Consistencia y diseño estético
+
+**Problema:** La disposición de los elementos en la sección de perfil está desalineada, lo que afecta la presentación visual y puede dar una impresión de desorganización.
+
+**Imagen:**
+
+<img src="img/heuristicas3.png" width="60%">
+
+_Imagen 219. Heuristica 3_
+
+**Recomendación:** Centrar los elementos para mejorar la estética y proporcionar una apariencia más profesional y ordenada, lo cual facilita la lectura y navegación en la sección.
+
+-----
+
+**PROBLEMA #4:** Modificar snackbar para mostrar mensaje al momento de crear cuenta
+
+**Severidad:** 2
+
+**Heurística violada:** Visibility of system status: Visibilidad del estado del sistema
+
+**Problema:** Actualmente, al crear una cuenta, el usuario no recibe una confirmación visual inmediata, lo que puede generar incertidumbre sobre el éxito de la acción.
+
+**Imagen:**
+
+<img src="img/heuristicas4.png" width="60%">
+
+_Imagen 220. Heuristica 4_
+
+
+**Recomendación:** Implementar un mensaje de confirmación en un snackbar para informar al usuario sobre la creación exitosa de la cuenta, mejorando la claridad y la experiencia del usuario.
  
+
+## 5.4. Video About the Product
+
+En el vídeo se proporciona información sobre el producto AgroSupport. Se mencionan las diferentes funcionalidades de la aplicación como son la visualización del catálogo de asesores, la gestión de citas, visualización de publicaciones, etc.
+
+<img alt="Screenshoot del vídeo About the Product" src="img/about-the-product.png">
+
+Enlace al vídeo de YouTube: [Video About The Product](https://youtu.be/SUYp8wP7V-4)
+
+_Imagen 221. Screenshot del vídeo About the Product_
+
 # Conclusiones
 
 # Recomendaciones
 
 # Video App Validation
 
+Enlace a vídeos de entrevistas de validación en YouTube:
+[Entrevista 1](https://youtu.be/EP88Jk11Hlk)
+[Entrevista 2](https://youtu.be/kN_09Kcdn5Y)
+[Entrevista 3](https://youtu.be/qie9o2Rvn4Y)
+
 # Video About the Product
 
+
+Enlace al vídeo de YouTube: [Video About The Product](https://youtu.be/SUYp8wP7V-4)
+
 # Video About the Team
+Enlace al vídeo de YouTube: [Video About The Team](https://youtu.be/2MSs_6ZS5h8)
+
 
 # Glosario
 
@@ -4817,3 +5440,6 @@ Ames, A. (2022) EVIDENCIA para una Nueva Gestión Pública. Escuela de Gestión 
 Carhuavilca, D., Sánchez, A., Montoya, L., Cueto, M. & Baldeón, M. (2021) Informe Técnico - Producción Nacional. INEI. https://www.inei.gob.pe/media/MenuRecursivo/boletines/10-informe-tecnico-produccion-nacional-ago-2021.pdf
 
 Problemas Tipo de la Agricultura Peruana (s.f.) Ministerio de Desarrollo Agrario y Riego. https://www.midagri.gob.pe/portal/22-sector-agrario/vision-general/190-problemas-en-la-agricultura-peruana
+
+ 
+
