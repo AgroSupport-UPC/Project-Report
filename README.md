@@ -5109,7 +5109,7 @@ Se planeó el tercer sprint a través de una reunión presencial. Para ello, se 
 
 El objetivo de este segundo sprint es seguir con la implementación de la vista de Granjero en el Frontend de la aplicación móvil.
 
-<table><tr><th colspan="1" valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 2</th></tr>
+<table><tr><th colspan="1" valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 3</th></tr>
 <tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
 <tr><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top">Estimation </td><td colspan="1" valign="top">Assigned To</td><td colspan="1" valign="top">Status (To-Do / In-Process / Review / Done)</td></tr>
 <tr><td colspan="1" valign="top">US23</td><td colspan="1" valign="top">Búsqueda y Filtrado de Citas</td><td colspan="1" valign="top">WI01</td><td colspan="1" valign="top">Modificación de botones de filtrado</td><td colspan="1" valign="top">Se modifica el estilo de los botones para la búsqueda y filtrado para una mejor visualización.</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">Done</td></tr>
@@ -5120,7 +5120,7 @@ El objetivo de este segundo sprint es seguir con la implementación de la vista 
 
 #### 5.2.3.3. Development Evidence for Sprint Review
 
-A continuación, se detallan los commits realizados, los cuales se trabajaron a partir de las tareas asignadas a cada miembro como se muestra en el Sprint Backlog 2. De este modo, se trabajó en el Frontend.
+A continuación, se detallan los commits realizados, los cuales se trabajaron a partir de las tareas asignadas a cada miembro como se muestra en el Sprint Backlog 3. De este modo, se trabajó en el Frontend.
 
 Repositorio Frontend: <https://github.com/AgroSupport-UPC/Frontend>
 
