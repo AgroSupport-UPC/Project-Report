@@ -5469,9 +5469,14 @@ En esta sección, se definen los términos utilizados a lo largo del proyecto pa
 
 Ames, A. (2022) EVIDENCIA para una Nueva Gestión Pública. Escuela de Gestión Pública de la Universidad del Pacífico. https://www.up.edu.pe/egp/programas-especializacion_copy(1)/SiteAssets/Lists/Observatorio/AllItems/Informe%20de%20Evidencia%20sector%20Agropecuario%20-%20EGP.pdf
 
+Ardito, L., Coppola, R., Malnati G. & Torchiano M. (2020) Effectiveness of Kotlin vs. Java in android app development tasks. Politecnico di Torino. https://doi.org/10.1016/j.infsof.2020.106374
+
 Carhuavilca, D., Sánchez, A., Montoya, L., Cueto, M. & Baldeón, M. (2021) Informe Técnico - Producción Nacional. INEI. https://www.inei.gob.pe/media/MenuRecursivo/boletines/10-informe-tecnico-produccion-nacional-ago-2021.pdf
+
+Mendes, J., Pinho, T. M., Santos, F. N. D., Sousa, J. J., Peres, E., Boaventura-Cunha, J., Cunha, M., & Morais, R. (2020). Smartphone Applications Targeting Precision Agriculture Practices—A Systematic Review. Agronomy, 10(6), 855. https://doi.org/10.3390/agronomy10060855
 
 Problemas Tipo de la Agricultura Peruana (s.f.) Ministerio de Desarrollo Agrario y Riego. https://www.midagri.gob.pe/portal/22-sector-agrario/vision-general/190-problemas-en-la-agricultura-peruana
 
- 
+Soodan, V., Jamwal, M., Rana, N. P., Sharma, D., & Chakraborty, S. (2023). Modelling the adoption of agro-advisory mobile applications: a theoretical extension and analysis using result demonstrability, trust, self-efficacy and mobile usage proficiency. Journal Of Agribusiness In Developing And Emerging Economies, 14(4), 749-768. https://doi.org/10.1108/jadee-05-2022-0087
 
+Zhou, L., Liu, B., Liu, Z., & Zhao, J. (2024). Farmers as prosumers: Evidence from cadmium‐contaminated rice in China. American Journal Of Agricultural Economics. https://doi.org/10.1111/ajae.12497
