@@ -159,6 +159,26 @@
         </ul>
       </td>
   </tr>
+  <tr>
+      <td><strong>TF</strong></td>
+      <td>21 de noviembre</td>
+      <td>
+        <ul>
+          <li>Paredes Puente, Sebastian Roberto</li>
+          <li>Delgado Corrales, Piero Gonzalo</li>
+          <li>Matos Fernandez, Christian Andre</li>
+          <li>Salinas Torres, Salvador Antonio</li>
+        </ul>
+      </td>
+      <td>
+        Se ha incluido el avance de los siguientes capítulos:
+        <ul>
+          <li>Capítulo 4: Backend Product Implementation & Validation</li>
+          <li>Capítulo 5: Product Implementation & Validation</li>
+          <li>Conclusiones</li>
+        </ul>
+      </td>
+  </tr>
   </tbody>
 </table>
 
@@ -5404,21 +5424,33 @@ _Imagen 221. Screenshot del vídeo About the Product_
 
 # Conclusiones
 
-# Recomendaciones
+## Conclusiones y recomendaciones
 
-# Video App Validation
+En este proyecto, se ha desarrollado una aplicación móvil para brindar asesoramiento a granjeros y mejorar la sostenibilidad de sus prácticas agrícolas. A lo largo de los sprints, se ha trabajado en el diseño y desarrollo del Frontend, la implementación de servicios y endpoints en el Backend, y la validación de la aplicación con usuarios finales.
+
+La estructura realizada del proceso Lean UX ha permitido identificar los segmentos objetivos, competidores y necesidades del mercado, entre otros aspectos clave. Desde la formulación inicial de los problem statements hasta la elaboración de hypothesis statements y la creación del Lean UX canvas, cada paso ha contribuido a mejorar la eficiencia y la agilidad en el desarrollo de la aplicación AgroSupport.
+
+Al desarrollar el backend con Spring Boot y alinear los bounded contexts utilizando la arquitectura DDD, conseguimos establecer una estructura sólida y modularizada. La  documentación en Swagger nos sirvió como una guía clara para comprender y trabajar con cada componente, lo que no solo optimiza la organización y mantenimiento del código, sino que también promueve la colaboración entre los miembros del equipo y facilita la escalabilidad del proyecto a medida que avanza.
+
+Por otro lado, las entrevistas de validación del producto brindaron una visión completa de cómo perciben y qué necesitan los usuarios. Aunque se reconocieron aspectos positivos como la utilidad de la Landing Page y la facilidad de uso de la aplicación móvil, también se identificaron áreas de mejora en términos de diseño y navegación. Estos insights proporcionan una base sólida para implementar ajustes significativos y perfeccionar la experiencia del usuario en futuras iteraciones del producto, garantizando así una mayor satisfacción y usabilidad.
+
+Al finalizar el proyecto, adquirimos habilidades para planificar de manera más eficiente la arquitectura del backend y optimizar desde el inicio las consultas a la base de datos, permitiendo así una gestión adecuada de grandes volúmenes de datos. Además, mejoramos la comunicación entre equipos para asegurar una integración fluida entre Frontend y Backend, adoptando estrategias de integración continua que facilitan actualizaciones rápidas y consistentes. De igual forma, nuestra startup AgroTech logró implementar AgroSupport con éxito, demostrando dominio en metodologías como Lean UX y principios ágiles. También integramos de manera eficaz el Frontend y Backend utilizando tecnologías de código abierto y prácticas colaborativas como GitFlow, asegurando los estándares de seguridad y funcionalidad necesarios para satisfacer las expectativas del usuario final.
+
+Para finalizar, la primera recomendación para el futuro es implementar un sistema de retroalimentación continua para recopilar comentarios de los usuarios de forma sistemática. Esto permitirá identificar rápidamente áreas de mejora en la experiencia del usuario y priorizar las actualizaciones y ajustes necesarios para optimizar AgroSupport. Además, se recomienda considerar la implementación de pruebas de carga, lo cual ayudará a asegurar que AgroSupport pueda manejar eficientemente el aumento esperado en el número de usuarios y transacciones, garantizando así un rendimiento óptimo y una experiencia fluida para todos los usuarios.
+
+
+## Video App Validation
 
 Enlace a vídeos de entrevistas de validación en YouTube:
 [Entrevista 1](https://youtu.be/EP88Jk11Hlk)
 [Entrevista 2](https://youtu.be/kN_09Kcdn5Y)
 [Entrevista 3](https://youtu.be/qie9o2Rvn4Y)
 
-# Video About the Product
-
+## Video About the Product
 
 Enlace al vídeo de YouTube: [Video About The Product](https://youtu.be/SUYp8wP7V-4)
 
-# Video About the Team
+## Video About the Team
 Enlace al vídeo de YouTube: [Video About The Team](https://youtu.be/2MSs_6ZS5h8)
 
 
