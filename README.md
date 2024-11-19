@@ -575,7 +575,11 @@ De esta forma, nosotros hemos definido los siguientes objetivos para nuestro pro
 
 ### 1.1.1. Descripción de la Startup
 
-Nuestra startup se llama AgroTech, y se especializa en abordar los desafíos de la gestión de granjas a través de nuestra aplicación integral AgroSupport. Nuestro enfoque principal es proporcionar asesoramiento especializado y herramientas tecnológicas para mejorar la gestión de granjas de manera inteligente y eficiente.
+La importancia de adoptar tecnologías móviles en el sector agropecuario ha sido ampliamente discutida, resaltando cómo 
+estas herramientas pueden facilitar la gestión de granjas al mejorar la eficiencia operativa y la toma de decisiones (Soodan et al., 2023). 
+Nuestra startup AgroTech, mediante su aplicación AgroSupport, se alinea con estos objetivos al proporcionar acceso directo a 
+asesoramiento especializado y herramientas tecnológicas innovadoras. Esto no solo busca mejorar la productividad y rentabilidad de los 
+agricultores, sino también promover la sostenibilidad y bienestar animal, aspectos fundamentales en el desarrollo agropecuario moderno (Mendes et al., 2020).
 
 **Misión:**
 Brindar a los granjeros acceso fácil y directo a asesoría especializada, promoviendo prácticas agrícolas sostenibles y modernas para mejorar la productividad, la rentabilidad y el bienestar de las comunidades agropecuarias.
@@ -646,6 +650,13 @@ _Imagen 1. Logo de AgroSupport_
 
 ### 1.2.1 Antecedentes y problemática
 
+La baja productividad agrícola en Perú, representada por su contribución del 5.2% al PBI a pesar de emplear al 27.5% de la población activa,
+refleja un sector que enfrenta desafíos estructurales significativos, tales como la falta de acceso a tecnologías adecuadas y el 
+limitado conocimiento especializado (Ames, 2022). El uso de aplicaciones agropecuarias, como se observa en contextos similares, tiene 
+el potencial de transformar esta realidad al incrementar la eficiencia y sostenibilidad en la gestión de recursos, de acuerdo con lo 
+reportado por Mendes et al. (2020).
+
+
 **5 W's**
 
 **What:** Una parte del sector agropecuario suele enfrentar desafíos en la gestión eficiente de las granjas, la falta de acceso a tecnologías adecuadas y la necesidad de mejorar el bienestar animal y la sostenibilidad de las prácticas agrícolas.
@@ -671,6 +682,12 @@ Según un informe realizado (Ames, 2022), se ha identificado que el sector agrop
 #### 1.2.2.1. Lean UX Problem Statements.
 
 **Problem Statement 1**
+
+Un análisis sobre la adopción de tecnologías en la agricultura ha señalado que la demostración de resultados tangibles y 
+la confianza de los usuarios en estas herramientas son factores clave para su aceptación (Soodan et al., 2023). 
+Basándonos en esto, AgroSupport busca resolver las dificultades en la gestión de granjas ofreciendo soluciones basadas en datos y 
+conocimientos prácticos.
+
 <table>
     <tr>
         <td><strong>Nuestro producto tiene como objetivo mejorar la gestión de granjas en el Perú.</strong></td>
@@ -684,6 +701,11 @@ Según un informe realizado (Ames, 2022), se ha identificado que el sector agrop
 </table>
 
 **Problem Statement 2**
+
+La investigación de Mendes et al. (2020) concluye que los sistemas tecnológicos aplicados en la 
+agricultura pueden aumentar significativamente la rentabilidad al optimizar la toma de decisiones. 
+Inspirándonos en estos hallazgos, nuestra aplicación está diseñada para brindar recomendaciones personalizadas y mejorar la eficiencia mediante asesorías.
+
 <table>
     <tr>
         <td><strong>Nuestro producto tiene como objetivo aumentar la rentabilidad de los granjeros en Perú.</strong></td>
@@ -697,6 +719,10 @@ Según un informe realizado (Ames, 2022), se ha identificado que el sector agrop
 </table>
 
 **Problem Statement 3**
+
+El acceso limitado a asesoramiento especializado ha sido identificado como una barrera en la adopción de prácticas sostenibles en el agro, 
+lo que refuerza la necesidad de plataformas que conecten expertos con agricultores (Soodan et al., 2023; Mendes et al., 2020).
+
 <table>
     <tr>
         <td><strong>Nuestro producto tiene como objetivo proporcionar asesoramiento especializado a los granjeros en Perú.</strong></td>
