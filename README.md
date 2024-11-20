@@ -173,9 +173,15 @@
       <td>
         Se ha incluido el avance de los siguientes capítulos:
         <ul>
-          <li>Capítulo 4: Backend Product Implementation & Validation</li>
-          <li>Capítulo 5: Product Implementation & Validation</li>
+          <li>Capítulo 1: Presentación</li>
           <li>Conclusiones</li>
+          <li>Recomendaciones</li>
+          <li>Bibliografía</li>
+        </ul>
+        Además, también se agregó:
+        <ul>
+          <li>2 papers de fuentes académicas en Q1 y Q2 relacionadas con el tema</li>
+          <li>2 papers de fuentes académicas en Q1 y Q2 relacionadas con desarrollo movil</li>
         </ul>
       </td>
   </tr>
@@ -381,6 +387,7 @@
         <p><strong>TP:</strong> En esta entrega, se han incorporado nuevos endpoints al backend para facilitar su integración con la aplicación móvil. Además, se ha comenzado con el desarrollo de la app, aplicando los conocimientos adquiridos durante las clases.</p>
         <p><strong>TB3:</strong> Para esta entrega, se ha mejorado endpoints del backend para la aplicación móvil. Para ello, se tuvo que reconocieron ciertos endpoints que se podían implementar como queries y se busco información de como implementarlo con Spring Boot.</p>
         <p><strong>TB4:</strong> En esta entrega, se han realizado modificaciones en el backend para cambiar el estado de las asesorías de manera automática. Además, se llevaron a cabo entrevistas de validación con usuarios para asegurar que las funcionalidades implementadas respondieran a las necesidades reales de los granjeros. Estos avances refuerzan el aprendizaje en la creación de soluciones de software prácticas y efectivas, mejorando la experiencia de usuario.</p>
+        <p><strong>TF:</strong> En esta entrega, se ha finalizado con la realización los del trabajo. Para ello, se integraron fuentes académicas de alta calidad (Q1 y Q2) relacionadas tanto con el tema del proyecto como con el desarrollo móvil. Este avance refleja el aprendizaje acumulado y asegura la solidez técnica y académica del trabajo, consolidando los resultados obtenidos a lo largo del desarrollo del proyecto.</p>
         <p></p>
         <p><strong>Matos Fernandez, Christian Andre</strong></p>
         <p><strong>TB1:</strong> Para esta entrega, investigamos a los competidores y desarrollamos estrategias para enfrentarlos. Además, realizamos entrevistas, de las cuales obtuvimos la información necesaria para crear las User Stories que serán útiles en el desarrollo de la aplicación.</p>
@@ -425,6 +432,7 @@
         <p><strong>TP:</strong> Durante el desarrollo de la aplicación, fue necesario investigar varios componentes que no habíamos utilizado en clase, pero que resultaron útiles para el proyecto. Para ello, consultamos la documentación de Android Studio, aprendiendo sobre los componentes relevantes para nuestra aplicación en Kotlin y aplicándolos de manera adecuada.</p>
         <p><strong>TB3:</strong> Para realizar las mejoras de los endpoints del Backend, se tuvo que buscar información sobre una funcionalidad que no nos habían enseñado en cursos anteriores, los queries. A partir de la documentación de Spring Boot lo pudimos implementar con facilidad, lo que facilitó la implementación del Backend en la aplicación móvil.</p>
         <p><strong>TB4:</strong> Las entrevistas de validación con usuarios permitieron identificar áreas de mejora y confirmar la efectividad de las funcionalidades implementadas en el frontend, destacando la importancia de iterar y aprender continuamente. Asimismo, se hicieron los videos "About the Product" y "About the Team", los cuales reforzaron el aprendizaje en comunicación y presentación efectiva del proyecto.</p>
+        <p><strong>TF:</strong>En esta entrega final, se consolidaron los aprendizajes mediante la elaboración de las conclusiones, recomendaciones y la bibliografía del proyecto. Además, se incorporaron fuentes académicas relevantes (Q1 y Q2) relacionadas con el tema y el desarrollo móvil, reforzando la base teórica del trabajo y destacando la importancia del aprendizaje continuo en la mejora profesional.</p>
         <p></p>
         <p><strong>Matos Fernandez, Christian Andre</strong></p>
         <p><strong>TB1:</strong> A partir de las entrevistas y del análisis de los datos obtenidos, logramos identificar la importancia de integrar un enfoque de aprendizaje continuo. Esto nos permitió definir las User Stories del producto de manera que se adapten a las demandas reales y cambiantes de nuestros usuarios.</p>
