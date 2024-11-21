@@ -159,6 +159,32 @@
         </ul>
       </td>
   </tr>
+  <tr>
+      <td><strong>TF</strong></td>
+      <td>21 de noviembre</td>
+      <td>
+        <ul>
+          <li>Paredes Puente, Sebastian Roberto</li>
+          <li>Delgado Corrales, Piero Gonzalo</li>
+          <li>Matos Fernandez, Christian Andre</li>
+          <li>Salinas Torres, Salvador Antonio</li>
+        </ul>
+      </td>
+      <td>
+        Se ha incluido el avance de los siguientes capítulos:
+        <ul>
+          <li>Capítulo 1: Presentación</li>
+          <li>Conclusiones</li>
+          <li>Recomendaciones</li>
+          <li>Bibliografía</li>
+        </ul>
+        Además, también se agregó:
+        <ul>
+          <li>2 papers de fuentes académicas en Q1 y Q2 relacionadas con el tema</li>
+          <li>2 papers de fuentes académicas en Q1 y Q2 relacionadas con desarrollo movil</li>
+        </ul>
+      </td>
+  </tr>
   </tbody>
 </table>
 
@@ -353,6 +379,7 @@
         <p><strong>TP:</strong> En esta entrega, se han implementado funcionalidades como la pantalla de inicio de Granjero, sección donde el granjero puede navegar en el catalogo de asesores de Agrosupport para reservar una asesoria, y otra sección donde puede ver sus asesorias programadas.
         <p><strong>TB3:</strong> En esta entrega, se realizó la parte de iniciar sesión y crear cuenta para nuestra aplicación móvil, aplicando los conocimientos adquiridos en clase y actualizando conceptos y habilidades necesarios para el desarrollo profesional, especialmente en el ámbito de soluciones de software para nuestro proyecto.</p>
         <p><strong>TB4:</strong> Para esta entrega, entendimos la importancia del aprendizaje continuo para mejorar nuestro producto. A través de entrevistas de validación, identificamos áreas clave para fortalecer y actualizar, lo que nos permitió implementar mejoras en el diseño y funcionalidad de nuestra solución.</p>
+        <p><strong>TF:</strong>En esta entrega, se completó el trabajo, integrando fuentes académicas de alta calidad (Q1 y Q2) relacionadas con el tema del proyecto y el desarrollo móvil. Estas incorporaciones refuerzan la base teórica y técnica, garantizando la solidez académica del trabajo.</p>
 </p>
         <p></p>
         <p><strong>Delgado Corrales, Piero Gonzalo</strong></p>
@@ -361,6 +388,7 @@
         <p><strong>TP:</strong> En esta entrega, se han incorporado nuevos endpoints al backend para facilitar su integración con la aplicación móvil. Además, se ha comenzado con el desarrollo de la app, aplicando los conocimientos adquiridos durante las clases.</p>
         <p><strong>TB3:</strong> Para esta entrega, se ha mejorado endpoints del backend para la aplicación móvil. Para ello, se tuvo que reconocieron ciertos endpoints que se podían implementar como queries y se busco información de como implementarlo con Spring Boot.</p>
         <p><strong>TB4:</strong> En esta entrega, se han realizado modificaciones en el backend para cambiar el estado de las asesorías de manera automática. Además, se llevaron a cabo entrevistas de validación con usuarios para asegurar que las funcionalidades implementadas respondieran a las necesidades reales de los granjeros. Estos avances refuerzan el aprendizaje en la creación de soluciones de software prácticas y efectivas, mejorando la experiencia de usuario.</p>
+        <p><strong>TF:</strong> En esta entrega, se ha finalizado con la realización los del trabajo. Para ello, se integraron fuentes académicas de alta calidad (Q1 y Q2) relacionadas tanto con el tema del proyecto como con el desarrollo móvil. Este avance refleja el aprendizaje acumulado y asegura la solidez técnica y académica del trabajo, consolidando los resultados obtenidos a lo largo del desarrollo del proyecto.</p>
         <p></p>
         <p><strong>Matos Fernandez, Christian Andre</strong></p>
         <p><strong>TB1:</strong> Para esta entrega, investigamos a los competidores y desarrollamos estrategias para enfrentarlos. Además, realizamos entrevistas, de las cuales obtuvimos la información necesaria para crear las User Stories que serán útiles en el desarrollo de la aplicación.</p>
@@ -368,6 +396,7 @@
         <p><strong>TP:</strong> Para esta entrega, me encargué de realizar las tareas del sprint relacionadas con la creación y optimización de la landing page, así como con el desarrollo de las aplicaciones móviles. Para lograrlo, tuve que repasar y aplicar los conceptos vistos en clase, lo que incluyó mejorar la experiencia de usuario, optimizar el diseño responsivo, y asegurar la correcta integración con las funcionalidades de back-end que se han implementado hasta ahora. Esto me permitió consolidar el aprendizaje y avanzar en el proyecto de manera efectiva.</p>
         <p><strong>TB3:</strong> Para esta entrega, completé con éxito nuevamente las tareas asignadas por mi líder de grupo. Me encargué de desarrollar las funcionalidades para ver una cita en una fecha específica o ver todas las citas, mostrar el detalle de una cita, cancelar una cita y permitir que el usuario vea y edite su perfil. Además, integré el servicio de almacenamiento en la nube de Firebase para que cuando el usuario suba una imagen, esta se almacene allí y se devuelva la URL correspondiente.</p>
         <p><strong>TB4:</strong> Para esta entrega, hice algunos ajustes para mejorar lo que desarrollé en la entrega anterior de la aplicación, incluyendo mejoras estéticas en la sección donde se selecciona el filtro para ver todas las citas o filtrarlas por fecha.</p>
+        <p><strong>TF:</strong> Para esta entrega final, se completó todo lo que habíamos planificado para el proyecto, además de incorporar fuentes confiables clasificadas como Q1 y Q2. Esto refleja mi aprendizaje a lo largo del curso, el cual ha sido una experiencia muy enriquecedora para mí.</p>
         <p></p>
         <p><strong>Salinas Torres, Salvador Antonio</strong></p>
         <p><strong>TB1:</strong> En este entregable, definimos el problema inicial sobre el cual partirá nuestra aplicación móvil a realizar. Igualmente, tuvimos que actualizar conocimientos para determinar bien la problemática a través de una investigación sobre el tema y también sobre lo necesario para poder desarrollar la aplicación móvil.</p>
@@ -375,6 +404,7 @@
         <p><strong>TP:</strong> Se actualizaron conceptos y conocimientos de la programación en Kotlin a lo largo de todas las sesiones de clase y los ejercicios de práctica que se fueron realizando. De esta forma, para el desarrollo del trabajo logré desarrollar mi parte asignada de la aplicación móvil sin mucha dificultad.</p>
         <p><strong>TB3:</strong> Se implementaron nuevas funcionalidades en el Frontend para la vista de granjero. Para ello, se actualizaron algunos conocimientos para poder consumir endpoints de forma correcta con variables a través de los Queries de Retrofit.</p>
         <p><strong>TB4:</strong> Se ha enfocado en seguir mejorando y actualizando conocimientos necesarios, en este caso, respecto al diseño de nuestra aplicación para una mejor visualización y comprensión de la interfaz para los usuarios. Así, realizamos las entrevistas de validación para obtener una retroalimentación útil para seguir mejorando y entregar la mejor experiencia de usuario.</p>
+        <p><strong>TF:</strong> Se realizó una última investigación a partir de fuentes especializadas para obtener conocimientos necesarios tanto sobre la problemática planteada así como del desarrollo de la aplicación. Así, las aplicamos para tener un buen manejo de información y poder presentar el proyecto de la mejor forma en su versión final.</p>
       </td>
       <td>
         <p><strong>TB1: </strong></p>
@@ -387,6 +417,8 @@
         <p>En este cuarto avance, se implementaron y optimizaron funcionalidades clave en el desarrollo de la aplicación móvil, tanto en el frontend como en el backend, asegurando una experiencia más completa para el usuario. Se trabajó en la visualización y gestión de citas, edición de perfil, y en la integración de Firebase para almacenar imágenes de usuario. Para el backend, se mejoraron endpoints mediante la incorporación de queries en Spring Boot, optimizando el manejo de datos. Además, el equipo actualizó y fortaleció conocimientos en el consumo de endpoints y en herramientas modernas, demostrando un compromiso continuo con el desarrollo profesional y la mejora de soluciones de software.</p>
         <p><strong>TB4: </strong></p>
         <p>En esta entrega, se demuestra un compromiso constante con la actualización y mejora de conocimientos necesarios para el desarrollo de soluciones de software de calidad. A través de entrevistas de validación con usuarios y ajustes en el diseño y funcionalidad, el equipo ha identificado áreas clave para fortalecer, lo cual ha resultado en implementaciones que mejoran la experiencia del usuario y la eficiencia del producto. Estos esfuerzos reflejan la importancia del aprendizaje continuo en la creación de aplicaciones prácticas y efectivas.</p>
+        <p><strong>TF: </strong></p>
+        <p>En esta entrega final, se completó el proyecto siguiendo lo planificado e integrando fuentes académicas de alta calidad (Q1 y Q2), relacionadas tanto con el tema del proyecto como con el desarrollo móvil. Este enfoque asegura una base sólida tanto técnica como teórica, reflejando el aprendizaje acumulado durante el curso. Además, se realizó una investigación exhaustiva para abordar la problemática planteada y garantizar un manejo adecuado de la información, consolidando los resultados y asegurando una presentación óptima de la versión final del trabajo.</p>
       </td>
     </tr>
     <tr>
@@ -398,6 +430,7 @@
         <p><strong>TP:</strong> En el proceso de desarrollo de la aplicación, surgió la necesidad de utilizar herramientas y bibliotecas adicionales que no habíamos visto en clase. Para resolver esto, investigamos en la documentación oficial de Android Studio y aprendimos sobre nuevas funcionalidades de Kotlin, las cuales implementamos de forma efectiva para mejorar el rendimiento y la experiencia de usuario.</p>
         <p><strong>TB3:</strong> Se logro los implementar los queries en los endpoints necesarios gracias a información consultada en fuentes en linea.</p>
         <p><strong>TB4:</strong> Con base en la retroalimentación obtenida en las entrevistas de validación, logramos obtener información para actualizar y mejorar nuestro proyecto. De esta manera, se puede optimizar nuestro producto, garantizando que se ajustara mejor a las necesidades de los usuarios y aplicando nuevos conocimientos adquiridos.</p>
+        <p><strong>TF:</strong>En esta entrega final, se consolidaron los aprendizajes a través de la elaboración de las conclusiones, recomendaciones y la bibliografía del proyecto. Asimismo, se incorporaron las informaciones obtenidas de las fuentes académicas relevantes (Q1 y Q2) en el capítulo 1, las cuales están relacionadas con el tema y el desarrollo móvil. Esto permitió reforzar la base teórica del trabajo y resaltar la importancia del aprendizaje continuo para el crecimiento profesional.</p>
         <p></p>
         <p><strong>Delgado Corrales, Piero Gonzalo</strong></p>
         <p><strong>TB1:</strong> Mediante las opiniones obtenidas de las entrevistas pudimos comprender la necesidad de un aprendizaje continuo porque gracias a estas pudimos diseñar las funcionalidades del producto delimitadas en las User Stories para que se alineen con las necesidades cambiantes de nuestros segmentos objetivos y tomando en cuenta las nuevas tecnologías.</p>
@@ -405,6 +438,7 @@
         <p><strong>TP:</strong> Durante el desarrollo de la aplicación, fue necesario investigar varios componentes que no habíamos utilizado en clase, pero que resultaron útiles para el proyecto. Para ello, consultamos la documentación de Android Studio, aprendiendo sobre los componentes relevantes para nuestra aplicación en Kotlin y aplicándolos de manera adecuada.</p>
         <p><strong>TB3:</strong> Para realizar las mejoras de los endpoints del Backend, se tuvo que buscar información sobre una funcionalidad que no nos habían enseñado en cursos anteriores, los queries. A partir de la documentación de Spring Boot lo pudimos implementar con facilidad, lo que facilitó la implementación del Backend en la aplicación móvil.</p>
         <p><strong>TB4:</strong> Las entrevistas de validación con usuarios permitieron identificar áreas de mejora y confirmar la efectividad de las funcionalidades implementadas en el frontend, destacando la importancia de iterar y aprender continuamente. Asimismo, se hicieron los videos "About the Product" y "About the Team", los cuales reforzaron el aprendizaje en comunicación y presentación efectiva del proyecto.</p>
+        <p><strong>TF:</strong>En esta entrega final, se consolidaron los aprendizajes mediante la elaboración de las conclusiones, recomendaciones y la bibliografía del proyecto. Además, se incorporaron fuentes académicas relevantes (Q1 y Q2) relacionadas con el tema y el desarrollo móvil, reforzando la base teórica del trabajo y destacando la importancia del aprendizaje continuo en la mejora profesional.</p>
         <p></p>
         <p><strong>Matos Fernandez, Christian Andre</strong></p>
         <p><strong>TB1:</strong> A partir de las entrevistas y del análisis de los datos obtenidos, logramos identificar la importancia de integrar un enfoque de aprendizaje continuo. Esto nos permitió definir las User Stories del producto de manera que se adapten a las demandas reales y cambiantes de nuestros usuarios.</p>
@@ -412,6 +446,7 @@
         <p><strong>TP:</strong> Para esta entrega, revisé las clases anteriores impartidas por el profesor, lo que me permitió obtener una comprensión más clara para desarrollar el proyecto. Este repaso resultó muy beneficioso, ya que logré completar mis tareas con éxito. Además, a través del proceso de implementación en Android Studio, no solo consolidé mis conocimientos, sino que también aprendí nuevas habilidades que mejoraron mi manejo de la herramienta.</p>
         <p><strong>TB3:</strong> Para completar con éxito esta entrega, tuve que repasar las clases grabadas por mi profesor para tener una mayor comprensión al desarrollar las funcionalidades. Además, para integrar el servicio de Firebase, revisé videos y documentación sobre su implementación para asegurarme de hacerlo correctamente.</p>
         <p><strong>TB4:</strong> En esta entrega, continué ampliando mis conocimientos en el desarrollo del estilo de la aplicación, para lo cual recurrí a videos de YouTube sobre diseño de estilos.</p>
+        <p><strong>TF:</strong> En esta entrega final, se sintetizaron los aprendizajes mediante la elaboración de las conclusiones, recomendaciones y bibliografía. Asimismo, se incluyeron fuentes académicas de prestigio (Q1 y Q2) relacionadas con el desarrollo móvil, lo que aportó una base teórica sólida y resaltó la importancia de mantener un enfoque de aprendizaje constante para el desarrollo profesional.</p>
         <p></p>
         <p><strong>Salinas Torres, Salvador Antonio</strong></p>
         <p><strong>TB1:</strong> Se realizó una investigación sobre el tema para verificar de forma clara la necesidad a resolver, así como con fuentes secundarias recuperadas de artículos y fuentes primarias como las entrevistas realizadas.</p>
@@ -419,6 +454,7 @@
         <p><strong>TP:</strong> Luego de haber estado practicando con ejercicios de programación en Kotlin, ha demostrado que es importante siempre estar practicando y aprendiendo de forma constante. De esta manera, el desarrollo de aplicaciones más complejas no será mucho problema al tener esta capacidad desarrollada.</p>
         <p><strong>TB3:</strong> Fue necesario la práctica constante en Kotlin para trabajar de forma correcta en el Frontend de la aplicación. Así, se utilizó la gestión de memoria para trabajar de forma correcta el inicio de sesión y el uso del Token personal que es esencial para el Backend.</p>
         <p><strong>TB4:</strong> A pesar de que ya lo habíamos visto anteriormente, igualmente se hizo un repaso al estudio de las heurísticas que existen para la interfaz de usuario. Esto es de mucha utilidad ya que nosotros como desarrolladores siempre debemos seguir aprendiendo para hacer un buen trabajo durante el desarrollo de cualquier proyecto.</p>
+        <p><strong>TF:</strong> Finalmente, se hizo un análisis completo de todo el proyecto sobre lo trabajado desde un inicio hasta las últimas mejoras dentro de la app. De esta forma, se analizó en qué partes se pudo haber trabajado diferente para seguir aprendiendo nuevas formas de poder llevar a cabo el desarrollo de una aplicación en Kotlin.</p>
       </td>
       <td>
         <p><strong>TB1: </strong></p>
@@ -431,6 +467,8 @@
         <p>En este cuarto avance, el equipo avanzó significativamente en la aplicación móvil al integrar queries en los endpoints necesarios del backend, gracias a una investigación exhaustiva en fuentes en línea y en la documentación de Spring Boot, abordando así conceptos nuevos no cubiertos en cursos previos. También se fortalecieron conocimientos en Kotlin y Firebase, esenciales para implementar correctamente la autenticación y el manejo seguro de datos en el frontend. Este proceso evidenció la importancia del aprendizaje permanente, que resultó fundamental para enfrentar los desafíos técnicos del proyecto y continuar desarrollándose profesionalmente en soluciones de software.</p>
         <p><strong>TB4: </strong></p>
         <p>En esta entrega, se refleja la importancia de continuar aprendiendo y repasando conceptos clave, como las heurísticas de diseño de interfaces, para garantizar un desarrollo de calidad. Las entrevistas de validación proporcionaron información valiosa para mejorar el proyecto, mientras que los videos y recursos adicionales reforzaron el aprendizaje en áreas como el estilo y la presentación. Este enfoque continuo en la actualización de conocimientos asegura que el producto final esté alineado con las necesidades de los usuarios y las mejores prácticas del desarrollo de software.</p>
+        <p><strong>TF: </strong></p>
+        <p>En esta entrega final, se consolidaron los aprendizajes mediante la elaboración de conclusiones, recomendaciones y bibliografía, destacando la importancia del análisis completo del proyecto desde sus inicios hasta las últimas mejoras realizadas. Además, se incorporaron fuentes académicas de prestigio (Q1 y Q2) relacionadas con el desarrollo móvil, reforzando la base teórica y técnica del trabajo. Este enfoque permitió reflexionar sobre posibles mejoras y resaltar la importancia del aprendizaje continuo para el crecimiento y la mejora profesional en el desarrollo de aplicaciones en Kotlin.</p>
       </td>
     </tr>
   </tbody>
@@ -555,7 +593,11 @@ De esta forma, nosotros hemos definido los siguientes objetivos para nuestro pro
 
 ### 1.1.1. Descripción de la Startup
 
-Nuestra startup se llama AgroTech, y se especializa en abordar los desafíos de la gestión de granjas a través de nuestra aplicación integral AgroSupport. Nuestro enfoque principal es proporcionar asesoramiento especializado y herramientas tecnológicas para mejorar la gestión de granjas de manera inteligente y eficiente.
+La importancia de adoptar tecnologías móviles en el sector agropecuario ha sido ampliamente discutida, resaltando cómo 
+estas herramientas pueden facilitar la gestión de granjas al mejorar la eficiencia operativa y la toma de decisiones (Soodan et al., 2023). 
+Nuestra startup AgroTech, mediante su aplicación AgroSupport, se alinea con estos objetivos al proporcionar acceso directo a 
+asesoramiento especializado y herramientas tecnológicas innovadoras. Esto no solo busca mejorar la productividad y rentabilidad de los 
+agricultores, sino también promover la sostenibilidad y bienestar animal, aspectos fundamentales en el desarrollo agropecuario moderno (Mendes et al., 2020).
 
 **Misión:**
 Brindar a los granjeros acceso fácil y directo a asesoría especializada, promoviendo prácticas agrícolas sostenibles y modernas para mejorar la productividad, la rentabilidad y el bienestar de las comunidades agropecuarias.
@@ -626,6 +668,13 @@ _Imagen 1. Logo de AgroSupport_
 
 ### 1.2.1 Antecedentes y problemática
 
+La baja productividad agrícola en Perú, representada por su contribución del 5.2% al PBI a pesar de emplear al 27.5% de la población activa,
+refleja un sector que enfrenta desafíos estructurales significativos, tales como la falta de acceso a tecnologías adecuadas y el 
+limitado conocimiento especializado (Ames, 2022). El uso de aplicaciones agropecuarias, como se observa en contextos similares, tiene 
+el potencial de transformar esta realidad al incrementar la eficiencia y sostenibilidad en la gestión de recursos, de acuerdo con lo 
+reportado por Mendes et al. (2020).
+
+
 **5 W's**
 
 **What:** Una parte del sector agropecuario suele enfrentar desafíos en la gestión eficiente de las granjas, la falta de acceso a tecnologías adecuadas y la necesidad de mejorar el bienestar animal y la sostenibilidad de las prácticas agrícolas.
@@ -651,6 +700,12 @@ Según un informe realizado (Ames, 2022), se ha identificado que el sector agrop
 #### 1.2.2.1. Lean UX Problem Statements.
 
 **Problem Statement 1**
+
+Un análisis sobre la adopción de tecnologías en la agricultura ha señalado que la demostración de resultados tangibles y 
+la confianza de los usuarios en estas herramientas son factores clave para su aceptación (Soodan et al., 2023). 
+Basándonos en esto, AgroSupport busca resolver las dificultades en la gestión de granjas ofreciendo soluciones basadas en datos y 
+conocimientos prácticos.
+
 <table>
     <tr>
         <td><strong>Nuestro producto tiene como objetivo mejorar la gestión de granjas en el Perú.</strong></td>
@@ -664,6 +719,11 @@ Según un informe realizado (Ames, 2022), se ha identificado que el sector agrop
 </table>
 
 **Problem Statement 2**
+
+La investigación de Mendes et al. (2020) concluye que los sistemas tecnológicos aplicados en la 
+agricultura pueden aumentar significativamente la rentabilidad al optimizar la toma de decisiones. 
+Inspirándonos en estos hallazgos, nuestra aplicación está diseñada para brindar recomendaciones personalizadas y mejorar la eficiencia mediante asesorías.
+
 <table>
     <tr>
         <td><strong>Nuestro producto tiene como objetivo aumentar la rentabilidad de los granjeros en Perú.</strong></td>
@@ -677,6 +737,10 @@ Según un informe realizado (Ames, 2022), se ha identificado que el sector agrop
 </table>
 
 **Problem Statement 3**
+
+El acceso limitado a asesoramiento especializado ha sido identificado como una barrera en la adopción de prácticas sostenibles en el agro, 
+lo que refuerza la necesidad de plataformas que conecten expertos con agricultores (Soodan et al., 2023; Mendes et al., 2020).
+
 <table>
     <tr>
         <td><strong>Nuestro producto tiene como objetivo proporcionar asesoramiento especializado a los granjeros en Perú.</strong></td>
@@ -5404,21 +5468,35 @@ _Imagen 221. Screenshot del vídeo About the Product_
 
 # Conclusiones
 
-# Recomendaciones
+## Conclusiones y recomendaciones
 
-# Video App Validation
+En este proyecto, se ha desarrollado una aplicación móvil para brindar asesoramiento a granjeros y mejorar la sostenibilidad de sus prácticas agrícolas. A lo largo de los sprints, se ha trabajado en el diseño y desarrollo del Frontend, la implementación de servicios y endpoints en el Backend, y la validación de la aplicación con usuarios finales.
+
+La estructura realizada del proceso Lean UX ha permitido identificar los segmentos objetivos, competidores y necesidades del mercado, entre otros aspectos clave. Desde la formulación inicial de los problem statements hasta la elaboración de hypothesis statements y la creación del Lean UX canvas, cada paso ha contribuido a mejorar la eficiencia y la agilidad en el desarrollo de la aplicación AgroSupport.
+
+Al desarrollar el backend con Spring Boot y alinear los bounded contexts utilizando la arquitectura DDD, conseguimos establecer una estructura sólida y modularizada. La  documentación en Swagger nos sirvió como una guía clara para comprender y trabajar con cada componente, lo que no solo optimiza la organización y mantenimiento del código, sino que también promueve la colaboración entre los miembros del equipo y facilita la escalabilidad del proyecto a medida que avanza.
+
+Desarrollar la app en Kotlin nos permitió construir un sistema eficiente, pero presentó desafíos como adaptarnos a sus prácticas funcionales y optimizar el rendimiento sin afectar la experiencia del usuario. Además, integrar una arquitectura modular y gestionar dependencias en equipo requirió un enfoque cuidadoso. A pesar de estos retos, Kotlin fue clave para crear una aplicación robusta y escalable.
+
+Por otro lado, las entrevistas de validación del producto brindaron una visión completa de cómo perciben y qué necesitan los usuarios. Aunque se reconocieron aspectos positivos como la utilidad de la Landing Page y la facilidad de uso de la aplicación móvil, también se identificaron áreas de mejora en términos de diseño y navegación. Estos insights proporcionan una base sólida para implementar ajustes significativos y perfeccionar la experiencia del usuario en futuras iteraciones del producto, garantizando así una mayor satisfacción y usabilidad.
+
+Al finalizar el proyecto, adquirimos habilidades para planificar de manera más eficiente la arquitectura del backend y optimizar desde el inicio las consultas a la base de datos, permitiendo así una gestión adecuada de grandes volúmenes de datos. Además, mejoramos la comunicación entre equipos para asegurar una integración fluida entre Frontend y Backend, adoptando estrategias de integración continua que facilitan actualizaciones rápidas y consistentes. De igual forma, nuestra startup AgroTech logró implementar AgroSupport con éxito, demostrando dominio en metodologías como Lean UX y principios ágiles. También integramos de manera eficaz el Frontend y Backend utilizando tecnologías de código abierto y prácticas colaborativas como GitFlow, asegurando los estándares de seguridad y funcionalidad necesarios para satisfacer las expectativas del usuario final.
+
+Para finalizar, la primera recomendación para el futuro es implementar un sistema de retroalimentación continua para recopilar comentarios de los usuarios de forma sistemática. Esto permitirá identificar rápidamente áreas de mejora en la experiencia del usuario y priorizar las actualizaciones y ajustes necesarios para optimizar AgroSupport. Además, se recomienda considerar la implementación de pruebas de carga, lo cual ayudará a asegurar que AgroSupport pueda manejar eficientemente el aumento esperado en el número de usuarios y transacciones, garantizando así un rendimiento óptimo y una experiencia fluida para todos los usuarios.
+
+
+## Video App Validation
 
 Enlace a vídeos de entrevistas de validación en YouTube:
 [Entrevista 1](https://youtu.be/EP88Jk11Hlk)
 [Entrevista 2](https://youtu.be/kN_09Kcdn5Y)
 [Entrevista 3](https://youtu.be/qie9o2Rvn4Y)
 
-# Video About the Product
-
+## Video About the Product
 
 Enlace al vídeo de YouTube: [Video About The Product](https://youtu.be/SUYp8wP7V-4)
 
-# Video About the Team
+## Video About the Team
 Enlace al vídeo de YouTube: [Video About The Team](https://youtu.be/2MSs_6ZS5h8)
 
 
@@ -5437,9 +5515,14 @@ En esta sección, se definen los términos utilizados a lo largo del proyecto pa
 
 Ames, A. (2022) EVIDENCIA para una Nueva Gestión Pública. Escuela de Gestión Pública de la Universidad del Pacífico. https://www.up.edu.pe/egp/programas-especializacion_copy(1)/SiteAssets/Lists/Observatorio/AllItems/Informe%20de%20Evidencia%20sector%20Agropecuario%20-%20EGP.pdf
 
+Ardito, L., Coppola, R., Malnati G. & Torchiano M. (2020) Effectiveness of Kotlin vs. Java in android app development tasks. Politecnico di Torino. https://doi.org/10.1016/j.infsof.2020.106374
+
 Carhuavilca, D., Sánchez, A., Montoya, L., Cueto, M. & Baldeón, M. (2021) Informe Técnico - Producción Nacional. INEI. https://www.inei.gob.pe/media/MenuRecursivo/boletines/10-informe-tecnico-produccion-nacional-ago-2021.pdf
+
+Mendes, J., Pinho, T. M., Santos, F. N. D., Sousa, J. J., Peres, E., Boaventura-Cunha, J., Cunha, M., & Morais, R. (2020). Smartphone Applications Targeting Precision Agriculture Practices—A Systematic Review. Agronomy, 10(6), 855. https://doi.org/10.3390/agronomy10060855
 
 Problemas Tipo de la Agricultura Peruana (s.f.) Ministerio de Desarrollo Agrario y Riego. https://www.midagri.gob.pe/portal/22-sector-agrario/vision-general/190-problemas-en-la-agricultura-peruana
 
- 
+Soodan, V., Jamwal, M., Rana, N. P., Sharma, D., & Chakraborty, S. (2023). Modelling the adoption of agro-advisory mobile applications: a theoretical extension and analysis using result demonstrability, trust, self-efficacy and mobile usage proficiency. Journal Of Agribusiness In Developing And Emerging Economies, 14(4), 749-768. https://doi.org/10.1108/jadee-05-2022-0087
 
+Zhou, L., Liu, B., Liu, Z., & Zhao, J. (2024). Farmers as prosumers: Evidence from cadmium‐contaminated rice in China. American Journal Of Agricultural Economics. https://doi.org/10.1111/ajae.12497
