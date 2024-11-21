@@ -593,11 +593,18 @@ De esta forma, nosotros hemos definido los siguientes objetivos para nuestro pro
 
 ### 1.1.1. Descripción de la Startup
 
+El evento del arroz contaminado por cadmio (CCR) en China, ocurrido en 2013, evidenció la vulnerabilidad de los sistemas agrícolas contemporáneos frente a problemas 
+de seguridad alimentaria y las decisiones multifacéticas de los agricultores (Zhou et al., 2024). En este contexto, es fundamental diseñar soluciones tecnológicas 
+que ayuden a mitigar riesgos y mejorar las prácticas de producción.
+
+Históricamente, las civilizaciones han enfrentado desafíos similares. Por ejemplo, las culturas prehispánicas de la costa norte del Perú implementaron sistemas 
+híbridos de riego e inundación para maximizar el uso eficiente del agua en zonas áridas (Caramanica, 2024). Estas soluciones sostenibles y adaptativas muestran 
+cómo la innovación puede surgir de la necesidad de superar condiciones adversas, una lección que AgroTech adopta para abordar los retos actuales en la agricultura.
+
 La importancia de adoptar tecnologías móviles en el sector agropecuario ha sido ampliamente discutida, resaltando cómo 
 estas herramientas pueden facilitar la gestión de granjas al mejorar la eficiencia operativa y la toma de decisiones (Soodan et al., 2023). 
 Nuestra startup AgroTech, mediante su aplicación AgroSupport, se alinea con estos objetivos al proporcionar acceso directo a 
-asesoramiento especializado y herramientas tecnológicas innovadoras. Esto no solo busca mejorar la productividad y rentabilidad de los 
-agricultores, sino también promover la sostenibilidad y bienestar animal, aspectos fundamentales en el desarrollo agropecuario moderno (Mendes et al., 2020).
+asesoramiento especializado y herramientas tecnológicas innovadoras. 
 
 **Misión:**
 Brindar a los granjeros acceso fácil y directo a asesoría especializada, promoviendo prácticas agrícolas sostenibles y modernas para mejorar la productividad, la rentabilidad y el bienestar de las comunidades agropecuarias.
@@ -670,9 +677,7 @@ _Imagen 1. Logo de AgroSupport_
 
 La baja productividad agrícola en Perú, representada por su contribución del 5.2% al PBI a pesar de emplear al 27.5% de la población activa,
 refleja un sector que enfrenta desafíos estructurales significativos, tales como la falta de acceso a tecnologías adecuadas y el 
-limitado conocimiento especializado (Ames, 2022). El uso de aplicaciones agropecuarias, como se observa en contextos similares, tiene 
-el potencial de transformar esta realidad al incrementar la eficiencia y sostenibilidad en la gestión de recursos, de acuerdo con lo 
-reportado por Mendes et al. (2020).
+limitado conocimiento especializado (Ames, 2022).  
 
 
 **5 W's**
@@ -720,10 +725,9 @@ conocimientos prácticos.
 
 **Problem Statement 2**
 
-La investigación de Mendes et al. (2020) concluye que los sistemas tecnológicos aplicados en la 
+En base a las investigaciones del equipo, podemos afirmar que los sistemas tecnológicos aplicados en la 
 agricultura pueden aumentar significativamente la rentabilidad al optimizar la toma de decisiones. 
-Inspirándonos en estos hallazgos, nuestra aplicación está diseñada para brindar recomendaciones personalizadas y mejorar la eficiencia mediante asesorías.
-
+ 
 <table>
     <tr>
         <td><strong>Nuestro producto tiene como objetivo aumentar la rentabilidad de los granjeros en Perú.</strong></td>
@@ -739,7 +743,7 @@ Inspirándonos en estos hallazgos, nuestra aplicación está diseñada para brin
 **Problem Statement 3**
 
 El acceso limitado a asesoramiento especializado ha sido identificado como una barrera en la adopción de prácticas sostenibles en el agro, 
-lo que refuerza la necesidad de plataformas que conecten expertos con agricultores (Soodan et al., 2023; Mendes et al., 2020).
+lo que refuerza la necesidad de plataformas que conecten expertos con agricultores (Soodan et al., 2023).
 
 <table>
     <tr>
@@ -3603,18 +3607,30 @@ _Imagen 171. Diagrama de base de datos_
 ## 4.1. Software Configuration Management
 ### 4.1.1. Software Development Environment Configuration
 
+El desarrollo de software para nuestro proyecto sigue los principios de la Programación Orientada a Objetos (OOP), un enfoque ampliamente adoptado 
+que facilita la organización y mantenimiento del código. Este paradigma, como se señala en estudios recientes (Flageol et al., 2023), ofrece una 
+estructura robusta que ayuda a manejar la complejidad mediante la modularización y reutilización del código. Además, el uso de patrones de diseño derivados 
+de OOP ha sido fundamental tanto para el desarrollo del backend como para la creación de la aplicación móvil, optimizando la resolución de problemas 
+recurrentes y mejorando la cohesión y acoplamiento entre componentes.
+
+El backend, especialmente en el contexto de plataformas como Android, enfrenta desafíos adicionales relacionados con la evolución de las APIs y su 
+compatibilidad. Como se discute en el estudio de Mahmud et al. (2024), la evolución continua del sistema operativo Android y las actualizaciones 
+frecuentes de su API pueden generar problemas de compatibilidad, lo cual es particularmente relevante al integrar nuevas funcionalidades o deprecar 
+nuevas. Estos desafíos deben ser considerados para garantizar que el software siga funcionando de manera confiable, incluso cuando se presenten cambios 
+en la API. A través de un análisis de 681 aplicaciones Android de código abierto, Mahmud et al. (2024) descubrieron que, en promedio, cada aplicación 
+enfrenta dos problemas de compatibilidad por versión, lo que resalta la importancia de monitorear y abordar estos problemas con rapidez y eficiencia.
+
 **Project Management:**
 
 Para la gestión del proyecto, utilizamos como principal medio de comunicación WhatsApp, a través de un grupo en el cual compartimos nuestras ideas y opiniones sobre cada parte del trabajo. A esto se le suma el uso de la herramienta Google Meet, para realizar reuniones en videoconferencia y conversar de forma síncrona. Asimismo, utilizamos GitHub para el manejo de repositorios a través de una comunidad conformada por todos los integrantes del equipo. En esta comunidad, mantenemos el reporte y la aplicación.
 
 **Software Development:**
 
-Como IDE para trabajar en el Backend, utilizamos IntelliJ Idea, el cual es el entorno de desarrollo con el que ya estamos familiarizados para el desarrollo de Web APIs, utilizando el framework de Spring Boot.
-
+Como IDE para trabajar en el Backend, utilizamos IntelliJ Idea, el cual es el entorno de desarrollo con el que ya estamos familiarizados para el desarrollo de Web APIs, utilizando el framework de Spring Boot. En este entorno, hemos implementado OOP para manejar la evolución del software de manera eficiente y garantizar la compatibilidad del sistema a lo largo del tiempo. Específicamente, la utilización de patrones como Observer o Command ha mejorado la estructura del código y la manera en que interactúan los diferentes componentes del backend. Esto ha permitido adaptar las API de manera más fluida, a la vez que mantenemos la flexibilidad y escalabilidad del sistema.
 
 **Software Testing:**
 
-Las pruebas de aceptación son importantes a realizar para comprobar que los criterios de aceptación planteados están favoreciendo a las necesidades del negocio y cumplir con los requerimientos, para lo cual utilizamos el lenguaje Gherkin. Este consiste en trabajar el escenario con Given When Then, y lograr identificar las variables de input y output, lo cual es sencillo de entender para todos ya que utiliza lenguaje natural. Gracias a este, es que se logra garantizar la calidad del software, por ello cumple un papel esencial en los proyectos de desarrollo.
+Las pruebas de aceptación son esenciales para comprobar que los criterios de aceptación planteados favorecen las necesidades del negocio y cumplen con los requisitos. Para ello, utilizamos el lenguaje Gherkin, el cual emplea el formato Given When Then, haciendo que el proceso de prueba sea fácil de entender y ejecutar. Este enfoque facilita la detección temprana de problemas de compatibilidad, un aspecto clave señalado por Mahmud et al. (2024), quienes identificaron que la corrección de problemas de compatibilidad en la API Android generalmente toma un promedio de tres meses y medio. El uso de pruebas claras y comprensibles también ayuda a garantizar que cualquier cambio o actualización en la API no interfiera con la funcionalidad de la aplicación, lo cual es esencial para la calidad del software.
 
 ### 4.1.2. Source Code Management
 
@@ -5513,16 +5529,12 @@ En esta sección, se definen los términos utilizados a lo largo del proyecto pa
 
 # Bibliografía
 
-Ames, A. (2022) EVIDENCIA para una Nueva Gestión Pública. Escuela de Gestión Pública de la Universidad del Pacífico. https://www.up.edu.pe/egp/programas-especializacion_copy(1)/SiteAssets/Lists/Observatorio/AllItems/Informe%20de%20Evidencia%20sector%20Agropecuario%20-%20EGP.pdf
+Caramanica, A. (2024). Prehispanic Arid Zone Farming: Hybrid Flood and Irrigation Systems along the North Coast of Peru. Agronomy, 14(3), 407. https://doi.org/10.3390/agronomy14030407
 
-Ardito, L., Coppola, R., Malnati G. & Torchiano M. (2020) Effectiveness of Kotlin vs. Java in android app development tasks. Politecnico di Torino. https://doi.org/10.1016/j.infsof.2020.106374
-
-Carhuavilca, D., Sánchez, A., Montoya, L., Cueto, M. & Baldeón, M. (2021) Informe Técnico - Producción Nacional. INEI. https://www.inei.gob.pe/media/MenuRecursivo/boletines/10-informe-tecnico-produccion-nacional-ago-2021.pdf
-
-Mendes, J., Pinho, T. M., Santos, F. N. D., Sousa, J. J., Peres, E., Boaventura-Cunha, J., Cunha, M., & Morais, R. (2020). Smartphone Applications Targeting Precision Agriculture Practices—A Systematic Review. Agronomy, 10(6), 855. https://doi.org/10.3390/agronomy10060855
-
-Problemas Tipo de la Agricultura Peruana (s.f.) Ministerio de Desarrollo Agrario y Riego. https://www.midagri.gob.pe/portal/22-sector-agrario/vision-general/190-problemas-en-la-agricultura-peruana
+Ames, A. (2022). EVIDENCIA para una Nueva Gestión Pública. Escuela de Gestión Pública de la Universidad del Pacífico. https://www.up.edu.pe/egp/programas-especializacion_copy(1)/SiteAssets/Lists/Observatorio/AllItems/Informe%20de%20Evidencia%20sector%20Agropecuario%20-%20EGP.pdf
 
 Soodan, V., Jamwal, M., Rana, N. P., Sharma, D., & Chakraborty, S. (2023). Modelling the adoption of agro-advisory mobile applications: a theoretical extension and analysis using result demonstrability, trust, self-efficacy and mobile usage proficiency. Journal Of Agribusiness In Developing And Emerging Economies, 14(4), 749-768. https://doi.org/10.1108/jadee-05-2022-0087
 
 Zhou, L., Liu, B., Liu, Z., & Zhao, J. (2024). Farmers as prosumers: Evidence from cadmium‐contaminated rice in China. American Journal Of Agricultural Economics. https://doi.org/10.1111/ajae.12497
+
+Mahmud, T., Che, M., & Yang, G. (2024). An empirical study on compatibility issues in Android API field evolution. Information and Software Technology, 175, 107530. https://doi.org/10.1016/j.infsof.2024.107530
