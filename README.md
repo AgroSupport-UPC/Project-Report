@@ -404,6 +404,7 @@
         <p><strong>TP:</strong> Se actualizaron conceptos y conocimientos de la programación en Kotlin a lo largo de todas las sesiones de clase y los ejercicios de práctica que se fueron realizando. De esta forma, para el desarrollo del trabajo logré desarrollar mi parte asignada de la aplicación móvil sin mucha dificultad.</p>
         <p><strong>TB3:</strong> Se implementaron nuevas funcionalidades en el Frontend para la vista de granjero. Para ello, se actualizaron algunos conocimientos para poder consumir endpoints de forma correcta con variables a través de los Queries de Retrofit.</p>
         <p><strong>TB4:</strong> Se ha enfocado en seguir mejorando y actualizando conocimientos necesarios, en este caso, respecto al diseño de nuestra aplicación para una mejor visualización y comprensión de la interfaz para los usuarios. Así, realizamos las entrevistas de validación para obtener una retroalimentación útil para seguir mejorando y entregar la mejor experiencia de usuario.</p>
+        <p><strong>TF:</strong> Se realizó una última investigación a partir de fuentes especializadas para obtener conocimientos necesarios tanto sobre la problemática planteada así como del desarrollo de la aplicación. Así, las aplicamos para tener un buen manejo de información y poder presentar el proyecto de la mejor forma en su versión final.</p>
       </td>
       <td>
         <p><strong>TB1: </strong></p>
@@ -451,6 +452,7 @@
         <p><strong>TP:</strong> Luego de haber estado practicando con ejercicios de programación en Kotlin, ha demostrado que es importante siempre estar practicando y aprendiendo de forma constante. De esta manera, el desarrollo de aplicaciones más complejas no será mucho problema al tener esta capacidad desarrollada.</p>
         <p><strong>TB3:</strong> Fue necesario la práctica constante en Kotlin para trabajar de forma correcta en el Frontend de la aplicación. Así, se utilizó la gestión de memoria para trabajar de forma correcta el inicio de sesión y el uso del Token personal que es esencial para el Backend.</p>
         <p><strong>TB4:</strong> A pesar de que ya lo habíamos visto anteriormente, igualmente se hizo un repaso al estudio de las heurísticas que existen para la interfaz de usuario. Esto es de mucha utilidad ya que nosotros como desarrolladores siempre debemos seguir aprendiendo para hacer un buen trabajo durante el desarrollo de cualquier proyecto.</p>
+        <p><strong>TF:</strong> Finalmente, se hizo un análisis completo de todo el proyecto sobre lo trabajado desde un inicio hasta las últimas mejoras dentro de la app. De esta forma, se analizó en qué partes se pudo haber trabajado diferente para seguir aprendiendo nuevas formas de poder llevar a cabo el desarrollo de una aplicación en Kotlin.</p>
       </td>
       <td>
         <p><strong>TB1: </strong></p>
